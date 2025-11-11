@@ -1,0 +1,201 @@
+ffmpeg  -i  "a.mp4"  -vf  crop=2080:890:0:0    "a_cropped.mp4"     #耶和华见证人
+ffmpeg  -i  "a.mp4"  -vf  crop=1970:885:127:47    "a_cropped.mp4"  #NIV_1 Without title&side
+ffmpeg  -i  "a.mp4"  -vf  crop=1770:705:320:168    "a_cropped.mp4" #NIV_2 with title&side
+# -ss 指定从什么时间开始,-t 指定需要截取多长时间,-i 指定输入文件
+ffmpeg -ss 00:09:50.030 -t 00:12:04.050 -i ./inputVideo.mp4 -vcodec copy -acodec copy ./outputVideo.mp4
+
+
+13.1: Mov转mp4
+
+ffmpeg -i source.mov -vcodec copy -acodec copy temp.mp4
+
+13.2: mp4 resize
+
+把图片按照指定的宽高比压缩输出(大于100%就会放大图片): convert -sample 30%x30%  1.PNG target.png
+    降低帧率:  ffmpeg -i temp.mp4 -r 20 des.mp4
+ 
+    查看视频文件画面分辨率: ffprobe mama.mp4
+   
+    设置分辨率: 
+    ffmpeg -i mama.mp4 -strict -2 -s 640x360 output_640x360.mp4   缺点:如果分辨率的比例跟原视频的比例不一样，会导致视屏变形
+    ffmpeg -i mama.mp4 -vf scale=iw/2:-1 video_output.mp4            iw:输入帧宽的二分之一,-1告诉scale filter保持纵横比，所以scale filter根据比列计算出宽高.
+    ffmpeg -i mama.mp4 -vf scale=iw*0.8:-1 video_output.mp4        iw:输入帧宽的80%,-1告诉scale filter保持纵横比，所以scale filter根据比列计算出宽高.
+ 
+ 
+13.3: 音频时段剪切
+
+把aa.mp3中的1分12秒到1分42秒的地方切出来，然后存成bb.mp3，指令如下
+# -ss 指定从什么时间开始 # -t 指定需要截取多长时间
+ffmpeg -i aa.mp3 -ss 00:01:12 -t 00:01:42 -acodec copy bb.mp3
+
+
+13.4: 视频时段剪切
+
+# -ss 指定从什么时间开始
+# -t 指定需要截取多长时间
+# -i 指定输入文件
+ffmpeg -ss 00:09:50.030 -t 00:12:04.050 -i /sdcard/DCIM/Camera_/inputVideo.mp4 -vcodec copy -acodec copy /sdcard/DCIM/Camera_/outputVideo.mp4
+
+
+
+
+13.5: 烧字幕
+
+将字幕文件烧进视频流中，就像水印一样
+ ffmpeg -i input.mp4 -vf subtitles=test.srt output.mp4
+ 
+以下是字幕文件中的文本内容 test.srt:
+ 
+1
+00:00:00.000 --> 00:00:10.000
+妈妈,我爱你!   
+ 
+2
+00:00:11.000 --> 00:00:20.000
+爸爸,我爱你!
+
+
+13.6:提取m4a格式音频
+
+ffmpeg -i mama.mp4 -vn -codec copy mama.m4a
+
+
+
+13.7:转换声音格式
+
+ 
+6.1.转MP3为wav:         ffmpeg -i input.mp3 -acodec pcm_s16le -ac 2 -ar 44100 output.wav
+ 
+6.2.转m4a为wav:         ffmpeg -i input.m4a -acodec pcm_s16le -ac 2 -ar 44100 output.wav
+ 
+6.3.转wav为PCM:         ffmpeg -i input.wav -f s16le -ar 44100 -acodec pcm_s16le output.raw
+ 
+6.4.PCM转wav:           ffmpeg -f s16le -ar 44100 -ac 2 -acodec pcm_s16le -i input.raw output.wav
+ 
+ 
+13.8: 去掉视频文件的声音
+ 
+  ffmpeg -i hi.mp4 -c:v copy -an nosound.mp4
+ 
+ 
+13.9: 合并音频和视频，保留视频原声
+
+ffmpeg -i songs.mp3 -i hi.mp4  -t 7.1 -y output.mp4     -t后面跟时长(即新生成的mp4视频文件内容的长度为7.1秒,此时需要将mp3文件放在前面，MP4文件放在后面）否则会没有背景音乐
+
+
+
+13.10: 多个 mpx文件合并
+
+两个文件合并  ffmpeg -i %1 -i %2 -filter_complex "[0:v][0:a][1:v][1:a] concat=n=2:v=1:a=1 [outv] [outa]" -map "[outv]" -map "[outa]" %3
+
+三个文件合并  ffmpeg -i %1 -i %2 -i %3 -filter_complex "[0:v] [0:a] [1:v] [1:a] [2:v] [2:a] concat=n=3:v=1:a=1 [vv] [aa]" -map "[vv]" -map "[aa]" %4
+ 三个mp3/wav文件合并 ffmpeg -i file1.wav -i file2.wav -i file3.wav -ab 256k -filter_complex [0:0]concat=n=3:v=0:a=1[out] -map [out] output.wav
+
+ 两个mp3/wav文件合并 ffmpeg -i file1.wav -i file2.wav -ab 256k -filter_complex [0:0]concat=n=2:v=0:a=1[out] -map [out] output.wav     
+
+
+
+13.11: 画中画
+
+此时需要调整mp4文件的画面比列,即需要提前resize
+ffmpeg  -i  input1.mp4  -i  input2.mp4  -filter_complex  overlay=x:y  output.mp4
+
+
+13.12: 添加图片水印
+
+Ref: https://www.jianshu.com/p/c0e151775075
+    -filter_complex: 相比-vf, filter_complex适合开发复杂的滤镜功能，如同时对视频进行裁剪并旋转。参数之间使用逗号（，）隔开即可 main_w:视频宽度,overlay_w: 要添加的图片水印宽度,main_h : 视频高度 ,overlay_h:要添加的图片水印宽度
+     A: 在视频右下角的添加图片水印
+    ffmpeg -i output.mp4 -i uparrow.png -filter_complex 'overlay=main_w-overlay_w-10:main_h-overlay_h-10' output.mp4
+
+     B: 在视频左下角添加图片水印
+    ffmpeg -i output.mp4 -i 1uparrow.png -filter_complex 'overlay=x=10:y=main_h-overlay_h-10' outputleft.mp4
+
+    C: 在视频左上角添加一条白色字体的文字水印
+    fontfile:字体类型 ,text:要添加的文字内容 ,fontsize:字体大小, fontcolor ：字体颜色
+    ffmpeg -i output.mp4 -vf "drawtext=fontfile=simhei.ttf: text=‘技术是第一生产力’:x=10:y=10:fontsize=58:fontcolor=red:shadowy=2" output_with_text.mp4
+
+    D: 在视频中添加图片广告(如果图片文件尺寸和视频画面一样最好)
+    ffmpeg -i outputleft.mp4 -loop 1 -t 4 -i 1.png -filter_complex "[1:v]format=rgba,fade=in:st=1:d=2:alpha=1[ovr]; [0][ovr] overlay" -codec:a copy out_x.mp4
+
+    E: 在视频中添加gif动态水印
+       loop=0,setpts=N/FRAME_RATE/TB ：设置水印gif无限循环, -shortest ：将输出文件的时长设置为第一个视频文件的时长，如果不设置，你会发现命令会一直执行根本不会停下来，因为gif图的循环是无限的
+       ffmpeg -hide_banner -i temp.mp4 -vf "movie=x.gif:loop=0,setpts=N/FRAME_RATE/TB[out];[0:v][out]overlay=x=main_w-overlay_w:y=0" -shortest out.mp4 -y
+
+    F: gif 延迟水印
+   REF:  https://www.cnblogs.com/daner1257/p/14442777.html  
+   ffmpeg -hide_banner -i big_buck_bunny.mp4 -itsoffset 3 -i doggie3.gif -filter_complex "overlay=x=0:y=0:eof_action=pass" out.mp4 -y
+    这样，视频播放3秒后，水印才会出现。
+
+    G: 图片水印的时间相关性显示设置
+        设置水印显示时长
+        ffmpeg -hide_banner -i big_buck_bunny.mp4 -i doggie2.png -filter_complex "overlay=enable='lte(t,5)'" out.mp4 -y
+       上面命令作用是：让水印只显示5秒，5秒后消失。
+
+       设置水印显示时间段
+        ffmpeg -hide_banner -i big_buck_bunny.mp4 -i doggie2.png -filter_complex "overlay=enable='between(t,5,10)'" out.mp4 -y
+        上面的命令作用是：让水印在视频的5~10秒时间段内显示
+
+    K: 图片水印的位置变化
+              设置水印随时间向右移动
+         ffmpeg -i big_buck_bunny.mp4 -ignore_loop 0 -i doggie3.gif -lavfi "overlay=x=t*20" -shortest out.mp4 -y
+        上面命令的作用是：让水印每秒向右移动20像素，直到消失。
+
+         设置水印每隔10秒钟从左移动右直至消失
+          ffmpeg -i big_buck_bunny.mp4 -ignore_loop 0 -i doggie3.gif -lavfi "overlay=enable='mod(t,10)':x='100*mod(t,10)-w'" -shortest out.mp4 -y
+
+
+
+
+13.13: ffmpeg截取视频的特定区域
+
+ffmpeg.exe  -i  "原视频.mp4"  -vf  crop=610:1080:655:0    "原视频_cropped.mp4"
+crop=width:height:x:y，其中 width 和 height 表示裁剪后的尺寸，x:y 表示裁剪区域的左上角坐标
+
+
+
+13.14:处理当前文件夹下所有视频
+
+@echo off
+setlocal enabledelayedexpansion
+set /a a=0
+for %%i in (*.mp4) do ( 
+	set /a a+=1
+	ffmpeg -i  %%i -r 22 -filter_complex "[0:v]setpts=0.667*PTS[v];[0:a]atempo=1.5[a]" -map "[v]" -map "[a]" 1.mp4
+	ffmpeg -i 1.mp4 -vf "drawtext=fontfile=simhei.ttf: text=@西文小哥:x=1750:y=30:fontsize=58:fontcolor=red:shadowy=2"  2.mp4
+	ffmpeg -i 2.mp4 -vf "drawtext=fontfile=simhei.ttf: text=www.xiwenxiaoge.com:x=1600:y=110:fontsize=58:fontcolor=red:shadowy=2"  3.mp4
+	ffmpeg -i 3.mp4 -vf "drawtext=fontfile=simhei.ttf: text=西方古代文學.舊約.創世紀.第!a!集:x=1300:y=850:fontsize=58:fontcolor=red:shadowy=2"  .\\a_fast\\%%i
+	del   /q /f  1.mp4
+	del   /q /f  2.mp4	
+	del   /q /f  3.mp4 
+)
+pause
+
+
+
+13.15:m4a转mp3
+
+ffmpeg -i filenameee.m4a -acodec libmp3lame -ab 256k output.mp3
+
+
+13.16: 调整视频播放速度
+
+加速2倍:ffmpeg -i input.mp4 -filter_complex "[0:v]setpts=0.5*PTS[v];[0:a]atempo=2.0[a]" -map "[v]" -map "[a]" output.mp4
+ 
+ 
+ 
+13.17:动态水印
+Note: https://18ma.cn/post/115.html
+
+漂移水印,漂移水印会在視窗内连续轨迹移动。实现利用的是随帧数变化赋值不同的x轴，y轴坐标。需要用到变化的量，这里使用随时间变量t。
+ ffmpeg -i main.mp4 -i overlay.png -filter_complex "overlay=x='abs(main_w-main_w*mod(t/4,2))':y='abs(main_h*mod(t/8,1))'" output.mp4
+
+
+
+跳跃水印,跳跃水印的移动轨迹是不连续的，间隔一段时间会出现在視窗的某个位置。实现上可以把变量t往上取整。这样水印在t是整数时才会变化。 
+ffmpeg -i main.mp4 -i overlay.png -filter_complex "overlay=x='mod(main_h/0.8*ceil(t),main_w)':y='mod(main_w/3*ceil(t/2),main_h)'" output.mp4
+
+
+
+旋转水印,动态的旋转水印和静态旋转水印都是使用rotate过滤器，不同的是动态需要指定旋转循环以及输出时机。
+ ffmpeg -i main.mp4 -loop 1 -i overlay.png -filter_complex [1:v]rotate=a='t*PI':ow='rotw(PI/4)':oh='roth(PI/4)':fillcolor='none'[out],[0:v][out]overlay=x=100:y=100:shortest=1  output.mp4
