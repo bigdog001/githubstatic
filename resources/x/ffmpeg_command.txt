@@ -4,6 +4,18 @@ ffmpeg  -i  "a.mp4"  -vf  crop=1770:705:320:168    "a_cropped.mp4" #NIV_2 with t
 find *.mp4 -exec ls -alh {} \;
 find *.mp4 -exec ffmpeg -i {} -vf crop=1770:705:320:168 ./x/{} \;
 
+
+
+for file in *.mp4; do
+  if [ -f "$file" ]; then
+    echo "$file"
+    ffmpeg  -i  "$file"  -vf  crop=1770:705:320:168    "croped.$file" 
+  fi
+done
+
+
+
+
 # -ss 指定从什么时间开始,-t 指定需要截取多长时间,-i 指定输入文件
 ffmpeg -ss 00:09:50.030 -t 00:12:04.050 -i ./inputVideo.mp4 -vcodec copy -acodec copy ./outputVideo.mp4
 
