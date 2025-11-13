@@ -1,6 +1,9 @@
 ffmpeg  -i  "a.mp4"  -vf  crop=2080:890:0:0    "a_cropped.mp4"     #耶和华见证人
 ffmpeg  -i  "a.mp4"  -vf  crop=1970:885:127:47    "a_cropped.mp4"  #NIV_1 Without title&side
 ffmpeg  -i  "a.mp4"  -vf  crop=1770:705:320:168    "a_cropped.mp4" #NIV_2 with title&side
+find *.mp4 -exec ls -alh {} \;
+find *.mp4 -exec ffmpeg -i {} -vf crop=1770:705:320:168 ./x/{} \;
+
 # -ss 指定从什么时间开始,-t 指定需要截取多长时间,-i 指定输入文件
 ffmpeg -ss 00:09:50.030 -t 00:12:04.050 -i ./inputVideo.mp4 -vcodec copy -acodec copy ./outputVideo.mp4
 
