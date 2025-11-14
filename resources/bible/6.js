@@ -516,7 +516,6 @@ const sutra_en_6_19 = `1 The second lot came out for the tribe of Simeon accordi
 46 Me Jarkon and Rakkon, with the area facing Joppa.
 47 (When the territory of the Danites was lost to them, they went up and attacked Leshem, took it, put it to the sword and occupied it. They settled in Leshem and named it Dan after their ancestor.)
 48 These towns and their villages were the inheritance of the tribe of Dan, according to its clans.
-Allotment for Joshua
 49 When they had finished dividing the land into its allotted portions, the Israelites gave Joshua son of Nun an inheritance among them,
 50 as the LORD had commanded. They gave him the town he asked for—Timnath Serah in the hill country of Ephraim. And he built up the town and settled there.
 51 These are the territories that Eleazar the priest, Joshua son of Nun and the heads of the tribal clans of Israel assigned by lot at Shiloh in the presence of the LORD at the entrance to the tent of meeting. And so they finished dividing the land. `;
