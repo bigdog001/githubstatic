@@ -67,7 +67,6 @@ const sutra_en_5_2 = `1 Then we turned back and set out toward the wilderness al
 21 They were a people strong and numerous, and as tall as the Anakites. The LORD destroyed them from before the Ammonites, who drove them out and settled in their place.
 22 The LORD had done the same for the descendants of Esau, who lived in Seir, when he destroyed the Horites from before them. They drove them out and have lived in their place to this day.
 23 And as for the Avvites who lived in villages as far as Gaza, the Caphtorites coming out from Caphtor destroyed them and settled in their place.)
-Defeat of Sihon King of Heshbon
 24 “Set out now and cross the Arnon Gorge. See, I have given into your hand Sihon the Amorite, king of Heshbon, and his country. Begin to take possession of it and engage him in battle.
 25 This very day I will begin to put the terror and fear of you on all the nations under heaven. They will hear reports of you and will tremble and be in anguish because of you.”
 26 From the Desert of Kedemoth I sent messengers to Sihon king of Heshbon offering peace and saying,
