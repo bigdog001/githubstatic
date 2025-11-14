@@ -939,9 +939,7 @@ const sutra_en_2_32 = `1 When the people saw that Moses was so long in coming do
 33 The LORD replied to Moses, “Whoever has sinned against me I will blot out of my book.
 34 Now go, lead the people to the place I spoke of, and my angel will go before you. However, when the time comes for me to punish, I will punish them for their sin.”
 35 And the LORD struck the people with a plague because of what they did with the calf Aaron had made. `;
-const sutra_en_2_33 = `
-  
-1 Then the LORD said to Moses, “Leave this place, you and the people you brought up out of Egypt, and go up to the land I promised on oath to Abraham, Isaac and Jacob, saying, ‘I will give it to your descendants.’
+const sutra_en_2_33 = `1 Then the LORD said to Moses, “Leave this place, you and the people you brought up out of Egypt, and go up to the land I promised on oath to Abraham, Isaac and Jacob, saying, ‘I will give it to your descendants.’
 2 I will send an angel before you and drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites and Jebusites.
 3 Go up to the land flowing with milk and honey. But I will not go with you, because you are a stiff-necked people and I might destroy you on the way.”
 4 When the people heard these distressing words, they began to mourn and no one put on any ornaments.
