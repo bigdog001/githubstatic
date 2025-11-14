@@ -1416,8 +1416,8 @@ const sutra_en_1_46 = `1 So Israel set out with all that was his, and when he re
 29 Joseph had his chariot made ready and went to Goshen to meet his father Israel. As soon as Joseph appeared before him, he threw his arms around his father and wept for a long time.
 30 Israel said to Joseph, “Now I am ready to die, since I have seen for myself that you are still alive.”
 31 Then Joseph said to his brothers and to his father’s household, “I will go up and speak to Pharaoh and will say to him, ‘My brothers and my father’s household, who were living in the land of Canaan, have come to me.
-32 The men are shepherds; they tend livestock, and they have brought along their flocks and herds and everything they own.’
-33 When Pharaoh calls you in and asks, ‘What is your occupation?’
+32 The men are shepherds; they tend livestock, and they have brought along their flocks and herds and everything they own.
+33 When Pharaoh calls you in and asks, What is your occupation?
 34 you should answer, ‘Your servants have tended livestock from our boyhood on, just as our fathers did.’ Then you will be allowed to settle in the region of Goshen, for all shepherds are detestable to the Egyptians.” `;
 const sutra_en_1_47 = `1 Joseph went and told Pharaoh, “My father and brothers, with their flocks and herds and everything they own, have come from the land of Canaan and are now in Goshen.”
 2 He chose five of his brothers and presented them before Pharaoh.
