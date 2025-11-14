@@ -1431,7 +1431,6 @@ const sutra_en_1_47 = `1 Joseph went and told Pharaoh, “My father and brothers
 10 Then Jacob blessed Pharaoh and went out from his presence.
 11 So Joseph settled his father and his brothers in Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh directed.
 12 Joseph also provided his father and his brothers and all his father’s household with food, according to the number of their children.
-Joseph and the Famine
 13 There was no food, however, in the whole region because the famine was severe; both Egypt and Canaan wasted away because of the famine.
 14 Joseph collected all the money that was to be found in Egypt and Canaan in payment for the grain they were buying, and he brought it to Pharaoh’s palace.
 15 When the money of the people of Egypt and Canaan was gone, all Egypt came to Joseph and said, “Give us food. Why should we die before your eyes? Our money is all gone.”
