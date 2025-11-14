@@ -32,7 +32,6 @@ const sutra_en_10_2 = `1 In the course of time, David inquired of the LORD. “S
 5 he sent messengers to them to say to them, “The LORD bless you for showing this kindness to Saul your master by burying him.
 6 May the LORD now show you kindness and faithfulness, and I too will show you the same favor because you have done this.
 7 Now then, be strong and brave, for Saul your master is dead, and the people of Judah have anointed me king over them.”
-War Between the Houses of David and Saul
 8 Meanwhile, Abner son of Ner, the commander of Saul’s army, had taken Ish-Bosheth son of Saul and brought him over to Mahanaim.
 9 He made him king over Gilead, Ashuri and Jezreel, and also over Ephraim, Benjamin and all Israel.
 10 Ish-Bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. The tribe of Judah, however, remained loyal to David.
