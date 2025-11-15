@@ -1,168 +1,107 @@
-const sutra_en_33_1 = ` `;
-const sutra_en_33_2 = ` `;
-const sutra_en_33_3 = ` `;
-const sutra_en_33_4 = ` `;
-const sutra_en_33_5 = ` `;
-const sutra_en_33_6 = ` `;
-const sutra_en_33_7 = ` `;
-const sutra_en_33_8 = ` `;
-const sutra_en_33_9 = ` `;
-const sutra_en_33_10 = ` `;
-const sutra_en_33_11 = ` `;
-const sutra_en_33_12 = ` `;
-const sutra_en_33_13 = ` `;
-const sutra_en_33_14 = ` `;
-const sutra_en_33_15 = ` `;
-const sutra_en_33_16 = ` `;
-const sutra_en_33_17 = ` `;
-const sutra_en_33_18 = ` `;
-const sutra_en_33_19 = ` `;
-const sutra_en_33_20 = ` `;
-const sutra_en_33_21 = ` `;
-const sutra_en_33_22 = ` `;
-const sutra_en_33_23 = ` `;
-const sutra_en_33_24 = ` `;
-const sutra_en_33_25 = ` `;
-const sutra_en_33_26 = ` `;
-const sutra_en_33_27 = ` `;
-const sutra_en_33_28 = ` `;
-const sutra_en_33_29 = ` `;
-const sutra_en_33_30 = ` `;
-const sutra_en_33_31 = ` `;
-const sutra_en_33_32 = ` `;
-const sutra_en_33_33 = ` `;
-const sutra_en_33_34 = ` `;
-const sutra_en_33_35 = ` `;
-const sutra_en_33_36 = ` `;
-const sutra_en_33_37 = ` `;
-const sutra_en_33_38 = ` `;
-const sutra_en_33_39 = ` `;
-const sutra_en_33_40 = ` `;
-const sutra_en_33_41 = ` `;
-const sutra_en_33_42 = ` `;
-const sutra_en_33_43 = ` `;
-const sutra_en_33_44 = ` `;
-const sutra_en_33_45 = ` `;
-const sutra_en_33_46 = ` `;
-const sutra_en_33_47 = ` `;
-const sutra_en_33_48 = ` `;
-const sutra_en_33_49 = ` `;
-const sutra_en_33_50 = ` `;
-const sutra_en_33_51 = ` `;
-const sutra_en_33_52 = ` `;
-const sutra_en_33_53 = ` `;
-const sutra_en_33_54 = ` `;
-const sutra_en_33_55 = ` `;
-const sutra_en_33_56 = ` `;
-const sutra_en_33_57 = ` `;
-const sutra_en_33_58 = ` `;
-const sutra_en_33_59 = ` `;
-const sutra_en_33_60 = ` `;
-const sutra_en_33_61 = ` `;
-const sutra_en_33_62 = ` `;
-const sutra_en_33_63 = ` `;
-const sutra_en_33_64 = ` `;
-const sutra_en_33_65 = ` `;
-const sutra_en_33_66 = ` `;
-const sutra_en_33_67 = ` `;
-const sutra_en_33_68 = ` `;
-const sutra_en_33_69 = ` `;
-const sutra_en_33_70 = ` `;
-const sutra_en_33_71 = ` `;
-const sutra_en_33_72 = ` `;
-const sutra_en_33_73 = ` `;
-const sutra_en_33_74 = ` `;
-const sutra_en_33_75 = ` `;
-const sutra_en_33_76 = ` `;
-const sutra_en_33_77 = ` `;
-const sutra_en_33_78 = ` `;
-const sutra_en_33_79 = ` `;
-const sutra_en_33_80 = ` `;
-const sutra_en_33_81 = ` `;
-const sutra_en_33_82 = ` `;
-const sutra_en_33_83 = ` `;
-const sutra_en_33_84 = ` `;
-const sutra_en_33_85 = ` `;
-const sutra_en_33_86 = ` `;
-const sutra_en_33_87 = ` `;
-const sutra_en_33_88 = ` `;
-const sutra_en_33_89 = ` `;
-const sutra_en_33_90 = ` `;
-const sutra_en_33_91 = ` `;
-const sutra_en_33_92 = ` `;
-const sutra_en_33_93 = ` `;
-const sutra_en_33_94 = ` `;
-const sutra_en_33_95 = ` `;
-const sutra_en_33_96 = ` `;
-const sutra_en_33_97 = ` `;
-const sutra_en_33_98 = ` `;
-const sutra_en_33_99 = ` `;
-const sutra_en_33_100 = ` `;
-const sutra_en_33_101 = ` `;
-const sutra_en_33_102 = ` `;
-const sutra_en_33_103 = ` `;
-const sutra_en_33_104 = ` `;
-const sutra_en_33_105 = ` `;
-const sutra_en_33_106 = ` `;
-const sutra_en_33_107 = ` `;
-const sutra_en_33_108 = ` `;
-const sutra_en_33_109 = ` `;
-const sutra_en_33_110 = ` `;
-const sutra_en_33_111 = ` `;
-const sutra_en_33_112 = ` `;
-const sutra_en_33_113 = ` `;
-const sutra_en_33_114 = ` `;
-const sutra_en_33_115 = ` `;
-const sutra_en_33_116 = ` `;
-const sutra_en_33_117 = ` `;
-const sutra_en_33_118 = ` `;
-const sutra_en_33_119 = ` `;
-const sutra_en_33_120 = ` `;
-const sutra_en_33_121 = ` `;
-const sutra_en_33_122 = ` `;
-const sutra_en_33_123 = ` `;
-const sutra_en_33_124 = ` `;
-const sutra_en_33_125 = ` `;
-const sutra_en_33_126 = ` `;
-const sutra_en_33_127 = ` `;
-const sutra_en_33_128 = ` `;
-const sutra_en_33_129 = ` `;
-const sutra_en_33_130 = ` `;
-const sutra_en_33_131 = ` `;
-const sutra_en_33_132 = ` `;
-const sutra_en_33_133 = ` `;
-const sutra_en_33_134 = ` `;
-const sutra_en_33_135 = ` `;
-const sutra_en_33_136 = ` `;
-const sutra_en_33_137 = ` `;
-const sutra_en_33_138 = ` `;
-const sutra_en_33_139 = ` `;
-const sutra_en_33_140 = ` `;
-const sutra_en_33_141 = ` `;
-const sutra_en_33_142 = ` `;
-const sutra_en_33_143 = ` `;
-const sutra_en_33_144 = ` `;
-const sutra_en_33_145 = ` `;
-const sutra_en_33_146 = ` `;
-const sutra_en_33_147 = ` `;
-const sutra_en_33_148 = ` `;
-const sutra_en_33_149 = ` `;
-const sutra_en_33_150 = ` `;
+const sutra_en_33_1 = `1 The word of the LORD that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.
+2 Hear, you peoples, all of you, listen, earth and all who live in it, that the Sovereign LORD may bear witness against you, the Lord from his holy temple.
+3 Look! The LORD is coming from his dwelling place; he comes down and treads on the heights of the earth.
+4 The mountains melt beneath him and the valleys split apart, like wax before the fire, like water rushing down a slope.
+5 All this is because of Jacob’s transgression, because of the sins of the people of Israel. What is Jacob’s transgression? Is it not Samaria? What is Judah’s high place? Is it not Jerusalem?
+6 “Therefore I will make Samaria a heap of rubble, a place for planting vineyards. I will pour her stones into the valley and lay bare her foundations.
+7 All her idols will be broken to pieces; all her temple gifts will be burned with fire; I will destroy all her images. Since she gathered her gifts from the wages of prostitutes, as the wages of prostitutes they will again be used.”
+8 Because of this I will weep and wail; I will go about barefoot and naked. I will howl like a jackal and moan like an owl.
+9 For Samaria’s plague is incurable; it has spread to Judah. It has reached the very gate of my people, even to Jerusalem itself.
+10 Tell it not in Gath ; weep not at all. In Beth Ophrahroll in the dust.
+11 Pass by naked and in shame, you who live in Shaphir.Those who live in Zaananwill not come out. Beth Ezel is in mourning; it no longer protects you.
+12 Those who live in Maroth writhe in pain, waiting for relief, because disaster has come from the LORD, even to the gate of Jerusalem.
+13 You who live in Lachish, harness fast horses to the chariot. You are where the sin of Daughter Zion began, for the transgressions of Israel were found in you.
+14 Therefore you will give parting gifts to Moresheth Gath. The town of Akzib will prove deceptive to the kings of Israel.
+15 I will bring a conqueror against you who live in Mareshah.The nobles of Israel will flee to Adullam.
+16 Shave your head in mourning for the children in whom you delight; make yourself as bald as the vulture, for they will go from you into exile. `;
+const sutra_en_33_2 = `1 Woe to those who plan iniquity, to those who plot evil on their beds! At morning’s light they carry it out because it is in their power to do it.
+2 They covet fields and seize them, and houses, and take them. They defraud people of their homes, they rob them of their inheritance.
+3 Therefore, the LORD says: “I am planning disaster against this people, from which you cannot save yourselves. You will no longer walk proudly, for it will be a time of calamity.
+4 In that day people will ridicule you; they will taunt you with this mournful song: ‘We are utterly ruined; my people’s possession is divided up. He takes it from me! He assigns our fields to traitors.’ ”
+5 Therefore you will have no one in the assembly of the LORDto divide the land by lot.
+6 “Do not prophesy,” their prophets say. “Do not prophesy about these things; disgrace will not overtake us.”
+7 You descendants of Jacob, should it be said, “Does the LORD become impatient? Does he do such things?” “Do not my words do good to the one whose ways are upright?
+8 Lately my people have risen up like an enemy. You strip off the rich robe from those who pass by without a care, like men returning from battle.
+9 You drive the women of my people from their pleasant homes. You take away my blessing from their children forever.
+10 Get up, go away! For this is not your resting place, because it is defiled, it is ruined, beyond all remedy.
+11 If a liar and deceiver comes and says, ‘I will prophesy for you plenty of wine and beer,’ that would be just the prophet for this people!
+12 “I will surely gather all of you, Jacob; I will surely bring together the remnant of Israel. I will bring them together like sheep in a pen, like a flock in its pasture; the place will throng with people.
+13 The One who breaks open the way will go up before them; they will break through the gate and go out. Their King will pass through before them, the LORD at their head.” `;
+const sutra_en_33_3 = `1 Then I said, “Listen, you leaders of Jacob, you rulers of Israel. Should you not embrace justice,
+2 you who hate good and love evil; who tear the skin from my people and the flesh from their bones;
+3 who eat my people’s flesh, strip off their skin and break their bones in pieces; who chop them up like meat for the pan, like flesh for the pot?”
+4 Then they will cry out to the LORD, but he will not answer them. At that time he will hide his face from them because of the evil they have done.
+5 This is what the LORD says: “As for the prophets who lead my people astray, they proclaim ‘peace’ if they have something to eat, but prepare to wage war against anyone who refuses to feed them.
+6 Therefore night will come over you, without visions, and darkness, without divination. The sun will set for the prophets, and the day will go dark for them.
+7 The seers will be ashamed and the diviners disgraced. They will all cover their faces because there is no answer from God.”
+8 But as for me, I am filled with power, with the Spirit of the LORD, and with justice and might, to declare to Jacob his transgression, to Israel his sin.
+9 Hear this, you leaders of Jacob, you rulers of Israel, who despise justice and distort all that is right;
+10 who build Zion with bloodshed, and Jerusalem with wickedness.
+11 Her leaders judge for a bribe, her priests teach for a price, and her prophets tell fortunes for money. Yet they look for the LORD’s support and say, “Is not the LORD among us? No disaster will come upon us.”
+12 Therefore because of you, Zion will be plowed like a field, Jerusalem will become a heap of rubble, the temple hill a mound overgrown with thickets. `;
+const sutra_en_33_4 = `1 In the last days the mountain of the LORD’s temple will be established as the highest of the mountains; it will be exalted above the hills, and peoples will stream to it.
+2 Many nations will come and say, “Come, let us go up to the mountain of the LORD, to the temple of the God of Jacob. He will teach us his ways, so that we may walk in his paths.” The law will go out from Zion, the word of the LORD from Jerusalem.
+3 He will judge between many peoples and will settle disputes for strong nations far and wide. They will beat their swords into plowshares and their spears into pruning hooks. Nation will not take up sword against nation, nor will they train for war anymore.
+4 Everyone will sit under their own vine and under their own fig tree, and no one will make them afraid, for the LORD Almighty has spoken.
+5 All the nations may walk in the name of their gods, but we will walk in the name of the LORDour God for ever and ever.
+6 “In that day,” declares the LORD, “I will gather the lame; I will assemble the exiles and those I have brought to grief.
+7 I will make the lame my remnant, those driven away a strong nation. The LORD will rule over them in Mount Zion from that day and forever.
+8 As for you, watchtower of the flock, stronghold of Daughter Zion, the former dominion will be restored to you; kingship will come to Daughter Jerusalem.”
+9 Why do you now cry aloud— have you no king ? Has your ruler perished, that pain seizes you like that of a woman in labor?
+10 Writhe in agony, Daughter Zion, like a woman in labor, for now you must leave the city to camp in the open field. You will go to Babylon; there you will be rescued. There the LORD will redeem you out of the hand of your enemies.
+11 But now many nations are gathered against you. They say, “Let her be defiled, let our eyes gloat over Zion!”
+12 But they do not know the thoughts of the LORD; they do not understand his plan, that he has gathered them like sheaves to the threshing floor.
+13 “Rise and thresh, Daughter Zion, for I will give you horns of iron; I will give you hooves of bronze, and you will break to pieces many nations.” You will devote their ill-gotten gains to the LORD, their wealth to the Lord of all the earth. `;
+const sutra_en_33_5 = `1 Marshal your troops now, city of troops, for a siege is laid against us. They will strike Israel’s ruler on the cheek with a rod.
+2 “But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.”
+3 Therefore Israel will be abandoned until the time when she who is in labor bears a son, and the rest of his brothers return to join the Israelites.
+4 He will stand and shepherd his flock in the strength of the LORD, in the majesty of the name of the LORD his God. And they will live securely, for then his greatness will reach to the ends of the earth.
+5 And he will be our peace when the Assyrians invade our land and march through our fortresses. We will raise against them seven shepherds, even eight commanders,
+6 who will rule the land of Assyria with the sword, the land of Nimrod with drawn sword.He will deliver us from the Assyrians when they invade our land and march across our borders.
+7 The remnant of Jacob will be in the midst of many peoples like dew from the LORD, like showers on the grass, which do not wait for anyone or depend on man.
+8 The remnant of Jacob will be among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among flocks of sheep, which mauls and mangles as it goes, and no one can rescue.
+9 Your hand will be lifted up in triumph over your enemies, and all your foes will be destroyed.
+10 “In that day,” declares the LORD, “I will destroy your horses from among you and demolish your chariots.
+11 I will destroy the cities of your land and tear down all your strongholds.
+12 I will destroy your witchcraft and you will no longer cast spells.
+13 I will destroy your idols and your sacred stones from among you; you will no longer bow down to the work of your hands.
+14 I will uproot from among you your Asherah poleswhen I demolish your cities.
+15 I will take vengeance in anger and wrath on the nations that have not obeyed me.” `;
+const sutra_en_33_6 = `1 Listen to what the LORD says: “Stand up, plead my case before the mountains; let the hills hear what you have to say.
+2 “Hear, you mountains, the LORD’s accusation; listen, you everlasting foundations of the earth. For the LORD has a case against his people; he is lodging a charge against Israel.
+3 “My people, what have I done to you? How have I burdened you? Answer me.
+4 I brought you up out of Egypt and redeemed you from the land of slavery. I sent Moses to lead you, also Aaron and Miriam.
+5 My people, remember what Balak king of Moab plotted and what Balaam son of Beor answered. Remember your journey from Shittim to Gilgal, that you may know the righteous acts of the LORD.”
+6 With what shall I come before the LORDand bow down before the exalted God? Shall I come before him with burnt offerings, with calves a year old?
+7 Will the LORD be pleased with thousands of rams, with ten thousand rivers of olive oil? Shall I offer my firstborn for my transgression, the fruit of my body for the sin of my soul?
+8 He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.
+9 Listen! The LORD is calling to the city— and to fear your name is wisdom— “Heed the rod and the One who appointed it.
+10 Am I still to forget your ill-gotten treasures, you wicked house, and the short ephah, which is accursed?
+11 Shall I acquit someone with dishonest scales, with a bag of false weights?
+12 Your rich people are violent; your inhabitants are liars and their tongues speak deceitfully.
+13 Therefore, I have begun to destroy you, to ruin you because of your sins.
+14 You will eat but not be satisfied; your stomach will still be empty.You will store up but save nothing, because what you save I will give to the sword.
+15 You will plant but not harvest; you will press olives but not use the oil, you will crush grapes but not drink the wine.
+16 You have observed the statutes of Omri and all the practices of Ahab’s house; you have followed their traditions. Therefore I will give you over to ruin and your people to derision; you will bear the scorn of the nations. ” `;
+const sutra_en_33_7 = `1 What misery is mine! I am like one who gathers summer fruit at the gleaning of the vineyard; there is no cluster of grapes to eat, none of the early figs that I crave.
+2 The faithful have been swept from the land; not one upright person remains. Everyone lies in wait to shed blood; they hunt each other with nets.
+3 Both hands are skilled in doing evil; the ruler demands gifts, the judge accepts bribes, the powerful dictate what they desire— they all conspire together.
+4 The best of them is like a brier, the most upright worse than a thorn hedge. The day God visits you has come, the day your watchmen sound the alarm. Now is the time of your confusion.
+5 Do not trust a neighbor; put no confidence in a friend. Even with the woman who lies in your embrace guard the words of your lips.
+6 For a son dishonors his father, a daughter rises up against her mother, a daughter-in-law against her mother-in-law— a man’s enemies are the members of his own household.
+7 But as for me, I watch in hope for the LORD, I wait for God my Savior; my God will hear me.
+8 Do not gloat over me, my enemy! Though I have fallen, I will rise. Though I sit in darkness, the LORD will be my light.
+9 Because I have sinned against him, I will bear the LORD’s wrath, until he pleads my case and upholds my cause. He will bring me out into the light; I will see his righteousness.
+10 Then my enemy will see it and will be covered with shame, she who said to me, “Where is the LORD your God?” My eyes will see her downfall; even now she will be trampled underfoot like mire in the streets.
+11 The day for building your walls will come, the day for extending your boundaries.
+12 In that day people will come to you from Assyria and the cities of Egypt, even from Egypt to the Euphrates and from sea to sea and from mountain to mountain.
+13 The earth will become desolate because of its inhabitants, as the result of their deeds.
+14 Shepherd your people with your staff, the flock of your inheritance, which lives by itself in a forest, in fertile pasturelands.Let them feed in Bashan and Gilead as in days long ago.
+15 “As in the days when you came out of Egypt, I will show them my wonders.”
+16 Nations will see and be ashamed, deprived of all their power. They will put their hands over their mouths and their ears will become deaf.
+17 They will lick dust like a snake, like creatures that crawl on the ground. They will come trembling out of their dens; they will turn in fear to the LORD our God and will be afraid of you.
+18 Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance? You do not stay angry forever but delight to show mercy.
+19 You will again have compassion on us; you will tread our sins underfoot and hurl all our iniquities into the depths of the sea.
+20 You will be faithful to Jacob, and show love to Abraham, as you pledged on oath to our ancestors in days long ago. `;
 
-
-const sutra_en_33 = [sutra_en_33_1,sutra_en_33_2,sutra_en_33_3,sutra_en_33_4,sutra_en_33_5,sutra_en_33_6,sutra_en_33_7,sutra_en_33_8,sutra_en_33_9,sutra_en_33_10,
-                sutra_en_33_11,sutra_en_33_12,sutra_en_33_13,sutra_en_33_14,sutra_en_33_15,sutra_en_33_16,sutra_en_33_17,sutra_en_33_18,sutra_en_33_19,sutra_en_33_20,
-                sutra_en_33_21,sutra_en_33_22,sutra_en_33_23,sutra_en_33_24,sutra_en_33_25,sutra_en_33_26,sutra_en_33_27,sutra_en_33_28,sutra_en_33_29,sutra_en_33_30,
-                sutra_en_33_31,sutra_en_33_32,sutra_en_33_33,sutra_en_33_34,sutra_en_33_35,sutra_en_33_36,sutra_en_33_37,sutra_en_33_38,sutra_en_33_39,sutra_en_33_40,
-                sutra_en_33_41,sutra_en_33_42,sutra_en_33_43,sutra_en_33_44,sutra_en_33_45,sutra_en_33_46,sutra_en_33_47,sutra_en_33_48,sutra_en_33_49,sutra_en_33_50,
-                sutra_en_33_51,sutra_en_33_52,sutra_en_33_53,sutra_en_33_54,sutra_en_33_55,sutra_en_33_56,sutra_en_33_57,sutra_en_33_58,sutra_en_33_59,sutra_en_33_60,
-                sutra_en_33_61,sutra_en_33_62,sutra_en_33_63,sutra_en_33_64,sutra_en_33_65,sutra_en_33_66,sutra_en_33_67,sutra_en_33_68,sutra_en_33_69,sutra_en_33_70,
-                sutra_en_33_71,sutra_en_33_72,sutra_en_33_73,sutra_en_33_74,sutra_en_33_75,sutra_en_33_76,sutra_en_33_77,sutra_en_33_78,sutra_en_33_79,sutra_en_33_80,
-                sutra_en_33_81,sutra_en_33_82,sutra_en_33_83,sutra_en_33_84,sutra_en_33_85,sutra_en_33_86,sutra_en_33_87,sutra_en_33_88,sutra_en_33_89,sutra_en_33_90,
-                sutra_en_33_91,sutra_en_33_92,sutra_en_33_93,sutra_en_33_94,sutra_en_33_95,sutra_en_33_96,sutra_en_33_97,sutra_en_33_98,sutra_en_33_99,sutra_en_33_100,
-                sutra_en_33_101,sutra_en_33_102,sutra_en_33_103,sutra_en_33_104,sutra_en_33_105,sutra_en_33_106,sutra_en_33_107,sutra_en_33_108,sutra_en_33_109,sutra_en_33_110,
-                sutra_en_33_111,sutra_en_33_112,sutra_en_33_113,sutra_en_33_114,sutra_en_33_115,sutra_en_33_116,sutra_en_33_117,sutra_en_33_118,sutra_en_33_119,sutra_en_33_120,
-                sutra_en_33_121,sutra_en_33_122,sutra_en_33_123,sutra_en_33_124,sutra_en_33_125,sutra_en_33_126,sutra_en_33_127,sutra_en_33_128,sutra_en_33_129,sutra_en_33_130,
-                sutra_en_33_131,sutra_en_33_132,sutra_en_33_133,sutra_en_33_134,sutra_en_33_135,sutra_en_33_136,sutra_en_33_137,sutra_en_33_138,sutra_en_33_139,sutra_en_33_140,
-                sutra_en_33_141,sutra_en_33_142,sutra_en_33_143,sutra_en_33_144,sutra_en_33_145,sutra_en_33_146,sutra_en_33_147,sutra_en_33_148,sutra_en_33_149,sutra_en_33_150
-                ];
+const sutra_en_33 = [sutra_en_33_1,sutra_en_33_2,sutra_en_33_3,sutra_en_33_4,sutra_en_33_5,sutra_en_33_6,sutra_en_33_7];
