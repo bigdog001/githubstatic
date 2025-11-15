@@ -1,168 +1,51 @@
-const sutra_en_32_1 = ` `;
-const sutra_en_32_2 = ` `;
-const sutra_en_32_3 = ` `;
-const sutra_en_32_4 = ` `;
-const sutra_en_32_5 = ` `;
-const sutra_en_32_6 = ` `;
-const sutra_en_32_7 = ` `;
-const sutra_en_32_8 = ` `;
-const sutra_en_32_9 = ` `;
-const sutra_en_32_10 = ` `;
-const sutra_en_32_11 = ` `;
-const sutra_en_32_12 = ` `;
-const sutra_en_32_13 = ` `;
-const sutra_en_32_14 = ` `;
-const sutra_en_32_15 = ` `;
-const sutra_en_32_16 = ` `;
-const sutra_en_32_17 = ` `;
-const sutra_en_32_18 = ` `;
-const sutra_en_32_19 = ` `;
-const sutra_en_32_20 = ` `;
-const sutra_en_32_21 = ` `;
-const sutra_en_32_22 = ` `;
-const sutra_en_32_23 = ` `;
-const sutra_en_32_24 = ` `;
-const sutra_en_32_25 = ` `;
-const sutra_en_32_26 = ` `;
-const sutra_en_32_27 = ` `;
-const sutra_en_32_28 = ` `;
-const sutra_en_32_29 = ` `;
-const sutra_en_32_30 = ` `;
-const sutra_en_32_31 = ` `;
-const sutra_en_32_32 = ` `;
-const sutra_en_32_33 = ` `;
-const sutra_en_32_34 = ` `;
-const sutra_en_32_35 = ` `;
-const sutra_en_32_36 = ` `;
-const sutra_en_32_37 = ` `;
-const sutra_en_32_38 = ` `;
-const sutra_en_32_39 = ` `;
-const sutra_en_32_40 = ` `;
-const sutra_en_32_41 = ` `;
-const sutra_en_32_42 = ` `;
-const sutra_en_32_43 = ` `;
-const sutra_en_32_44 = ` `;
-const sutra_en_32_45 = ` `;
-const sutra_en_32_46 = ` `;
-const sutra_en_32_47 = ` `;
-const sutra_en_32_48 = ` `;
-const sutra_en_32_49 = ` `;
-const sutra_en_32_50 = ` `;
-const sutra_en_32_51 = ` `;
-const sutra_en_32_52 = ` `;
-const sutra_en_32_53 = ` `;
-const sutra_en_32_54 = ` `;
-const sutra_en_32_55 = ` `;
-const sutra_en_32_56 = ` `;
-const sutra_en_32_57 = ` `;
-const sutra_en_32_58 = ` `;
-const sutra_en_32_59 = ` `;
-const sutra_en_32_60 = ` `;
-const sutra_en_32_61 = ` `;
-const sutra_en_32_62 = ` `;
-const sutra_en_32_63 = ` `;
-const sutra_en_32_64 = ` `;
-const sutra_en_32_65 = ` `;
-const sutra_en_32_66 = ` `;
-const sutra_en_32_67 = ` `;
-const sutra_en_32_68 = ` `;
-const sutra_en_32_69 = ` `;
-const sutra_en_32_70 = ` `;
-const sutra_en_32_71 = ` `;
-const sutra_en_32_72 = ` `;
-const sutra_en_32_73 = ` `;
-const sutra_en_32_74 = ` `;
-const sutra_en_32_75 = ` `;
-const sutra_en_32_76 = ` `;
-const sutra_en_32_77 = ` `;
-const sutra_en_32_78 = ` `;
-const sutra_en_32_79 = ` `;
-const sutra_en_32_80 = ` `;
-const sutra_en_32_81 = ` `;
-const sutra_en_32_82 = ` `;
-const sutra_en_32_83 = ` `;
-const sutra_en_32_84 = ` `;
-const sutra_en_32_85 = ` `;
-const sutra_en_32_86 = ` `;
-const sutra_en_32_87 = ` `;
-const sutra_en_32_88 = ` `;
-const sutra_en_32_89 = ` `;
-const sutra_en_32_90 = ` `;
-const sutra_en_32_91 = ` `;
-const sutra_en_32_92 = ` `;
-const sutra_en_32_93 = ` `;
-const sutra_en_32_94 = ` `;
-const sutra_en_32_95 = ` `;
-const sutra_en_32_96 = ` `;
-const sutra_en_32_97 = ` `;
-const sutra_en_32_98 = ` `;
-const sutra_en_32_99 = ` `;
-const sutra_en_32_100 = ` `;
-const sutra_en_32_101 = ` `;
-const sutra_en_32_102 = ` `;
-const sutra_en_32_103 = ` `;
-const sutra_en_32_104 = ` `;
-const sutra_en_32_105 = ` `;
-const sutra_en_32_106 = ` `;
-const sutra_en_32_107 = ` `;
-const sutra_en_32_108 = ` `;
-const sutra_en_32_109 = ` `;
-const sutra_en_32_110 = ` `;
-const sutra_en_32_111 = ` `;
-const sutra_en_32_112 = ` `;
-const sutra_en_32_113 = ` `;
-const sutra_en_32_114 = ` `;
-const sutra_en_32_115 = ` `;
-const sutra_en_32_116 = ` `;
-const sutra_en_32_117 = ` `;
-const sutra_en_32_118 = ` `;
-const sutra_en_32_119 = ` `;
-const sutra_en_32_120 = ` `;
-const sutra_en_32_121 = ` `;
-const sutra_en_32_122 = ` `;
-const sutra_en_32_123 = ` `;
-const sutra_en_32_124 = ` `;
-const sutra_en_32_125 = ` `;
-const sutra_en_32_126 = ` `;
-const sutra_en_32_127 = ` `;
-const sutra_en_32_128 = ` `;
-const sutra_en_32_129 = ` `;
-const sutra_en_32_130 = ` `;
-const sutra_en_32_131 = ` `;
-const sutra_en_32_132 = ` `;
-const sutra_en_32_133 = ` `;
-const sutra_en_32_134 = ` `;
-const sutra_en_32_135 = ` `;
-const sutra_en_32_136 = ` `;
-const sutra_en_32_137 = ` `;
-const sutra_en_32_138 = ` `;
-const sutra_en_32_139 = ` `;
-const sutra_en_32_140 = ` `;
-const sutra_en_32_141 = ` `;
-const sutra_en_32_142 = ` `;
-const sutra_en_32_143 = ` `;
-const sutra_en_32_144 = ` `;
-const sutra_en_32_145 = ` `;
-const sutra_en_32_146 = ` `;
-const sutra_en_32_147 = ` `;
-const sutra_en_32_148 = ` `;
-const sutra_en_32_149 = ` `;
-const sutra_en_32_150 = ` `;
+const sutra_en_32_1 = `1 The word of the LORD came to Jonah son of Amittai:
+2 “Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.”
+3 But Jonah ran away from the LORD and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the LORD.
+4 Then the LORD sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up.
+5 All the sailors were afraid and each cried out to his own god. And they threw the cargo into the sea to lighten the ship. But Jonah had gone below deck, where he lay down and fell into a deep sleep.
+6 The captain went to him and said, “How can you sleep? Get up and call on your god! Maybe he will take notice of us so that we will not perish.”
+7 Then the sailors said to each other, “Come, let us cast lots to find out who is responsible for this calamity.” They cast lots and the lot fell on Jonah.
+8 So they asked him, “Tell us, who is responsible for making all this trouble for us? What kind of work do you do? Where do you come from? What is your country? From what people are you?”
+9 He answered, “I am a Hebrew and I worship the LORD, the God of heaven, who made the sea and the dry land.”
+10 This terrified them and they asked, “What have you done?” (They knew he was running away from the LORD, because he had already told them so.)
+11 The sea was getting rougher and rougher. So they asked him, “What should we do to you to make the sea calm down for us?”
+12 “Pick me up and throw me into the sea,” he replied, “and it will become calm. I know that it is my fault that this great storm has come upon you.”
+13 Instead, the men did their best to row back to land. But they could not, for the sea grew even wilder than before.
+14 Then they cried out to the LORD, “Please, LORD, do not let us die for taking this man’s life. Do not hold us accountable for killing an innocent man, for you, LORD, have done as you pleased.”
+15 Then they took Jonah and threw him overboard, and the raging sea grew calm.
+16 At this the men greatly feared the LORD, and they offered a sacrifice to the LORD and made vows to him.
+17 Now the LORD provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights. `;
+const sutra_en_32_2 = `1 From inside the fish Jonah prayed to the LORD his God.
+2 He said: “In my distress I called to the LORD, and he answered me. From deep in the realm of the dead I called for help, and you listened to my cry.
+3 You hurled me into the depths, into the very heart of the seas, and the currents swirled about me; all your waves and breakers swept over me.
+4 I said, ‘I have been banished from your sight; yet I will look again toward your holy temple.’
+5 The engulfing waters threatened me,the deep surrounded me; seaweed was wrapped around my head.
+6 To the roots of the mountains I sank down; the earth beneath barred me in forever. But you, LORD my God, brought my life up from the pit.
+7 “When my life was ebbing away, I remembered you, LORD, and my prayer rose to you, to your holy temple.
+8 “Those who cling to worthless idols turn away from God’s love for them.
+9 But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good. I will say, ‘Salvation comes from the LORD.’ ”
+10 And the LORD commanded the fish, and it vomited Jonah onto dry land. `;
+const sutra_en_32_3 = `1 Then the word of the LORD came to Jonah a second time:
+2 “Go to the great city of Nineveh and proclaim to it the message I give you.”
+3 Jonah obeyed the word of the LORD and went to Nineveh. Now Nineveh was a very large city; it took three days to go through it.
+4 Jonah began by going a day’s journey into the city, proclaiming, “Forty more days and Nineveh will be overthrown.”
+5 The Ninevites believed God. A fast was proclaimed, and all of them, from the greatest to the least, put on sackcloth.
+6 When Jonah’s warning reached the king of Nineveh, he rose from his throne, took off his royal robes, covered himself with sackcloth and sat down in the dust.
+7 This is the proclamation he issued in Nineveh: “By the decree of the king and his nobles: Do not let people or animals, herds or flocks, taste anything; do not let them eat or drink.
+8 But let people and animals be covered with sackcloth. Let everyone call urgently on God. Let them give up their evil ways and their violence.
+9 Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not perish.”
+10 When God saw what they did and how they turned from their evil ways, he relented and did not bring on them the destruction he had threatened. `;
+const sutra_en_32_4 = `1 But to Jonah this seemed very wrong, and he became angry.
+2 He prayed to the LORD, “Isn’t this what I said, LORD, when I was still at home? That is what I tried to forestall by fleeing to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity.
+3 Now, LORD, take away my life, for it is better for me to die than to live.”
+4 But the LORD replied, “Is it right for you to be angry?”
+5 Jonah had gone out and sat down at a place east of the city. There he made himself a shelter, sat in its shade and waited to see what would happen to the city.
+6 Then the LORD God provided a leafy plant and made it grow up over Jonah to give shade for his head to ease his discomfort, and Jonah was very happy about the plant.
+7 But at dawn the next day God provided a worm, which chewed the plant so that it withered.
+8 When the sun rose, God provided a scorching east wind, and the sun blazed on Jonah’s head so that he grew faint. He wanted to die, and said, “It would be better for me to die than to live.”
+9 But God said to Jonah, “Is it right for you to be angry about the plant?” “It is,” he said. “And I’m so angry I wish I were dead.”
+10 But the LORD said, “You have been concerned about this plant, though you did not tend it or make it grow. It sprang up overnight and died overnight.
+11 And should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left—and also many animals?” `;
 
 
-const sutra_en_32 = [sutra_en_32_1,sutra_en_32_2,sutra_en_32_3,sutra_en_32_4,sutra_en_32_5,sutra_en_32_6,sutra_en_32_7,sutra_en_32_8,sutra_en_32_9,sutra_en_32_10,
-                sutra_en_32_11,sutra_en_32_12,sutra_en_32_13,sutra_en_32_14,sutra_en_32_15,sutra_en_32_16,sutra_en_32_17,sutra_en_32_18,sutra_en_32_19,sutra_en_32_20,
-                sutra_en_32_21,sutra_en_32_22,sutra_en_32_23,sutra_en_32_24,sutra_en_32_25,sutra_en_32_26,sutra_en_32_27,sutra_en_32_28,sutra_en_32_29,sutra_en_32_30,
-                sutra_en_32_31,sutra_en_32_32,sutra_en_32_33,sutra_en_32_34,sutra_en_32_35,sutra_en_32_36,sutra_en_32_37,sutra_en_32_38,sutra_en_32_39,sutra_en_32_40,
-                sutra_en_32_41,sutra_en_32_42,sutra_en_32_43,sutra_en_32_44,sutra_en_32_45,sutra_en_32_46,sutra_en_32_47,sutra_en_32_48,sutra_en_32_49,sutra_en_32_50,
-                sutra_en_32_51,sutra_en_32_52,sutra_en_32_53,sutra_en_32_54,sutra_en_32_55,sutra_en_32_56,sutra_en_32_57,sutra_en_32_58,sutra_en_32_59,sutra_en_32_60,
-                sutra_en_32_61,sutra_en_32_62,sutra_en_32_63,sutra_en_32_64,sutra_en_32_65,sutra_en_32_66,sutra_en_32_67,sutra_en_32_68,sutra_en_32_69,sutra_en_32_70,
-                sutra_en_32_71,sutra_en_32_72,sutra_en_32_73,sutra_en_32_74,sutra_en_32_75,sutra_en_32_76,sutra_en_32_77,sutra_en_32_78,sutra_en_32_79,sutra_en_32_80,
-                sutra_en_32_81,sutra_en_32_82,sutra_en_32_83,sutra_en_32_84,sutra_en_32_85,sutra_en_32_86,sutra_en_32_87,sutra_en_32_88,sutra_en_32_89,sutra_en_32_90,
-                sutra_en_32_91,sutra_en_32_92,sutra_en_32_93,sutra_en_32_94,sutra_en_32_95,sutra_en_32_96,sutra_en_32_97,sutra_en_32_98,sutra_en_32_99,sutra_en_32_100,
-                sutra_en_32_101,sutra_en_32_102,sutra_en_32_103,sutra_en_32_104,sutra_en_32_105,sutra_en_32_106,sutra_en_32_107,sutra_en_32_108,sutra_en_32_109,sutra_en_32_110,
-                sutra_en_32_111,sutra_en_32_112,sutra_en_32_113,sutra_en_32_114,sutra_en_32_115,sutra_en_32_116,sutra_en_32_117,sutra_en_32_118,sutra_en_32_119,sutra_en_32_120,
-                sutra_en_32_121,sutra_en_32_122,sutra_en_32_123,sutra_en_32_124,sutra_en_32_125,sutra_en_32_126,sutra_en_32_127,sutra_en_32_128,sutra_en_32_129,sutra_en_32_130,
-                sutra_en_32_131,sutra_en_32_132,sutra_en_32_133,sutra_en_32_134,sutra_en_32_135,sutra_en_32_136,sutra_en_32_137,sutra_en_32_138,sutra_en_32_139,sutra_en_32_140,
-                sutra_en_32_141,sutra_en_32_142,sutra_en_32_143,sutra_en_32_144,sutra_en_32_145,sutra_en_32_146,sutra_en_32_147,sutra_en_32_148,sutra_en_32_149,sutra_en_32_150
-                ];
+const sutra_en_32 = [sutra_en_32_1,sutra_en_32_2,sutra_en_32_3,sutra_en_32_4 ];
