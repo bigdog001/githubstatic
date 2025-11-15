@@ -1276,76 +1276,1189 @@ const sutra_en_19_80 = `1 Hear us, Shepherd of Israel, you who lead Joseph like 
 17 Let your hand rest on the man at your right hand, the son of man you have raised up for yourself.
 18 Then we will not turn away from you; revive us, and we will call on your name.
 19 Restore us, LORD God Almighty; make your face shine on us, that we may be saved. `;
-const sutra_en_19_81 = ` `;
-const sutra_en_19_82 = ` `;
-const sutra_en_19_83 = ` `;
-const sutra_en_19_84 = ` `;
-const sutra_en_19_85 = ` `;
-const sutra_en_19_86 = ` `;
-const sutra_en_19_87 = ` `;
-const sutra_en_19_88 = ` `;
-const sutra_en_19_89 = ` `;
-const sutra_en_19_90 = ` `;
-const sutra_en_19_91 = ` `;
-const sutra_en_19_92 = ` `;
-const sutra_en_19_93 = ` `;
-const sutra_en_19_94 = ` `;
-const sutra_en_19_95 = ` `;
-const sutra_en_19_96 = ` `;
-const sutra_en_19_97 = ` `;
-const sutra_en_19_98 = ` `;
-const sutra_en_19_99 = ` `;
-const sutra_en_19_100 = ` `;
-const sutra_en_19_101 = ` `;
-const sutra_en_19_102 = ` `;
-const sutra_en_19_103 = ` `;
-const sutra_en_19_104 = ` `;
-const sutra_en_19_105 = ` `;
-const sutra_en_19_106 = ` `;
-const sutra_en_19_107 = ` `;
-const sutra_en_19_108 = ` `;
-const sutra_en_19_109 = ` `;
-const sutra_en_19_110 = ` `;
-const sutra_en_19_111 = ` `;
-const sutra_en_19_112 = ` `;
-const sutra_en_19_113 = ` `;
-const sutra_en_19_114 = ` `;
-const sutra_en_19_115 = ` `;
-const sutra_en_19_116 = ` `;
-const sutra_en_19_117 = ` `;
-const sutra_en_19_118 = ` `;
-const sutra_en_19_119 = ` `;
-const sutra_en_19_120 = ` `;
-const sutra_en_19_121 = ` `;
-const sutra_en_19_122 = ` `;
-const sutra_en_19_123 = ` `;
-const sutra_en_19_124 = ` `;
-const sutra_en_19_125 = ` `;
-const sutra_en_19_126 = ` `;
-const sutra_en_19_127 = ` `;
-const sutra_en_19_128 = ` `;
-const sutra_en_19_129 = ` `;
-const sutra_en_19_130 = ` `;
-const sutra_en_19_131 = ` `;
-const sutra_en_19_132 = ` `;
-const sutra_en_19_133 = ` `;
-const sutra_en_19_134 = ` `;
-const sutra_en_19_135 = ` `;
-const sutra_en_19_136 = ` `;
-const sutra_en_19_137 = ` `;
-const sutra_en_19_138 = ` `;
-const sutra_en_19_139 = ` `;
-const sutra_en_19_140 = ` `;
-const sutra_en_19_141 = ` `;
-const sutra_en_19_142 = ` `;
-const sutra_en_19_143 = ` `;
-const sutra_en_19_144 = ` `;
-const sutra_en_19_145 = ` `;
-const sutra_en_19_146 = ` `;
-const sutra_en_19_147 = ` `;
-const sutra_en_19_148 = ` `;
-const sutra_en_19_149 = ` `;
-const sutra_en_19_150 = ` `;
+const sutra_en_19_81 = `1 Sing for joy to God our strength; shout aloud to the God of Jacob!
+2 Begin the music, strike the timbrel, play the melodious harp and lyre.
+3 Sound the ram’s horn at the New Moon, and when the moon is full, on the day of our festival;
+4 this is a decree for Israel, an ordinance of the God of Jacob.
+5 When God went out against Egypt, he established it as a statute for Joseph. I heard an unknown voice say:
+6 “I removed the burden from their shoulders; their hands were set free from the basket.
+7 In your distress you called and I rescued you, I answered you out of a thundercloud; I tested you at the waters of Meribah.
+8 Hear me, my people, and I will warn you— if you would only listen to me, Israel!
+9 You shall have no foreign god among you; you shall not worship any god other than me.
+10 I am the LORD your God, who brought you up out of Egypt. Open wide your mouth and I will fill it.
+11 “But my people would not listen to me; Israel would not submit to me.
+12 So I gave them over to their stubborn hearts to follow their own devices.
+13 “If my people would only listen to me, if Israel would only follow my ways,
+14 how quickly I would subdue their enemies and turn my hand against their foes!
+15 Those who hate the LORD would cringe before him, and their punishment would last forever.
+16 But you would be fed with the finest of wheat; with honey from the rock I would satisfy you.” `;
+const sutra_en_19_82 = `1 God presides in the great assembly; he renders judgment among the “gods”:
+2 “How long will you defend the unjust and show partiality to the wicked?
+3 Defend the weak and the fatherless; uphold the cause of the poor and the oppressed.
+4 Rescue the weak and the needy; deliver them from the hand of the wicked.
+5 “The ‘gods’ know nothing, they understand nothing. They walk about in darkness; all the foundations of the earth are shaken.
+6 “I said, ‘You are “gods”; you are all sons of the Most High.’
+7 But you will die like mere mortals; you will fall like every other ruler.”
+8 Rise up, O God, judge the earth, for all the nations are your inheritance. `;
+const sutra_en_19_83 = `1 O God, do not remain silent; do not turn a deaf ear, do not stand aloof, O God.
+2 See how your enemies growl, how your foes rear their heads.
+3 With cunning they conspire against your people; they plot against those you cherish.
+4 “Come,” they say, “let us destroy them as a nation, so that Israel’s name is remembered no more.”
+5 With one mind they plot together; they form an alliance against you—
+6 the tents of Edom and the Ishmaelites, of Moab and the Hagrites,
+7 Byblos, Ammon and Amalek, Philistia, with the people of Tyre.
+8 Even Assyria has joined them to reinforce Lot’s descendants.
+9 Do to them as you did to Midian, as you did to Sisera and Jabin at the river Kishon,
+10 who perished at Endor and became like dung on the ground.
+11 Make their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,
+12 who said, “Let us take possession of the pasturelands of God.”
+13 Make them like tumbleweed, my God, like chaff before the wind.
+14 As fire consumes the forest or a flame sets the mountains ablaze,
+15 so pursue them with your tempest and terrify them with your storm.
+16 Cover their faces with shame, LORD, so that they will seek your name.
+17 May they ever be ashamed and dismayed; may they perish in disgrace.
+18 Let them know that you, whose name is the LORD— that you alone are the Most High over all the earth. `;
+const sutra_en_19_84 = ` 1 How lovely is your dwelling place, LORD Almighty!
+2 My soul yearns, even faints, for the courts of the LORD; my heart and my flesh cry out for the living God.
+3 Even the sparrow has found a home, and the swallow a nest for herself, where she may have her young— a place near your altar, LORD Almighty, my King and my God.
+4 Blessed are those who dwell in your house; they are ever praising you.
+5 Blessed are those whose strength is in you, whose hearts are set on pilgrimage.
+6 As they pass through the Valley of Baka, they make it a place of springs; the autumn rains also cover it with pools.
+7 They go from strength to strength, till each appears before God in Zion.
+8 Hear my prayer, LORD God Almighty; listen to me, God of Jacob.
+9 Look on our shield, O God; look with favor on your anointed one.
+10 Better is one day in your courts than a thousand elsewhere; I would rather be a doorkeeper in the house of my God than dwell in the tents of the wicked.
+11 For the LORD God is a sun and shield; the LORD bestows favor and honor; no good thing does he withhold from those whose walk is blameless.
+12 LORD Almighty, blessed is the one who trusts in you.`;
+const sutra_en_19_85 = `1 You, LORD, showed favor to your land; you restored the fortunes of Jacob.
+2 You forgave the iniquity of your people and covered all their sins.
+3 You set aside all your wrath and turned from your fierce anger.
+4 Restore us again, God our Savior, and put away your displeasure toward us.
+5 Will you be angry with us forever? Will you prolong your anger through all generations?
+6 Will you not revive us again, that your people may rejoice in you?
+7 Show us your unfailing love, LORD, and grant us your salvation.
+8 I will listen to what God the LORD says; he promises peace to his people, his faithful servants— but let them not turn to folly.
+9 Surely his salvation is near those who fear him, that his glory may dwell in our land.
+10 Love and faithfulness meet together; righteousness and peace kiss each other.
+11 Faithfulness springs forth from the earth, and righteousness looks down from heaven.
+12 The LORD will indeed give what is good, and our land will yield its harvest.
+13 Righteousness goes before him and prepares the way for his steps. `;
+const sutra_en_19_86 = `1 Hear me, LORD, and answer me, for I am poor and needy.
+2 Guard my life, for I am faithful to you; save your servant who trusts in you. You are my God;
+3 have mercy on me, Lord, for I call to you all day long.
+4 Bring joy to your servant, Lord, for I put my trust in you.
+5 You, Lord, are forgiving and good, abounding in love to all who call to you.
+6 Hear my prayer, LORD; listen to my cry for mercy.
+7 When I am in distress, I call to you, because you answer me.
+8 Among the gods there is none like you, Lord; no deeds can compare with yours.
+9 All the nations you have made will come and worship before you, Lord; they will bring glory to your name.
+10 For you are great and do marvelous deeds; you alone are God.
+11 Teach me your way, LORD, that I may rely on your faithfulness; give me an undivided heart, that I may fear your name.
+12 I will praise you, Lord my God, with all my heart; I will glorify your name forever.
+13 For great is your love toward me; you have delivered me from the depths, from the realm of the dead.
+14 Arrogant foes are attacking me, O God; ruthless people are trying to kill me— they have no regard for you.
+15 But you, Lord, are a compassionate and gracious God, slow to anger, abounding in love and faithfulness.
+16 Turn to me and have mercy on me; show your strength in behalf of your servant; save me, because I serve you just as my mother did.
+17 Give me a sign of your goodness, that my enemies may see it and be put to shame, for you, LORD, have helped me and comforted me. `;
+const sutra_en_19_87 = `1 He has founded his city on the holy mountain.
+2 The LORD loves the gates of Zion more than all the other dwellings of Jacob.
+3 Glorious things are said of you, city of God:
+4 “I will record Rahab and Babylon among those who acknowledge me— Philistia too, and Tyre, along with Cush — and will say, ‘This one was born in Zion.’ ”
+5 Indeed, of Zion it will be said, “This one and that one were born in her, and the Most High himself will establish her.”
+6 The LORD will write in the register of the peoples: “This one was born in Zion.”
+7 As they make music they will sing, “All my fountains are in you.” `;
+const sutra_en_19_88 = `1 LORD, you are the God who saves me; day and night I cry out to you.
+2 May my prayer come before you; turn your ear to my cry.
+3 I am overwhelmed with troubles and my life draws near to death.
+4 I am counted among those who go down to the pit; I am like one without strength.
+5 I am set apart with the dead, like the slain who lie in the grave, whom you remember no more, who are cut off from your care.
+6 You have put me in the lowest pit, in the darkest depths.
+7 Your wrath lies heavily on me; you have overwhelmed me with all your waves.
+8 You have taken from me my closest friends and have made me repulsive to them. I am confined and cannot escape;
+9 my eyes are dim with grief. I call to you, LORD, every day; I spread out my hands to you.
+10 Do you show your wonders to the dead? Do their spirits rise up and praise you?
+11 Is your love declared in the grave, your faithfulness in Destruction ?
+12 Are your wonders known in the place of darkness, or your righteous deeds in the land of oblivion?
+13 But I cry to you for help, LORD; in the morning my prayer comes before you.
+14 Why, LORD, do you reject me and hide your face from me?
+15 From my youth I have suffered and been close to death; I have borne your terrors and am in despair.
+16 Your wrath has swept over me; your terrors have destroyed me.
+17 All day long they surround me like a flood; they have completely engulfed me.
+18 You have taken from me friend and neighbor— darkness is my closest friend. `;
+const sutra_en_19_89 = `1 I will sing of the LORD’s great love forever; with my mouth I will make your faithfulness known through all generations.
+2 I will declare that your love stands firm forever, that you have established your faithfulness in heaven itself.
+3 You said, “I have made a covenant with my chosen one, I have sworn to David my servant,
+4 ‘I will establish your line forever and make your throne firm through all generations.’ ”
+5 The heavens praise your wonders, LORD, your faithfulness too, in the assembly of the holy ones.
+6 For who in the skies above can compare with the LORD? Who is like the LORD among the heavenly beings?
+7 In the council of the holy ones God is greatly feared; he is more awesome than all who surround him.
+8 Who is like you, LORD God Almighty? You, LORD, are mighty, and your faithfulness surrounds you.
+9 You rule over the surging sea; when its waves mount up, you still them.
+10 You crushed Rahab like one of the slain; with your strong arm you scattered your enemies.
+11 The heavens are yours, and yours also the earth; you founded the world and all that is in it.
+12 You created the north and the south; Tabor and Hermon sing for joy at your name.
+13 Your arm is endowed with power; your hand is strong, your right hand exalted.
+14 Righteousness and justice are the foundation of your throne; love and faithfulness go before you.
+15 Blessed are those who have learned to acclaim you, who walk in the light of your presence, LORD.
+16 They rejoice in your name all day long; they celebrate your righteousness.
+17 For you are their glory and strength, and by your favor you exalt our horn.
+18 Indeed, our shield belongs to the LORD, our king to the Holy One of Israel.
+19 Once you spoke in a vision, to your faithful people you said: “I have bestowed strength on a warrior; I have raised up a young man from among the people.
+20 I have found David my servant; with my sacred oil I have anointed him.
+21 My hand will sustain him; surely my arm will strengthen him.
+22 The enemy will not get the better of him; the wicked will not oppress him.
+23 I will crush his foes before him and strike down his adversaries.
+24 My faithful love will be with him, and through my name his horn will be exalted.
+25 I will set his hand over the sea, his right hand over the rivers.
+26 He will call out to me, ‘You are my Father, my God, the Rock my Savior.’
+27 And I will appoint him to be my firstborn, the most exalted of the kings of the earth.
+28 I will maintain my love to him forever, and my covenant with him will never fail.
+29 I will establish his line forever, his throne as long as the heavens endure.
+30 “If his sons forsake my law and do not follow my statutes,
+31 if they violate my decrees and fail to keep my commands,
+32 I will punish their sin with the rod, their iniquity with flogging;
+33 but I will not take my love from him, nor will I ever betray my faithfulness.
+34 I will not violate my covenant or alter what my lips have uttered.
+35 Once for all, I have sworn by my holiness— and I will not lie to David—
+36 that his line will continue forever and his throne endure before me like the sun;
+37 it will be established forever like the moon, the faithful witness in the sky.”
+38 But you have rejected, you have spurned, you have been very angry with your anointed one.
+39 You have renounced the covenant with your servant and have defiled his crown in the dust.
+40 You have broken through all his walls and reduced his strongholds to ruins.
+41 All who pass by have plundered him; he has become the scorn of his neighbors.
+42 You have exalted the right hand of his foes; you have made all his enemies rejoice.
+43 Indeed, you have turned back the edge of his sword and have not supported him in battle.
+44 You have put an end to his splendor and cast his throne to the ground.
+45 You have cut short the days of his youth; you have covered him with a mantle of shame.
+46 How long, LORD? Will you hide yourself forever? How long will your wrath burn like fire?
+47 Remember how fleeting is my life. For what futility you have created all humanity!
+48 Who can live and not see death, or who can escape the power of the grave?
+49 Lord, where is your former great love, which in your faithfulness you swore to David?
+50 Remember, Lord, how your servant has been mocked, how I bear in my heart the taunts of all the nations,
+51 the taunts with which your enemies, LORD, have mocked, with which they have mocked every step of your anointed one.
+52 Praise be to the LORD forever! Amen and Amen. `;
+const sutra_en_19_90 = `1 Lord, you have been our dwelling place throughout all generations.
+2 Before the mountains were born or you brought forth the whole world, from everlasting to everlasting you are God.
+3 You turn people back to dust, saying, “Return to dust, you mortals.”
+4 A thousand years in your sight are like a day that has just gone by, or like a watch in the night.
+5 Yet you sweep people away in the sleep of death— they are like the new grass of the morning:
+6 In the morning it springs up new, but by evening it is dry and withered.
+7 We are consumed by your anger and terrified by your indignation.
+8 You have set our iniquities before you, our secret sins in the light of your presence.
+9 All our days pass away under your wrath; we finish our years with a moan.
+10 Our days may come to seventy years, or eighty, if our strength endures; yet the best of them are but trouble and sorrow, for they quickly pass, and we fly away.
+11 If only we knew the power of your anger! Your wrath is as great as the fear that is your due.
+12 Teach us to number our days, that we may gain a heart of wisdom.
+13 Relent, LORD! How long will it be? Have compassion on your servants.
+14 Satisfy us in the morning with your unfailing love, that we may sing for joy and be glad all our days.
+15 Make us glad for as many days as you have afflicted us, for as many years as we have seen trouble.
+16 May your deeds be shown to your servants, your splendor to their children.
+17 May the favor of the Lord our God rest on us; establish the work of our hands for us— yes, establish the work of our hands. `;
+const sutra_en_19_91 = `1 Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty.
+2 I will say of the LORD, “He is my refuge and my fortress, my God, in whom I trust.”
+3 Surely he will save you from the fowler’s snare and from the deadly pestilence.
+4 He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart.
+5 You will not fear the terror of night, nor the arrow that flies by day,
+6 nor the pestilence that stalks in the darkness, nor the plague that destroys at midday.
+7 A thousand may fall at your side, ten thousand at your right hand, but it will not come near you.
+8 You will only observe with your eyes and see the punishment of the wicked.
+9 If you say, “The LORD is my refuge,” and you make the Most High your dwelling,
+10 no harm will overtake you, no disaster will come near your tent.
+11 For he will command his angels concerning you to guard you in all your ways;
+12 they will lift you up in their hands, so that you will not strike your foot against a stone.
+13 You will tread on the lion and the cobra; you will trample the great lion and the serpent.
+14 “Because he loves me,” says the LORD, “I will rescue him; I will protect him, for he acknowledges my name.
+15 He will call on me, and I will answer him; I will be with him in trouble, I will deliver him and honor him.
+16 With long life I will satisfy him and show him my salvation.” `;
+const sutra_en_19_92 = `1 It is good to praise the LORDand make music to your name, O Most High,
+2 proclaiming your love in the morning and your faithfulness at night,
+3 to the music of the ten-stringed lyre and the melody of the harp.
+4 For you make me glad by your deeds, LORD; I sing for joy at what your hands have done.
+5 How great are your works, LORD, how profound your thoughts!
+6 Senseless people do not know, fools do not understand,
+7 that though the wicked spring up like grass and all evildoers flourish, they will be destroyed forever.
+8 But you, LORD, are forever exalted.
+9 For surely your enemies, LORD, surely your enemies will perish; all evildoers will be scattered.
+10 You have exalted my horn like that of a wild ox; fine oils have been poured on me.
+11 My eyes have seen the defeat of my adversaries; my ears have heard the rout of my wicked foes.
+12 The righteous will flourish like a palm tree, they will grow like a cedar of Lebanon;
+13 planted in the house of the LORD, they will flourish in the courts of our God.
+14 They will still bear fruit in old age, they will stay fresh and green,
+15 proclaiming, “The LORD is upright; he is my Rock, and there is no wickedness in him.” `;
+const sutra_en_19_93 = `1 The LORD reigns, he is robed in majesty; the LORD is robed in majesty and armed with strength; indeed, the world is established, firm and secure.
+2 Your throne was established long ago; you are from all eternity.
+3 The seas have lifted up, LORD, the seas have lifted up their voice; the seas have lifted up their pounding waves.
+4 Mightier than the thunder of the great waters, mightier than the breakers of the sea— the LORD on high is mighty.
+5 Your statutes, LORD, stand firm; holiness adorns your house for endless days. `;
+const sutra_en_19_94 = ` 1 The LORD is a God who avenges. O God who avenges, shine forth.
+2 Rise up, Judge of the earth; pay back to the proud what they deserve.
+3 How long, LORD, will the wicked, how long will the wicked be jubilant?
+4 They pour out arrogant words; all the evildoers are full of boasting.
+5 They crush your people, LORD; they oppress your inheritance.
+6 They slay the widow and the foreigner; they murder the fatherless.
+7 They say, “The LORD does not see; the God of Jacob takes no notice.”
+8 Take notice, you senseless ones among the people; you fools, when will you become wise?
+9 Does he who fashioned the ear not hear? Does he who formed the eye not see?
+10 Does he who disciplines nations not punish? Does he who teaches mankind lack knowledge?
+11 The LORD knows all human plans; he knows that they are futile.
+12 Blessed is the one you discipline, LORD, the one you teach from your law;
+13 you grant them relief from days of trouble, till a pit is dug for the wicked.
+14 For the LORD will not reject his people; he will never forsake his inheritance.
+15 Judgment will again be founded on righteousness, and all the upright in heart will follow it.
+16 Who will rise up for me against the wicked? Who will take a stand for me against evildoers?
+17 Unless the LORD had given me help, I would soon have dwelt in the silence of death.
+18 When I said, “My foot is slipping,” your unfailing love, LORD, supported me.
+19 When anxiety was great within me, your consolation brought me joy.
+20 Can a corrupt throne be allied with you— a throne that brings on misery by its decrees?
+21 The wicked band together against the righteous and condemn the innocent to death.
+22 But the LORD has become my fortress, and my God the rock in whom I take refuge.
+23 He will repay them for their sins and destroy them for their wickedness; the LORD our God will destroy them.`;
+const sutra_en_19_95 = `1 Come, let us sing for joy to the LORD; let us shout aloud to the Rock of our salvation.
+2 Let us come before him with thanksgiving and extol him with music and song.
+3 For the LORD is the great God, the great King above all gods.
+4 In his hand are the depths of the earth, and the mountain peaks belong to him.
+5 The sea is his, for he made it, and his hands formed the dry land.
+6 Come, let us bow down in worship, let us kneel before the LORD our Maker;
+7 for he is our God and we are the people of his pasture, the flock under his care. Today, if only you would hear his voice,
+8 “Do not harden your hearts as you did at Meribah,as you did that day at Massah in the wilderness,
+9 where your ancestors tested me; they tried me, though they had seen what I did.
+10 For forty years I was angry with that generation; I said, ‘They are a people whose hearts go astray, and they have not known my ways.’
+11 So I declared on oath in my anger, ‘They shall never enter my rest.’ ” `;
+const sutra_en_19_96 = `1 Sing to the LORD a new song; sing to the LORD, all the earth.
+2 Sing to the LORD, praise his name; proclaim his salvation day after day.
+3 Declare his glory among the nations, his marvelous deeds among all peoples.
+4 For great is the LORD and most worthy of praise; he is to be feared above all gods.
+5 For all the gods of the nations are idols, but the LORD made the heavens.
+6 Splendor and majesty are before him; strength and glory are in his sanctuary.
+7 Ascribe to the LORD, all you families of nations, ascribe to the LORD glory and strength.
+8 Ascribe to the LORD the glory due his name; bring an offering and come into his courts.
+9 Worship the LORD in the splendor of his holiness; tremble before him, all the earth.
+10 Say among the nations, “The LORD reigns.” The world is firmly established, it cannot be moved; he will judge the peoples with equity.
+11 Let the heavens rejoice, let the earth be glad; let the sea resound, and all that is in it.
+12 Let the fields be jubilant, and everything in them; let all the trees of the forest sing for joy.
+13 Let all creation rejoice before the LORD, for he comes, he comes to judge the earth. He will judge the world in righteousness and the peoples in his faithfulness. `;
+const sutra_en_19_97 = `1 The LORD reigns, let the earth be glad; let the distant shores rejoice.
+2 Clouds and thick darkness surround him; righteousness and justice are the foundation of his throne.
+3 Fire goes before him and consumes his foes on every side.
+4 His lightning lights up the world; the earth sees and trembles.
+5 The mountains melt like wax before the LORD, before the Lord of all the earth.
+6 The heavens proclaim his righteousness, and all peoples see his glory.
+7 All who worship images are put to shame, those who boast in idols— worship him, all you gods!
+8 Zion hears and rejoices and the villages of Judah are glad because of your judgments, LORD.
+9 For you, LORD, are the Most High over all the earth; you are exalted far above all gods.
+10 Let those who love the LORD hate evil, for he guards the lives of his faithful ones and delivers them from the hand of the wicked.
+11 Light shines on the righteous and joy on the upright in heart.
+12 Rejoice in the LORD, you who are righteous, and praise his holy name. `;
+const sutra_en_19_98 = `1 Sing to the LORD a new song, for he has done marvelous things; his right hand and his holy arm have worked salvation for him.
+2 The LORD has made his salvation known and revealed his righteousness to the nations.
+3 He has remembered his love and his faithfulness to Israel; all the ends of the earth have seen the salvation of our God.
+4 Shout for joy to the LORD, all the earth, burst into jubilant song with music;
+5 make music to the LORD with the harp, with the harp and the sound of singing,
+6 with trumpets and the blast of the ram’s horn— shout for joy before the LORD, the King.
+7 Let the sea resound, and everything in it, the world, and all who live in it.
+8 Let the rivers clap their hands, let the mountains sing together for joy;
+9 let them sing before the LORD, for he comes to judge the earth. He will judge the world in righteousness and the peoples with equity. `;
+const sutra_en_19_99 = `1 The LORD reigns, let the nations tremble; he sits enthroned between the cherubim, let the earth shake.
+2 Great is the LORD in Zion; he is exalted over all the nations.
+3 Let them praise your great and awesome name— he is holy.
+4 The King is mighty, he loves justice— you have established equity; in Jacob you have done what is just and right.
+5 Exalt the LORD our God and worship at his footstool; he is holy.
+6 Moses and Aaron were among his priests, Samuel was among those who called on his name; they called on the LORD and he answered them.
+7 He spoke to them from the pillar of cloud; they kept his statutes and the decrees he gave them.
+8 LORD our God, you answered them; you were to Israel a forgiving God, though you punished their misdeeds.
+9 Exalt the LORD our God and worship at his holy mountain, for the LORD our God is holy. `;
+const sutra_en_19_100 = `1 Shout for joy to the LORD, all the earth.
+2 Worship the LORD with gladness; come before him with joyful songs.
+3 Know that the LORD is God. It is he who made us, and we are his ; we are his people, the sheep of his pasture.
+4 Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.
+5 For the LORD is good and his love endures forever; his faithfulness continues through all generations. `;
+const sutra_en_19_101 = `1 I will sing of your love and justice; to you, LORD, I will sing praise.
+2 I will be careful to lead a blameless life— when will you come to me? I will conduct the affairs of my house with a blameless heart.
+3 I will not look with approval on anything that is vile. I hate what faithless people do; I will have no part in it.
+4 The perverse of heart shall be far from me; I will have nothing to do with what is evil.
+5 Whoever slanders their neighbor in secret, I will put to silence; whoever has haughty eyes and a proud heart, I will not tolerate.
+6 My eyes will be on the faithful in the land, that they may dwell with me; the one whose walk is blameless will minister to me.
+7 No one who practices deceit will dwell in my house; no one who speaks falsely will stand in my presence.
+8 Every morning I will put to silence all the wicked in the land; I will cut off every evildoer from the city of the LORD. `;
+const sutra_en_19_102 = `1 Hear my prayer, LORD; let my cry for help come to you.
+2 Do not hide your face from me when I am in distress. Turn your ear to me; when I call, answer me quickly.
+3 For my days vanish like smoke; my bones burn like glowing embers.
+4 My heart is blighted and withered like grass; I forget to eat my food.
+5 In my distress I groan aloud and am reduced to skin and bones.
+6 I am like a desert owl, like an owl among the ruins.
+7 I lie awake; I have become like a bird alone on a roof.
+8 All day long my enemies taunt me; those who rail against me use my name as a curse.
+9 For I eat ashes as my food and mingle my drink with tears
+10 because of your great wrath, for you have taken me up and thrown me aside.
+11 My days are like the evening shadow; I wither away like grass.
+12 But you, LORD, sit enthroned forever; your renown endures through all generations.
+13 You will arise and have compassion on Zion, for it is time to show favor to her; the appointed time has come.
+14 For her stones are dear to your servants; her very dust moves them to pity.
+15 The nations will fear the name of the LORD, all the kings of the earth will revere your glory.
+16 For the LORD will rebuild Zion and appear in his glory.
+17 He will respond to the prayer of the destitute; he will not despise their plea.
+18 Let this be written for a future generation, that a people not yet created may praise the LORD:
+19 “The LORD looked down from his sanctuary on high, from heaven he viewed the earth,
+20 to hear the groans of the prisoners and release those condemned to death.”
+21 So the name of the LORD will be declared in Zion and his praise in Jerusalem
+22 when the peoples and the kingdoms assemble to worship the LORD.
+23 In the course of my life he broke my strength; he cut short my days.
+24 So I said: “Do not take me away, my God, in the midst of my days; your years go on through all generations.
+25 In the beginning you laid the foundations of the earth, and the heavens are the work of your hands.
+26 They will perish, but you remain; they will all wear out like a garment. Like clothing you will change them and they will be discarded.
+27 But you remain the same, and your years will never end.
+28 The children of your servants will live in your presence; their descendants will be established before you.” `;
+const sutra_en_19_103 = `1 Praise the LORD, my soul; all my inmost being, praise his holy name.
+2 Praise the LORD, my soul, and forget not all his benefits—
+3 who forgives all your sins and heals all your diseases,
+4 who redeems your life from the pit and crowns you with love and compassion,
+5 who satisfies your desires with good things so that your youth is renewed like the eagle’s.
+6 The LORD works righteousness and justice for all the oppressed.
+7 He made known his ways to Moses, his deeds to the people of Israel:
+8 The LORD is compassionate and gracious, slow to anger, abounding in love.
+9 He will not always accuse, nor will he harbor his anger forever;
+10 he does not treat us as our sins deserve or repay us according to our iniquities.
+11 For as high as the heavens are above the earth, so great is his love for those who fear him;
+12 as far as the east is from the west, so far has he removed our transgressions from us.
+13 As a father has compassion on his children, so the LORD has compassion on those who fear him;
+14 for he knows how we are formed, he remembers that we are dust.
+15 The life of mortals is like grass, they flourish like a flower of the field;
+16 the wind blows over it and it is gone, and its place remembers it no more.
+17 But from everlasting to everlasting the LORD’s love is with those who fear him, and his righteousness with their children’s children—
+18 with those who keep his covenant and remember to obey his precepts.
+19 The LORD has established his throne in heaven, and his kingdom rules over all.
+20 Praise the LORD, you his angels, you mighty ones who do his bidding, who obey his word.
+21 Praise the LORD, all his heavenly hosts, you his servants who do his will.
+22 Praise the LORD, all his works everywhere in his dominion. Praise the LORD, my soul. `;
+const sutra_en_19_104 = `1 Praise the LORD, my soul. LORD my God, you are very great; you are clothed with splendor and majesty.
+2 The LORD wraps himself in light as with a garment; he stretches out the heavens like a tent
+3 and lays the beams of his upper chambers on their waters. He makes the clouds his chariot and rides on the wings of the wind.
+4 He makes winds his messengers,flames of fire his servants.
+5 He set the earth on its foundations; it can never be moved.
+6 You covered it with the watery depths as with a garment; the waters stood above the mountains.
+7 But at your rebuke the waters fled, at the sound of your thunder they took to flight;
+8 they flowed over the mountains, they went down into the valleys, to the place you assigned for them.
+9 You set a boundary they cannot cross; never again will they cover the earth.
+10 He makes springs pour water into the ravines; it flows between the mountains.
+11 They give water to all the beasts of the field; the wild donkeys quench their thirst.
+12 The birds of the sky nest by the waters; they sing among the branches.
+13 He waters the mountains from his upper chambers; the land is satisfied by the fruit of his work.
+14 He makes grass grow for the cattle, and plants for people to cultivate— bringing forth food from the earth:
+15 wine that gladdens human hearts, oil to make their faces shine, and bread that sustains their hearts.
+16 The trees of the LORD are well watered, the cedars of Lebanon that he planted.
+17 There the birds make their nests; the stork has its home in the junipers.
+18 The high mountains belong to the wild goats; the crags are a refuge for the hyrax.
+19 He made the moon to mark the seasons, and the sun knows when to go down.
+20 You bring darkness, it becomes night, and all the beasts of the forest prowl.
+21 The lions roar for their prey and seek their food from God.
+22 The sun rises, and they steal away; they return and lie down in their dens.
+23 Then people go out to their work, to their labor until evening.
+24 How many are your works, LORD! In wisdom you made them all; the earth is full of your creatures.
+25 There is the sea, vast and spacious, teeming with creatures beyond number— living things both large and small.
+26 There the ships go to and fro, and Leviathan, which you formed to frolic there.
+27 All creatures look to you to give them their food at the proper time.
+28 When you give it to them, they gather it up; when you open your hand, they are satisfied with good things.
+29 When you hide your face, they are terrified; when you take away their breath, they die and return to the dust.
+30 When you send your Spirit, they are created, and you renew the face of the ground.
+31 May the glory of the LORD endure forever; may the LORD rejoice in his works—
+32 he who looks at the earth, and it trembles, who touches the mountains, and they smoke.
+33 I will sing to the LORD all my life; I will sing praise to my God as long as I live.
+34 May my meditation be pleasing to him, as I rejoice in the LORD.
+35 But may sinners vanish from the earth and the wicked be no more. Praise the LORD, my soul. Praise the LORD. `;
+const sutra_en_19_105 = `1 Give praise to the LORD, proclaim his name; make known among the nations what he has done.
+2 Sing to him, sing praise to him; tell of all his wonderful acts.
+3 Glory in his holy name; let the hearts of those who seek the LORD rejoice.
+4 Look to the LORD and his strength; seek his face always.
+5 Remember the wonders he has done, his miracles, and the judgments he pronounced,
+6 you his servants, the descendants of Abraham, his chosen ones, the children of Jacob.
+7 He is the LORD our God; his judgments are in all the earth.
+8 He remembers his covenant forever, the promise he made, for a thousand generations,
+9 the covenant he made with Abraham, the oath he swore to Isaac.
+10 He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:
+11 “To you I will give the land of Canaan as the portion you will inherit.”
+12 When they were but few in number, few indeed, and strangers in it,
+13 they wandered from nation to nation, from one kingdom to another.
+14 He allowed no one to oppress them; for their sake he rebuked kings:
+15 “Do not touch my anointed ones; do my prophets no harm.”
+16 He called down famine on the land and destroyed all their supplies of food;
+17 and he sent a man before them— Joseph, sold as a slave.
+18 They bruised his feet with shackles, his neck was put in irons,
+19 till what he foretold came to pass, till the word of the LORD proved him true.
+20 The king sent and released him, the ruler of peoples set him free.
+21 He made him master of his household, ruler over all he possessed,
+22 to instruct his princes as he pleased and teach his elders wisdom.
+23 Then Israel entered Egypt; Jacob resided as a foreigner in the land of Ham.
+24 The LORD made his people very fruitful; he made them too numerous for their foes,
+25 whose hearts he turned to hate his people, to conspire against his servants.
+26 He sent Moses his servant, and Aaron, whom he had chosen.
+27 They performed his signs among them, his wonders in the land of Ham.
+28 He sent darkness and made the land dark— for had they not rebelled against his words?
+29 He turned their waters into blood, causing their fish to die.
+30 Their land teemed with frogs, which went up into the bedrooms of their rulers.
+31 He spoke, and there came swarms of flies, and gnats throughout their country.
+32 He turned their rain into hail, with lightning throughout their land;
+33 he struck down their vines and fig trees and shattered the trees of their country.
+34 He spoke, and the locusts came, grasshoppers without number;
+35 they ate up every green thing in their land, ate up the produce of their soil.
+36 Then he struck down all the firstborn in their land, the firstfruits of all their manhood.
+37 He brought out Israel, laden with silver and gold, and from among their tribes no one faltered.
+38 Egypt was glad when they left, because dread of Israel had fallen on them.
+39 He spread out a cloud as a covering, and a fire to give light at night.
+40 They asked, and he brought them quail; he fed them well with the bread of heaven.
+41 He opened the rock, and water gushed out; it flowed like a river in the desert.
+42 For he remembered his holy promise given to his servant Abraham.
+43 He brought out his people with rejoicing, his chosen ones with shouts of joy;
+44 he gave them the lands of the nations, and they fell heir to what others had toiled for—
+45 that they might keep his precepts and observe his laws. Praise the LORD. `;
+const sutra_en_19_106 = `1 Praise the LORD.Give thanks to the LORD, for he is good; his love endures forever.
+2 Who can proclaim the mighty acts of the LORDor fully declare his praise?
+3 Blessed are those who act justly, who always do what is right.
+4 Remember me, LORD, when you show favor to your people, come to my aid when you save them,
+5 that I may enjoy the prosperity of your chosen ones, that I may share in the joy of your nation and join your inheritance in giving praise.
+6 We have sinned, even as our ancestors did; we have done wrong and acted wickedly.
+7 When our ancestors were in Egypt, they gave no thought to your miracles; they did not remember your many kindnesses, and they rebelled by the sea, the Red Sea.
+8 Yet he saved them for his name’s sake, to make his mighty power known.
+9 He rebuked the Red Sea, and it dried up; he led them through the depths as through a desert.
+10 He saved them from the hand of the foe; from the hand of the enemy he redeemed them.
+11 The waters covered their adversaries; not one of them survived.
+12 Then they believed his promises and sang his praise.
+13 But they soon forgot what he had done and did not wait for his plan to unfold.
+14 In the desert they gave in to their craving; in the wilderness they put God to the test.
+15 So he gave them what they asked for, but sent a wasting disease among them.
+16 In the camp they grew envious of Moses and of Aaron, who was consecrated to the LORD.
+17 The earth opened up and swallowed Dathan; it buried the company of Abiram.
+18 Fire blazed among their followers; a flame consumed the wicked.
+19 At Horeb they made a calf and worshiped an idol cast from metal.
+20 They exchanged their glorious God for an image of a bull, which eats grass.
+21 They forgot the God who saved them, who had done great things in Egypt,
+22 miracles in the land of Ham and awesome deeds by the Red Sea.
+23 So he said he would destroy them— had not Moses, his chosen one, stood in the breach before him to keep his wrath from destroying them.
+24 Then they despised the pleasant land; they did not believe his promise.
+25 They grumbled in their tents and did not obey the LORD.
+26 So he swore to them with uplifted hand that he would make them fall in the wilderness,
+27 make their descendants fall among the nations and scatter them throughout the lands.
+28 They yoked themselves to the Baal of Peor and ate sacrifices offered to lifeless gods;
+29 they aroused the LORD’s anger by their wicked deeds, and a plague broke out among them.
+30 But Phinehas stood up and intervened, and the plague was checked.
+31 This was credited to him as righteousness for endless generations to come.
+32 By the waters of Meribah they angered the LORD, and trouble came to Moses because of them;
+33 for they rebelled against the Spirit of God, and rash words came from Moses’ lips.
+34 They did not destroy the peoples as the LORD had commanded them,
+35 but they mingled with the nations and adopted their customs.
+36 They worshiped their idols, which became a snare to them.
+37 They sacrificed their sons and their daughters to false gods.
+38 They shed innocent blood, the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was desecrated by their blood.
+39 They defiled themselves by what they did; by their deeds they prostituted themselves.
+40 Therefore the LORD was angry with his people and abhorred his inheritance.
+41 He gave them into the hands of the nations, and their foes ruled over them.
+42 Their enemies oppressed them and subjected them to their power.
+43 Many times he delivered them, but they were bent on rebellion and they wasted away in their sin.
+44 Yet he took note of their distress when he heard their cry;
+45 for their sake he remembered his covenant and out of his great love he relented.
+46 He caused all who held them captive to show them mercy.
+47 Save us, LORD our God, and gather us from the nations, that we may give thanks to your holy name and glory in your praise.
+48 Praise be to the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, “Amen!” Praise the LORD. `;
+const sutra_en_19_107 = `1 Give thanks to the LORD, for he is good; his love endures forever.
+2 Let the redeemed of the LORD tell their story— those he redeemed from the hand of the foe,
+3 those he gathered from the lands, from east and west, from north and south.
+4 Some wandered in desert wastelands, finding no way to a city where they could settle.
+5 They were hungry and thirsty, and their lives ebbed away.
+6 Then they cried out to the LORD in their trouble, and he delivered them from their distress.
+7 He led them by a straight way to a city where they could settle.
+8 Let them give thanks to the LORD for his unfailing love and his wonderful deeds for mankind,
+9 for he satisfies the thirsty and fills the hungry with good things.
+10 Some sat in darkness, in utter darkness, prisoners suffering in iron chains,
+11 because they rebelled against God’s commands and despised the plans of the Most High.
+12 So he subjected them to bitter labor; they stumbled, and there was no one to help.
+13 Then they cried to the LORD in their trouble, and he saved them from their distress.
+14 He brought them out of darkness, the utter darkness, and broke away their chains.
+15 Let them give thanks to the LORD for his unfailing love and his wonderful deeds for mankind,
+16 for he breaks down gates of bronze and cuts through bars of iron.
+17 Some became fools through their rebellious ways and suffered affliction because of their iniquities.
+18 They loathed all food and drew near the gates of death.
+19 Then they cried to the LORD in their trouble, and he saved them from their distress.
+20 He sent out his word and healed them; he rescued them from the grave.
+21 Let them give thanks to the LORD for his unfailing love and his wonderful deeds for mankind.
+22 Let them sacrifice thank offerings and tell of his works with songs of joy.
+23 Some went out on the sea in ships; they were merchants on the mighty waters.
+24 They saw the works of the LORD, his wonderful deeds in the deep.
+25 For he spoke and stirred up a tempest that lifted high the waves.
+26 They mounted up to the heavens and went down to the depths; in their peril their courage melted away.
+27 They reeled and staggered like drunkards; they were at their wits’ end.
+28 Then they cried out to the LORD in their trouble, and he brought them out of their distress.
+29 He stilled the storm to a whisper; the waves of the sea were hushed.
+30 They were glad when it grew calm, and he guided them to their desired haven.
+31 Let them give thanks to the LORD for his unfailing love and his wonderful deeds for mankind.
+32 Let them exalt him in the assembly of the people and praise him in the council of the elders.
+33 He turned rivers into a desert, flowing springs into thirsty ground,
+34 and fruitful land into a salt waste, because of the wickedness of those who lived there.
+35 He turned the desert into pools of water and the parched ground into flowing springs;
+36 there he brought the hungry to live, and they founded a city where they could settle.
+37 They sowed fields and planted vineyards that yielded a fruitful harvest;
+38 he blessed them, and their numbers greatly increased, and he did not let their herds diminish.
+39 Then their numbers decreased, and they were humbled by oppression, calamity and sorrow;
+40 he who pours contempt on nobles made them wander in a trackless waste.
+41 But he lifted the needy out of their affliction and increased their families like flocks.
+42 The upright see and rejoice, but all the wicked shut their mouths.
+43 Let the one who is wise heed these things and ponder the loving deeds of the LORD. `;
+const sutra_en_19_108 = `1 My heart, O God, is steadfast; I will sing and make music with all my soul.
+2 Awake, harp and lyre! I will awaken the dawn.
+3 I will praise you, LORD, among the nations; I will sing of you among the peoples.
+4 For great is your love, higher than the heavens; your faithfulness reaches to the skies.
+5 Be exalted, O God, above the heavens; let your glory be over all the earth.
+6 Save us and help us with your right hand, that those you love may be delivered.
+7 God has spoken from his sanctuary: “In triumph I will parcel out Shechem and measure off the Valley of Sukkoth.
+8 Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah is my scepter.
+9 Moab is my washbasin, on Edom I toss my sandal; over Philistia I shout in triumph.”
+10 Who will bring me to the fortified city? Who will lead me to Edom?
+11 Is it not you, God, you who have rejected us and no longer go out with our armies?
+12 Give us aid against the enemy, for human help is worthless.
+13 With God we will gain the victory, and he will trample down our enemies. `;
+const sutra_en_19_109 = `1 My God, whom I praise, do not remain silent,
+2 for people who are wicked and deceitful have opened their mouths against me; they have spoken against me with lying tongues.
+3 With words of hatred they surround me; they attack me without cause.
+4 In return for my friendship they accuse me, but I am a man of prayer.
+5 They repay me evil for good, and hatred for my friendship.
+6 Appoint someone evil to oppose my enemy; let an accuser stand at his right hand.
+7 When he is tried, let him be found guilty, and may his prayers condemn him.
+8 May his days be few; may another take his place of leadership.
+9 May his children be fatherless and his wife a widow.
+10 May his children be wandering beggars; may they be driven from their ruined homes.
+11 May a creditor seize all he has; may strangers plunder the fruits of his labor.
+12 May no one extend kindness to him or take pity on his fatherless children.
+13 May his descendants be cut off, their names blotted out from the next generation.
+14 May the iniquity of his fathers be remembered before the LORD; may the sin of his mother never be blotted out.
+15 May their sins always remain before the LORD, that he may blot out their name from the earth.
+16 For he never thought of doing a kindness, but hounded to death the poor and the needy and the brokenhearted.
+17 He loved to pronounce a curse— may it come back on him. He found no pleasure in blessing— may it be far from him.
+18 He wore cursing as his garment; it entered into his body like water, into his bones like oil.
+19 May it be like a cloak wrapped about him, like a belt tied forever around him.
+20 May this be the LORD’s payment to my accusers, to those who speak evil of me.
+21 But you, Sovereign LORD, help me for your name’s sake; out of the goodness of your love, deliver me.
+22 For I am poor and needy, and my heart is wounded within me.
+23 I fade away like an evening shadow; I am shaken off like a locust.
+24 My knees give way from fasting; my body is thin and gaunt.
+25 I am an object of scorn to my accusers; when they see me, they shake their heads.
+26 Help me, LORD my God; save me according to your unfailing love.
+27 Let them know that it is your hand, that you, LORD, have done it.
+28 While they curse, may you bless; may those who attack me be put to shame, but may your servant rejoice.
+29 May my accusers be clothed with disgrace and wrapped in shame as in a cloak.
+30 With my mouth I will greatly extol the LORD; in the great throng of worshipers I will praise him.
+31 For he stands at the right hand of the needy, to save their lives from those who would condemn them. `;
+const sutra_en_19_110 = `1 The LORD says to my lord:“Sit at my right hand until I make your enemies a footstool for your feet.”
+2 The LORD will extend your mighty scepter from Zion, saying, “Rule in the midst of your enemies!”
+3 Your troops will be willing on your day of battle. Arrayed in holy splendor, your young men will come to you like dew from the morning’s womb.
+4 The LORD has sworn and will not change his mind: “You are a priest forever, in the order of Melchizedek.”
+5 The Lord is at your right hand ; he will crush kings on the day of his wrath.
+6 He will judge the nations, heaping up the dead and crushing the rulers of the whole earth.
+7 He will drink from a brook along the way,and so he will lift his head high. `;
+const sutra_en_19_111 = `1 Praise the LORD.I will extol the LORD with all my heart in the council of the upright and in the assembly.
+2 Great are the works of the LORD; they are pondered by all who delight in them.
+3 Glorious and majestic are his deeds, and his righteousness endures forever.
+4 He has caused his wonders to be remembered; the LORD is gracious and compassionate.
+5 He provides food for those who fear him; he remembers his covenant forever.
+6 He has shown his people the power of his works, giving them the lands of other nations.
+7 The works of his hands are faithful and just; all his precepts are trustworthy.
+8 They are established for ever and ever, enacted in faithfulness and uprightness.
+9 He provided redemption for his people; he ordained his covenant forever— holy and awesome is his name.
+10 The fear of the LORD is the beginning of wisdom; all who follow his precepts have good understanding. To him belongs eternal praise. `;
+const sutra_en_19_112 = `1 Praise the LORD. Blessed are those who fear the LORD, who find great delight in his commands.
+2 Their children will be mighty in the land; the generation of the upright will be blessed.
+3 Wealth and riches are in their houses, and their righteousness endures forever.
+4 Even in darkness light dawns for the upright, for those who are gracious and compassionate and righteous.
+5 Good will come to those who are generous and lend freely, who conduct their affairs with justice.
+6 Surely the righteous will never be shaken; they will be remembered forever.
+7 They will have no fear of bad news; their hearts are steadfast, trusting in the LORD.
+8 Their hearts are secure, they will have no fear; in the end they will look in triumph on their foes.
+9 They have freely scattered their gifts to the poor, their righteousness endures forever; their horn will be lifted high in honor.
+10 The wicked will see and be vexed, they will gnash their teeth and waste away; the longings of the wicked will come to nothing. `;
+const sutra_en_19_113 = `1 Praise the LORD.Praise the LORD, you his servants; praise the name of the LORD.
+2 Let the name of the LORD be praised, both now and forevermore.
+3 From the rising of the sun to the place where it sets, the name of the LORD is to be praised.
+4 The LORD is exalted over all the nations, his glory above the heavens.
+5 Who is like the LORD our God, the One who sits enthroned on high,
+6 who stoops down to look on the heavens and the earth?
+7 He raises the poor from the dust and lifts the needy from the ash heap;
+8 he seats them with princes, with the princes of his people.
+9 He settles the childless woman in her home as a happy mother of children. Praise the LORD. `;
+const sutra_en_19_114 = `1 When Israel came out of Egypt, Jacob from a people of foreign tongue,
+2 Judah became God’s sanctuary, Israel his dominion.
+3 The sea looked and fled, the Jordan turned back;
+4 the mountains leaped like rams, the hills like lambs.
+5 Why was it, sea, that you fled? Why, Jordan, did you turn back?
+6 Why, mountains, did you leap like rams, you hills, like lambs?
+7 Tremble, earth, at the presence of the Lord, at the presence of the God of Jacob,
+8 who turned the rock into a pool, the hard rock into springs of water. `;
+const sutra_en_19_115 = `1 Not to us, LORD, not to us but to your name be the glory, because of your love and faithfulness.
+2 Why do the nations say, “Where is their God?”
+3 Our God is in heaven; he does whatever pleases him.
+4 But their idols are silver and gold, made by human hands.
+5 They have mouths, but cannot speak, eyes, but cannot see.
+6 They have ears, but cannot hear, noses, but cannot smell.
+7 They have hands, but cannot feel, feet, but cannot walk, nor can they utter a sound with their throats.
+8 Those who make them will be like them, and so will all who trust in them.
+9 All you Israelites, trust in the LORD— he is their help and shield.
+10 House of Aaron, trust in the LORD— he is their help and shield.
+11 You who fear him, trust in the LORD— he is their help and shield.
+12 The LORD remembers us and will bless us: He will bless his people Israel, he will bless the house of Aaron,
+13 he will bless those who fear the LORD— small and great alike.
+14 May the LORD cause you to flourish, both you and your children.
+15 May you be blessed by the LORD, the Maker of heaven and earth.
+16 The highest heavens belong to the LORD, but the earth he has given to mankind.
+17 It is not the dead who praise the LORD, those who go down to the place of silence;
+18 it is we who extol the LORD, both now and forevermore. Praise the LORD. `;
+const sutra_en_19_116 = `1 I love the LORD, for he heard my voice; he heard my cry for mercy.
+2 Because he turned his ear to me, I will call on him as long as I live.
+3 The cords of death entangled me, the anguish of the grave came over me; I was overcome by distress and sorrow.
+4 Then I called on the name of the LORD: “LORD, save me!”
+5 The LORD is gracious and righteous; our God is full of compassion.
+6 The LORD protects the unwary; when I was brought low, he saved me.
+7 Return to your rest, my soul, for the LORD has been good to you.
+8 For you, LORD, have delivered me from death, my eyes from tears, my feet from stumbling,
+9 that I may walk before the LORDin the land of the living.
+10 I trusted in the LORD when I said, “I am greatly afflicted”;
+11 in my alarm I said, “Everyone is a liar.”
+12 What shall I return to the LORDfor all his goodness to me?
+13 I will lift up the cup of salvation and call on the name of the LORD.
+14 I will fulfill my vows to the LORDin the presence of all his people.
+15 Precious in the sight of the LORDis the death of his faithful servants.
+16 Truly I am your servant, LORD; I serve you just as my mother did; you have freed me from my chains.
+17 I will sacrifice a thank offering to you and call on the name of the LORD.
+18 I will fulfill my vows to the LORDin the presence of all his people,
+19 in the courts of the house of the LORD— in your midst, Jerusalem. Praise the LORD. `;
+const sutra_en_19_117 = `1 Praise the LORD, all you nations; extol him, all you peoples.
+2 For great is his love toward us, and the faithfulness of the LORD endures forever. Praise the LORD. `;
+const sutra_en_19_118 = `1 Give thanks to the LORD, for he is good; his love endures forever.
+2 Let Israel say: “His love endures forever.”
+3 Let the house of Aaron say: “His love endures forever.”
+4 Let those who fear the LORD say: “His love endures forever.”
+5 When hard pressed, I cried to the LORD; he brought me into a spacious place.
+6 The LORD is with me; I will not be afraid. What can mere mortals do to me?
+7 The LORD is with me; he is my helper. I look in triumph on my enemies.
+8 It is better to take refuge in the LORD than to trust in humans.
+9 It is better to take refuge in the LORD than to trust in princes.
+10 All the nations surrounded me, but in the name of the LORD I cut them down.
+11 They surrounded me on every side, but in the name of the LORD I cut them down.
+12 They swarmed around me like bees, but they were consumed as quickly as burning thorns; in the name of the LORD I cut them down.
+13 I was pushed back and about to fall, but the LORD helped me.
+14 The LORD is my strength and my defense ; he has become my salvation.
+15 Shouts of joy and victory resound in the tents of the righteous: “The LORD’s right hand has done mighty things!
+16 The LORD’s right hand is lifted high; the LORD’s right hand has done mighty things!”
+17 I will not die but live, and will proclaim what the LORD has done.
+18 The LORD has chastened me severely, but he has not given me over to death.
+19 Open for me the gates of the righteous; I will enter and give thanks to the LORD.
+20 This is the gate of the LORD through which the righteous may enter.
+21 I will give you thanks, for you answered me; you have become my salvation.
+22 The stone the builders rejected has become the cornerstone;
+23 the LORD has done this, and it is marvelous in our eyes.
+24 The LORD has done it this very day; let us rejoice today and be glad.
+25 LORD, save us! LORD, grant us success!
+26 Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you.
+27 The LORD is God, and he has made his light shine on us. With boughs in hand, join in the festal procession up to the horns of the altar.
+28 You are my God, and I will praise you; you are my God, and I will exalt you.
+29 Give thanks to the LORD, for he is good; his love endures forever. `;
+const sutra_en_19_119 = `1 Blessed are those whose ways are blameless, who walk according to the law of the LORD.
+2 Blessed are those who keep his statutes and seek him with all their heart—
+3 they do no wrong but follow his ways.
+4 You have laid down precepts that are to be fully obeyed.
+5 Oh, that my ways were steadfast in obeying your decrees!
+6 Then I would not be put to shame when I consider all your commands.
+7 I will praise you with an upright heart as I learn your righteous laws.
+8 I will obey your decrees; do not utterly forsake me.
+9 How can a young person stay on the path of purity? By living according to your word.
+10 I seek you with all my heart; do not let me stray from your commands.
+11 I have hidden your word in my heart that I might not sin against you.
+12 Praise be to you, LORD; teach me your decrees.
+13 With my lips I recount all the laws that come from your mouth.
+14 I rejoice in following your statutes as one rejoices in great riches.
+15 I meditate on your precepts and consider your ways.
+16 I delight in your decrees; I will not neglect your word.
+17 Be good to your servant while I live, that I may obey your word.
+18 Open my eyes that I may see wonderful things in your law.
+19 I am a stranger on earth; do not hide your commands from me.
+20 My soul is consumed with longing for your laws at all times.
+21 You rebuke the arrogant, who are accursed, those who stray from your commands.
+22 Remove from me their scorn and contempt, for I keep your statutes.
+23 Though rulers sit together and slander me, your servant will meditate on your decrees.
+24 Your statutes are my delight; they are my counselors.
+25 I am laid low in the dust; preserve my life according to your word.
+26 I gave an account of my ways and you answered me; teach me your decrees.
+27 Cause me to understand the way of your precepts, that I may meditate on your wonderful deeds.
+28 My soul is weary with sorrow; strengthen me according to your word.
+29 Keep me from deceitful ways; be gracious to me and teach me your law.
+30 I have chosen the way of faithfulness; I have set my heart on your laws.
+31 I hold fast to your statutes, LORD; do not let me be put to shame.
+32 I run in the path of your commands, for you have broadened my understanding.
+33 Teach me, LORD, the way of your decrees, that I may follow it to the end.
+34 Give me understanding, so that I may keep your law and obey it with all my heart.
+35 Direct me in the path of your commands, for there I find delight.
+36 Turn my heart toward your statutes and not toward selfish gain.
+37 Turn my eyes away from worthless things; preserve my life according to your word.
+38 Fulfill your promise to your servant, so that you may be feared.
+39 Take away the disgrace I dread, for your laws are good.
+40 How I long for your precepts! In your righteousness preserve my life.
+41 May your unfailing love come to me, LORD, your salvation, according to your promise;
+42 then I can answer anyone who taunts me, for I trust in your word.
+43 Never take your word of truth from my mouth, for I have put my hope in your laws.
+44 I will always obey your law, for ever and ever.
+45 I will walk about in freedom, for I have sought out your precepts.
+46 I will speak of your statutes before kings and will not be put to shame,
+47 for I delight in your commands because I love them.
+48 I reach out for your commands, which I love, that I may meditate on your decrees.
+49 Remember your word to your servant, for you have given me hope.
+50 My comfort in my suffering is this: Your promise preserves my life.
+51 The arrogant mock me unmercifully, but I do not turn from your law.
+52 I remember, LORD, your ancient laws, and I find comfort in them.
+53 Indignation grips me because of the wicked, who have forsaken your law.
+54 Your decrees are the theme of my song wherever I lodge.
+55 In the night, LORD, I remember your name, that I may keep your law.
+56 This has been my practice: I obey your precepts.
+57 You are my portion, LORD; I have promised to obey your words.
+58 I have sought your face with all my heart; be gracious to me according to your promise.
+59 I have considered my ways and have turned my steps to your statutes.
+60 I will hasten and not delay to obey your commands.
+61 Though the wicked bind me with ropes, I will not forget your law.
+62 At midnight I rise to give you thanks for your righteous laws.
+63 I am a friend to all who fear you, to all who follow your precepts.
+64 The earth is filled with your love, LORD; teach me your decrees.
+65 Do good to your servant according to your word, LORD.
+66 Teach me knowledge and good judgment, for I trust your commands.
+67 Before I was afflicted I went astray, but now I obey your word.
+68 You are good, and what you do is good; teach me your decrees.
+69 Though the arrogant have smeared me with lies, I keep your precepts with all my heart.
+70 Their hearts are callous and unfeeling, but I delight in your law.
+71 It was good for me to be afflicted so that I might learn your decrees.
+72 The law from your mouth is more precious to me than thousands of pieces of silver and gold.
+73 Your hands made me and formed me; give me understanding to learn your commands.
+74 May those who fear you rejoice when they see me, for I have put my hope in your word.
+75 I know, LORD, that your laws are righteous, and that in faithfulness you have afflicted me.
+76 May your unfailing love be my comfort, according to your promise to your servant.
+77 Let your compassion come to me that I may live, for your law is my delight.
+78 May the arrogant be put to shame for wronging me without cause; but I will meditate on your precepts.
+79 May those who fear you turn to me, those who understand your statutes.
+80 May I wholeheartedly follow your decrees, that I may not be put to shame.
+81 My soul faints with longing for your salvation, but I have put my hope in your word.
+82 My eyes fail, looking for your promise; I say, “When will you comfort me?”
+83 Though I am like a wineskin in the smoke, I do not forget your decrees.
+84 How long must your servant wait? When will you punish my persecutors?
+85 The arrogant dig pits to trap me, contrary to your law.
+86 All your commands are trustworthy; help me, for I am being persecuted without cause.
+87 They almost wiped me from the earth, but I have not forsaken your precepts.
+88 In your unfailing love preserve my life, that I may obey the statutes of your mouth.
+89 Your word, LORD, is eternal; it stands firm in the heavens.
+90 Your faithfulness continues through all generations; you established the earth, and it endures.
+91 Your laws endure to this day, for all things serve you.
+92 If your law had not been my delight, I would have perished in my affliction.
+93 I will never forget your precepts, for by them you have preserved my life.
+94 Save me, for I am yours; I have sought out your precepts.
+95 The wicked are waiting to destroy me, but I will ponder your statutes.
+96 To all perfection I see a limit, but your commands are boundless.
+97 Oh, how I love your law! I meditate on it all day long.
+98 Your commands are always with me and make me wiser than my enemies.
+99 I have more insight than all my teachers, for I meditate on your statutes.
+100 I have more understanding than the elders, for I obey your precepts.
+101 I have kept my feet from every evil path so that I might obey your word.
+102 I have not departed from your laws, for you yourself have taught me.
+103 How sweet are your words to my taste, sweeter than honey to my mouth!
+104 I gain understanding from your precepts; therefore I hate every wrong path.
+105 Your word is a lamp for my feet, a light on my path.
+106 I have taken an oath and confirmed it, that I will follow your righteous laws.
+107 I have suffered much; preserve my life, LORD, according to your word.
+108 Accept, LORD, the willing praise of my mouth, and teach me your laws.
+109 Though I constantly take my life in my hands, I will not forget your law.
+110 The wicked have set a snare for me, but I have not strayed from your precepts.
+111 Your statutes are my heritage forever; they are the joy of my heart.
+112 My heart is set on keeping your decrees to the very end.
+113 I hate double-minded people, but I love your law.
+114 You are my refuge and my shield; I have put my hope in your word.
+115 Away from me, you evildoers, that I may keep the commands of my God!
+116 Sustain me, my God, according to your promise, and I will live; do not let my hopes be dashed.
+117 Uphold me, and I will be delivered; I will always have regard for your decrees.
+118 You reject all who stray from your decrees, for their delusions come to nothing.
+119 All the wicked of the earth you discard like dross; therefore I love your statutes.
+120 My flesh trembles in fear of you; I stand in awe of your laws.
+121 I have done what is righteous and just; do not leave me to my oppressors.
+122 Ensure your servant’s well-being; do not let the arrogant oppress me.
+123 My eyes fail, looking for your salvation, looking for your righteous promise.
+124 Deal with your servant according to your love and teach me your decrees.
+125 I am your servant; give me discernment that I may understand your statutes.
+126 It is time for you to act, LORD; your law is being broken.
+127 Because I love your commands more than gold, more than pure gold,
+128 and because I consider all your precepts right, I hate every wrong path.
+129 Your statutes are wonderful; therefore I obey them.
+130 The unfolding of your words gives light; it gives understanding to the simple.
+131 I open my mouth and pant, longing for your commands.
+132 Turn to me and have mercy on me, as you always do to those who love your name.
+133 Direct my footsteps according to your word; let no sin rule over me.
+134 Redeem me from human oppression, that I may obey your precepts.
+135 Make your face shine on your servant and teach me your decrees.
+136 Streams of tears flow from my eyes, for your law is not obeyed.
+137 You are righteous, LORD, and your laws are right.
+138 The statutes you have laid down are righteous; they are fully trustworthy.
+139 My zeal wears me out, for my enemies ignore your words.
+140 Your promises have been thoroughly tested, and your servant loves them.
+141 Though I am lowly and despised, I do not forget your precepts.
+142 Your righteousness is everlasting and your law is true.
+143 Trouble and distress have come upon me, but your commands give me delight.
+144 Your statutes are always righteous; give me understanding that I may live.
+145 I call with all my heart; answer me, LORD, and I will obey your decrees.
+146 I call out to you; save me and I will keep your statutes.
+147 I rise before dawn and cry for help; I have put my hope in your word.
+148 My eyes stay open through the watches of the night, that I may meditate on your promises.
+149 Hear my voice in accordance with your love; preserve my life, LORD, according to your laws.
+150 Those who devise wicked schemes are near, but they are far from your law.
+151 Yet you are near, LORD, and all your commands are true.
+152 Long ago I learned from your statutes that you established them to last forever.
+153 Look on my suffering and deliver me, for I have not forgotten your law.
+154 Defend my cause and redeem me; preserve my life according to your promise.
+155 Salvation is far from the wicked, for they do not seek out your decrees.
+156 Your compassion, LORD, is great; preserve my life according to your laws.
+157 Many are the foes who persecute me, but I have not turned from your statutes.
+158 I look on the faithless with loathing, for they do not obey your word.
+159 See how I love your precepts; preserve my life, LORD, in accordance with your love.
+160 All your words are true; all your righteous laws are eternal.
+161 Rulers persecute me without cause, but my heart trembles at your word.
+162 I rejoice in your promise like one who finds great spoil.
+163 I hate and detest falsehood but I love your law.
+164 Seven times a day I praise you for your righteous laws.
+165 Great peace have those who love your law, and nothing can make them stumble.
+166 I wait for your salvation, LORD, and I follow your commands.
+167 I obey your statutes, for I love them greatly.
+168 I obey your precepts and your statutes, for all my ways are known to you.
+169 May my cry come before you, LORD; give me understanding according to your word.
+170 May my supplication come before you; deliver me according to your promise.
+171 May my lips overflow with praise, for you teach me your decrees.
+172 May my tongue sing of your word, for all your commands are righteous.
+173 May your hand be ready to help me, for I have chosen your precepts.
+174 I long for your salvation, LORD, and your law gives me delight.
+175 Let me live that I may praise you, and may your laws sustain me.
+176 I have strayed like a lost sheep. Seek your servant, for I have not forgotten your commands. `;
+const sutra_en_19_120 = `1 I call on the LORD in my distress, and he answers me.
+2 Save me, LORD, from lying lips and from deceitful tongues.
+3 What will he do to you, and what more besides, you deceitful tongue?
+4 He will punish you with a warrior’s sharp arrows, with burning coals of the broom bush.
+5 Woe to me that I dwell in Meshek, that I live among the tents of Kedar!
+6 Too long have I lived among those who hate peace.
+7 I am for peace; but when I speak, they are for war. `;
+const sutra_en_19_121 = `1 I lift up my eyes to the mountains— where does my help come from?
+2 My help comes from the LORD, the Maker of heaven and earth.
+3 He will not let your foot slip— he who watches over you will not slumber;
+4 indeed, he who watches over Israel will neither slumber nor sleep.
+5 The LORD watches over you— the LORD is your shade at your right hand;
+6 the sun will not harm you by day, nor the moon by night.
+7 The LORD will keep you from all harm— he will watch over your life;
+8 the LORD will watch over your coming and going both now and forevermore. `;
+const sutra_en_19_122 = `1 I rejoiced with those who said to me, “Let us go to the house of the LORD.”
+2 Our feet are standing in your gates, Jerusalem.
+3 Jerusalem is built like a city that is closely compacted together.
+4 That is where the tribes go up— the tribes of the LORD— to praise the name of the LORDaccording to the statute given to Israel.
+5 There stand the thrones for judgment, the thrones of the house of David.
+6 Pray for the peace of Jerusalem: “May those who love you be secure.
+7 May there be peace within your walls and security within your citadels.”
+8 For the sake of my family and friends, I will say, “Peace be within you.”
+9 For the sake of the house of the LORD our God, I will seek your prosperity. `;
+const sutra_en_19_123 = `1 I lift up my eyes to you, to you who sit enthroned in heaven.
+2 As the eyes of slaves look to the hand of their master, as the eyes of a female slave look to the hand of her mistress, so our eyes look to the LORD our God, till he shows us his mercy.
+3 Have mercy on us, LORD, have mercy on us, for we have endured no end of contempt.
+4 We have endured no end of ridicule from the arrogant, of contempt from the proud. `;
+const sutra_en_19_124 = `1 If the LORD had not been on our side— let Israel say—
+2 if the LORD had not been on our side when people attacked us,
+3 they would have swallowed us alive when their anger flared against us;
+4 the flood would have engulfed us, the torrent would have swept over us,
+5 the raging waters would have swept us away.
+6 Praise be to the LORD, who has not let us be torn by their teeth.
+7 We have escaped like a bird from the fowler’s snare; the snare has been broken, and we have escaped.
+8 Our help is in the name of the LORD, the Maker of heaven and earth. `;
+const sutra_en_19_125 = `1 Those who trust in the LORD are like Mount Zion, which cannot be shaken but endures forever.
+2 As the mountains surround Jerusalem, so the LORD surrounds his people both now and forevermore.
+3 The scepter of the wicked will not remain over the land allotted to the righteous, for then the righteous might use their hands to do evil.
+4 LORD, do good to those who are good, to those who are upright in heart.
+5 But those who turn to crooked ways the LORD will banish with the evildoers. Peace be on Israel. `;
+const sutra_en_19_126 = `1 When the LORD restored the fortunes of Zion, we were like those who dreamed.
+2 Our mouths were filled with laughter, our tongues with songs of joy. Then it was said among the nations, “The LORD has done great things for them.”
+3 The LORD has done great things for us, and we are filled with joy.
+4 Restore our fortunes,LORD, like streams in the Negev.
+5 Those who sow with tears will reap with songs of joy.
+6 Those who go out weeping, carrying seed to sow, will return with songs of joy, carrying sheaves with them. `;
+const sutra_en_19_127 = `1 Unless the LORD builds the house, the builders labor in vain. Unless the LORD watches over the city, the guards stand watch in vain.
+2 In vain you rise early and stay up late, toiling for food to eat— for he grants sleep to those he loves.
+3 Children are a heritage from the LORD, offspring a reward from him.
+4 Like arrows in the hands of a warrior are children born in one’s youth.
+5 Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their opponents in court. `;
+const sutra_en_19_128 = `1 Blessed are all who fear the LORD, who walk in obedience to him.
+2 You will eat the fruit of your labor; blessings and prosperity will be yours.
+3 Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table.
+4 Yes, this will be the blessing for the man who fears the LORD.
+5 May the LORD bless you from Zion; may you see the prosperity of Jerusalem all the days of your life.
+6 May you live to see your children’s children— peace be on Israel. `;
+const sutra_en_19_129 = `1 “They have greatly oppressed me from my youth,” let Israel say;
+2 “they have greatly oppressed me from my youth, but they have not gained the victory over me.
+3 Plowmen have plowed my back and made their furrows long.
+4 But the LORD is righteous; he has cut me free from the cords of the wicked.”
+5 May all who hate Zion be turned back in shame.
+6 May they be like grass on the roof, which withers before it can grow;
+7 a reaper cannot fill his hands with it, nor one who gathers fill his arms.
+8 May those who pass by not say to them, “The blessing of the LORD be on you; we bless you in the name of the LORD.” `;
+const sutra_en_19_130 = `1 Out of the depths I cry to you, LORD;
+2 Lord, hear my voice. Let your ears be attentive to my cry for mercy.
+3 If you, LORD, kept a record of sins, Lord, who could stand?
+4 But with you there is forgiveness, so that we can, with reverence, serve you.
+5 I wait for the LORD, my whole being waits, and in his word I put my hope.
+6 I wait for the Lord more than watchmen wait for the morning, more than watchmen wait for the morning.
+7 Israel, put your hope in the LORD, for with the LORD is unfailing love and with him is full redemption.
+8 He himself will redeem Israel from all their sins. `;
+const sutra_en_19_131 = `1 My heart is not proud, LORD, my eyes are not haughty; I do not concern myself with great matters or things too wonderful for me.
+2 But I have calmed and quieted myself, I am like a weaned child with its mother; like a weaned child I am content.
+3 Israel, put your hope in the LORD both now and forevermore. `;
+const sutra_en_19_132 = `1 LORD, remember David and all his self-denial.
+2 He swore an oath to the LORD, he made a vow to the Mighty One of Jacob:
+3 “I will not enter my house or go to my bed,
+4 I will allow no sleep to my eyes or slumber to my eyelids,
+5 till I find a place for the LORD, a dwelling for the Mighty One of Jacob.”
+6 We heard it in Ephrathah, we came upon it in the fields of Jaar:
+7 “Let us go to his dwelling place, let us worship at his footstool, saying,
+8 ‘Arise, LORD, and come to your resting place, you and the ark of your might.
+9 May your priests be clothed with your righteousness; may your faithful people sing for joy.’ ”
+10 For the sake of your servant David, do not reject your anointed one.
+11 The LORD swore an oath to David, a sure oath he will not revoke: “One of your own descendants I will place on your throne.
+12 If your sons keep my covenant and the statutes I teach them, then their sons will sit on your throne for ever and ever.”
+13 For the LORD has chosen Zion, he has desired it for his dwelling, saying,
+14 “This is my resting place for ever and ever; here I will sit enthroned, for I have desired it.
+15 I will bless her with abundant provisions; her poor I will satisfy with food.
+16 I will clothe her priests with salvation, and her faithful people will ever sing for joy.
+17 “Here I will make a horn grow for David and set up a lamp for my anointed one.
+18 I will clothe his enemies with shame, but his head will be adorned with a radiant crown.” `;
+const sutra_en_19_133 = `1 How good and pleasant it is when God’s people live together in unity!
+2 It is like precious oil poured on the head, running down on the beard, running down on Aaron’s beard, down on the collar of his robe.
+3 It is as if the dew of Hermon were falling on Mount Zion. For there the LORD bestows his blessing, even life forevermore. `;
+const sutra_en_19_134 = `1 Praise the LORD, all you servants of the LORD who minister by night in the house of the LORD.
+2 Lift up your hands in the sanctuary and praise the LORD.
+3 May the LORD bless you from Zion, he who is the Maker of heaven and earth. `;
+const sutra_en_19_135 = `1 Praise the LORD.Praise the name of the LORD; praise him, you servants of the LORD,
+2 you who minister in the house of the LORD, in the courts of the house of our God.
+3 Praise the LORD, for the LORD is good; sing praise to his name, for that is pleasant.
+4 For the LORD has chosen Jacob to be his own, Israel to be his treasured possession.
+5 I know that the LORD is great, that our Lord is greater than all gods.
+6 The LORD does whatever pleases him, in the heavens and on the earth, in the seas and all their depths.
+7 He makes clouds rise from the ends of the earth; he sends lightning with the rain and brings out the wind from his storehouses.
+8 He struck down the firstborn of Egypt, the firstborn of people and animals.
+9 He sent his signs and wonders into your midst, Egypt, against Pharaoh and all his servants.
+10 He struck down many nations and killed mighty kings—
+11 Sihon king of the Amorites, Og king of Bashan, and all the kings of Canaan—
+12 and he gave their land as an inheritance, an inheritance to his people Israel.
+13 Your name, LORD, endures forever, your renown, LORD, through all generations.
+14 For the LORD will vindicate his people and have compassion on his servants.
+15 The idols of the nations are silver and gold, made by human hands.
+16 They have mouths, but cannot speak, eyes, but cannot see.
+17 They have ears, but cannot hear, nor is there breath in their mouths.
+18 Those who make them will be like them, and so will all who trust in them.
+19 All you Israelites, praise the LORD; house of Aaron, praise the LORD;
+20 house of Levi, praise the LORD; you who fear him, praise the LORD.
+21 Praise be to the LORD from Zion, to him who dwells in Jerusalem. Praise the LORD. `;
+const sutra_en_19_136 = `1 Give thanks to the LORD, for he is good. His love endures forever.
+2 Give thanks to the God of gods. His love endures forever.
+3 Give thanks to the Lord of lords: His love endures forever.
+4 to him who alone does great wonders, His love endures forever.
+5 who by his understanding made the heavens, His love endures forever.
+6 who spread out the earth upon the waters, His love endures forever.
+7 who made the great lights— His love endures forever.
+8 the sun to govern the day, His love endures forever.
+9 the moon and stars to govern the night; His love endures forever.
+10 to him who struck down the firstborn of Egypt His love endures forever.
+11 and brought Israel out from among them His love endures forever.
+12 with a mighty hand and outstretched arm; His love endures forever.
+13 to him who divided the Red Sea asunder His love endures forever.
+14 and brought Israel through the midst of it, His love endures forever.
+15 but swept Pharaoh and his army into the Red Sea; His love endures forever.
+16 to him who led his people through the wilderness; His love endures forever.
+17 to him who struck down great kings, His love endures forever.
+18 and killed mighty kings— His love endures forever.
+19 Sihon king of the Amorites His love endures forever.
+20 and Og king of Bashan— His love endures forever.
+21 and gave their land as an inheritance, His love endures forever.
+22 an inheritance to his servant Israel. His love endures forever.
+23 He remembered us in our low estate His love endures forever.
+24 and freed us from our enemies. His love endures forever.
+25 He gives food to every creature. His love endures forever.
+26 Give thanks to the God of heaven. His love endures forever. `;
+const sutra_en_19_137 = `1 By the rivers of Babylon we sat and wept when we remembered Zion.
+2 There on the poplars we hung our harps,
+3 for there our captors asked us for songs, our tormentors demanded songs of joy; they said, “Sing us one of the songs of Zion!”
+4 How can we sing the songs of the LORD while in a foreign land?
+5 If I forget you, Jerusalem, may my right hand forget its skill.
+6 May my tongue cling to the roof of my mouth if I do not remember you, if I do not consider Jerusalem my highest joy.
+7 Remember, LORD, what the Edomites did on the day Jerusalem fell. “Tear it down,” they cried, “tear it down to its foundations!”
+8 Daughter Babylon, doomed to destruction, happy is the one who repays you according to what you have done to us.
+9 Happy is the one who seizes your infants and dashes them against the rocks. `;
+const sutra_en_19_138 = `1 I will praise you, LORD, with all my heart; before the “gods” I will sing your praise.
+2 I will bow down toward your holy temple and will praise your name for your unfailing love and your faithfulness, for you have so exalted your solemn decree that it surpasses your fame.
+3 When I called, you answered me; you greatly emboldened me.
+4 May all the kings of the earth praise you, LORD, when they hear what you have decreed.
+5 May they sing of the ways of the LORD, for the glory of the LORD is great.
+6 Though the LORD is exalted, he looks kindly on the lowly; though lofty, he sees them from afar.
+7 Though I walk in the midst of trouble, you preserve my life. You stretch out your hand against the anger of my foes; with your right hand you save me.
+8 The LORD will vindicate me; your love, LORD, endures forever— do not abandon the works of your hands. `;
+const sutra_en_19_139 = `1 You have searched me, LORD, and you know me.
+2 You know when I sit and when I rise; you perceive my thoughts from afar.
+3 You discern my going out and my lying down; you are familiar with all my ways.
+4 Before a word is on my tongue you, LORD, know it completely.
+5 You hem me in behind and before, and you lay your hand upon me.
+6 Such knowledge is too wonderful for me, too lofty for me to attain.
+7 Where can I go from your Spirit? Where can I flee from your presence?
+8 If I go up to the heavens, you are there; if I make my bed in the depths, you are there.
+9 If I rise on the wings of the dawn, if I settle on the far side of the sea,
+10 even there your hand will guide me, your right hand will hold me fast.
+11 If I say, “Surely the darkness will hide me and the light become night around me,”
+12 even the darkness will not be dark to you; the night will shine like the day, for darkness is as light to you.
+13 For you created my inmost being; you knit me together in my mother’s womb.
+14 I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.
+15 My frame was not hidden from you when I was made in the secret place, when I was woven together in the depths of the earth.
+16 Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be.
+17 How precious to me are your thoughts, God! How vast is the sum of them!
+18 Were I to count them, they would outnumber the grains of sand— when I awake, I am still with you.
+19 If only you, God, would slay the wicked! Away from me, you who are bloodthirsty!
+20 They speak of you with evil intent; your adversaries misuse your name.
+21 Do I not hate those who hate you, LORD, and abhor those who are in rebellion against you?
+22 I have nothing but hatred for them; I count them my enemies.
+23 Search me, God, and know my heart; test me and know my anxious thoughts.
+24 See if there is any offensive way in me, and lead me in the way everlasting. `;
+const sutra_en_19_140 = `1 Rescue me, LORD, from evildoers; protect me from the violent,
+2 who devise evil plans in their hearts and stir up war every day.
+3 They make their tongues as sharp as a serpent’s; the poison of vipers is on their lips.
+4 Keep me safe, LORD, from the hands of the wicked; protect me from the violent, who devise ways to trip my feet.
+5 The arrogant have hidden a snare for me; they have spread out the cords of their net and have set traps for me along my path.
+6 I say to the LORD, “You are my God.” Hear, LORD, my cry for mercy.
+7 Sovereign LORD, my strong deliverer, you shield my head in the day of battle.
+8 Do not grant the wicked their desires, LORD; do not let their plans succeed.
+9 Those who surround me proudly rear their heads; may the mischief of their lips engulf them.
+10 May burning coals fall on them; may they be thrown into the fire, into miry pits, never to rise.
+11 May slanderers not be established in the land; may disaster hunt down the violent.
+12 I know that the LORD secures justice for the poor and upholds the cause of the needy.
+13 Surely the righteous will praise your name, and the upright will live in your presence. `;
+const sutra_en_19_141 = `1 I call to you, LORD, come quickly to me; hear me when I call to you.
+2 May my prayer be set before you like incense; may the lifting up of my hands be like the evening sacrifice.
+3 Set a guard over my mouth, LORD; keep watch over the door of my lips.
+4 Do not let my heart be drawn to what is evil so that I take part in wicked deeds along with those who are evildoers; do not let me eat their delicacies.
+5 Let a righteous man strike me—that is a kindness; let him rebuke me—that is oil on my head. My head will not refuse it, for my prayer will still be against the deeds of evildoers.
+6 Their rulers will be thrown down from the cliffs, and the wicked will learn that my words were well spoken.
+7 They will say, “As one plows and breaks up the earth, so our bones have been scattered at the mouth of the grave.”
+8 But my eyes are fixed on you, Sovereign LORD; in you I take refuge—do not give me over to death.
+9 Keep me safe from the traps set by evildoers, from the snares they have laid for me.
+10 Let the wicked fall into their own nets, while I pass by in safety. `;
+const sutra_en_19_142 = `1 I cry aloud to the LORD; I lift up my voice to the LORD for mercy.
+2 I pour out before him my complaint; before him I tell my trouble.
+3 When my spirit grows faint within me, it is you who watch over my way. In the path where I walk people have hidden a snare for me.
+4 Look and see, there is no one at my right hand; no one is concerned for me. I have no refuge; no one cares for my life.
+5 I cry to you, LORD; I say, “You are my refuge, my portion in the land of the living.”
+6 Listen to my cry, for I am in desperate need; rescue me from those who pursue me, for they are too strong for me.
+7 Set me free from my prison, that I may praise your name. Then the righteous will gather about me because of your goodness to me. `;
+const sutra_en_19_143 = `1 LORD, hear my prayer, listen to my cry for mercy; in your faithfulness and righteousness come to my relief.
+2 Do not bring your servant into judgment, for no one living is righteous before you.
+3 The enemy pursues me, he crushes me to the ground; he makes me dwell in the darkness like those long dead.
+4 So my spirit grows faint within me; my heart within me is dismayed.
+5 I remember the days of long ago; I meditate on all your works and consider what your hands have done.
+6 I spread out my hands to you; I thirst for you like a parched land.
+7 Answer me quickly, LORD; my spirit fails. Do not hide your face from me or I will be like those who go down to the pit.
+8 Let the morning bring me word of your unfailing love, for I have put my trust in you. Show me the way I should go, for to you I entrust my life.
+9 Rescue me from my enemies, LORD, for I hide myself in you.
+10 Teach me to do your will, for you are my God; may your good Spirit lead me on level ground.
+11 For your name’s sake, LORD, preserve my life; in your righteousness, bring me out of trouble.
+12 In your unfailing love, silence my enemies; destroy all my foes, for I am your servant. `;
+const sutra_en_19_144 = `1 Praise be to the LORD my Rock, who trains my hands for war, my fingers for battle.
+2 He is my loving God and my fortress, my stronghold and my deliverer, my shield, in whom I take refuge, who subdues peoples under me.
+3 LORD, what are human beings that you care for them, mere mortals that you think of them?
+4 They are like a breath; their days are like a fleeting shadow.
+5 Part your heavens, LORD, and come down; touch the mountains, so that they smoke.
+6 Send forth lightning and scatter the enemy; shoot your arrows and rout them.
+7 Reach down your hand from on high; deliver me and rescue me from the mighty waters, from the hands of foreigners
+8 whose mouths are full of lies, whose right hands are deceitful.
+9 I will sing a new song to you, my God; on the ten-stringed lyre I will make music to you,
+10 to the One who gives victory to kings, who delivers his servant David. From the deadly sword
+11 deliver me; rescue me from the hands of foreigners whose mouths are full of lies, whose right hands are deceitful.
+12 Then our sons in their youth will be like well-nurtured plants, and our daughters will be like pillars carved to adorn a palace.
+13 Our barns will be filled with every kind of provision. Our sheep will increase by thousands, by tens of thousands in our fields;
+14 our oxen will draw heavy loads.There will be no breaching of walls, no going into captivity, no cry of distress in our streets.
+15 Blessed is the people of whom this is true; blessed is the people whose God is the LORD. `;
+const sutra_en_19_145 = `1 I will exalt you, my God the King; I will praise your name for ever and ever.
+2 Every day I will praise you and extol your name for ever and ever.
+3 Great is the LORD and most worthy of praise; his greatness no one can fathom.
+4 One generation commends your works to another; they tell of your mighty acts.
+5 They speak of the glorious splendor of your majesty— and I will meditate on your wonderful works.
+6 They tell of the power of your awesome works— and I will proclaim your great deeds.
+7 They celebrate your abundant goodness and joyfully sing of your righteousness.
+8 The LORD is gracious and compassionate, slow to anger and rich in love.
+9 The LORD is good to all; he has compassion on all he has made.
+10 All your works praise you, LORD; your faithful people extol you.
+11 They tell of the glory of your kingdom and speak of your might,
+12 so that all people may know of your mighty acts and the glorious splendor of your kingdom.
+13 Your kingdom is an everlasting kingdom, and your dominion endures through all generations. The LORD is trustworthy in all he promises and faithful in all he does.
+14 The LORD upholds all who fall and lifts up all who are bowed down.
+15 The eyes of all look to you, and you give them their food at the proper time.
+16 You open your hand and satisfy the desires of every living thing.
+17 The LORD is righteous in all his ways and faithful in all he does.
+18 The LORD is near to all who call on him, to all who call on him in truth.
+19 He fulfills the desires of those who fear him; he hears their cry and saves them.
+20 The LORD watches over all who love him, but all the wicked he will destroy.
+21 My mouth will speak in praise of the LORD. Let every creature praise his holy name for ever and ever. `;
+const sutra_en_19_146 = `1 Praise the LORD.Praise the LORD, my soul.
+2 I will praise the LORD all my life; I will sing praise to my God as long as I live.
+3 Do not put your trust in princes, in human beings, who cannot save.
+4 When their spirit departs, they return to the ground; on that very day their plans come to nothing.
+5 Blessed are those whose help is the God of Jacob, whose hope is in the LORD their God.
+6 He is the Maker of heaven and earth, the sea, and everything in them— he remains faithful forever.
+7 He upholds the cause of the oppressed and gives food to the hungry. The LORD sets prisoners free,
+8 the LORD gives sight to the blind, the LORD lifts up those who are bowed down, the LORD loves the righteous.
+9 The LORD watches over the foreigner and sustains the fatherless and the widow, but he frustrates the ways of the wicked.
+10 The LORD reigns forever, your God, O Zion, for all generations. Praise the LORD. `;
+const sutra_en_19_147 = `1 Praise the LORD.How good it is to sing praises to our God, how pleasant and fitting to praise him!
+2 The LORD builds up Jerusalem; he gathers the exiles of Israel.
+3 He heals the brokenhearted and binds up their wounds.
+4 He determines the number of the stars and calls them each by name.
+5 Great is our Lord and mighty in power; his understanding has no limit.
+6 The LORD sustains the humble but casts the wicked to the ground.
+7 Sing to the LORD with grateful praise; make music to our God on the harp.
+8 He covers the sky with clouds; he supplies the earth with rain and makes grass grow on the hills.
+9 He provides food for the cattle and for the young ravens when they call.
+10 His pleasure is not in the strength of the horse, nor his delight in the legs of the warrior;
+11 the LORD delights in those who fear him, who put their hope in his unfailing love.
+12 Extol the LORD, Jerusalem; praise your God, Zion.
+13 He strengthens the bars of your gates and blesses your people within you.
+14 He grants peace to your borders and satisfies you with the finest of wheat.
+15 He sends his command to the earth; his word runs swiftly.
+16 He spreads the snow like wool and scatters the frost like ashes.
+17 He hurls down his hail like pebbles. Who can withstand his icy blast?
+18 He sends his word and melts them; he stirs up his breezes, and the waters flow.
+19 He has revealed his word to Jacob, his laws and decrees to Israel.
+20 He has done this for no other nation; they do not know his laws.Praise the LORD. `;
+const sutra_en_19_148 = `1 Praise the LORD.Praise the LORD from the heavens; praise him in the heights above.
+2 Praise him, all his angels; praise him, all his heavenly hosts.
+3 Praise him, sun and moon; praise him, all you shining stars.
+4 Praise him, you highest heavens and you waters above the skies.
+5 Let them praise the name of the LORD, for at his command they were created,
+6 and he established them for ever and ever— he issued a decree that will never pass away.
+7 Praise the LORD from the earth, you great sea creatures and all ocean depths,
+8 lightning and hail, snow and clouds, stormy winds that do his bidding,
+9 you mountains and all hills, fruit trees and all cedars,
+10 wild animals and all cattle, small creatures and flying birds,
+11 kings of the earth and all nations, you princes and all rulers on earth,
+12 young men and women, old men and children.
+13 Let them praise the name of the LORD, for his name alone is exalted; his splendor is above the earth and the heavens.
+14 And he has raised up for his people a horn,the praise of all his faithful servants, of Israel, the people close to his heart. Praise the LORD. `;
+const sutra_en_19_149 = `1 Praise the LORD.Sing to the LORD a new song, his praise in the assembly of his faithful people.
+2 Let Israel rejoice in their Maker; let the people of Zion be glad in their King.
+3 Let them praise his name with dancing and make music to him with timbrel and harp.
+4 For the LORD takes delight in his people; he crowns the humble with victory.
+5 Let his faithful people rejoice in this honor and sing for joy on their beds.
+6 May the praise of God be in their mouths and a double-edged sword in their hands,
+7 to inflict vengeance on the nations and punishment on the peoples,
+8 to bind their kings with fetters, their nobles with shackles of iron,
+9 to carry out the sentence written against them— this is the glory of all his faithful people. Praise the LORD. `;
+const sutra_en_19_150 = `1 Praise the LORD.Praise God in his sanctuary; praise him in his mighty heavens.
+2 Praise him for his acts of power; praise him for his surpassing greatness.
+3 Praise him with the sounding of the trumpet, praise him with the harp and lyre,
+4 praise him with timbrel and dancing, praise him with the strings and pipe,
+5 praise him with the clash of cymbals, praise him with resounding cymbals.
+6 Let everything that has breath praise the LORD. Praise the LORD. `;
 
 
 const sutra_en_19 = [sutra_en_19_1,sutra_en_19_2,sutra_en_19_3,sutra_en_19_4,sutra_en_19_5,sutra_en_19_6,sutra_en_19_7,sutra_en_19_8,sutra_en_19_9,sutra_en_19_10,
