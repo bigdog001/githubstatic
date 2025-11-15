@@ -1,168 +1,76 @@
-const sutra_en_29_1 = ` `;
-const sutra_en_29_2 = ` `;
-const sutra_en_29_3 = ` `;
-const sutra_en_29_4 = ` `;
-const sutra_en_29_5 = ` `;
-const sutra_en_29_6 = ` `;
-const sutra_en_29_7 = ` `;
-const sutra_en_29_8 = ` `;
-const sutra_en_29_9 = ` `;
-const sutra_en_29_10 = ` `;
-const sutra_en_29_11 = ` `;
-const sutra_en_29_12 = ` `;
-const sutra_en_29_13 = ` `;
-const sutra_en_29_14 = ` `;
-const sutra_en_29_15 = ` `;
-const sutra_en_29_16 = ` `;
-const sutra_en_29_17 = ` `;
-const sutra_en_29_18 = ` `;
-const sutra_en_29_19 = ` `;
-const sutra_en_29_20 = ` `;
-const sutra_en_29_21 = ` `;
-const sutra_en_29_22 = ` `;
-const sutra_en_29_23 = ` `;
-const sutra_en_29_24 = ` `;
-const sutra_en_29_25 = ` `;
-const sutra_en_29_26 = ` `;
-const sutra_en_29_27 = ` `;
-const sutra_en_29_28 = ` `;
-const sutra_en_29_29 = ` `;
-const sutra_en_29_30 = ` `;
-const sutra_en_29_31 = ` `;
-const sutra_en_29_32 = ` `;
-const sutra_en_29_33 = ` `;
-const sutra_en_29_34 = ` `;
-const sutra_en_29_35 = ` `;
-const sutra_en_29_36 = ` `;
-const sutra_en_29_37 = ` `;
-const sutra_en_29_38 = ` `;
-const sutra_en_29_39 = ` `;
-const sutra_en_29_40 = ` `;
-const sutra_en_29_41 = ` `;
-const sutra_en_29_42 = ` `;
-const sutra_en_29_43 = ` `;
-const sutra_en_29_44 = ` `;
-const sutra_en_29_45 = ` `;
-const sutra_en_29_46 = ` `;
-const sutra_en_29_47 = ` `;
-const sutra_en_29_48 = ` `;
-const sutra_en_29_49 = ` `;
-const sutra_en_29_50 = ` `;
-const sutra_en_29_51 = ` `;
-const sutra_en_29_52 = ` `;
-const sutra_en_29_53 = ` `;
-const sutra_en_29_54 = ` `;
-const sutra_en_29_55 = ` `;
-const sutra_en_29_56 = ` `;
-const sutra_en_29_57 = ` `;
-const sutra_en_29_58 = ` `;
-const sutra_en_29_59 = ` `;
-const sutra_en_29_60 = ` `;
-const sutra_en_29_61 = ` `;
-const sutra_en_29_62 = ` `;
-const sutra_en_29_63 = ` `;
-const sutra_en_29_64 = ` `;
-const sutra_en_29_65 = ` `;
-const sutra_en_29_66 = ` `;
-const sutra_en_29_67 = ` `;
-const sutra_en_29_68 = ` `;
-const sutra_en_29_69 = ` `;
-const sutra_en_29_70 = ` `;
-const sutra_en_29_71 = ` `;
-const sutra_en_29_72 = ` `;
-const sutra_en_29_73 = ` `;
-const sutra_en_29_74 = ` `;
-const sutra_en_29_75 = ` `;
-const sutra_en_29_76 = ` `;
-const sutra_en_29_77 = ` `;
-const sutra_en_29_78 = ` `;
-const sutra_en_29_79 = ` `;
-const sutra_en_29_80 = ` `;
-const sutra_en_29_81 = ` `;
-const sutra_en_29_82 = ` `;
-const sutra_en_29_83 = ` `;
-const sutra_en_29_84 = ` `;
-const sutra_en_29_85 = ` `;
-const sutra_en_29_86 = ` `;
-const sutra_en_29_87 = ` `;
-const sutra_en_29_88 = ` `;
-const sutra_en_29_89 = ` `;
-const sutra_en_29_90 = ` `;
-const sutra_en_29_91 = ` `;
-const sutra_en_29_92 = ` `;
-const sutra_en_29_93 = ` `;
-const sutra_en_29_94 = ` `;
-const sutra_en_29_95 = ` `;
-const sutra_en_29_96 = ` `;
-const sutra_en_29_97 = ` `;
-const sutra_en_29_98 = ` `;
-const sutra_en_29_99 = ` `;
-const sutra_en_29_100 = ` `;
-const sutra_en_29_101 = ` `;
-const sutra_en_29_102 = ` `;
-const sutra_en_29_103 = ` `;
-const sutra_en_29_104 = ` `;
-const sutra_en_29_105 = ` `;
-const sutra_en_29_106 = ` `;
-const sutra_en_29_107 = ` `;
-const sutra_en_29_108 = ` `;
-const sutra_en_29_109 = ` `;
-const sutra_en_29_110 = ` `;
-const sutra_en_29_111 = ` `;
-const sutra_en_29_112 = ` `;
-const sutra_en_29_113 = ` `;
-const sutra_en_29_114 = ` `;
-const sutra_en_29_115 = ` `;
-const sutra_en_29_116 = ` `;
-const sutra_en_29_117 = ` `;
-const sutra_en_29_118 = ` `;
-const sutra_en_29_119 = ` `;
-const sutra_en_29_120 = ` `;
-const sutra_en_29_121 = ` `;
-const sutra_en_29_122 = ` `;
-const sutra_en_29_123 = ` `;
-const sutra_en_29_124 = ` `;
-const sutra_en_29_125 = ` `;
-const sutra_en_29_126 = ` `;
-const sutra_en_29_127 = ` `;
-const sutra_en_29_128 = ` `;
-const sutra_en_29_129 = ` `;
-const sutra_en_29_130 = ` `;
-const sutra_en_29_131 = ` `;
-const sutra_en_29_132 = ` `;
-const sutra_en_29_133 = ` `;
-const sutra_en_29_134 = ` `;
-const sutra_en_29_135 = ` `;
-const sutra_en_29_136 = ` `;
-const sutra_en_29_137 = ` `;
-const sutra_en_29_138 = ` `;
-const sutra_en_29_139 = ` `;
-const sutra_en_29_140 = ` `;
-const sutra_en_29_141 = ` `;
-const sutra_en_29_142 = ` `;
-const sutra_en_29_143 = ` `;
-const sutra_en_29_144 = ` `;
-const sutra_en_29_145 = ` `;
-const sutra_en_29_146 = ` `;
-const sutra_en_29_147 = ` `;
-const sutra_en_29_148 = ` `;
-const sutra_en_29_149 = ` `;
-const sutra_en_29_150 = ` `;
+const sutra_en_29_1 = `1 The word of the LORD that came to Joel son of Pethuel.
+2 Hear this, you elders; listen, all who live in the land. Has anything like this ever happened in your days or in the days of your ancestors?
+3 Tell it to your children, and let your children tell it to their children, and their children to the next generation.
+4 What the locust swarm has left the great locusts have eaten; what the great locusts have left the young locusts have eaten; what the young locusts have left other locusts have eaten.
+5 Wake up, you drunkards, and weep! Wail, all you drinkers of wine; wail because of the new wine, for it has been snatched from your lips.
+6 A nation has invaded my land, a mighty army without number; it has the teeth of a lion, the fangs of a lioness.
+7 It has laid waste my vines and ruined my fig trees. It has stripped off their bark and thrown it away, leaving their branches white.
+8 Mourn like a virgin in sackcloth grieving for the betrothed of her youth.
+9 Grain offerings and drink offerings are cut off from the house of the LORD. The priests are in mourning, those who minister before the LORD.
+10 The fields are ruined, the ground is dried up; the grain is destroyed, the new wine is dried up, the olive oil fails.
+11 Despair, you farmers, wail, you vine growers; grieve for the wheat and the barley, because the harvest of the field is destroyed.
+12 The vine is dried up and the fig tree is withered; the pomegranate, the palm and the apple tree— all the trees of the field—are dried up. Surely the people’s joy is withered away.
+13 Put on sackcloth, you priests, and mourn; wail, you who minister before the altar. Come, spend the night in sackcloth, you who minister before my God; for the grain offerings and drink offerings are withheld from the house of your God.
+14 Declare a holy fast; call a sacred assembly. Summon the elders and all who live in the land to the house of the LORD your God, and cry out to the LORD.
+15 Alas for that day! For the day of the LORD is near; it will come like destruction from the Almighty.
+16 Has not the food been cut off before our very eyes— joy and gladness from the house of our God?
+17 The seeds are shriveled beneath the clods.The storehouses are in ruins, the granaries have been broken down, for the grain has dried up.
+18 How the cattle moan! The herds mill about because they have no pasture; even the flocks of sheep are suffering.
+19 To you, LORD, I call, for fire has devoured the pastures in the wilderness and flames have burned up all the trees of the field.
+20 Even the wild animals pant for you; the streams of water have dried up and fire has devoured the pastures in the wilderness. `;
+const sutra_en_29_2 = `1 Blow the trumpet in Zion; sound the alarm on my holy hill. Let all who live in the land tremble, for the day of the LORD is coming. It is close at hand—
+2 a day of darkness and gloom, a day of clouds and blackness. Like dawn spreading across the mountains a large and mighty army comes, such as never was in ancient times nor ever will be in ages to come.
+3 Before them fire devours, behind them a flame blazes. Before them the land is like the garden of Eden, behind them, a desert waste— nothing escapes them.
+4 They have the appearance of horses; they gallop along like cavalry.
+5 With a noise like that of chariots they leap over the mountaintops, like a crackling fire consuming stubble, like a mighty army drawn up for battle.
+6 At the sight of them, nations are in anguish; every face turns pale.
+7 They charge like warriors; they scale walls like soldiers. They all march in line, not swerving from their course.
+8 They do not jostle each other; each marches straight ahead. They plunge through defenses without breaking ranks.
+9 They rush upon the city; they run along the wall. They climb into the houses; like thieves they enter through the windows.
+10 Before them the earth shakes, the heavens tremble, the sun and moon are darkened, and the stars no longer shine.
+11 The LORD thunders at the head of his army; his forces are beyond number, and mighty is the army that obeys his command. The day of the LORD is great; it is dreadful. Who can endure it?
+12 “Even now,” declares the LORD, “return to me with all your heart, with fasting and weeping and mourning.”
+13 Rend your heart and not your garments. Return to the LORD your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity.
+14 Who knows? He may turn and relent and leave behind a blessing— grain offerings and drink offerings for the LORD your God.
+15 Blow the trumpet in Zion, declare a holy fast, call a sacred assembly.
+16 Gather the people, consecrate the assembly; bring together the elders, gather the children, those nursing at the breast. Let the bridegroom leave his room and the bride her chamber.
+17 Let the priests, who minister before the LORD, weep between the portico and the altar. Let them say, “Spare your people, LORD. Do not make your inheritance an object of scorn, a byword among the nations. Why should they say among the peoples, ‘Where is their God?’ ”
+18 Then the LORD was jealous for his land and took pity on his people.
+19 The LORD replied to them: “I am sending you grain, new wine and olive oil, enough to satisfy you fully; never again will I make you an object of scorn to the nations.
+20 “I will drive the northern horde far from you, pushing it into a parched and barren land; its eastern ranks will drown in the Dead Sea and its western ranks in the Mediterranean Sea. And its stench will go up; its smell will rise.” Surely he has done great things!
+21 Do not be afraid, land of Judah; be glad and rejoice. Surely the LORD has done great things!
+22 Do not be afraid, you wild animals, for the pastures in the wilderness are becoming green. The trees are bearing their fruit; the fig tree and the vine yield their riches.
+23 Be glad, people of Zion, rejoice in the LORD your God, for he has given you the autumn rains because he is faithful. He sends you abundant showers, both autumn and spring rains, as before.
+24 The threshing floors will be filled with grain; the vats will overflow with new wine and oil.
+25 “I will repay you for the years the locusts have eaten— the great locust and the young locust, the other locusts and the locust swarm — my great army that I sent among you.
+26 You will have plenty to eat, until you are full, and you will praise the name of the LORD your God, who has worked wonders for you; never again will my people be shamed.
+27 Then you will know that I am in Israel, that I am the LORD your God, and that there is no other; never again will my people be shamed.
+28 “And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.
+29 Even on my servants, both men and women, I will pour out my Spirit in those days.
+30 I will show wonders in the heavens and on the earth, blood and fire and billows of smoke.
+31 The sun will be turned to darkness and the moon to blood before the coming of the great and dreadful day of the LORD.
+32 And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has said, even among the survivors whom the LORD calls. `;
+const sutra_en_29_3 = `1 “In those days and at that time, when I restore the fortunes of Judah and Jerusalem,
+2 I will gather all nations and bring them down to the Valley of Jehoshaphat.There I will put them on trial for what they did to my inheritance, my people Israel, because they scattered my people among the nations and divided up my land.
+3 They cast lots for my people and traded boys for prostitutes; they sold girls for wine to drink.
+4 “Now what have you against me, Tyre and Sidon and all you regions of Philistia? Are you repaying me for something I have done? If you are paying me back, I will swiftly and speedily return on your own heads what you have done.
+5 For you took my silver and my gold and carried off my finest treasures to your temples.
+6 You sold the people of Judah and Jerusalem to the Greeks, that you might send them far from their homeland.
+7 “See, I am going to rouse them out of the places to which you sold them, and I will return on your own heads what you have done.
+8 I will sell your sons and daughters to the people of Judah, and they will sell them to the Sabeans, a nation far away.” The LORD has spoken.
+9 Proclaim this among the nations: Prepare for war! Rouse the warriors! Let all the fighting men draw near and attack.
+10 Beat your plowshares into swords and your pruning hooks into spears. Let the weakling say, “I am strong!”
+11 Come quickly, all you nations from every side, and assemble there. Bring down your warriors, LORD!
+12 “Let the nations be roused; let them advance into the Valley of Jehoshaphat, for there I will sit to judge all the nations on every side.
+13 Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the winepress is full and the vats overflow— so great is their wickedness!”
+14 Multitudes, multitudes in the valley of decision! For the day of the LORD is near in the valley of decision.
+15 The sun and moon will be darkened, and the stars no longer shine.
+16 The LORD will roar from Zion and thunder from Jerusalem; the earth and the heavens will tremble. But the LORD will be a refuge for his people, a stronghold for the people of Israel.
+17 “Then you will know that I, the LORD your God, dwell in Zion, my holy hill. Jerusalem will be holy; never again will foreigners invade her.
+18 “In that day the mountains will drip new wine, and the hills will flow with milk; all the ravines of Judah will run with water. A fountain will flow out of the LORD’s house and will water the valley of acacias.
+19 But Egypt will be desolate, Edom a desert waste, because of violence done to the people of Judah, in whose land they shed innocent blood.
+20 Judah will be inhabited forever and Jerusalem through all generations.
+21 Shall I leave their innocent blood unavenged? No, I will not.” The LORD dwells in Zion! `;
 
 
-const sutra_en_29 = [sutra_en_29_1,sutra_en_29_2,sutra_en_29_3,sutra_en_29_4,sutra_en_29_5,sutra_en_29_6,sutra_en_29_7,sutra_en_29_8,sutra_en_29_9,sutra_en_29_10,
-                sutra_en_29_11,sutra_en_29_12,sutra_en_29_13,sutra_en_29_14,sutra_en_29_15,sutra_en_29_16,sutra_en_29_17,sutra_en_29_18,sutra_en_29_19,sutra_en_29_20,
-                sutra_en_29_21,sutra_en_29_22,sutra_en_29_23,sutra_en_29_24,sutra_en_29_25,sutra_en_29_26,sutra_en_29_27,sutra_en_29_28,sutra_en_29_29,sutra_en_29_30,
-                sutra_en_29_31,sutra_en_29_32,sutra_en_29_33,sutra_en_29_34,sutra_en_29_35,sutra_en_29_36,sutra_en_29_37,sutra_en_29_38,sutra_en_29_39,sutra_en_29_40,
-                sutra_en_29_41,sutra_en_29_42,sutra_en_29_43,sutra_en_29_44,sutra_en_29_45,sutra_en_29_46,sutra_en_29_47,sutra_en_29_48,sutra_en_29_49,sutra_en_29_50,
-                sutra_en_29_51,sutra_en_29_52,sutra_en_29_53,sutra_en_29_54,sutra_en_29_55,sutra_en_29_56,sutra_en_29_57,sutra_en_29_58,sutra_en_29_59,sutra_en_29_60,
-                sutra_en_29_61,sutra_en_29_62,sutra_en_29_63,sutra_en_29_64,sutra_en_29_65,sutra_en_29_66,sutra_en_29_67,sutra_en_29_68,sutra_en_29_69,sutra_en_29_70,
-                sutra_en_29_71,sutra_en_29_72,sutra_en_29_73,sutra_en_29_74,sutra_en_29_75,sutra_en_29_76,sutra_en_29_77,sutra_en_29_78,sutra_en_29_79,sutra_en_29_80,
-                sutra_en_29_81,sutra_en_29_82,sutra_en_29_83,sutra_en_29_84,sutra_en_29_85,sutra_en_29_86,sutra_en_29_87,sutra_en_29_88,sutra_en_29_89,sutra_en_29_90,
-                sutra_en_29_91,sutra_en_29_92,sutra_en_29_93,sutra_en_29_94,sutra_en_29_95,sutra_en_29_96,sutra_en_29_97,sutra_en_29_98,sutra_en_29_99,sutra_en_29_100,
-                sutra_en_29_101,sutra_en_29_102,sutra_en_29_103,sutra_en_29_104,sutra_en_29_105,sutra_en_29_106,sutra_en_29_107,sutra_en_29_108,sutra_en_29_109,sutra_en_29_110,
-                sutra_en_29_111,sutra_en_29_112,sutra_en_29_113,sutra_en_29_114,sutra_en_29_115,sutra_en_29_116,sutra_en_29_117,sutra_en_29_118,sutra_en_29_119,sutra_en_29_120,
-                sutra_en_29_121,sutra_en_29_122,sutra_en_29_123,sutra_en_29_124,sutra_en_29_125,sutra_en_29_126,sutra_en_29_127,sutra_en_29_128,sutra_en_29_129,sutra_en_29_130,
-                sutra_en_29_131,sutra_en_29_132,sutra_en_29_133,sutra_en_29_134,sutra_en_29_135,sutra_en_29_136,sutra_en_29_137,sutra_en_29_138,sutra_en_29_139,sutra_en_29_140,
-                sutra_en_29_141,sutra_en_29_142,sutra_en_29_143,sutra_en_29_144,sutra_en_29_145,sutra_en_29_146,sutra_en_29_147,sutra_en_29_148,sutra_en_29_149,sutra_en_29_150
-                ];
+const sutra_en_29 = [sutra_en_29_1,sutra_en_29_2,sutra_en_29_3];
