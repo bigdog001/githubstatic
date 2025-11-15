@@ -1,4 +1,4 @@
-const sutra_15_1 = `1 In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and also to put it in writing:
+const sutra_en_15_1 = `1 In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and also to put it in writing:
 2 “This is what Cyrus king of Persia says: “ ‘The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.
 3 Any of his people among you may go up to Jerusalem in Judah and build the temple of the LORD, the God of Israel, the God who is in Jerusalem, and may their God be with them.
 4 And in any locality where survivors may now be living, the people are to provide them with silver and gold, with goods and livestock, and with freewill offerings for the temple of God in Jerusalem.’ ”
@@ -9,7 +9,7 @@ const sutra_15_1 = `1 In the first year of Cyrus king of Persia, in order to ful
 9 This was the inventory:
 10 gold bowls, 30 matching silver bowls, 410 other articles, 1,000
 11 In all, there were 5,400 articles of gold and of silver. Sheshbazzar brought all these along with the exiles when they came up from Babylon to Jerusalem. `;
-const sutra_15_2 = `1 Now these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to their own town,
+const sutra_en_15_2 = `1 Now these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to their own town,
 2 in company with Zerubbabel, Joshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum and Baanah): The list of the men of the people of Israel:
 3 the descendants of Parosh, 2,172
 4 of Shephatiah, 372
@@ -79,7 +79,7 @@ const sutra_15_2 = `1 Now these are the people of the province who came up from 
 68 When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.
 69 According to their ability they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver and 100 priestly garments.
 70 The priests, the Levites, the musicians, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns. `;
-const sutra_15_3 = `1 When the seventh month came and the Israelites had settled in their towns, the people assembled together as one in Jerusalem.
+const sutra_en_15_3 = `1 When the seventh month came and the Israelites had settled in their towns, the people assembled together as one in Jerusalem.
 2 Then Joshua son of Jozadak and his fellow priests and Zerubbabel son of Shealtiel and his associates began to build the altar of the God of Israel to sacrifice burnt offerings on it, in accordance with what is written in the Law of Moses the man of God.
 3 Despite their fear of the peoples around them, they built the altar on its foundation and sacrificed burnt offerings on it to the LORD, both the morning and evening sacrifices.
 4 Then in accordance with what is written, they celebrated the Festival of Tabernacles with the required number of burnt offerings prescribed for each day.
@@ -92,7 +92,7 @@ const sutra_15_3 = `1 When the seventh month came and the Israelites had settled
 11 With praise and thanksgiving they sang to the LORD: “He is good; his love toward Israel endures forever.” And all the people gave a great shout of praise to the LORD, because the foundation of the house of the LORD was laid.
 12 But many of the older priests and Levites and family heads, who had seen the former temple, wept aloud when they saw the foundation of this temple being laid, while many others shouted for joy.
 13 No one could distinguish the sound of the shouts of joy from the sound of weeping, because the people made so much noise. And the sound was heard far away. `;
-const sutra_15_4 = `1 When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel,
+const sutra_en_15_4 = `1 When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel,
 2 they came to Zerubbabel and to the heads of the families and said, “Let us help you build because, like you, we seek your God and have been sacrificing to him since the time of Esarhaddon king of Assyria, who brought us here.”
 3 But Zerubbabel, Joshua and the rest of the heads of the families of Israel answered, “You have no part with us in building a temple to our God. We alone will build it for the LORD, the God of Israel, as King Cyrus, the king of Persia, commanded us.”
 4 Then the peoples around them set out to discourage the people of Judah and make them afraid to go on building.
@@ -116,7 +116,7 @@ const sutra_15_4 = `1 When the enemies of Judah and Benjamin heard that the exil
 22 Be careful not to neglect this matter. Why let this threat grow, to the detriment of the royal interests?
 23 As soon as the copy of the letter of King Artaxerxes was read to Rehum and Shimshai the secretary and their associates, they went immediately to the Jews in Jerusalem and compelled them by force to stop.
 24 Thus the work on the house of God in Jerusalem came to a standstill until the second year of the reign of Darius king of Persia. `;
-const sutra_15_5 = `1 Now Haggai the prophet and Zechariah the prophet, a descendant of Iddo, prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.
+const sutra_en_15_5 = `1 Now Haggai the prophet and Zechariah the prophet, a descendant of Iddo, prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.
 2 Then Zerubbabel son of Shealtiel and Joshua son of Jozadak set to work to rebuild the house of God in Jerusalem. And the prophets of God were with them, supporting them.
 3 At that time Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and their associates went to them and asked, “Who authorized you to rebuild this temple and to finish it?”
 4 They also asked, “What are the names of those who are constructing this building?”
@@ -133,7 +133,7 @@ const sutra_15_5 = `1 Now Haggai the prophet and Zechariah the prophet, a descen
 15 and he told him, ‘Take these articles and go and deposit them in the temple in Jerusalem. And rebuild the house of God on its site.’
 16 “So this Sheshbazzar came and laid the foundations of the house of God in Jerusalem. From that day to the present it has been under construction but is not yet finished.”
 17 Now if it pleases the king, let a search be made in the royal archives of Babylon to see if King Cyrus did in fact issue a decree to rebuild this house of God in Jerusalem. Then let the king send us his decision in this matter. `;
-const sutra_15_6 = `1 King Darius then issued an order, and they searched in the archives stored in the treasury at Babylon.
+const sutra_en_15_6 = `1 King Darius then issued an order, and they searched in the archives stored in the treasury at Babylon.
 2 A scroll was found in the citadel of Ecbatana in the province of Media, and this was written on it: Memorandum:
 3 In the first year of King Cyrus, the king issued a decree concerning the temple of God in Jerusalem: Let the temple be rebuilt as a place to present sacrifices, and let its foundations be laid. It is to be sixty cubits high and sixty cubits wide,
 4 with three courses of large stones and one of timbers. The costs are to be paid by the royal treasury.
@@ -155,7 +155,7 @@ const sutra_15_6 = `1 King Darius then issued an order, and they searched in the
 20 The priests and Levites had purified themselves and were all ceremonially clean. The Levites slaughtered the Passover lamb for all the exiles, for their relatives the priests and for themselves.
 21 So the Israelites who had returned from the exile ate it, together with all who had separated themselves from the unclean practices of their Gentile neighbors in order to seek the LORD, the God of Israel.
 22 For seven days they celebrated with joy the Festival of Unleavened Bread, because the LORD had filled them with joy by changing the attitude of the king of Assyria so that he assisted them in the work on the house of God, the God of Israel. `;
-const sutra_15_7 = `1 After these things, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,
+const sutra_en_15_7 = `1 After these things, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,
 2 the son of Shallum, the son of Zadok, the son of Ahitub,
 3 the son of Amariah, the son of Azariah, the son of Meraioth,
 4 the son of Zerahiah, the son of Uzzi, the son of Bukki,
@@ -183,7 +183,7 @@ const sutra_15_7 = `1 After these things, during the reign of Artaxerxes king of
 26 Whoever does not obey the law of your God and the law of the king must surely be punished by death, banishment, confiscation of property, or imprisonment.
 27 Praise be to the LORD, the God of our ancestors, who has put it into the king’s heart to bring honor to the house of the LORD in Jerusalem in this way
 28 and who has extended his good favor to me before the king and his advisers and all the king’s powerful officials. Because the hand of the LORD my God was on me, I took courage and gathered leaders from Israel to go up with me. `;
-const sutra_15_8 = `1 These are the family heads and those registered with them who came up with me from Babylon during the reign of King Artaxerxes:
+const sutra_en_15_8 = `1 These are the family heads and those registered with them who came up with me from Babylon during the reign of King Artaxerxes:
 2 of the descendants of Phinehas, Gershom; of the descendants of Ithamar, Daniel; of the descendants of David, Hattush
 3 of the descendants of Shekaniah; of the descendants of Parosh, Zechariah, and with him were registered 150 men;
 4 of the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 men;
@@ -219,7 +219,7 @@ const sutra_15_8 = `1 These are the family heads and those registered with them 
 34 Everything was accounted for by number and weight, and the entire weight was recorded at that time.
 35 Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs and, as a sin offering, twelve male goats. All this was a burnt offering to the LORD.
 36 They also delivered the king’s orders to the royal satraps and to the governors of Trans-Euphrates, who then gave assistance to the people and to the house of God. `;
-const sutra_15_9 = `1 After these things had been done, the leaders came to me and said, “The people of Israel, including the priests and the Levites, have not kept themselves separate from the neighboring peoples with their detestable practices, like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians and Amorites.
+const sutra_en_15_9 = `1 After these things had been done, the leaders came to me and said, “The people of Israel, including the priests and the Levites, have not kept themselves separate from the neighboring peoples with their detestable practices, like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians and Amorites.
 2 They have taken some of their daughters as wives for themselves and their sons, and have mingled the holy race with the peoples around them. And the leaders and officials have led the way in this unfaithfulness.”
 3 When I heard this, I tore my tunic and cloak, pulled hair from my head and beard and sat down appalled.
 4 Then everyone who trembled at the words of the God of Israel gathered around me because of this unfaithfulness of the exiles. And I sat there appalled until the evening sacrifice.
@@ -234,7 +234,7 @@ const sutra_15_9 = `1 After these things had been done, the leaders came to me a
 13 “What has happened to us is a result of our evil deeds and our great guilt, and yet, our God, you have punished us less than our sins deserved and have given us a remnant like this.
 14 Shall we then break your commands again and intermarry with the peoples who commit such detestable practices? Would you not be angry enough with us to destroy us, leaving us no remnant or survivor?
 15 LORD, the God of Israel, you are righteous! We are left this day as a remnant. Here we are before you in our guilt, though because of it not one of us can stand in your presence.” `;
-const sutra_15_10 = `1 While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a large crowd of Israelites—men, women and children—gathered around him. They too wept bitterly.
+const sutra_en_15_10 = `1 While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a large crowd of Israelites—men, women and children—gathered around him. They too wept bitterly.
 2 Then Shekaniah son of Jehiel, one of the descendants of Elam, said to Ezra, “We have been unfaithful to our God by marrying foreign women from the peoples around us. But in spite of this, there is still hope for Israel.
 3 Now let us make a covenant before our God to send away all these women and their children, in accordance with the counsel of my lord and of those who fear the commands of our God. Let it be done according to the Law.
 4 Rise up; this matter is in your hands. We will support you, so take courage and do it.”
@@ -280,5 +280,5 @@ const sutra_15_10 = `1 While Ezra was praying and confessing, weeping and throwi
 44 All these had married foreign women, and some of them had children by these wives. `;
 
 
-const sutra_15 = [sutra_15_1,sutra_15_2,sutra_15_3,sutra_15_4,sutra_15_5,sutra_15_6,sutra_15_7,sutra_15_8,sutra_15_9,sutra_15_10
+const sutra_en_15 = [sutra_en_15_1,sutra_en_15_2,sutra_en_15_3,sutra_en_15_4,sutra_en_15_5,sutra_en_15_6,sutra_en_15_7,sutra_en_15_8,sutra_en_15_9,sutra_en_15_10
                 ];

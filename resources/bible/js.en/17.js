@@ -1,4 +1,4 @@
-const sutra_17_1 = `1 This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush :
+const sutra_en_17_1 = `1 This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush :
 2 At that time King Xerxes reigned from his royal throne in the citadel of Susa,
 3 and in the third year of his reign he gave a banquet for all his nobles and officials. The military leaders of Persia and Media, the princes, and the nobles of the provinces were present.
 4 For a full 180 days he displayed the vast wealth of his kingdom and the splendor and glory of his majesty.
@@ -20,7 +20,7 @@ const sutra_17_1 = `1 This is what happened during the time of Xerxes, the Xerxe
 20 Then when the king’s edict is proclaimed throughout all his vast realm, all the women will respect their husbands, from the least to the greatest.”
 21 The king and his nobles were pleased with this advice, so the king did as Memukan proposed.
 22 He sent dispatches to all parts of the kingdom, to each province in its own script and to each people in their own language, proclaiming that every man should be ruler over his own household, using his native tongue. `;
-const sutra_17_2 = `1 Later when King Xerxes’ fury had subsided, he remembered Vashti and what she had done and what he had decreed about her.
+const sutra_en_17_2 = `1 Later when King Xerxes’ fury had subsided, he remembered Vashti and what she had done and what he had decreed about her.
 2 Then the king’s personal attendants proposed, “Let a search be made for beautiful young virgins for the king.
 3 Let the king appoint commissioners in every province of his realm to bring all these beautiful young women into the harem at the citadel of Susa. Let them be placed under the care of Hegai, the king’s eunuch, who is in charge of the women; and let beauty treatments be given to them.
 4 Then let the young woman who pleases the king be queen instead of Vashti.” This advice appealed to the king, and he followed it.
@@ -43,7 +43,7 @@ const sutra_17_2 = `1 Later when King Xerxes’ fury had subsided, he remembered
 21 During the time Mordecai was sitting at the king’s gate, Bigthana and Teresh, two of the king’s officers who guarded the doorway, became angry and conspired to assassinate King Xerxes.
 22 But Mordecai found out about the plot and told Queen Esther, who in turn reported it to the king, giving credit to Mordecai.
 23 And when the report was investigated and found to be true, the two officials were impaled on poles. All this was recorded in the book of the annals in the presence of the king. `;
-const sutra_17_3 = `1 After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him and giving him a seat of honor higher than that of all the other nobles.
+const sutra_en_17_3 = `1 After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him and giving him a seat of honor higher than that of all the other nobles.
 2 All the royal officials at the king’s gate knelt down and paid honor to Haman, for the king had commanded this concerning him. But Mordecai would not kneel down or pay him honor.
 3 Then the royal officials at the king’s gate asked Mordecai, “Why do you disobey the king’s command?”
 4 Day after day they spoke to him but he refused to comply. Therefore they told Haman about it to see whether Mordecai’s behavior would be tolerated, for he had told them he was a Jew.
@@ -58,7 +58,7 @@ const sutra_17_3 = `1 After these events, King Xerxes honored Haman son of Hamme
 13 Dispatches were sent by couriers to all the king’s provinces with the order to destroy, kill and annihilate all the Jews—young and old, women and children—on a single day, the thirteenth day of the twelfth month, the month of Adar, and to plunder their goods.
 14 A copy of the text of the edict was to be issued as law in every province and made known to the people of every nationality so they would be ready for that day.
 15 The couriers went out, spurred on by the king’s command, and the edict was issued in the citadel of Susa. The king and Haman sat down to drink, but the city of Susa was bewildered. `;
-const sutra_17_4 = `1 When Mordecai learned of all that had been done, he tore his clothes, put on sackcloth and ashes, and went out into the city, wailing loudly and bitterly.
+const sutra_en_17_4 = `1 When Mordecai learned of all that had been done, he tore his clothes, put on sackcloth and ashes, and went out into the city, wailing loudly and bitterly.
 2 But he went only as far as the king’s gate, because no one clothed in sackcloth was allowed to enter it.
 3 In every province to which the edict and order of the king came, there was great mourning among the Jews, with fasting, weeping and wailing. Many lay in sackcloth and ashes.
 4 When Esther’s eunuchs and female attendants came and told her about Mordecai, she was in great distress. She sent clothes for him to put on instead of his sackcloth, but he would not accept them.
@@ -75,7 +75,7 @@ const sutra_17_4 = `1 When Mordecai learned of all that had been done, he tore h
 15 Then Esther sent this reply to Mordecai:
 16 “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.”
 17 So Mordecai went away and carried out all of Esther’s instructions. `;
-const sutra_17_5 = `1 On the third day Esther put on her royal robes and stood in the inner court of the palace, in front of the king’s hall. The king was sitting on his royal throne in the hall, facing the entrance.
+const sutra_en_17_5 = `1 On the third day Esther put on her royal robes and stood in the inner court of the palace, in front of the king’s hall. The king was sitting on his royal throne in the hall, facing the entrance.
 2 When he saw Queen Esther standing in the court, he was pleased with her and held out to her the gold scepter that was in his hand. So Esther approached and touched the tip of the scepter.
 3 Then the king asked, “What is it, Queen Esther? What is your request? Even up to half the kingdom, it will be given you.”
 4 “If it pleases the king,” replied Esther, “let the king, together with Haman, come today to a banquet I have prepared for him.”
@@ -89,7 +89,7 @@ const sutra_17_5 = `1 On the third day Esther put on her royal robes and stood i
 12 “And that’s not all,” Haman added. “I’m the only person Queen Esther invited to accompany the king to the banquet she gave. And she has invited me along with the king tomorrow.
 13 But all this gives me no satisfaction as long as I see that Jew Mordecai sitting at the king’s gate.”
 14 His wife Zeresh and all his friends said to him, “Have a pole set up, reaching to a height of fifty cubits, and ask the king in the morning to have Mordecai impaled on it. Then go with the king to the banquet and enjoy yourself.” This suggestion delighted Haman, and he had the pole set up. `;
-const sutra_17_6 = `1 That night the king could not sleep; so he ordered the book of the chronicles, the record of his reign, to be brought in and read to him.
+const sutra_en_17_6 = `1 That night the king could not sleep; so he ordered the book of the chronicles, the record of his reign, to be brought in and read to him.
 2 It was found recorded there that Mordecai had exposed Bigthana and Teresh, two of the king’s officers who guarded the doorway, who had conspired to assassinate King Xerxes.
 3 “What honor and recognition has Mordecai received for this?” the king asked. “Nothing has been done for him,” his attendants answered.
 4 The king said, “Who is in the court?” Now Haman had just entered the outer court of the palace to speak to the king about impaling Mordecai on the pole he had set up for him.
@@ -103,7 +103,7 @@ const sutra_17_6 = `1 That night the king could not sleep; so he ordered the boo
 12 Afterward Mordecai returned to the king’s gate. But Haman rushed home, with his head covered in grief,
 13 and told Zeresh his wife and all his friends everything that had happened to him. His advisers and his wife Zeresh said to him, “Since Mordecai, before whom your downfall has started, is of Jewish origin, you cannot stand against him—you will surely come to ruin!”
 14 While they were still talking with him, the king’s eunuchs arrived and hurried Haman away to the banquet Esther had prepared. `;
-const sutra_17_7 = `1 So the king and Haman went to Queen Esther’s banquet,
+const sutra_en_17_7 = `1 So the king and Haman went to Queen Esther’s banquet,
 2 and as they were drinking wine on the second day, the king again asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.”
 3 Then Queen Esther answered, “If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request.
 4 For I and my people have been sold to be destroyed, killed and annihilated. If we had merely been sold as male and female slaves, I would have kept quiet, because no such distress would justify disturbing the king. ”
@@ -113,7 +113,7 @@ const sutra_17_7 = `1 So the king and Haman went to Queen Esther’s banquet,
 8 Just as the king returned from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining. The king exclaimed, “Will he even molest the queen while she is with me in the house?” As soon as the word left the king’s mouth, they covered Haman’s face.
 9 Then Harbona, one of the eunuchs attending the king, said, “A pole reaching to a height of fifty cubits stands by Haman’s house. He had it set up for Mordecai, who spoke up to help the king.” The king said, “Impale him on it!”
 10 So they impaled Haman on the pole he had set up for Mordecai. Then the king’s fury subsided. `;
-const sutra_17_8 = `1 That same day King Xerxes gave Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai came into the presence of the king, for Esther had told how he was related to her.
+const sutra_en_17_8 = `1 That same day King Xerxes gave Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai came into the presence of the king, for Esther had told how he was related to her.
 2 The king took off his signet ring, which he had reclaimed from Haman, and presented it to Mordecai. And Esther appointed him over Haman’s estate.
 3 Esther again pleaded with the king, falling at his feet and weeping. She begged him to put an end to the evil plan of Haman the Agagite, which he had devised against the Jews.
 4 Then the king extended the gold scepter to Esther and she arose and stood before him.
@@ -130,7 +130,7 @@ const sutra_17_8 = `1 That same day King Xerxes gave Queen Esther the estate of 
 15 When Mordecai left the king’s presence, he was wearing royal garments of blue and white, a large crown of gold and a purple robe of fine linen. And the city of Susa held a joyous celebration.
 16 For the Jews it was a time of happiness and joy, gladness and honor.
 17 In every province and in every city to which the edict of the king came, there was joy and gladness among the Jews, with feasting and celebrating. And many people of other nationalities became Jews because fear of the Jews had seized them. `;
-const sutra_17_9 = `1 On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them.
+const sutra_en_17_9 = `1 On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them.
 2 The Jews assembled in their cities in all the provinces of King Xerxes to attack those determined to destroy them. No one could stand against them, because the people of all the other nationalities were afraid of them.
 3 And all the nobles of the provinces, the satraps, the governors and the king’s administrators helped the Jews, because fear of Mordecai had seized them.
 4 Mordecai was prominent in the palace; his reputation spread throughout the provinces, and he became more and more powerful.
@@ -162,10 +162,10 @@ const sutra_17_9 = `1 On the thirteenth day of the twelfth month, the month of A
 30 And Mordecai sent letters to all the Jews in the 127 provinces of Xerxes’ kingdom—words of goodwill and assurance—
 31 to establish these days of Purim at their designated times, as Mordecai the Jew and Queen Esther had decreed for them, and as they had established for themselves and their descendants in regard to their times of fasting and lamentation.
 32 Esther’s decree confirmed these regulations about Purim, and it was written down in the records. `;
-const sutra_17_10 = `1 King Xerxes imposed tribute throughout the empire, to its distant shores.
+const sutra_en_17_10 = `1 King Xerxes imposed tribute throughout the empire, to its distant shores.
 2 And all his acts of power and might, together with a full account of the greatness of Mordecai, whom the king had promoted, are they not written in the book of the annals of the kings of Media and Persia?
 3 Mordecai the Jew was second in rank to King Xerxes, preeminent among the Jews, and held in high esteem by his many fellow Jews, because he worked for the good of his people and spoke up for the welfare of all the Jews. `;
 
 
-const sutra_17 = [sutra_17_1,sutra_17_2,sutra_17_3,sutra_17_4,sutra_17_5,sutra_17_6,sutra_17_7,sutra_17_8,sutra_17_9,sutra_17_10
+const sutra_en_17 = [sutra_en_17_1,sutra_en_17_2,sutra_en_17_3,sutra_en_17_4,sutra_en_17_5,sutra_en_17_6,sutra_en_17_7,sutra_en_17_8,sutra_en_17_9,sutra_en_17_10
                 ];

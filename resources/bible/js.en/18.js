@@ -1,4 +1,4 @@
-const sutra_18_1 = `1 In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.
+const sutra_en_18_1 = `1 In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.
 2 He had seven sons and three daughters,
 3 and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East.
 4 His sons used to hold feasts in their homes on their birthdays, and they would invite their three sisters to eat and drink with them.
@@ -20,7 +20,7 @@ const sutra_18_1 = `1 In the land of Uz there lived a man whose name was Job. Th
 20 At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship
 21 and said: “Naked I came from my mother’s womb, and naked I will depart.The LORD gave and the LORD has taken away; may the name of the LORD be praised.”
 22 In all this, Job did not sin by charging God with wrongdoing. `;
-const sutra_18_2 = `1 On another day the angels came to present themselves before the LORD, and Satan also came with them to present himself before him.
+const sutra_en_18_2 = `1 On another day the angels came to present themselves before the LORD, and Satan also came with them to present himself before him.
 2 And the LORD said to Satan, “Where have you come from?” Satan answered the LORD, “From roaming throughout the earth, going back and forth on it.”
 3 Then the LORD said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.”
 4 “Skin for skin!” Satan replied. “A man will give all he has for his own life.
@@ -33,7 +33,7 @@ const sutra_18_2 = `1 On another day the angels came to present themselves befor
 11 When Job’s three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him.
 12 When they saw him from a distance, they could hardly recognize him; they began to weep aloud, and they tore their robes and sprinkled dust on their heads.
 13 Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was. `;
-const sutra_18_3 = `1 After this, Job opened his mouth and cursed the day of his birth.
+const sutra_en_18_3 = `1 After this, Job opened his mouth and cursed the day of his birth.
 2 He said:
 3 “May the day of my birth perish, and the night that said, ‘A boy is conceived!’
 4 That day—may it turn to darkness; may God above not care about it; may no light shine on it.
@@ -59,7 +59,7 @@ const sutra_18_3 = `1 After this, Job opened his mouth and cursed the day of his
 24 For sighing has become my daily food; my groans pour out like water.
 25 What I feared has come upon me; what I dreaded has happened to me.
 26 I have no peace, no quietness; I have no rest, but only turmoil.” `;
-const sutra_18_4 = `1 Then Eliphaz the Temanite replied:
+const sutra_en_18_4 = `1 Then Eliphaz the Temanite replied:
 2 “If someone ventures a word with you, will you be impatient? But who can keep from speaking?
 3 Think how you have instructed many, how you have strengthened feeble hands.
 4 Your words have supported those who stumbled; you have strengthened faltering knees.
@@ -80,7 +80,7 @@ const sutra_18_4 = `1 Then Eliphaz the Temanite replied:
 19 how much more those who live in houses of clay, whose foundations are in the dust, who are crushed more readily than a moth!
 20 Between dawn and dusk they are broken to pieces; unnoticed, they perish forever.
 21 Are not the cords of their tent pulled up, so that they die without wisdom?’ `;
-const sutra_18_5 = `1 “Call if you will, but who will answer you? To which of the holy ones will you turn?
+const sutra_en_18_5 = `1 “Call if you will, but who will answer you? To which of the holy ones will you turn?
 2 Resentment kills a fool, and envy slays the simple.
 3 I myself have seen a fool taking root, but suddenly his house was cursed.
 4 His children are far from safety, crushed in court without a defender.
@@ -107,7 +107,7 @@ const sutra_18_5 = `1 “Call if you will, but who will answer you? To which of 
 25 You will know that your children will be many, and your descendants like the grass of the earth.
 26 You will come to the grave in full vigor, like sheaves gathered in season.
 27 “We have examined this, and it is true. So hear it and apply it to yourself.” `;
-const sutra_18_6 = `1 Then Job replied:
+const sutra_en_18_6 = `1 Then Job replied:
 2 “If only my anguish could be weighed and all my misery be placed on the scales!
 3 It would surely outweigh the sand of the seas— no wonder my words have been impetuous.
 4 The arrows of the Almighty are in me, my spirit drinks in their poison; God’s terrors are marshaled against me.
@@ -137,7 +137,7 @@ const sutra_18_6 = `1 Then Job replied:
 28 “But now be so kind as to look at me. Would I lie to your face?
 29 Relent, do not be unjust; reconsider, for my integrity is at stake.
 30 Is there any wickedness on my lips? Can my mouth not discern malice? `;
-const sutra_18_7 = `1 “Do not mortals have hard service on earth? Are not their days like those of hired laborers?
+const sutra_en_18_7 = `1 “Do not mortals have hard service on earth? Are not their days like those of hired laborers?
 2 Like a slave longing for the evening shadows, or a hired laborer waiting to be paid,
 3 so I have been allotted months of futility, and nights of misery have been assigned to me.
 4 When I lie down I think, ‘How long before I get up?’ The night drags on, and I toss and turn until dawn.
@@ -158,7 +158,7 @@ const sutra_18_7 = `1 “Do not mortals have hard service on earth? Are not thei
 19 Will you never look away from me, or let me alone even for an instant?
 20 If I have sinned, what have I done to you, you who see everything we do? Why have you made me your target? Have I become a burden to you?
 21 Why do you not pardon my offenses and forgive my sins? For I will soon lie down in the dust; you will search for me, but I will be no more.” `;
-const sutra_18_8 = `1 Then Bildad the Shuhite replied:
+const sutra_en_18_8 = `1 Then Bildad the Shuhite replied:
 2 “How long will you say such things? Your words are a blustering wind.
 3 Does God pervert justice? Does the Almighty pervert what is right?
 4 When your children sinned against him, he gave them over to the penalty of their sin.
@@ -180,7 +180,7 @@ const sutra_18_8 = `1 Then Bildad the Shuhite replied:
 20 “Surely God does not reject one who is blameless or strengthen the hands of evildoers.
 21 He will yet fill your mouth with laughter and your lips with shouts of joy.
 22 Your enemies will be clothed in shame, and the tents of the wicked will be no more.” `;
-const sutra_18_9 = `1 Then Job replied:
+const sutra_en_18_9 = `1 Then Job replied:
 2 “Indeed, I know that this is true. But how can mere mortals prove their innocence before God?
 3 Though they wished to dispute with him, they could not answer him one time out of a thousand.
 4 His wisdom is profound, his power is vast. Who has resisted him and come out unscathed?
@@ -215,7 +215,7 @@ const sutra_18_9 = `1 Then Job replied:
 33 If only there were someone to mediate between us, someone to bring us together,
 34 someone to remove God’s rod from me, so that his terror would frighten me no more.
 35 Then I would speak up without fear of him, but as it now stands with me, I cannot. `;
-const sutra_18_10 = `1 “I loathe my very life; therefore I will give free rein to my complaint and speak out in the bitterness of my soul.
+const sutra_en_18_10 = `1 “I loathe my very life; therefore I will give free rein to my complaint and speak out in the bitterness of my soul.
 2 I say to God: Do not declare me guilty, but tell me what charges you have against me.
 3 Does it please you to oppress me, to spurn the work of your hands, while you smile on the plans of the wicked?
 4 Do you have eyes of flesh? Do you see as a mortal sees?
@@ -237,7 +237,7 @@ const sutra_18_10 = `1 “I loathe my very life; therefore I will give free rein
 20 Are not my few days almost over? Turn away from me so I can have a moment’s joy
 21 before I go to the place of no return, to the land of gloom and utter darkness,
 22 to the land of deepest night, of utter darkness and disorder, where even the light is like darkness.” `;
-const sutra_18_11 = `1 Then Zophar the Naamathite replied:
+const sutra_en_18_11 = `1 Then Zophar the Naamathite replied:
 2 “Are all these words to go unanswered? Is this talker to be vindicated?
 3 Will your idle talk reduce others to silence? Will no one rebuke you when you mock?
 4 You say to God, ‘My beliefs are flawless and I am pure in your sight.’
@@ -257,7 +257,7 @@ const sutra_18_11 = `1 Then Zophar the Naamathite replied:
 18 You will be secure, because there is hope; you will look about you and take your rest in safety.
 19 You will lie down, with no one to make you afraid, and many will court your favor.
 20 But the eyes of the wicked will fail, and escape will elude them; their hope will become a dying gasp.” `;
-const sutra_18_12 = `1 Then Job replied:
+const sutra_en_18_12 = `1 Then Job replied:
 2 “Doubtless you are the only people who matter, and wisdom will die with you!
 3 But I have a mind as well as you; I am not inferior to you. Who does not know all these things?
 4 “I have become a laughingstock to my friends, though I called on God and he answered— a mere laughingstock, though righteous and blameless!
@@ -282,7 +282,7 @@ const sutra_18_12 = `1 Then Job replied:
 23 He makes nations great, and destroys them; he enlarges nations, and disperses them.
 24 He deprives the leaders of the earth of their reason; he makes them wander in a trackless waste.
 25 They grope in darkness with no light; he makes them stagger like drunkards. `;
-const sutra_18_13 = `1 “My eyes have seen all this, my ears have heard and understood it.
+const sutra_en_18_13 = `1 “My eyes have seen all this, my ears have heard and understood it.
 2 What you know, I also know; I am not inferior to you.
 3 But I desire to speak to the Almighty and to argue my case with God.
 4 You, however, smear me with lies; you are worthless physicians, all of you!
@@ -310,7 +310,7 @@ const sutra_18_13 = `1 “My eyes have seen all this, my ears have heard and und
 26 For you write down bitter things against me and make me reap the sins of my youth.
 27 You fasten my feet in shackles; you keep close watch on all my paths by putting marks on the soles of my feet.
 28 “So man wastes away like something rotten, like a garment eaten by moths. `;
-const sutra_18_14 = `1 “Mortals, born of woman, are of few days and full of trouble.
+const sutra_en_18_14 = `1 “Mortals, born of woman, are of few days and full of trouble.
 2 They spring up like flowers and wither away; like fleeting shadows, they do not endure.
 3 Do you fix your eye on them? Will you bring them before you for judgment?
 4 Who can bring what is pure from the impure? No one!
@@ -332,7 +332,7 @@ const sutra_18_14 = `1 “Mortals, born of woman, are of few days and full of tr
 20 You overpower them once for all, and they are gone; you change their countenance and send them away.
 21 If their children are honored, they do not know it; if their offspring are brought low, they do not see it.
 22 They feel but the pain of their own bodies and mourn only for themselves.” `;
-const sutra_18_15 = `1 Then Eliphaz the Temanite replied:
+const sutra_en_18_15 = `1 Then Eliphaz the Temanite replied:
 2 “Would a wise person answer with empty notions or fill their belly with the hot east wind?
 3 Would they argue with useless words, with speeches that have no value?
 4 But you even undermine piety and hinder devotion to God.
@@ -367,7 +367,7 @@ const sutra_18_15 = `1 Then Eliphaz the Temanite replied:
 33 He will be like a vine stripped of its unripe grapes, like an olive tree shedding its blossoms.
 34 For the company of the godless will be barren, and fire will consume the tents of those who love bribes.
 35 They conceive trouble and give birth to evil; their womb fashions deceit.” `;
-const sutra_18_16 = `1 Then Job replied:
+const sutra_en_18_16 = `1 Then Job replied:
 2 “I have heard many things like these; you are miserable comforters, all of you!
 3 Will your long-winded speeches never end? What ails you that you keep on arguing?
 4 I also could speak like you, if you were in my place; I could make fine speeches against you and shake my head at you.
@@ -389,7 +389,7 @@ const sutra_18_16 = `1 Then Job replied:
 20 My intercessor is my friend as my eyes pour out tears to God;
 21 on behalf of a man he pleads with God as one pleads for a friend.
 22 “Only a few years will pass before I take the path of no return. `;
-const sutra_18_17 = `1 My spirit is broken, my days are cut short, the grave awaits me.
+const sutra_en_18_17 = `1 My spirit is broken, my days are cut short, the grave awaits me.
 2 Surely mockers surround me; my eyes must dwell on their hostility.
 3 “Give me, O God, the pledge you demand. Who else will put up security for me?
 4 You have closed their minds to understanding; therefore you will not let them triumph.
@@ -405,7 +405,7 @@ const sutra_18_17 = `1 My spirit is broken, my days are cut short, the grave awa
 14 if I say to corruption, ‘You are my father,’ and to the worm, ‘My mother’ or ‘My sister,’
 15 where then is my hope— who can see any hope for me?
 16 Will it go down to the gates of death? Will we descend together into the dust?” `;
-const sutra_18_18 = `1 Then Bildad the Shuhite replied:
+const sutra_en_18_18 = `1 Then Bildad the Shuhite replied:
 2 “When will you end these speeches? Be sensible, and then we can talk.
 3 Why are we regarded as cattle and considered stupid in your sight?
 4 You who tear yourself to pieces in your anger, is the earth to be abandoned for your sake? Or must the rocks be moved from their place?
@@ -426,7 +426,7 @@ const sutra_18_18 = `1 Then Bildad the Shuhite replied:
 19 He has no offspring or descendants among his people, no survivor where once he lived.
 20 People of the west are appalled at his fate; those of the east are seized with horror.
 21 Surely such is the dwelling of an evil man; such is the place of one who does not know God.” `;
-const sutra_18_19 = `1 Then Job replied:
+const sutra_en_18_19 = `1 Then Job replied:
 2 “How long will you torment me and crush me with words?
 3 Ten times now you have reproached me; shamelessly you attack me.
 4 If it is true that I have gone astray, my error remains my concern alone.
@@ -455,7 +455,7 @@ const sutra_18_19 = `1 Then Job replied:
 27 I myself will see him with my own eyes—I, and not another. How my heart yearns within me!
 28 “If you say, ‘How we will hound him, since the root of the trouble lies in him, ’
 29 you should fear the sword yourselves; for wrath will bring punishment by the sword, and then you will know that there is judgment. ” `;
-const sutra_18_20 = `1 Then Zophar the Naamathite replied:
+const sutra_en_18_20 = `1 Then Zophar the Naamathite replied:
 2 “My troubled thoughts prompt me to answer because I am greatly disturbed.
 3 I hear a rebuke that dishonors me, and my understanding inspires me to reply.
 4 “Surely you know how it has been from of old, ever since mankind was placed on the earth,
@@ -484,7 +484,7 @@ const sutra_18_20 = `1 Then Zophar the Naamathite replied:
 27 The heavens will expose his guilt; the earth will rise up against him.
 28 A flood will carry off his house, rushing waters on the day of God’s wrath.
 29 Such is the fate God allots the wicked, the heritage appointed for them by God.” `;
-const sutra_18_21 = `1 Then Job replied:
+const sutra_en_18_21 = `1 Then Job replied:
 2 “Listen carefully to my words; let this be the consolation you give me.
 3 Bear with me while I speak, and after I have spoken, mock on.
 4 “Is my complaint directed to a human being? Why should I not be impatient?
@@ -518,7 +518,7 @@ const sutra_18_21 = `1 Then Job replied:
 32 They are carried to the grave, and watch is kept over their tombs.
 33 The soil in the valley is sweet to them; everyone follows after them, and a countless throng goes before them.
 34 “So how can you console me with your nonsense? Nothing is left of your answers but falsehood!” `;
-const sutra_18_22 = `1 Then Eliphaz the Temanite replied:
+const sutra_en_18_22 = `1 Then Eliphaz the Temanite replied:
 2 “Can a man be of benefit to God? Can even a wise person benefit him?
 3 What pleasure would it give the Almighty if you were righteous? What would he gain if your ways were blameless?
 4 “Is it for your piety that he rebukes you and brings charges against you?
@@ -548,7 +548,7 @@ const sutra_18_22 = `1 Then Eliphaz the Temanite replied:
 28 What you decide on will be done, and light will shine on your ways.
 29 When people are brought low and you say, ‘Lift them up!’ then he will save the downcast.
 30 He will deliver even one who is not innocent, who will be delivered through the cleanness of your hands.” `;
-const sutra_18_23 = `1 Then Job replied:
+const sutra_en_18_23 = `1 Then Job replied:
 2 “Even today my complaint is bitter; his hand is heavy in spite of my groaning.
 3 If only I knew where to find him; if only I could go to his dwelling!
 4 I would state my case before him and fill my mouth with arguments.
@@ -565,7 +565,7 @@ const sutra_18_23 = `1 Then Job replied:
 15 That is why I am terrified before him; when I think of all this, I fear him.
 16 God has made my heart faint; the Almighty has terrified me.
 17 Yet I am not silenced by the darkness, by the thick darkness that covers my face. `;
-const sutra_18_24 = `1 “Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?
+const sutra_en_18_24 = `1 “Why does the Almighty not set times for judgment? Why must those who know him look in vain for such days?
 2 There are those who move boundary stones; they pasture flocks they have stolen.
 3 They drive away the orphan’s donkey and take the widow’s ox in pledge.
 4 They thrust the needy from the path and force all the poor of the land into hiding.
@@ -590,13 +590,13 @@ const sutra_18_24 = `1 “Why does the Almighty not set times for judgment? Why 
 23 He may let them rest in a feeling of security, but his eyes are on their ways.
 24 For a little while they are exalted, and then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain.
 25 “If this is not so, who can prove me false and reduce my words to nothing?” `;
-const sutra_18_25 = `1 Then Bildad the Shuhite replied:
+const sutra_en_18_25 = `1 Then Bildad the Shuhite replied:
 2 “Dominion and awe belong to God; he establishes order in the heights of heaven.
 3 Can his forces be numbered? On whom does his light not rise?
 4 How then can a mortal be righteous before God? How can one born of woman be pure?
 5 If even the moon is not bright and the stars are not pure in his eyes,
 6 how much less a mortal, who is but a maggot— a human being, who is only a worm!” `;
-const sutra_18_26 = ` 1 Then Job replied:
+const sutra_en_18_26 = ` 1 Then Job replied:
 2 “How you have helped the powerless! How you have saved the arm that is feeble!
 3 What advice you have offered to one without wisdom! And what great insight you have displayed!
 4 Who has helped you utter these words? And whose spirit spoke from your mouth?
@@ -610,7 +610,7 @@ const sutra_18_26 = ` 1 Then Job replied:
 12 By his power he churned up the sea; by his wisdom he cut Rahab to pieces.
 13 By his breath the skies became fair; his hand pierced the gliding serpent.
 14 And these are but the outer fringe of his works; how faint the whisper we hear of him! Who then can understand the thunder of his power?”`;
-const sutra_18_27 = `1 And Job continued his discourse:
+const sutra_en_18_27 = `1 And Job continued his discourse:
 2 “As surely as God lives, who has denied me justice, the Almighty, who has made my life bitter,
 3 as long as I have life within me, the breath of God in my nostrils,
 4 my lips will not say anything wicked, and my tongue will not utter lies.
@@ -633,7 +633,7 @@ const sutra_18_27 = `1 And Job continued his discourse:
 21 The east wind carries him off, and he is gone; it sweeps him out of his place.
 22 It hurls itself against him without mercy as he flees headlong from its power.
 23 It claps its hands in derision and hisses him out of his place.” `;
-const sutra_18_28 = `1 There is a mine for silver and a place where gold is refined.
+const sutra_en_18_28 = `1 There is a mine for silver and a place where gold is refined.
 2 Iron is taken from the earth, and copper is smelted from ore.
 3 Mortals put an end to the darkness; they search out the farthest recesses for ore in the blackest darkness.
 4 Far from human dwellings they cut a shaft, in places untouched by human feet; far from other people they dangle and sway.
@@ -661,7 +661,7 @@ const sutra_18_28 = `1 There is a mine for silver and a place where gold is refi
 26 when he made a decree for the rain and a path for the thunderstorm,
 27 then he looked at wisdom and appraised it; he confirmed it and tested it.
 28 And he said to the human race, “The fear of the Lord—that is wisdom, and to shun evil is understanding.” `;
-const sutra_18_29 = `1 Job continued his discourse:
+const sutra_en_18_29 = `1 Job continued his discourse:
 2 “How I long for the months gone by, for the days when God watched over me,
 3 when his lamp shone on my head and by his light I walked through darkness!
 4 Oh, for the days when I was in my prime, when God’s intimate friendship blessed my house,
@@ -686,7 +686,7 @@ const sutra_18_29 = `1 Job continued his discourse:
 23 They waited for me as for showers and drank in my words as the spring rain.
 24 When I smiled at them, they scarcely believed it; the light of my face was precious to them.
 25 I chose the way for them and sat as their chief; I dwelt as a king among his troops; I was like one who comforts mourners. `;
-const sutra_18_30 = `1 “But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs.
+const sutra_en_18_30 = `1 “But now they mock me, men younger than I, whose fathers I would have disdained to put with my sheep dogs.
 2 Of what use was the strength of their hands to me, since their vigor had gone from them?
 3 Haggard from want and hunger, they roamed the parched land in desolate wastelands at night.
 4 In the brush they gathered salt herbs, and their food was the root of the broom bush.
@@ -717,7 +717,7 @@ const sutra_18_30 = `1 “But now they mock me, men younger than I, whose father
 29 I have become a brother of jackals, a companion of owls.
 30 My skin grows black and peels; my body burns with fever.
 31 My lyre is tuned to mourning, and my pipe to the sound of wailing. `;
-const sutra_18_31 = `1 “I made a covenant with my eyes not to look lustfully at a young woman.
+const sutra_en_18_31 = `1 “I made a covenant with my eyes not to look lustfully at a young woman.
 2 For what is our lot from God above, our heritage from the Almighty on high?
 3 Is it not ruin for the wicked, disaster for those who do wrong?
 4 Does he not see my ways and count my every step?
@@ -757,7 +757,7 @@ const sutra_18_31 = `1 “I made a covenant with my eyes not to look lustfully a
 38 “if my land cries out against me and all its furrows are wet with tears,
 39 if I have devoured its yield without payment or broken the spirit of its tenants,
 40 then let briers come up instead of wheat and stinkweed instead of barley.” The words of Job are ended. `;
-const sutra_18_32 = `1 So these three men stopped answering Job, because he was righteous in his own eyes.
+const sutra_en_18_32 = `1 So these three men stopped answering Job, because he was righteous in his own eyes.
 2 But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God.
 3 He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him.
 4 Now Elihu had waited before speaking to Job because they were older than he.
@@ -779,7 +779,7 @@ const sutra_18_32 = `1 So these three men stopped answering Job, because he was 
 20 I must speak and find relief; I must open my lips and reply.
 21 I will show no partiality, nor will I flatter anyone;
 22 for if I were skilled in flattery, my Maker would soon take me away. `;
-const sutra_18_33 = `1 “But now, Job, listen to my words; pay attention to everything I say.
+const sutra_en_18_33 = `1 “But now, Job, listen to my words; pay attention to everything I say.
 2 I am about to open my mouth; my words are on the tip of my tongue.
 3 My words come from an upright heart; my lips sincerely speak what I know.
 4 The Spirit of God has made me; the breath of the Almighty gives me life.
@@ -812,7 +812,7 @@ const sutra_18_33 = `1 “But now, Job, listen to my words; pay attention to eve
 31 “Pay attention, Job, and listen to me; be silent, and I will speak.
 32 If you have anything to say, answer me; speak up, for I want to vindicate you.
 33 But if not, then listen to me; be silent, and I will teach you wisdom.” `;
-const sutra_18_34 = `1 Then Elihu said:
+const sutra_en_18_34 = `1 Then Elihu said:
 2 “Hear my words, you wise men; listen to me, you men of learning.
 3 For the ear tests words as the tongue tastes food.
 4 Let us discern for ourselves what is right; let us learn together what is good.
@@ -849,7 +849,7 @@ const sutra_18_34 = `1 Then Elihu said:
 35 ‘Job speaks without knowledge; his words lack insight.’
 36 Oh, that Job might be tested to the utmost for answering like a wicked man!
 37 To his sin he adds rebellion; scornfully he claps his hands among us and multiplies his words against God.” `;
-const sutra_18_35 = `1 Then Elihu said:
+const sutra_en_18_35 = `1 Then Elihu said:
 2 “Do you think this is just? You say, ‘I am in the right, not God.’
 3 Yet you ask him, ‘What profit is it to me,and what do I gain by not sinning?’
 4 “I would like to reply to you and to your friends with you.
@@ -865,7 +865,7 @@ const sutra_18_35 = `1 Then Elihu said:
 14 How much less, then, will he listen when you say that you do not see him, that your case is before him and you must wait for him,
 15 and further, that his anger never punishes and he does not take the least notice of wickedness.
 16 So Job opens his mouth with empty talk; without knowledge he multiplies words.” `;
-const sutra_18_36 = `1 Elihu continued:
+const sutra_en_18_36 = `1 Elihu continued:
 2 “Bear with me a little longer and I will show you that there is more to be said in God’s behalf.
 3 I get my knowledge from afar; I will ascribe justice to my Maker.
 4 Be assured that my words are not false; one who has perfect knowledge is with you.
@@ -898,7 +898,7 @@ const sutra_18_36 = `1 Elihu continued:
 31 This is the way he governs the nations and provides food in abundance.
 32 He fills his hands with lightning and commands it to strike its mark.
 33 His thunder announces the coming storm; even the cattle make known its approach. `;
-const sutra_18_37 = `
+const sutra_en_18_37 = `
 1 “At this my heart pounds and leaps from its place.
 2 Listen! Listen to the roar of his voice, to the rumbling that comes from his mouth.
 3 He unleashes his lightning beneath the whole heaven and sends it to the ends of the earth.
@@ -923,7 +923,7 @@ const sutra_18_37 = `
 22 Out of the north he comes in golden splendor; God comes in awesome majesty.
 23 The Almighty is beyond our reach and exalted in power; in his justice and great righteousness, he does not oppress.
 24 Therefore, people revere him, for does he not have regard for all the wise in heart? ” `;
-const sutra_18_38 = `1 Then the LORD spoke to Job out of the storm. He said:
+const sutra_en_18_38 = `1 Then the LORD spoke to Job out of the storm. He said:
 2 “Who is this that obscures my plans with words without knowledge?
 3 Brace yourself like a man; I will question you, and you shall answer me.
 4 “Where were you when I laid the earth’s foundation? Tell me, if you understand.
@@ -964,7 +964,7 @@ const sutra_18_38 = `1 Then the LORD spoke to Job out of the storm. He said:
 39 “Do you hunt the prey for the lioness and satisfy the hunger of the lions
 40 when they crouch in their dens or lie in wait in a thicket?
 41 Who provides food for the raven when its young cry out to God and wander about for lack of food? `;
-const sutra_18_39 = `1 “Do you know when the mountain goats give birth? Do you watch when the doe bears her fawn?
+const sutra_en_18_39 = `1 “Do you know when the mountain goats give birth? Do you watch when the doe bears her fawn?
 2 Do you count the months till they bear? Do you know the time they give birth?
 3 They crouch down and bring forth their young; their labor pains are ended.
 4 Their young thrive and grow strong in the wilds; they leave and do not return.
@@ -994,7 +994,7 @@ const sutra_18_39 = `1 “Do you know when the mountain goats give birth? Do you
 28 It dwells on a cliff and stays there at night; a rocky crag is its stronghold.
 29 From there it looks for food; its eyes detect it from afar.
 30 Its young ones feast on blood, and where the slain are, there it is.” `;
-const sutra_18_40 = `1 The LORD said to Job:
+const sutra_en_18_40 = `1 The LORD said to Job:
 2 “Will the one who contends with the Almighty correct him? Let him who accuses God answer him!”
 3 Then Job answered the LORD:
 4 “I am unworthy—how can I reply to you? I put my hand over my mouth.
@@ -1018,7 +1018,7 @@ const sutra_18_40 = `1 The LORD said to Job:
 22 The lotuses conceal it in their shadow; the poplars by the stream surround it.
 23 A raging river does not alarm it; it is secure, though the Jordan should surge against its mouth.
 24 Can anyone capture it by the eyes, or trap it and pierce its nose? `;
-const sutra_18_41 = `1 “Can you pull in Leviathan with a fishhook or tie down its tongue with a rope?
+const sutra_en_18_41 = `1 “Can you pull in Leviathan with a fishhook or tie down its tongue with a rope?
 2 Can you put a cord through its nose or pierce its jaw with a hook?
 3 Will it keep begging you for mercy? Will it speak to you with gentle words?
 4 Will it make an agreement with you for you to take it as your slave for life?
@@ -1052,7 +1052,7 @@ const sutra_18_41 = `1 “Can you pull in Leviathan with a fishhook or tie down 
 32 It leaves a glistening wake behind it; one would think the deep had white hair.
 33 Nothing on earth is its equal— a creature without fear.
 34 It looks down on all that are haughty; it is king over all that are proud.” `;
-const sutra_18_42 = `1 Then Job replied to the LORD:
+const sutra_en_18_42 = `1 Then Job replied to the LORD:
 2 “I know that you can do all things; no purpose of yours can be thwarted.
 3 You asked, ‘Who is this that obscures my plans without knowledge?’ Surely I spoke of things I did not understand, things too wonderful for me to know.
 4 “You said, ‘Listen now, and I will speak; I will question you, and you shall answer me.’
@@ -1070,9 +1070,9 @@ Epilogue
 15 Nowhere in all the land were there found women as beautiful as Job’s daughters, and their father granted them an inheritance along with their brothers.
 16 After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation.
 17 And so Job died, an old man and full of years. `;
-const sutra_18 = [sutra_18_1,sutra_18_2,sutra_18_3,sutra_18_4,sutra_18_5,sutra_18_6,sutra_18_7,sutra_18_8,sutra_18_9,sutra_18_10,
-                sutra_18_11,sutra_18_12,sutra_18_13,sutra_18_14,sutra_18_15,sutra_18_16,sutra_18_17,sutra_18_18,sutra_18_19,sutra_18_20,
-                sutra_18_21,sutra_18_22,sutra_18_23,sutra_18_24,sutra_18_25,sutra_18_26,sutra_18_27,sutra_18_28,sutra_18_29,sutra_18_30,
-                sutra_18_31,sutra_18_32,sutra_18_33,sutra_18_34,sutra_18_35,sutra_18_36,sutra_18_37,sutra_18_38,sutra_18_39,sutra_18_40,
-                sutra_18_41,sutra_18_42
+const sutra_en_18 = [sutra_en_18_1,sutra_en_18_2,sutra_en_18_3,sutra_en_18_4,sutra_en_18_5,sutra_en_18_6,sutra_en_18_7,sutra_en_18_8,sutra_en_18_9,sutra_en_18_10,
+                sutra_en_18_11,sutra_en_18_12,sutra_en_18_13,sutra_en_18_14,sutra_en_18_15,sutra_en_18_16,sutra_en_18_17,sutra_en_18_18,sutra_en_18_19,sutra_en_18_20,
+                sutra_en_18_21,sutra_en_18_22,sutra_en_18_23,sutra_en_18_24,sutra_en_18_25,sutra_en_18_26,sutra_en_18_27,sutra_en_18_28,sutra_en_18_29,sutra_en_18_30,
+                sutra_en_18_31,sutra_en_18_32,sutra_en_18_33,sutra_en_18_34,sutra_en_18_35,sutra_en_18_36,sutra_en_18_37,sutra_en_18_38,sutra_en_18_39,sutra_en_18_40,
+                sutra_en_18_41,sutra_en_18_42
                 ];

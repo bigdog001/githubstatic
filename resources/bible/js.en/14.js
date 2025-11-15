@@ -1,4 +1,4 @@
-const sutra_14_1 = `1 Solomon son of David established himself firmly over his kingdom, for the LORD his God was with him and made him exceedingly great.
+const sutra_en_14_1 = `1 Solomon son of David established himself firmly over his kingdom, for the LORD his God was with him and made him exceedingly great.
 2 Then Solomon spoke to all Israel—to the commanders of thousands and commanders of hundreds, to the judges and to all the leaders in Israel, the heads of families—
 3 and Solomon and the whole assembly went to the high place at Gibeon, for God’s tent of meeting was there, which Moses the LORD’s servant had made in the wilderness.
 4 Now David had brought up the ark of God from Kiriath Jearim to the place he had prepared for it, because he had pitched a tent for it in Jerusalem.
@@ -15,7 +15,7 @@ const sutra_14_1 = `1 Solomon son of David established himself firmly over his k
 15 The king made silver and gold as common in Jerusalem as stones, and cedar as plentiful as sycamore-fig trees in the foothills.
 16 Solomon’s horses were imported from Egypt and from Kue —the royal merchants purchased them from Kue at the current price.
 17 They imported a chariot from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. They also exported them to all the kings of the Hittites and of the Arameans. `;
-const sutra_14_2 = `1 Solomon gave orders to build a temple for the Name of the LORD and a royal palace for himself.
+const sutra_en_14_2 = `1 Solomon gave orders to build a temple for the Name of the LORD and a royal palace for himself.
 2 He conscripted 70,000 men as carriers and 80,000 as stonecutters in the hills and 3,600 as foremen over them.
 3 Solomon sent this message to Hiram king of Tyre: “Send me cedar logs as you did for my father David when you sent him cedar to build a palace to live in.
 4 Now I am about to build a temple for the Name of the LORD my God and to dedicate it to him for burning fragrant incense before him, for setting out the consecrated bread regularly, and for making burnt offerings every morning and evening and on the Sabbaths, at the New Moons and at the appointed festivals of the LORD our God. This is a lasting ordinance for Israel.
@@ -33,7 +33,7 @@ const sutra_14_2 = `1 Solomon gave orders to build a temple for the Name of the 
 16 and we will cut all the logs from Lebanon that you need and will float them as rafts by sea down to Joppa. You can then take them up to Jerusalem.”
 17 Solomon took a census of all the foreigners residing in Israel, after the census his father David had taken; and they were found to be 153,600.
 18 He assigned 70,000 of them to be carriers and 80,000 to be stonecutters in the hills, with 3,600 foremen over them to keep the people working. `;
-const sutra_14_3 = `1 Then Solomon began to build the temple of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. It was on the threshing floor of Araunah the Jebusite, the place provided by David.
+const sutra_en_14_3 = `1 Then Solomon began to build the temple of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. It was on the threshing floor of Araunah the Jebusite, the place provided by David.
 2 He began building on the second day of the second month in the fourth year of his reign.
 3 The foundation Solomon laid for building the temple of God was sixty cubits long and twenty cubits wide (using the cubit of the old standard).
 4 The portico at the front of the temple was twenty cubits long across the width of the building and twenty cubits high. He overlaid the inside with pure gold.
@@ -50,7 +50,7 @@ const sutra_14_3 = `1 Then Solomon began to build the temple of the LORD in Jeru
 15 For the front of the temple he made two pillars, which together were thirty-five cubits long, each with a capital five cubits high.
 16 He made interwoven chains and put them on top of the pillars. He also made a hundred pomegranates and attached them to the chains.
 17 He erected the pillars in the front of the temple, one to the south and one to the north. The one to the south he named Jakin and the one to the north Boaz. `;
-const sutra_14_4 = `1 He made a bronze altar twenty cubits long, twenty cubits wide and ten cubits high.
+const sutra_en_14_4 = `1 He made a bronze altar twenty cubits long, twenty cubits wide and ten cubits high.
 2 He made the Sea of cast metal, circular in shape, measuring ten cubits from rim to rim and five cubits high. It took a line of thirty cubits to measure around it.
 3 Below the rim, figures of bulls encircled it—ten to a cubit. The bulls were cast in two rows in one piece with the Sea.
 4 The Sea stood on twelve bulls, three facing north, three facing west, three facing south and three facing east. The Sea rested on top of them, and their hindquarters were toward the center.
@@ -72,7 +72,7 @@ const sutra_14_4 = `1 He made a bronze altar twenty cubits long, twenty cubits w
 20 the lampstands of pure gold with their lamps, to burn in front of the inner sanctuary as prescribed;
 21 the gold floral work and lamps and tongs (they were solid gold);
 22 the pure gold wick trimmers, sprinkling bowls, dishes and censers; and the gold doors of the temple: the inner doors to the Most Holy Place and the doors of the main hall. `;
-const sutra_14_5 = `1 When all the work Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated—the silver and gold and all the furnishings—and he placed them in the treasuries of God’s temple.
+const sutra_en_14_5 = `1 When all the work Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated—the silver and gold and all the furnishings—and he placed them in the treasuries of God’s temple.
 2 Then Solomon summoned to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the LORD’s covenant from Zion, the City of David.
 3 And all the Israelites came together to the king at the time of the festival in the seventh month.
 4 When all the elders of Israel had arrived, the Levites took up the ark,
@@ -86,7 +86,7 @@ const sutra_14_5 = `1 When all the work Solomon had done for the temple of the L
 12 All the Levites who were musicians—Asaph, Heman, Jeduthun and their sons and relatives—stood on the east side of the altar, dressed in fine linen and playing cymbals, harps and lyres. They were accompanied by 120 priests sounding trumpets.
 13 The trumpeters and musicians joined in unison to give praise and thanks to the LORD. Accompanied by trumpets, cymbals and other instruments, the singers raised their voices in praise to the LORD and sang: “He is good; his love endures forever.” Then the temple of the LORD was filled with the cloud,
 14 and the priests could not perform their service because of the cloud, for the glory of the LORD filled the temple of God. `;
-const sutra_14_6 = `1 Then Solomon said, “The LORD has said that he would dwell in a dark cloud;
+const sutra_en_14_6 = `1 Then Solomon said, “The LORD has said that he would dwell in a dark cloud;
 2 I have built a magnificent temple for you, a place for you to dwell forever.”
 3 While the whole assembly of Israel was standing there, the king turned around and blessed them.
 4 Then he said: “Praise be to the LORD, the God of Israel, who with his hands has fulfilled what he promised with his mouth to my father David. For he said,
@@ -128,7 +128,7 @@ const sutra_14_6 = `1 Then Solomon said, “The LORD has said that he would dwel
 40 “Now, my God, may your eyes be open and your ears attentive to the prayers offered in this place.
 41 “Now arise, LORD God, and come to your resting place, you and the ark of your might. May your priests, LORD God, be clothed with salvation, may your faithful people rejoice in your goodness.
 42 LORD God, do not reject your anointed one. Remember the great love promised to David your servant.” `;
-const sutra_14_7 = `1 When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple.
+const sutra_en_14_7 = `1 When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple.
 2 The priests could not enter the temple of the LORD because the glory of the LORD filled it.
 3 When all the Israelites saw the fire coming down and the glory of the LORD above the temple, they knelt on the pavement with their faces to the ground, and they worshiped and gave thanks to the LORD, saying, “He is good; his love endures forever.”
 4 Then the king and all the people offered sacrifices before the LORD.
@@ -150,7 +150,7 @@ const sutra_14_7 = `1 When Solomon finished praying, fire came down from heaven 
 20 then I will uproot Israel from my land, which I have given them, and will reject this temple I have consecrated for my Name. I will make it a byword and an object of ridicule among all peoples.
 21 This temple will become a heap of rubble. All who pass by will be appalled and say, ‘Why has the LORD done such a thing to this land and to this temple?’
 22 People will answer, ‘Because they have forsaken the LORD, the God of their ancestors, who brought them out of Egypt, and have embraced other gods, worshiping and serving them—that is why he brought all this disaster on them.’ ” `;
-const sutra_14_8 = `1 At the end of twenty years, during which Solomon built the temple of the LORD and his own palace,
+const sutra_en_14_8 = `1 At the end of twenty years, during which Solomon built the temple of the LORD and his own palace,
 2 Solomon rebuilt the villages that Hiram had given him, and settled Israelites in them.
 3 Solomon then went to Hamath Zobah and captured it.
 4 He also built up Tadmor in the desert and all the store cities he had built in Hamath.
@@ -168,7 +168,7 @@ const sutra_14_8 = `1 At the end of twenty years, during which Solomon built the
 16 All Solomon’s work was carried out, from the day the foundation of the temple of the LORD was laid until its completion. So the temple of the LORD was finished.
 17 Then Solomon went to Ezion Geber and Elath on the coast of Edom.
 18 And Hiram sent him ships commanded by his own men, sailors who knew the sea. These, with Solomon’s men, sailed to Ophir and brought back four hundred and fifty talents of gold, which they delivered to King Solomon. `;
-const sutra_14_9 = `1 When the queen of Sheba heard of Solomon’s fame, she came to Jerusalem to test him with hard questions. Arriving with a very great caravan—with camels carrying spices, large quantities of gold, and precious stones—she came to Solomon and talked with him about all she had on her mind.
+const sutra_en_14_9 = `1 When the queen of Sheba heard of Solomon’s fame, she came to Jerusalem to test him with hard questions. Arriving with a very great caravan—with camels carrying spices, large quantities of gold, and precious stones—she came to Solomon and talked with him about all she had on her mind.
 2 Solomon answered all her questions; nothing was too hard for him to explain to her.
 3 When the queen of Sheba saw the wisdom of Solomon, as well as the palace he had built,
 4 the food on his table, the seating of his officials, the attending servants in their robes, the cupbearers in their robes and the burnt offerings he made at the temple of the LORD, she was overwhelmed.
@@ -199,7 +199,7 @@ const sutra_14_9 = `1 When the queen of Sheba heard of Solomon’s fame, she cam
 29 As for the other events of Solomon’s reign, from beginning to end, are they not written in the records of Nathan the prophet, in the prophecy of Ahijah the Shilonite and in the visions of Iddo the seer concerning Jeroboam son of Nebat?
 30 Solomon reigned in Jerusalem over all Israel forty years.
 31 Then he rested with his ancestors and was buried in the city of David his father. And Rehoboam his son succeeded him as king. `;
-const sutra_14_10 = `1 Rehoboam went to Shechem, for all Israel had gone there to make him king.
+const sutra_en_14_10 = `1 Rehoboam went to Shechem, for all Israel had gone there to make him king.
 2 When Jeroboam son of Nebat heard this (he was in Egypt, where he had fled from King Solomon), he returned from Egypt.
 3 So they sent for Jeroboam, and he and all Israel went to Rehoboam and said to him:
 4 “Your father put a heavy yoke on us, but now lighten the harsh labor and the heavy yoke he put on us, and we will serve you.”
@@ -218,7 +218,7 @@ const sutra_14_10 = `1 Rehoboam went to Shechem, for all Israel had gone there t
 17 But as for the Israelites who were living in the towns of Judah, Rehoboam still ruled over them.
 18 King Rehoboam sent out Adoniram, who was in charge of forced labor, but the Israelites stoned him to death. King Rehoboam, however, managed to get into his chariot and escape to Jerusalem.
 19 So Israel has been in rebellion against the house of David to this day. `;
-const sutra_14_11 = `1 When Rehoboam arrived in Jerusalem, he mustered Judah and Benjamin—a hundred and eighty thousand able young men—to go to war against Israel and to regain the kingdom for Rehoboam.
+const sutra_en_14_11 = `1 When Rehoboam arrived in Jerusalem, he mustered Judah and Benjamin—a hundred and eighty thousand able young men—to go to war against Israel and to regain the kingdom for Rehoboam.
 2 But this word of the LORD came to Shemaiah the man of God:
 3 “Say to Rehoboam son of Solomon king of Judah and to all Israel in Judah and Benjamin,
 4 ‘This is what the LORD says: Do not go up to fight against your fellow Israelites. Go home, every one of you, for this is my doing.’ ” So they obeyed the words of the LORD and turned back from marching against Jeroboam.
@@ -241,7 +241,7 @@ const sutra_14_11 = `1 When Rehoboam arrived in Jerusalem, he mustered Judah and
 21 Rehoboam loved Maakah daughter of Absalom more than any of his other wives and concubines. In all, he had eighteen wives and sixty concubines, twenty-eight sons and sixty daughters.
 22 Rehoboam appointed Abijah son of Maakah as crown prince among his brothers, in order to make him king.
 23 He acted wisely, dispersing some of his sons throughout the districts of Judah and Benjamin, and to all the fortified cities. He gave them abundant provisions and took many wives for them. `;
-const sutra_14_12 = `1 After Rehoboam’s position as king was established and he had become strong, he and all Israel with him abandoned the law of the LORD.
+const sutra_en_14_12 = `1 After Rehoboam’s position as king was established and he had become strong, he and all Israel with him abandoned the law of the LORD.
 2 Because they had been unfaithful to the LORD, Shishak king of Egypt attacked Jerusalem in the fifth year of King Rehoboam.
 3 With twelve hundred chariots and sixty thousand horsemen and the innumerable troops of Libyans, Sukkites and Cushites that came with him from Egypt,
 4 he captured the fortified cities of Judah and came as far as Jerusalem.
@@ -257,7 +257,7 @@ const sutra_14_12 = `1 After Rehoboam’s position as king was established and h
 14 He did evil because he had not set his heart on seeking the LORD.
 15 As for the events of Rehoboam’s reign, from beginning to end, are they not written in the records of Shemaiah the prophet and of Iddo the seer that deal with genealogies? There was continual warfare between Rehoboam and Jeroboam.
 16 Rehoboam rested with his ancestors and was buried in the City of David. And Abijah his son succeeded him as king. `;
-const sutra_14_13 = `1 In the eighteenth year of the reign of Jeroboam, Abijah became king of Judah,
+const sutra_en_14_13 = `1 In the eighteenth year of the reign of Jeroboam, Abijah became king of Judah,
 2 and he reigned in Jerusalem three years. His mother’s name was Maakah, a daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam.
 3 Abijah went into battle with an army of four hundred thousand able fighting men, and Jeroboam drew up a battle line against him with eight hundred thousand able troops.
 4 Abijah stood on Mount Zemaraim, in the hill country of Ephraim, and said, “Jeroboam and all Israel, listen to me!
@@ -279,7 +279,7 @@ const sutra_14_13 = `1 In the eighteenth year of the reign of Jeroboam, Abijah b
 20 Jeroboam did not regain power during the time of Abijah. And the LORD struck him down and he died.
 21 But Abijah grew in strength. He married fourteen wives and had twenty-two sons and sixteen daughters.
 22 The other events of Abijah’s reign, what he did and what he said, are written in the annotations of the prophet Iddo. `;
-const sutra_14_14 = `1 And Abijah rested with his ancestors and was buried in the City of David. Asa his son succeeded him as king, and in his days the country was at peace for ten years.
+const sutra_en_14_14 = `1 And Abijah rested with his ancestors and was buried in the City of David. Asa his son succeeded him as king, and in his days the country was at peace for ten years.
 2 Asa did what was good and right in the eyes of the LORD his God.
 3 He removed the foreign altars and the high places, smashed the sacred stones and cut down the Asherah poles.
 4 He commanded Judah to seek the LORD, the God of their ancestors, and to obey his laws and commands.
@@ -294,7 +294,7 @@ const sutra_14_14 = `1 And Abijah rested with his ancestors and was buried in th
 13 and Asa and his army pursued them as far as Gerar. Such a great number of Cushites fell that they could not recover; they were crushed before the LORD and his forces. The men of Judah carried off a large amount of plunder.
 14 They destroyed all the villages around Gerar, for the terror of the LORD had fallen on them. They looted all these villages, since there was much plunder there.
 15 They also attacked the camps of the herders and carried off droves of sheep and goats and camels. Then they returned to Jerusalem. `;
-const sutra_14_15 = `1 The Spirit of God came on Azariah son of Oded.
+const sutra_en_14_15 = `1 The Spirit of God came on Azariah son of Oded.
 2 He went out to meet Asa and said to him, “Listen to me, Asa and all Judah and Benjamin. The LORD is with you when you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you.
 3 For a long time Israel was without the true God, without a priest to teach and without the law.
 4 But in their distress they turned to the LORD, the God of Israel, and sought him, and he was found by them.
@@ -313,7 +313,7 @@ const sutra_14_15 = `1 The Spirit of God came on Azariah son of Oded.
 17 Although he did not remove the high places from Israel, Asa’s heart was fully committed to the LORD all his life.
 18 He brought into the temple of God the silver and gold and the articles that he and his father had dedicated.
 19 There was no more war until the thirty-fifth year of Asa’s reign. `;
-const sutra_14_16 = `1 In the thirty-sixth year of Asa’s reign Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.
+const sutra_en_14_16 = `1 In the thirty-sixth year of Asa’s reign Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.
 2 Asa then took the silver and gold out of the treasuries of the LORD’s temple and of his own palace and sent it to Ben-Hadad king of Aram, who was ruling in Damascus.
 3 “Let there be a treaty between me and you,” he said, “as there was between my father and your father. See, I am sending you silver and gold. Now break your treaty with Baasha king of Israel so he will withdraw from me.”
 4 Ben-Hadad agreed with King Asa and sent the commanders of his forces against the towns of Israel. They conquered Ijon, Dan, Abel Maim and all the store cities of Naphtali.
@@ -327,7 +327,7 @@ const sutra_14_16 = `1 In the thirty-sixth year of Asa’s reign Baasha king of 
 12 In the thirty-ninth year of his reign Asa was afflicted with a disease in his feet. Though his disease was severe, even in his illness he did not seek help from the LORD, but only from the physicians.
 13 Then in the forty-first year of his reign Asa died and rested with his ancestors.
 14 They buried him in the tomb that he had cut out for himself in the City of David. They laid him on a bier covered with spices and various blended perfumes, and they made a huge fire in his honor. `;
-const sutra_14_17 = `1 Jehoshaphat his son succeeded him as king and strengthened himself against Israel.
+const sutra_en_14_17 = `1 Jehoshaphat his son succeeded him as king and strengthened himself against Israel.
 2 He stationed troops in all the fortified cities of Judah and put garrisons in Judah and in the towns of Ephraim that his father Asa had captured.
 3 The LORD was with Jehoshaphat because he followed the ways of his father David before him. He did not consult the Baals
 4 but sought the God of his father and followed his commands rather than the practices of Israel.
@@ -346,7 +346,7 @@ const sutra_14_17 = `1 Jehoshaphat his son succeeded him as king and strengthene
 17 From Benjamin: Eliada, a valiant soldier, with 200,000 men armed with bows and shields;
 18 next, Jehozabad, with 180,000 men armed for battle.
 19 These were the men who served the king, besides those he stationed in the fortified cities throughout Judah. `;
-const sutra_14_18 = `1 Now Jehoshaphat had great wealth and honor, and he allied himself with Ahab by marriage.
+const sutra_en_14_18 = `1 Now Jehoshaphat had great wealth and honor, and he allied himself with Ahab by marriage.
 2 Some years later he went down to see Ahab in Samaria. Ahab slaughtered many sheep and cattle for him and the people with him and urged him to attack Ramoth Gilead.
 3 Ahab king of Israel asked Jehoshaphat king of Judah, “Will you go with me against Ramoth Gilead?” Jehoshaphat replied, “I am as you are, and my people as your people; we will join you in the war.”
 4 But Jehoshaphat also said to the king of Israel, “First seek the counsel of the LORD.”
@@ -380,7 +380,7 @@ const sutra_14_18 = `1 Now Jehoshaphat had great wealth and honor, and he allied
 32 for when the chariot commanders saw that he was not the king of Israel, they stopped pursuing him.
 33 But someone drew his bow at random and hit the king of Israel between the breastplate and the scale armor. The king told the chariot driver, “Wheel around and get me out of the fighting. I’ve been wounded.”
 34 All day long the battle raged, and the king of Israel propped himself up in his chariot facing the Arameans until evening. Then at sunset he died. `;
-const sutra_14_19 = `1 When Jehoshaphat king of Judah returned safely to his palace in Jerusalem,
+const sutra_en_14_19 = `1 When Jehoshaphat king of Judah returned safely to his palace in Jerusalem,
 2 Jehu the seer, the son of Hanani, went out to meet him and said to the king, “Should you help the wicked and love those who hate the LORD? Because of this, the wrath of the LORD is on you.
 3 There is, however, some good in you, for you have rid the land of the Asherah poles and have set your heart on seeking God.”
 4 Jehoshaphat lived in Jerusalem, and he went out again among the people from Beersheba to the hill country of Ephraim and turned them back to the LORD, the God of their ancestors.
@@ -391,7 +391,7 @@ const sutra_14_19 = `1 When Jehoshaphat king of Judah returned safely to his pal
 9 He gave them these orders: “You must serve faithfully and wholeheartedly in the fear of the LORD.
 10 In every case that comes before you from your people who live in the cities—whether bloodshed or other concerns of the law, commands, decrees or regulations—you are to warn them not to sin against the LORD; otherwise his wrath will come on you and your people. Do this, and you will not sin.
 11 “Amariah the chief priest will be over you in any matter concerning the LORD, and Zebadiah son of Ishmael, the leader of the tribe of Judah, will be over you in any matter concerning the king, and the Levites will serve as officials before you. Act with courage, and may the LORD be with those who do well.” `;
-const sutra_14_20 = `1 After this, the Moabites and Ammonites with some of the Meunites came to wage war against Jehoshaphat.
+const sutra_en_14_20 = `1 After this, the Moabites and Ammonites with some of the Meunites came to wage war against Jehoshaphat.
 2 Some people came and told Jehoshaphat, “A vast army is coming against you from Edom, from the other side of the Dead Sea. It is already in Hazezon Tamar” (that is, En Gedi).
 3 Alarmed, Jehoshaphat resolved to inquire of the LORD, and he proclaimed a fast for all Judah.
 4 The people of Judah came together to seek help from the LORD; indeed, they came from every town in Judah to seek him.
@@ -428,7 +428,7 @@ const sutra_14_20 = `1 After this, the Moabites and Ammonites with some of the M
 35 Later, Jehoshaphat king of Judah made an alliance with Ahaziah king of Israel, whose ways were wicked.
 36 He agreed with him to construct a fleet of trading ships. After these were built at Ezion Geber,
 37 Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have made an alliance with Ahaziah, the LORD will destroy what you have made.” The ships were wrecked and were not able to set sail to trade. `;
-const sutra_14_21 = `1 Then Jehoshaphat rested with his ancestors and was buried with them in the City of David. And Jehoram his son succeeded him as king.
+const sutra_en_14_21 = `1 Then Jehoshaphat rested with his ancestors and was buried with them in the City of David. And Jehoram his son succeeded him as king.
 2 Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariahu, Michael and Shephatiah. All these were sons of Jehoshaphat king of Israel.
 3 Their father had given them many gifts of silver and gold and articles of value, as well as fortified cities in Judah, but he had given the kingdom to Jehoram because he was his firstborn son.
 4 When Jehoram established himself firmly over his father’s kingdom, he put all his brothers to the sword along with some of the officials of Israel.
@@ -448,7 +448,7 @@ const sutra_14_21 = `1 Then Jehoshaphat rested with his ancestors and was buried
 18 After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.
 19 In the course of time, at the end of the second year, his bowels came out because of the disease, and he died in great pain. His people made no funeral fire in his honor, as they had for his predecessors.
 20 Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He passed away, to no one’s regret, and was buried in the City of David, but not in the tombs of the kings. `;
-const sutra_14_22 = `1 The people of Jerusalem made Ahaziah, Jehoram’s youngest son, king in his place, since the raiders, who came with the Arabs into the camp, had killed all the older sons. So Ahaziah son of Jehoram king of Judah began to reign.
+const sutra_en_14_22 = `1 The people of Jerusalem made Ahaziah, Jehoram’s youngest son, king in his place, since the raiders, who came with the Arabs into the camp, had killed all the older sons. So Ahaziah son of Jehoram king of Judah began to reign.
 2 Ahaziah was twenty-two years old when he became king, and he reigned in Jerusalem one year. His mother’s name was Athaliah, a granddaughter of Omri.
 3 He too followed the ways of the house of Ahab, for his mother encouraged him to act wickedly.
 4 He did evil in the eyes of the LORD, as the house of Ahab had done, for after his father’s death they became his advisers, to his undoing.
@@ -460,7 +460,7 @@ const sutra_14_22 = `1 The people of Jerusalem made Ahaziah, Jehoram’s younges
 10 When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to destroy the whole royal family of the house of Judah.
 11 But Jehosheba, the daughter of King Jehoram, took Joash son of Ahaziah and stole him away from among the royal princes who were about to be murdered and put him and his nurse in a bedroom. Because Jehosheba, the daughter of King Jehoram and wife of the priest Jehoiada, was Ahaziah’s sister, she hid the child from Athaliah so she could not kill him.
 12 He remained hidden with them at the temple of God for six years while Athaliah ruled the land. `;
-const sutra_14_23 = `1 In the seventh year Jehoiada showed his strength. He made a covenant with the commanders of units of a hundred: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zikri.
+const sutra_en_14_23 = `1 In the seventh year Jehoiada showed his strength. He made a covenant with the commanders of units of a hundred: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zikri.
 2 They went throughout Judah and gathered the Levites and the heads of Israelite families from all the towns. When they came to Jerusalem,
 3 the whole assembly made a covenant with the king at the temple of God. Jehoiada said to them, “The king’s son shall reign, as the LORD promised concerning the descendants of David.
 4 Now this is what you are to do: A third of you priests and Levites who are going on duty on the Sabbath are to keep watch at the doors,
@@ -481,7 +481,7 @@ const sutra_14_23 = `1 In the seventh year Jehoiada showed his strength. He made
 19 He also stationed gatekeepers at the gates of the LORD’s temple so that no one who was in any way unclean might enter.
 20 He took with him the commanders of hundreds, the nobles, the rulers of the people and all the people of the land and brought the king down from the temple of the LORD. They went into the palace through the Upper Gate and seated the king on the royal throne.
 21 All the people of the land rejoiced, and the city was calm, because Athaliah had been slain with the sword. `;
-const sutra_14_24 = `1 Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba.
+const sutra_en_14_24 = `1 Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba.
 2 Joash did what was right in the eyes of the LORD all the years of Jehoiada the priest.
 3 Jehoiada chose two wives for him, and he had sons and daughters.
 4 Some time later Joash decided to restore the temple of the LORD.
@@ -508,7 +508,7 @@ const sutra_14_24 = `1 Joash was seven years old when he became king, and he rei
 25 When the Arameans withdrew, they left Joash severely wounded. His officials conspired against him for murdering the son of Jehoiada the priest, and they killed him in his bed. So he died and was buried in the City of David, but not in the tombs of the kings.
 26 Those who conspired against him were Zabad, son of Shimeath an Ammonite woman, and Jehozabad, son of Shimrith a Moabite woman.
 27 The account of his sons, the many prophecies about him, and the record of the restoration of the temple of God are written in the annotations on the book of the kings. And Amaziah his son succeeded him as king. `;
-const sutra_14_25 = `1 Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.
+const sutra_en_14_25 = `1 Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.
 2 He did what was right in the eyes of the LORD, but not wholeheartedly.
 3 After the kingdom was firmly in his control, he executed the officials who had murdered his father the king.
 4 Yet he did not put their children to death, but acted in accordance with what is written in the Law, in the Book of Moses, where the LORD commanded: “Parents shall not be put to death for their children, nor children be put to death for their parents; each will die for their own sin.”
@@ -536,7 +536,7 @@ const sutra_14_25 = `1 Amaziah was twenty-five years old when he became king, an
 26 As for the other events of Amaziah’s reign, from beginning to end, are they not written in the book of the kings of Judah and Israel?
 27 From the time that Amaziah turned away from following the LORD, they conspired against him in Jerusalem and he fled to Lachish, but they sent men after him to Lachish and killed him there.
 28 He was brought back by horse and was buried with his ancestors in the City of Judah. `;
-const sutra_14_26 = `1 Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in place of his father Amaziah.
+const sutra_en_14_26 = `1 Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in place of his father Amaziah.
 2 He was the one who rebuilt Elath and restored it to Judah after Amaziah rested with his ancestors.
 3 Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jekoliah; she was from Jerusalem.
 4 He did what was right in the eyes of the LORD, just as his father Amaziah had done.
@@ -559,7 +559,7 @@ const sutra_14_26 = `1 Then all the people of Judah took Uzziah, who was sixteen
 21 King Uzziah had leprosy until the day he died. He lived in a separate house —leprous, and banned from the temple of the LORD. Jotham his son had charge of the palace and governed the people of the land.
 22 The other events of Uzziah’s reign, from beginning to end, are recorded by the prophet Isaiah son of Amoz.
 23 Uzziah rested with his ancestors and was buried near them in a cemetery that belonged to the kings, for people said, “He had leprosy.” And Jotham his son succeeded him as king. `;
-const sutra_14_27 = `1 Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerusha daughter of Zadok.
+const sutra_en_14_27 = `1 Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerusha daughter of Zadok.
 2 He did what was right in the eyes of the LORD, just as his father Uzziah had done, but unlike him he did not enter the temple of the LORD. The people, however, continued their corrupt practices.
 3 Jotham rebuilt the Upper Gate of the temple of the LORD and did extensive work on the wall at the hill of Ophel.
 4 He built towns in the hill country of Judah and forts and towers in the wooded areas.
@@ -568,7 +568,7 @@ const sutra_14_27 = `1 Jotham was twenty-five years old when he became king, and
 7 The other events in Jotham’s reign, including all his wars and the other things he did, are written in the book of the kings of Israel and Judah.
 8 He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years.
 9 Jotham rested with his ancestors and was buried in the City of David. And Ahaz his son succeeded him as king. `;
-const sutra_14_28 = `1 Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. Unlike David his father, he did not do what was right in the eyes of the LORD.
+const sutra_en_14_28 = `1 Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. Unlike David his father, he did not do what was right in the eyes of the LORD.
 2 He followed the ways of the kings of Israel and also made idols for worshiping the Baals.
 3 He burned sacrifices in the Valley of Ben Hinnom and sacrificed his children in the fire, engaging in the detestable practices of the nations the LORD had driven out before the Israelites.
 4 He offered sacrifices and burned incense at the high places, on the hilltops and under every spreading tree.
@@ -595,7 +595,7 @@ const sutra_14_28 = `1 Ahaz was twenty years old when he became king, and he rei
 25 In every town in Judah he built high places to burn sacrifices to other gods and aroused the anger of the LORD, the God of his ancestors.
 26 The other events of his reign and all his ways, from beginning to end, are written in the book of the kings of Judah and Israel.
 27 Ahaz rested with his ancestors and was buried in the city of Jerusalem, but he was not placed in the tombs of the kings of Israel. And Hezekiah his son succeeded him as king. `;
-const sutra_14_29 = `1 Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah daughter of Zechariah.
+const sutra_en_14_29 = `1 Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah daughter of Zechariah.
 2 He did what was right in the eyes of the LORD, just as his father David had done.
 3 In the first month of the first year of his reign, he opened the doors of the temple of the LORD and repaired them.
 4 He brought in the priests and the Levites, assembled them in the square on the east side
@@ -631,7 +631,7 @@ const sutra_14_29 = `1 Hezekiah was twenty-five years old when he became king, a
 34 The priests, however, were too few to skin all the burnt offerings; so their relatives the Levites helped them until the task was finished and until other priests had been consecrated, for the Levites had been more conscientious in consecrating themselves than the priests had been.
 35 There were burnt offerings in abundance, together with the fat of the fellowship offerings and the drink offerings that accompanied the burnt offerings. So the service of the temple of the LORD was reestablished.
 36 Hezekiah and all the people rejoiced at what God had brought about for his people, because it was done so quickly. `;
-const sutra_14_30 = `1 Hezekiah sent word to all Israel and Judah and also wrote letters to Ephraim and Manasseh, inviting them to come to the temple of the LORD in Jerusalem and celebrate the Passover to the LORD, the God of Israel.
+const sutra_en_14_30 = `1 Hezekiah sent word to all Israel and Judah and also wrote letters to Ephraim and Manasseh, inviting them to come to the temple of the LORD in Jerusalem and celebrate the Passover to the LORD, the God of Israel.
 2 The king and his officials and the whole assembly in Jerusalem decided to celebrate the Passover in the second month.
 3 They had not been able to celebrate it at the regular time because not enough priests had consecrated themselves and the people had not assembled in Jerusalem.
 4 The plan seemed right both to the king and to the whole assembly.
@@ -658,7 +658,7 @@ const sutra_14_30 = `1 Hezekiah sent word to all Israel and Judah and also wrote
 25 The entire assembly of Judah rejoiced, along with the priests and Levites and all who had assembled from Israel, including the foreigners who had come from Israel and also those who resided in Judah.
 26 There was great joy in Jerusalem, for since the days of Solomon son of David king of Israel there had been nothing like this in Jerusalem.
 27 The priests and the Levites stood to bless the people, and God heard them, for their prayer reached heaven, his holy dwelling place. `;
-const sutra_14_31 = `1 When all this had ended, the Israelites who were there went out to the towns of Judah, smashed the sacred stones and cut down the Asherah poles. They destroyed the high places and the altars throughout Judah and Benjamin and in Ephraim and Manasseh. After they had destroyed all of them, the Israelites returned to their own towns and to their own property.
+const sutra_en_14_31 = `1 When all this had ended, the Israelites who were there went out to the towns of Judah, smashed the sacred stones and cut down the Asherah poles. They destroyed the high places and the altars throughout Judah and Benjamin and in Ephraim and Manasseh. After they had destroyed all of them, the Israelites returned to their own towns and to their own property.
 2 Hezekiah assigned the priests and Levites to divisions—each of them according to their duties as priests or Levites—to offer burnt offerings and fellowship offerings, to minister, to give thanks and to sing praises at the gates of the LORD’s dwelling.
 3 The king contributed from his own possessions for the morning and evening burnt offerings and for the burnt offerings on the Sabbaths, at the New Moons and at the appointed festivals as written in the Law of the LORD.
 4 He ordered the people living in Jerusalem to give the portion due the priests and Levites so they could devote themselves to the Law of the LORD.
@@ -679,7 +679,7 @@ const sutra_14_31 = `1 When all this had ended, the Israelites who were there we
 19 As for the priests, the descendants of Aaron, who lived on the farm lands around their towns or in any other towns, men were designated by name to distribute portions to every male among them and to all who were recorded in the genealogies of the Levites.
 20 This is what Hezekiah did throughout Judah, doing what was good and right and faithful before the LORD his God.
 21 In everything that he undertook in the service of God’s temple and in obedience to the law and the commands, he sought his God and worked wholeheartedly. And so he prospered. `;
-const sutra_14_32 = `1 After all that Hezekiah had so faithfully done, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, thinking to conquer them for himself.
+const sutra_en_14_32 = `1 After all that Hezekiah had so faithfully done, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, thinking to conquer them for himself.
 2 When Hezekiah saw that Sennacherib had come and that he intended to wage war against Jerusalem,
 3 he consulted with his officials and military staff about blocking off the water from the springs outside the city, and they helped him.
 4 They gathered a large group of people who blocked all the springs and the stream that flowed through the land. “Why should the kings of Assyria come and find plenty of water?” they said.
@@ -712,7 +712,7 @@ const sutra_14_32 = `1 After all that Hezekiah had so faithfully done, Sennacher
 31 But when envoys were sent by the rulers of Babylon to ask him about the miraculous sign that had occurred in the land, God left him to test him and to know everything that was in his heart.
 32 The other events of Hezekiah’s reign and his acts of devotion are written in the vision of the prophet Isaiah son of Amoz in the book of the kings of Judah and Israel.
 33 Hezekiah rested with his ancestors and was buried on the hill where the tombs of David’s descendants are. All Judah and the people of Jerusalem honored him when he died. And Manasseh his son succeeded him as king. `;
-const sutra_14_33 = `1 Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years.
+const sutra_en_14_33 = `1 Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years.
 2 He did evil in the eyes of the LORD, following the detestable practices of the nations the LORD had driven out before the Israelites.
 3 He rebuilt the high places his father Hezekiah had demolished; he also erected altars to the Baals and made Asherah poles. He bowed down to all the starry hosts and worshiped them.
 4 He built altars in the temple of the LORD, of which the LORD had said, “My Name will remain in Jerusalem forever.”
@@ -737,7 +737,7 @@ const sutra_14_33 = `1 Manasseh was twelve years old when he became king, and he
 23 But unlike his father Manasseh, he did not humble himself before the LORD; Amon increased his guilt.
 24 Amon’s officials conspired against him and assassinated him in his palace.
 25 Then the people of the land killed all who had plotted against King Amon, and they made Josiah his son king in his place. `;
-const sutra_14_34 = `1 Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.
+const sutra_en_14_34 = `1 Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.
 2 He did what was right in the eyes of the LORD and followed the ways of his father David, not turning aside to the right or to the left.
 3 In the eighth year of his reign, while he was still young, he began to seek the God of his father David. In his twelfth year he began to purge Judah and Jerusalem of high places, Asherah poles and idols.
 4 Under his direction the altars of the Baals were torn down; he cut to pieces the incense altars that were above them, and smashed the Asherah poles and the idols. These he broke to pieces and scattered over the graves of those who had sacrificed to them.
@@ -770,7 +770,7 @@ const sutra_14_34 = `1 Josiah was eight years old when he became king, and he re
 31 The king stood by his pillar and renewed the covenant in the presence of the LORD—to follow the LORD and keep his commands, statutes and decrees with all his heart and all his soul, and to obey the words of the covenant written in this book.
 32 Then he had everyone in Jerusalem and Benjamin pledge themselves to it; the people of Jerusalem did this in accordance with the covenant of God, the God of their ancestors.
 33 Josiah removed all the detestable idols from all the territory belonging to the Israelites, and he had all who were present in Israel serve the LORD their God. As long as he lived, they did not fail to follow the LORD, the God of their ancestors. `;
-const sutra_14_35 = `1 Josiah celebrated the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.
+const sutra_en_14_35 = `1 Josiah celebrated the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.
 2 He appointed the priests to their duties and encouraged them in the service of the LORD’s temple.
 3 He said to the Levites, who instructed all Israel and who had been consecrated to the LORD: “Put the sacred ark in the temple that Solomon son of David king of Israel built. It is not to be carried about on your shoulders. Now serve the LORD your God and his people Israel.
 4 Prepare yourselves by families in your divisions, according to the instructions written by David king of Israel and by his son Solomon.
@@ -797,7 +797,7 @@ const sutra_14_35 = `1 Josiah celebrated the Passover to the LORD in Jerusalem, 
 25 Jeremiah composed laments for Josiah, and to this day all the male and female singers commemorate Josiah in the laments. These became a tradition in Israel and are written in the Laments.
 26 The other events of Josiah’s reign and his acts of devotion in accordance with what is written in the Law of the LORD—
 27 all the events, from beginning to end, are written in the book of the kings of Israel and Judah. `;
-const sutra_14_36 = `1 And the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
+const sutra_en_14_36 = `1 And the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
 Jehoahaz King of Judah
 2 Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months.
 3 The king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold.
@@ -823,8 +823,8 @@ Jehoahaz King of Judah
 23 “This is what Cyrus king of Persia says: “ ‘The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah. Any of his people among you may go up, and may the LORD their God be with them.’ ” `;
 
 
-const sutra_14 = [sutra_14_1,sutra_14_2,sutra_14_3,sutra_14_4,sutra_14_5,sutra_14_6,sutra_14_7,sutra_14_8,sutra_14_9,sutra_14_10,
-                sutra_14_11,sutra_14_12,sutra_14_13,sutra_14_14,sutra_14_15,sutra_14_16,sutra_14_17,sutra_14_18,sutra_14_19,sutra_14_20,
-                sutra_14_21,sutra_14_22,sutra_14_23,sutra_14_24,sutra_14_25,sutra_14_26,sutra_14_27,sutra_14_28,sutra_14_29,sutra_14_30,
-                sutra_14_31,sutra_14_32,sutra_14_33,sutra_14_34,sutra_14_35,sutra_14_36
+const sutra_en_14 = [sutra_en_14_1,sutra_en_14_2,sutra_en_14_3,sutra_en_14_4,sutra_en_14_5,sutra_en_14_6,sutra_en_14_7,sutra_en_14_8,sutra_en_14_9,sutra_en_14_10,
+                sutra_en_14_11,sutra_en_14_12,sutra_en_14_13,sutra_en_14_14,sutra_en_14_15,sutra_en_14_16,sutra_en_14_17,sutra_en_14_18,sutra_en_14_19,sutra_en_14_20,
+                sutra_en_14_21,sutra_en_14_22,sutra_en_14_23,sutra_en_14_24,sutra_en_14_25,sutra_en_14_26,sutra_en_14_27,sutra_en_14_28,sutra_en_14_29,sutra_en_14_30,
+                sutra_en_14_31,sutra_en_14_32,sutra_en_14_33,sutra_en_14_34,sutra_en_14_35,sutra_en_14_36
                 ];

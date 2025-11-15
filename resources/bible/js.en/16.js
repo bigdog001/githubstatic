@@ -1,4 +1,4 @@
-const sutra_16_1 = `1 The words of Nehemiah son of Hakaliah: In the month of Kislev in the twentieth year, while I was in the citadel of Susa,
+const sutra_en_16_1 = `1 The words of Nehemiah son of Hakaliah: In the month of Kislev in the twentieth year, while I was in the citadel of Susa,
 2 Hanani, one of my brothers, came from Judah with some other men, and I questioned them about the Jewish remnant that had survived the exile, and also about Jerusalem.
 3 They said to me, “Those who survived the exile and are back in the province are in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates have been burned with fire.”
 4 When I heard these things, I sat down and wept. For some days I mourned and fasted and prayed before the God of heaven.
@@ -9,7 +9,7 @@ const sutra_16_1 = `1 The words of Nehemiah son of Hakaliah: In the month of Kis
 9 but if you return to me and obey my commands, then even if your exiled people are at the farthest horizon, I will gather them from there and bring them to the place I have chosen as a dwelling for my Name.’
 10 “They are your servants and your people, whom you redeemed by your great strength and your mighty hand.
 11 Lord, let your ear be attentive to the prayer of this your servant and to the prayer of your servants who delight in revering your name. Give your servant success today by granting him favor in the presence of this man.” I was cupbearer to the king. `;
-const sutra_16_2 = `1 In the month of Nisan in the twentieth year of King Artaxerxes, when wine was brought for him, I took the wine and gave it to the king. I had not been sad in his presence before,
+const sutra_en_16_2 = `1 In the month of Nisan in the twentieth year of King Artaxerxes, when wine was brought for him, I took the wine and gave it to the king. I had not been sad in his presence before,
 2 so the king asked me, “Why does your face look so sad when you are not ill? This can be nothing but sadness of heart.” I was very much afraid,
 3 but I said to the king, “May the king live forever! Why should my face not look sad when the city where my ancestors are buried lies in ruins, and its gates have been destroyed by fire?”
 4 The king said to me, “What is it you want?” Then I prayed to the God of heaven,
@@ -29,7 +29,7 @@ const sutra_16_2 = `1 In the month of Nisan in the twentieth year of King Artaxe
 18 I also told them about the gracious hand of my God on me and what the king had said to me. They replied, “Let us start rebuilding.” So they began this good work.
 19 But when Sanballat the Horonite, Tobiah the Ammonite official and Geshem the Arab heard about it, they mocked and ridiculed us. “What is this you are doing?” they asked. “Are you rebelling against the king?”
 20 I answered them by saying, “The God of heaven will give us success. We his servants will start rebuilding, but as for you, you have no share in Jerusalem or any claim or historic right to it.” `;
-const sutra_16_3 = `1 Eliashib the high priest and his fellow priests went to work and rebuilt the Sheep Gate. They dedicated it and set its doors in place, building as far as the Tower of the Hundred, which they dedicated, and as far as the Tower of Hananel.
+const sutra_en_16_3 = `1 Eliashib the high priest and his fellow priests went to work and rebuilt the Sheep Gate. They dedicated it and set its doors in place, building as far as the Tower of the Hundred, which they dedicated, and as far as the Tower of Hananel.
 2 The men of Jericho built the adjoining section, and Zakkur son of Imri built next to them.
 3 The Fish Gate was rebuilt by the sons of Hassenaah. They laid its beams and put its doors and bolts and bars in place.
 4 Meremoth son of Uriah, the son of Hakkoz, repaired the next section. Next to him Meshullam son of Berekiah, the son of Meshezabel, made repairs, and next to him Zadok son of Baana also made repairs.
@@ -61,7 +61,7 @@ const sutra_16_3 = `1 Eliashib the high priest and his fellow priests went to wo
 30 Next to him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters.
 31 Next to him, Malkijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner;
 32 and between the room above the corner and the Sheep Gate the goldsmiths and merchants made repairs. `;
-const sutra_16_4 = `1 When Sanballat heard that we were rebuilding the wall, he became angry and was greatly incensed. He ridiculed the Jews,
+const sutra_en_16_4 = `1 When Sanballat heard that we were rebuilding the wall, he became angry and was greatly incensed. He ridiculed the Jews,
 2 and in the presence of his associates and the army of Samaria, he said, “What are those feeble Jews doing? Will they restore their wall? Will they offer sacrifices? Will they finish in a day? Can they bring the stones back to life from those heaps of rubble—burned as they are?”
 3 Tobiah the Ammonite, who was at his side, said, “What they are building—even a fox climbing up on it would break down their wall of stones!”
 4 Hear us, our God, for we are despised. Turn their insults back on their own heads. Give them over as plunder in a land of captivity.
@@ -84,7 +84,7 @@ const sutra_16_4 = `1 When Sanballat heard that we were rebuilding the wall, he 
 21 So we continued the work with half the men holding spears, from the first light of dawn till the stars came out.
 22 At that time I also said to the people, “Have every man and his helper stay inside Jerusalem at night, so they can serve us as guards by night and as workers by day.”
 23 Neither I nor my brothers nor my men nor the guards with me took off our clothes; each had his weapon, even when he went for water. `;
-const sutra_16_5 = `1 Now the men and their wives raised a great outcry against their fellow Jews.
+const sutra_en_16_5 = `1 Now the men and their wives raised a great outcry against their fellow Jews.
 2 Some were saying, “We and our sons and daughters are numerous; in order for us to eat and stay alive, we must get grain.”
 3 Others were saying, “We are mortgaging our fields, our vineyards and our homes to get grain during the famine.”
 4 Still others were saying, “We have had to borrow money to pay the king’s tax on our fields and vineyards.
@@ -103,7 +103,7 @@ const sutra_16_5 = `1 Now the men and their wives raised a great outcry against 
 17 Furthermore, a hundred and fifty Jews and officials ate at my table, as well as those who came to us from the surrounding nations.
 18 Each day one ox, six choice sheep and some poultry were prepared for me, and every ten days an abundant supply of wine of all kinds. In spite of all this, I never demanded the food allotted to the governor, because the demands were heavy on these people.
 19 Remember me with favor, my God, for all I have done for these people. `;
-const sutra_16_6 = `1 When word came to Sanballat, Tobiah, Geshem the Arab and the rest of our enemies that I had rebuilt the wall and not a gap was left in it—though up to that time I had not set the doors in the gates—
+const sutra_en_16_6 = `1 When word came to Sanballat, Tobiah, Geshem the Arab and the rest of our enemies that I had rebuilt the wall and not a gap was left in it—though up to that time I had not set the doors in the gates—
 2 Sanballat and Geshem sent me this message: “Come, let us meet together in one of the villages on the plain of Ono.” But they were scheming to harm me;
 3 so I sent messengers to them with this reply: “I am carrying on a great project and cannot go down. Why should the work stop while I leave it and go down to you?”
 4 Four times they sent me the same message, and each time I gave them the same answer.
@@ -122,7 +122,7 @@ const sutra_16_6 = `1 When word came to Sanballat, Tobiah, Geshem the Arab and t
 17 Also, in those days the nobles of Judah were sending many letters to Tobiah, and replies from Tobiah kept coming to them.
 18 For many in Judah were under oath to him, since he was son-in-law to Shekaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berekiah.
 19 Moreover, they kept reporting to me his good deeds and then telling him what I said. And Tobiah sent letters to intimidate me. `;
-const sutra_16_7 = `1 After the wall had been rebuilt and I had set the doors in place, the gatekeepers, the musicians and the Levites were appointed.
+const sutra_en_16_7 = `1 After the wall had been rebuilt and I had set the doors in place, the gatekeepers, the musicians and the Levites were appointed.
 2 I put in charge of Jerusalem my brother Hanani, along with Hananiah the commander of the citadel, because he was a man of integrity and feared God more than most people do.
 3 I said to them, “The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses.”
 The List of the Exiles Who Returned
@@ -196,7 +196,7 @@ The List of the Exiles Who Returned
 71 Some of the heads of the families gave to the treasury for the work 20,000 darics of gold and 2,200 minas of silver.
 72 The total given by the rest of the people was 20,000 darics of gold, 2,000 minas of silver and 67 garments for priests.
 73 The priests, the Levites, the gatekeepers, the musicians and the temple servants, along with certain of the people and the rest of the Israelites, settled in their own towns. When the seventh month came and the Israelites had settled in their towns, `;
-const sutra_16_8 = `1 all the people came together as one in the square before the Water Gate. They told Ezra the teacher of the Law to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.
+const sutra_en_16_8 = `1 all the people came together as one in the square before the Water Gate. They told Ezra the teacher of the Law to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.
 2 So on the first day of the seventh month Ezra the priest brought the Law before the assembly, which was made up of men and women and all who were able to understand.
 3 He read it aloud from daybreak till noon as he faced the square before the Water Gate in the presence of the men, women and others who could understand. And all the people listened attentively to the Book of the Law.
 4 Ezra the teacher of the Law stood on a high wooden platform built for the occasion. Beside him on his right stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah and Maaseiah; and on his left were Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah, Zechariah and Meshullam.
@@ -214,7 +214,7 @@ const sutra_16_8 = `1 all the people came together as one in the square before t
 16 So the people went out and brought back branches and built themselves temporary shelters on their own roofs, in their courtyards, in the courts of the house of God and in the square by the Water Gate and the one by the Gate of Ephraim.
 17 The whole company that had returned from exile built temporary shelters and lived in them. From the days of Joshua son of Nun until that day, the Israelites had not celebrated it like this. And their joy was very great.
 18 Day after day, from the first day to the last, Ezra read from the Book of the Law of God. They celebrated the festival for seven days, and on the eighth day, in accordance with the regulation, there was an assembly. `;
-const sutra_16_9 = `1 On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth and putting dust on their heads.
+const sutra_en_16_9 = `1 On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth and putting dust on their heads.
 2 Those of Israelite descent had separated themselves from all foreigners. They stood in their places and confessed their sins and the sins of their ancestors.
 3 They stood where they were and read from the Book of the Law of the LORD their God for a quarter of the day, and spent another quarter in confession and in worshiping the LORD their God.
 4 Standing on the stairs of the Levites were Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani and Kenani. They cried out with loud voices to the LORD their God.
@@ -252,7 +252,7 @@ const sutra_16_9 = `1 On the twenty-fourth day of the same month, the Israelites
 36 “But see, we are slaves today, slaves in the land you gave our ancestors so they could eat its fruit and the other good things it produces.
 37 Because of our sins, its abundant harvest goes to the kings you have placed over us. They rule over our bodies and our cattle as they please. We are in great distress.
 38 “In view of all this, we are making a binding agreement, putting it in writing, and our leaders, our Levites and our priests are affixing their seals to it.” `;
-const sutra_16_10 = `1 Those who sealed it were: Nehemiah the governor, the son of Hakaliah. Zedekiah,
+const sutra_en_16_10 = `1 Those who sealed it were: Nehemiah the governor, the son of Hakaliah. Zedekiah,
 2 Seraiah, Azariah, Jeremiah,
 3 Pashhur, Amariah, Malkijah,
 4 Hattush, Shebaniah, Malluk,
@@ -291,7 +291,7 @@ const sutra_16_10 = `1 Those who sealed it were: Nehemiah the governor, the son 
 37 “Moreover, we will bring to the storerooms of the house of our God, to the priests, the first of our ground meal, of our grain offerings, of the fruit of all our trees and of our new wine and olive oil. And we will bring a tithe of our crops to the Levites, for it is the Levites who collect the tithes in all the towns where we work.
 38 A priest descended from Aaron is to accompany the Levites when they receive the tithes, and the Levites are to bring a tenth of the tithes up to the house of our God, to the storerooms of the treasury.
 39 The people of Israel, including the Levites, are to bring their contributions of grain, new wine and olive oil to the storerooms, where the articles for the sanctuary and for the ministering priests, the gatekeepers and the musicians are also kept. “We will not neglect the house of our God.” `;
-const sutra_16_11 = `1 Now the leaders of the people settled in Jerusalem. The rest of the people cast lots to bring one out of every ten of them to live in Jerusalem, the holy city, while the remaining nine were to stay in their own towns.
+const sutra_en_16_11 = `1 Now the leaders of the people settled in Jerusalem. The rest of the people cast lots to bring one out of every ten of them to live in Jerusalem, the holy city, while the remaining nine were to stay in their own towns.
 2 The people commended all who volunteered to live in Jerusalem.
 3 These are the provincial leaders who settled in Jerusalem (now some Israelites, priests, Levites, temple servants and descendants of Solomon’s servants lived in the towns of Judah, each on their own property in the various towns,
 4 while other people from both Judah and Benjamin lived in Jerusalem): From the descendants of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez;
@@ -327,7 +327,7 @@ const sutra_16_11 = `1 Now the leaders of the people settled in Jerusalem. The r
 34 in Hadid, Zeboim and Neballat,
 35 in Lod and Ono, and in Ge Harashim.
 36 Some of the divisions of the Levites of Judah settled in Benjamin. `;
-const sutra_16_12 = `1 These were the priests and Levites who returned with Zerubbabel son of Shealtiel and with Joshua: Seraiah, Jeremiah, Ezra,
+const sutra_en_16_12 = `1 These were the priests and Levites who returned with Zerubbabel son of Shealtiel and with Joshua: Seraiah, Jeremiah, Ezra,
 2 Amariah, Malluk, Hattush,
 3 Shekaniah, Rehum, Meremoth,
 4 Iddo, Ginnethon, Abijah,
@@ -375,7 +375,7 @@ Dedication of the Wall of Jerusalem
 45 They performed the service of their God and the service of purification, as did also the musicians and gatekeepers, according to the commands of David and his son Solomon.
 46 For long ago, in the days of David and Asaph, there had been directors for the musicians and for the songs of praise and thanksgiving to God.
 47 So in the days of Zerubbabel and of Nehemiah, all Israel contributed the daily portions for the musicians and the gatekeepers. They also set aside the portion for the other Levites, and the Levites set aside the portion for the descendants of Aaron. `;
-const sutra_16_13 = `1 On that day the Book of Moses was read aloud in the hearing of the people and there it was found written that no Ammonite or Moabite should ever be admitted into the assembly of God,
+const sutra_en_16_13 = `1 On that day the Book of Moses was read aloud in the hearing of the people and there it was found written that no Ammonite or Moabite should ever be admitted into the assembly of God,
 2 because they had not met the Israelites with food and water but had hired Balaam to call a curse down on them. (Our God, however, turned the curse into a blessing.)
 3 When the people heard this law, they excluded from Israel all who were of foreign descent.
 4 Before this, Eliashib the priest had been put in charge of the storerooms of the house of our God. He was closely associated with Tobiah,
@@ -408,6 +408,6 @@ const sutra_16_13 = `1 On that day the Book of Moses was read aloud in the heari
 31 I also made provision for contributions of wood at designated times, and for the firstfruits. Remember me with favor, my God. `;
 
 
-const sutra_16 = [sutra_16_1,sutra_16_2,sutra_16_3,sutra_16_4,sutra_16_5,sutra_16_6,sutra_16_7,sutra_16_8,sutra_16_9,sutra_16_10,
-                sutra_16_11,sutra_16_12,sutra_16_13
+const sutra_en_16 = [sutra_en_16_1,sutra_en_16_2,sutra_en_16_3,sutra_en_16_4,sutra_en_16_5,sutra_en_16_6,sutra_en_16_7,sutra_en_16_8,sutra_en_16_9,sutra_en_16_10,
+                sutra_en_16_11,sutra_en_16_12,sutra_en_16_13
                 ];
