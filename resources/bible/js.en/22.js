@@ -1,168 +1,122 @@
-const sutra_en_22_1 = ` `;
-const sutra_en_22_2 = ` `;
-const sutra_en_22_3 = ` `;
-const sutra_en_22_4 = ` `;
-const sutra_en_22_5 = ` `;
-const sutra_en_22_6 = ` `;
-const sutra_en_22_7 = ` `;
-const sutra_en_22_8 = ` `;
-const sutra_en_22_9 = ` `;
-const sutra_en_22_10 = ` `;
-const sutra_en_22_11 = ` `;
-const sutra_en_22_12 = ` `;
-const sutra_en_22_13 = ` `;
-const sutra_en_22_14 = ` `;
-const sutra_en_22_15 = ` `;
-const sutra_en_22_16 = ` `;
-const sutra_en_22_17 = ` `;
-const sutra_en_22_18 = ` `;
-const sutra_en_22_19 = ` `;
-const sutra_en_22_20 = ` `;
-const sutra_en_22_21 = ` `;
-const sutra_en_22_22 = ` `;
-const sutra_en_22_23 = ` `;
-const sutra_en_22_24 = ` `;
-const sutra_en_22_25 = ` `;
-const sutra_en_22_26 = ` `;
-const sutra_en_22_27 = ` `;
-const sutra_en_22_28 = ` `;
-const sutra_en_22_29 = ` `;
-const sutra_en_22_30 = ` `;
-const sutra_en_22_31 = ` `;
-const sutra_en_22_32 = ` `;
-const sutra_en_22_33 = ` `;
-const sutra_en_22_34 = ` `;
-const sutra_en_22_35 = ` `;
-const sutra_en_22_36 = ` `;
-const sutra_en_22_37 = ` `;
-const sutra_en_22_38 = ` `;
-const sutra_en_22_39 = ` `;
-const sutra_en_22_40 = ` `;
-const sutra_en_22_41 = ` `;
-const sutra_en_22_42 = ` `;
-const sutra_en_22_43 = ` `;
-const sutra_en_22_44 = ` `;
-const sutra_en_22_45 = ` `;
-const sutra_en_22_46 = ` `;
-const sutra_en_22_47 = ` `;
-const sutra_en_22_48 = ` `;
-const sutra_en_22_49 = ` `;
-const sutra_en_22_50 = ` `;
-const sutra_en_22_51 = ` `;
-const sutra_en_22_52 = ` `;
-const sutra_en_22_53 = ` `;
-const sutra_en_22_54 = ` `;
-const sutra_en_22_55 = ` `;
-const sutra_en_22_56 = ` `;
-const sutra_en_22_57 = ` `;
-const sutra_en_22_58 = ` `;
-const sutra_en_22_59 = ` `;
-const sutra_en_22_60 = ` `;
-const sutra_en_22_61 = ` `;
-const sutra_en_22_62 = ` `;
-const sutra_en_22_63 = ` `;
-const sutra_en_22_64 = ` `;
-const sutra_en_22_65 = ` `;
-const sutra_en_22_66 = ` `;
-const sutra_en_22_67 = ` `;
-const sutra_en_22_68 = ` `;
-const sutra_en_22_69 = ` `;
-const sutra_en_22_70 = ` `;
-const sutra_en_22_71 = ` `;
-const sutra_en_22_72 = ` `;
-const sutra_en_22_73 = ` `;
-const sutra_en_22_74 = ` `;
-const sutra_en_22_75 = ` `;
-const sutra_en_22_76 = ` `;
-const sutra_en_22_77 = ` `;
-const sutra_en_22_78 = ` `;
-const sutra_en_22_79 = ` `;
-const sutra_en_22_80 = ` `;
-const sutra_en_22_81 = ` `;
-const sutra_en_22_82 = ` `;
-const sutra_en_22_83 = ` `;
-const sutra_en_22_84 = ` `;
-const sutra_en_22_85 = ` `;
-const sutra_en_22_86 = ` `;
-const sutra_en_22_87 = ` `;
-const sutra_en_22_88 = ` `;
-const sutra_en_22_89 = ` `;
-const sutra_en_22_90 = ` `;
-const sutra_en_22_91 = ` `;
-const sutra_en_22_92 = ` `;
-const sutra_en_22_93 = ` `;
-const sutra_en_22_94 = ` `;
-const sutra_en_22_95 = ` `;
-const sutra_en_22_96 = ` `;
-const sutra_en_22_97 = ` `;
-const sutra_en_22_98 = ` `;
-const sutra_en_22_99 = ` `;
-const sutra_en_22_100 = ` `;
-const sutra_en_22_101 = ` `;
-const sutra_en_22_102 = ` `;
-const sutra_en_22_103 = ` `;
-const sutra_en_22_104 = ` `;
-const sutra_en_22_105 = ` `;
-const sutra_en_22_106 = ` `;
-const sutra_en_22_107 = ` `;
-const sutra_en_22_108 = ` `;
-const sutra_en_22_109 = ` `;
-const sutra_en_22_110 = ` `;
-const sutra_en_22_111 = ` `;
-const sutra_en_22_112 = ` `;
-const sutra_en_22_113 = ` `;
-const sutra_en_22_114 = ` `;
-const sutra_en_22_115 = ` `;
-const sutra_en_22_116 = ` `;
-const sutra_en_22_117 = ` `;
-const sutra_en_22_118 = ` `;
-const sutra_en_22_119 = ` `;
-const sutra_en_22_120 = ` `;
-const sutra_en_22_121 = ` `;
-const sutra_en_22_122 = ` `;
-const sutra_en_22_123 = ` `;
-const sutra_en_22_124 = ` `;
-const sutra_en_22_125 = ` `;
-const sutra_en_22_126 = ` `;
-const sutra_en_22_127 = ` `;
-const sutra_en_22_128 = ` `;
-const sutra_en_22_129 = ` `;
-const sutra_en_22_130 = ` `;
-const sutra_en_22_131 = ` `;
-const sutra_en_22_132 = ` `;
-const sutra_en_22_133 = ` `;
-const sutra_en_22_134 = ` `;
-const sutra_en_22_135 = ` `;
-const sutra_en_22_136 = ` `;
-const sutra_en_22_137 = ` `;
-const sutra_en_22_138 = ` `;
-const sutra_en_22_139 = ` `;
-const sutra_en_22_140 = ` `;
-const sutra_en_22_141 = ` `;
-const sutra_en_22_142 = ` `;
-const sutra_en_22_143 = ` `;
-const sutra_en_22_144 = ` `;
-const sutra_en_22_145 = ` `;
-const sutra_en_22_146 = ` `;
-const sutra_en_22_147 = ` `;
-const sutra_en_22_148 = ` `;
-const sutra_en_22_149 = ` `;
-const sutra_en_22_150 = ` `;
+const sutra_en_22_1 = `1 Solomon’s Song of Songs.
+2 Let him kiss me with the kisses of his mouth for your love is more delightful than wine.
+3 Pleasing is the fragrance of your perfumes; your name is like perfume poured out. No wonder the young women love you!
+4 Take me away with you—let us hurry! Let the king bring me into his chambers. We rejoice and delight in you ; we will praise your love more than wine. How right they are to adore you!
+5 Dark am I, yet lovely, daughters of Jerusalem, dark like the tents of Kedar, like the tent curtains of Solomon.
+6 Do not stare at me because I am dark, because I am darkened by the sun. My mother’s sons were angry with me and made me take care of the vineyards; my own vineyard I had to neglect.
+7 Tell me, you whom I love, where you graze your flock and where you rest your sheep at midday. Why should I be like a veiled woman beside the flocks of your friends?
+8 If you do not know, most beautiful of women, follow the tracks of the sheep and graze your young goats by the tents of the shepherds.
+9 I liken you, my darling, to a mare among Pharaoh’s chariot horses.
+10 Your cheeks are beautiful with earrings, your neck with strings of jewels.
+11 We will make you earrings of gold, studded with silver.
+12 While the king was at his table, my perfume spread its fragrance.
+13 My beloved is to me a sachet of myrrh resting between my breasts.
+14 My beloved is to me a cluster of henna blossoms from the vineyards of En Gedi.
+15 How beautiful you are, my darling! Oh, how beautiful! Your eyes are doves.
+16 How handsome you are, my beloved! Oh, how charming! And our bed is verdant.
+17 The beams of our house are cedars; our rafters are firs. `;
+const sutra_en_22_2 = `1 I am a rose of Sharon, a lily of the valleys.
+2 Like a lily among thorns is my darling among the young women.
+3 Like an apple tree among the trees of the forest is my beloved among the young men. I delight to sit in his shade, and his fruit is sweet to my taste.
+4 Let him lead me to the banquet hall, and let his banner over me be love.
+5 Strengthen me with raisins, refresh me with apples, for I am faint with love.
+6 His left arm is under my head, and his right arm embraces me.
+7 Daughters of Jerusalem, I charge you by the gazelles and by the does of the field: Do not arouse or awaken love until it so desires.
+8 Listen! My beloved! Look! Here he comes, leaping across the mountains, bounding over the hills.
+9 My beloved is like a gazelle or a young stag. Look! There he stands behind our wall, gazing through the windows, peering through the lattice.
+10 My beloved spoke and said to me, “Arise, my darling, my beautiful one, come with me.
+11 See! The winter is past; the rains are over and gone.
+12 Flowers appear on the earth; the season of singing has come, the cooing of doves is heard in our land.
+13 The fig tree forms its early fruit; the blossoming vines spread their fragrance. Arise, come, my darling; my beautiful one, come with me.”
+14 My dove in the clefts of the rock, in the hiding places on the mountainside, show me your face, let me hear your voice; for your voice is sweet, and your face is lovely.
+15 Catch for us the foxes, the little foxes that ruin the vineyards, our vineyards that are in bloom.
+16 My beloved is mine and I am his; he browses among the lilies.
+17 Until the day breaks and the shadows flee, turn, my beloved, and be like a gazelle or like a young stag on the rugged hills. `;
+const sutra_en_22_3 = `1 All night long on my bed I looked for the one my heart loves; I looked for him but did not find him.
+2 I will get up now and go about the city, through its streets and squares; I will search for the one my heart loves. So I looked for him but did not find him.
+3 The watchmen found me as they made their rounds in the city. “Have you seen the one my heart loves?”
+4 Scarcely had I passed them when I found the one my heart loves. I held him and would not let him go till I had brought him to my mother’s house, to the room of the one who conceived me.
+5 Daughters of Jerusalem, I charge you by the gazelles and by the does of the field: Do not arouse or awaken love until it so desires.
+6 Who is this coming up from the wilderness like a column of smoke, perfumed with myrrh and incense made from all the spices of the merchant?
+7 Look! It is Solomon’s carriage, escorted by sixty warriors, the noblest of Israel,
+8 all of them wearing the sword, all experienced in battle, each with his sword at his side, prepared for the terrors of the night.
+9 King Solomon made for himself the carriage; he made it of wood from Lebanon.
+10 Its posts he made of silver, its base of gold. Its seat was upholstered with purple, its interior inlaid with love. Daughters of Jerusalem,
+11 come out, and look, you daughters of Zion. Look on King Solomon wearing a crown, the crown with which his mother crowned him on the day of his wedding, the day his heart rejoiced. `;
+const sutra_en_22_4 = `1 How beautiful you are, my darling! Oh, how beautiful! Your eyes behind your veil are doves. Your hair is like a flock of goats descending from the hills of Gilead.
+2 Your teeth are like a flock of sheep just shorn, coming up from the washing. Each has its twin; not one of them is alone.
+3 Your lips are like a scarlet ribbon; your mouth is lovely. Your temples behind your veil are like the halves of a pomegranate.
+4 Your neck is like the tower of David, built with courses of stone ; on it hang a thousand shields, all of them shields of warriors.
+5 Your breasts are like two fawns, like twin fawns of a gazelle that browse among the lilies.
+6 Until the day breaks and the shadows flee, I will go to the mountain of myrrh and to the hill of incense.
+7 You are altogether beautiful, my darling; there is no flaw in you.
+8 Come with me from Lebanon, my bride, come with me from Lebanon. Descend from the crest of Amana, from the top of Senir, the summit of Hermon, from the lions’ dens and the mountain haunts of leopards.
+9 You have stolen my heart, my sister, my bride; you have stolen my heart with one glance of your eyes, with one jewel of your necklace.
+10 How delightful is your love, my sister, my bride! How much more pleasing is your love than wine, and the fragrance of your perfume more than any spice!
+11 Your lips drop sweetness as the honeycomb, my bride; milk and honey are under your tongue. The fragrance of your garments is like the fragrance of Lebanon.
+12 You are a garden locked up, my sister, my bride; you are a spring enclosed, a sealed fountain.
+13 Your plants are an orchard of pomegranates with choice fruits, with henna and nard,
+14 nard and saffron, calamus and cinnamon, with every kind of incense tree, with myrrh and aloes and all the finest spices.
+15 You are a garden fountain, a well of flowing water streaming down from Lebanon.
+16 Awake, north wind, and come, south wind! Blow on my garden, that its fragrance may spread everywhere. Let my beloved come into his garden and taste its choice fruits. `;
+const sutra_en_22_5 = `1 I have come into my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb and my honey; I have drunk my wine and my milk. Eat, friends, and drink; drink your fill of love.
+2 I slept but my heart was awake. Listen! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”
+3 I have taken off my robe— must I put it on again? I have washed my feet— must I soil them again?
+4 My beloved thrust his hand through the latch-opening; my heart began to pound for him.
+5 I arose to open for my beloved, and my hands dripped with myrrh, my fingers with flowing myrrh, on the handles of the bolt.
+6 I opened for my beloved, but my beloved had left; he was gone. My heart sank at his departure.I looked for him but did not find him. I called him but he did not answer.
+7 The watchmen found me as they made their rounds in the city. They beat me, they bruised me; they took away my cloak, those watchmen of the walls!
+8 Daughters of Jerusalem, I charge you— if you find my beloved, what will you tell him? Tell him I am faint with love.
+9 How is your beloved better than others, most beautiful of women? How is your beloved better than others, that you so charge us?
+10 My beloved is radiant and ruddy, outstanding among ten thousand.
+11 His head is purest gold; his hair is wavy and black as a raven.
+12 His eyes are like doves by the water streams, washed in milk, mounted like jewels.
+13 His cheeks are like beds of spice yielding perfume. His lips are like lilies dripping with myrrh.
+14 His arms are rods of gold set with topaz. His body is like polished ivory decorated with lapis lazuli.
+15 His legs are pillars of marble set on bases of pure gold. His appearance is like Lebanon, choice as its cedars.
+16 His mouth is sweetness itself; he is altogether lovely. This is my beloved, this is my friend, daughters of Jerusalem. `;
+const sutra_en_22_6 = `1 Where has your beloved gone, most beautiful of women? Which way did your beloved turn, that we may look for him with you?
+2 My beloved has gone down to his garden, to the beds of spices, to browse in the gardens and to gather lilies.
+3 I am my beloved’s and my beloved is mine; he browses among the lilies.
+4 You are as beautiful as Tirzah, my darling, as lovely as Jerusalem, as majestic as troops with banners.
+5 Turn your eyes from me; they overwhelm me. Your hair is like a flock of goats descending from Gilead.
+6 Your teeth are like a flock of sheep coming up from the washing. Each has its twin, not one of them is missing.
+7 Your temples behind your veil are like the halves of a pomegranate.
+8 Sixty queens there may be, and eighty concubines, and virgins beyond number;
+9 but my dove, my perfect one, is unique, the only daughter of her mother, the favorite of the one who bore her. The young women saw her and called her blessed; the queens and concubines praised her.
+10 Who is this that appears like the dawn, fair as the moon, bright as the sun, majestic as the stars in procession?
+11 I went down to the grove of nut trees to look at the new growth in the valley, to see if the vines had budded or the pomegranates were in bloom.
+12 Before I realized it, my desire set me among the royal chariots of my people.
+13 Come back, come back, O Shulammite; come back, come back, that we may gaze on you!
+13 Why would you gaze on the Shulammite as on the dance of Mahanaim? `;
+const sutra_en_22_7 = `1 How beautiful your sandaled feet, O prince’s daughter! Your graceful legs are like jewels, the work of an artist’s hands.
+2 Your navel is a rounded goblet that never lacks blended wine. Your waist is a mound of wheat encircled by lilies.
+3 Your breasts are like two fawns, like twin fawns of a gazelle.
+4 Your neck is like an ivory tower. Your eyes are the pools of Heshbon by the gate of Bath Rabbim. Your nose is like the tower of Lebanon looking toward Damascus.
+5 Your head crowns you like Mount Carmel. Your hair is like royal tapestry; the king is held captive by its tresses.
+6 How beautiful you are and how pleasing, my love, with your delights!
+7 Your stature is like that of the palm, and your breasts like clusters of fruit.
+8 I said, “I will climb the palm tree; I will take hold of its fruit.” May your breasts be like clusters of grapes on the vine, the fragrance of your breath like apples,and your mouth like the best wine.
+9 May the wine go straight to my beloved, flowing gently over lips and teeth.
+10 I belong to my beloved, and his desire is for me.
+11 Come, my beloved, let us go to the countryside, let us spend the night in the villages.
+12 Let us go early to the vineyards to see if the vines have budded, if their blossoms have opened, and if the pomegranates are in bloom— there I will give you my love.
+13 The mandrakes send out their fragrance, and at our door is every delicacy, both new and old, that I have stored up for you, my beloved. `;
+const sutra_en_22_8 = `1 If only you were to me like a brother, who was nursed at my mother’s breasts! Then, if I found you outside, I would kiss you, and no one would despise me.
+2 I would lead you and bring you to my mother’s house— she who has taught me. I would give you spiced wine to drink, the nectar of my pomegranates.
+3 His left arm is under my head and his right arm embraces me.
+4 Daughters of Jerusalem, I charge you: Do not arouse or awaken love until it so desires.
+5 Who is this coming up from the wilderness leaning on her beloved?
+5 Under the apple tree I roused you; there your mother conceived you, there she who was in labor gave you birth.
+6 Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealousy unyielding as the grave. It burns like blazing fire, like a mighty flame.
+7 Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of one’s house for love, it would be utterly scorned.
+8 We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?
+9 If she is a wall, we will build towers of silver on her. If she is a door, we will enclose her with panels of cedar.
+10 I am a wall, and my breasts are like towers. Thus I have become in his eyes like one bringing contentment.
+11 Solomon had a vineyard in Baal Hamon; he let out his vineyard to tenants. Each was to bring for its fruit a thousand shekels of silver.
+12 But my own vineyard is mine to give; the thousand shekels are for you, Solomon, and two hundred are for those who tend its fruit.
+13 You who dwell in the gardens with friends in attendance, let me hear your voice!
+14 Come away, my beloved, and be like a gazelle or like a young stag on the spice-laden mountains. `;
 
-
-const sutra_en_22 = [sutra_en_22_1,sutra_en_22_2,sutra_en_22_3,sutra_en_22_4,sutra_en_22_5,sutra_en_22_6,sutra_en_22_7,sutra_en_22_8,sutra_en_22_9,sutra_en_22_10,
-                sutra_en_22_11,sutra_en_22_12,sutra_en_22_13,sutra_en_22_14,sutra_en_22_15,sutra_en_22_16,sutra_en_22_17,sutra_en_22_18,sutra_en_22_19,sutra_en_22_20,
-                sutra_en_22_21,sutra_en_22_22,sutra_en_22_23,sutra_en_22_24,sutra_en_22_25,sutra_en_22_26,sutra_en_22_27,sutra_en_22_28,sutra_en_22_29,sutra_en_22_30,
-                sutra_en_22_31,sutra_en_22_32,sutra_en_22_33,sutra_en_22_34,sutra_en_22_35,sutra_en_22_36,sutra_en_22_37,sutra_en_22_38,sutra_en_22_39,sutra_en_22_40,
-                sutra_en_22_41,sutra_en_22_42,sutra_en_22_43,sutra_en_22_44,sutra_en_22_45,sutra_en_22_46,sutra_en_22_47,sutra_en_22_48,sutra_en_22_49,sutra_en_22_50,
-                sutra_en_22_51,sutra_en_22_52,sutra_en_22_53,sutra_en_22_54,sutra_en_22_55,sutra_en_22_56,sutra_en_22_57,sutra_en_22_58,sutra_en_22_59,sutra_en_22_60,
-                sutra_en_22_61,sutra_en_22_62,sutra_en_22_63,sutra_en_22_64,sutra_en_22_65,sutra_en_22_66,sutra_en_22_67,sutra_en_22_68,sutra_en_22_69,sutra_en_22_70,
-                sutra_en_22_71,sutra_en_22_72,sutra_en_22_73,sutra_en_22_74,sutra_en_22_75,sutra_en_22_76,sutra_en_22_77,sutra_en_22_78,sutra_en_22_79,sutra_en_22_80,
-                sutra_en_22_81,sutra_en_22_82,sutra_en_22_83,sutra_en_22_84,sutra_en_22_85,sutra_en_22_86,sutra_en_22_87,sutra_en_22_88,sutra_en_22_89,sutra_en_22_90,
-                sutra_en_22_91,sutra_en_22_92,sutra_en_22_93,sutra_en_22_94,sutra_en_22_95,sutra_en_22_96,sutra_en_22_97,sutra_en_22_98,sutra_en_22_99,sutra_en_22_100,
-                sutra_en_22_101,sutra_en_22_102,sutra_en_22_103,sutra_en_22_104,sutra_en_22_105,sutra_en_22_106,sutra_en_22_107,sutra_en_22_108,sutra_en_22_109,sutra_en_22_110,
-                sutra_en_22_111,sutra_en_22_112,sutra_en_22_113,sutra_en_22_114,sutra_en_22_115,sutra_en_22_116,sutra_en_22_117,sutra_en_22_118,sutra_en_22_119,sutra_en_22_120,
-                sutra_en_22_121,sutra_en_22_122,sutra_en_22_123,sutra_en_22_124,sutra_en_22_125,sutra_en_22_126,sutra_en_22_127,sutra_en_22_128,sutra_en_22_129,sutra_en_22_130,
-                sutra_en_22_131,sutra_en_22_132,sutra_en_22_133,sutra_en_22_134,sutra_en_22_135,sutra_en_22_136,sutra_en_22_137,sutra_en_22_138,sutra_en_22_139,sutra_en_22_140,
-                sutra_en_22_141,sutra_en_22_142,sutra_en_22_143,sutra_en_22_144,sutra_en_22_145,sutra_en_22_146,sutra_en_22_147,sutra_en_22_148,sutra_en_22_149,sutra_en_22_150
+const sutra_en_22 = [sutra_en_22_1,sutra_en_22_2,sutra_en_22_3,sutra_en_22_4,sutra_en_22_5,sutra_en_22_6,sutra_en_22_7,sutra_en_22_8
                 ];
