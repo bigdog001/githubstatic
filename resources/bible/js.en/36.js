@@ -1,168 +1,55 @@
-const sutra_en_36_1 = ` `;
-const sutra_en_36_2 = ` `;
-const sutra_en_36_3 = ` `;
-const sutra_en_36_4 = ` `;
-const sutra_en_36_5 = ` `;
-const sutra_en_36_6 = ` `;
-const sutra_en_36_7 = ` `;
-const sutra_en_36_8 = ` `;
-const sutra_en_36_9 = ` `;
-const sutra_en_36_10 = ` `;
-const sutra_en_36_11 = ` `;
-const sutra_en_36_12 = ` `;
-const sutra_en_36_13 = ` `;
-const sutra_en_36_14 = ` `;
-const sutra_en_36_15 = ` `;
-const sutra_en_36_16 = ` `;
-const sutra_en_36_17 = ` `;
-const sutra_en_36_18 = ` `;
-const sutra_en_36_19 = ` `;
-const sutra_en_36_20 = ` `;
-const sutra_en_36_21 = ` `;
-const sutra_en_36_22 = ` `;
-const sutra_en_36_23 = ` `;
-const sutra_en_36_24 = ` `;
-const sutra_en_36_25 = ` `;
-const sutra_en_36_26 = ` `;
-const sutra_en_36_27 = ` `;
-const sutra_en_36_28 = ` `;
-const sutra_en_36_29 = ` `;
-const sutra_en_36_30 = ` `;
-const sutra_en_36_31 = ` `;
-const sutra_en_36_32 = ` `;
-const sutra_en_36_33 = ` `;
-const sutra_en_36_34 = ` `;
-const sutra_en_36_35 = ` `;
-const sutra_en_36_36 = ` `;
-const sutra_en_36_37 = ` `;
-const sutra_en_36_38 = ` `;
-const sutra_en_36_39 = ` `;
-const sutra_en_36_40 = ` `;
-const sutra_en_36_41 = ` `;
-const sutra_en_36_42 = ` `;
-const sutra_en_36_43 = ` `;
-const sutra_en_36_44 = ` `;
-const sutra_en_36_45 = ` `;
-const sutra_en_36_46 = ` `;
-const sutra_en_36_47 = ` `;
-const sutra_en_36_48 = ` `;
-const sutra_en_36_49 = ` `;
-const sutra_en_36_50 = ` `;
-const sutra_en_36_51 = ` `;
-const sutra_en_36_52 = ` `;
-const sutra_en_36_53 = ` `;
-const sutra_en_36_54 = ` `;
-const sutra_en_36_55 = ` `;
-const sutra_en_36_56 = ` `;
-const sutra_en_36_57 = ` `;
-const sutra_en_36_58 = ` `;
-const sutra_en_36_59 = ` `;
-const sutra_en_36_60 = ` `;
-const sutra_en_36_61 = ` `;
-const sutra_en_36_62 = ` `;
-const sutra_en_36_63 = ` `;
-const sutra_en_36_64 = ` `;
-const sutra_en_36_65 = ` `;
-const sutra_en_36_66 = ` `;
-const sutra_en_36_67 = ` `;
-const sutra_en_36_68 = ` `;
-const sutra_en_36_69 = ` `;
-const sutra_en_36_70 = ` `;
-const sutra_en_36_71 = ` `;
-const sutra_en_36_72 = ` `;
-const sutra_en_36_73 = ` `;
-const sutra_en_36_74 = ` `;
-const sutra_en_36_75 = ` `;
-const sutra_en_36_76 = ` `;
-const sutra_en_36_77 = ` `;
-const sutra_en_36_78 = ` `;
-const sutra_en_36_79 = ` `;
-const sutra_en_36_80 = ` `;
-const sutra_en_36_81 = ` `;
-const sutra_en_36_82 = ` `;
-const sutra_en_36_83 = ` `;
-const sutra_en_36_84 = ` `;
-const sutra_en_36_85 = ` `;
-const sutra_en_36_86 = ` `;
-const sutra_en_36_87 = ` `;
-const sutra_en_36_88 = ` `;
-const sutra_en_36_89 = ` `;
-const sutra_en_36_90 = ` `;
-const sutra_en_36_91 = ` `;
-const sutra_en_36_92 = ` `;
-const sutra_en_36_93 = ` `;
-const sutra_en_36_94 = ` `;
-const sutra_en_36_95 = ` `;
-const sutra_en_36_96 = ` `;
-const sutra_en_36_97 = ` `;
-const sutra_en_36_98 = ` `;
-const sutra_en_36_99 = ` `;
-const sutra_en_36_100 = ` `;
-const sutra_en_36_101 = ` `;
-const sutra_en_36_102 = ` `;
-const sutra_en_36_103 = ` `;
-const sutra_en_36_104 = ` `;
-const sutra_en_36_105 = ` `;
-const sutra_en_36_106 = ` `;
-const sutra_en_36_107 = ` `;
-const sutra_en_36_108 = ` `;
-const sutra_en_36_109 = ` `;
-const sutra_en_36_110 = ` `;
-const sutra_en_36_111 = ` `;
-const sutra_en_36_112 = ` `;
-const sutra_en_36_113 = ` `;
-const sutra_en_36_114 = ` `;
-const sutra_en_36_115 = ` `;
-const sutra_en_36_116 = ` `;
-const sutra_en_36_117 = ` `;
-const sutra_en_36_118 = ` `;
-const sutra_en_36_119 = ` `;
-const sutra_en_36_120 = ` `;
-const sutra_en_36_121 = ` `;
-const sutra_en_36_122 = ` `;
-const sutra_en_36_123 = ` `;
-const sutra_en_36_124 = ` `;
-const sutra_en_36_125 = ` `;
-const sutra_en_36_126 = ` `;
-const sutra_en_36_127 = ` `;
-const sutra_en_36_128 = ` `;
-const sutra_en_36_129 = ` `;
-const sutra_en_36_130 = ` `;
-const sutra_en_36_131 = ` `;
-const sutra_en_36_132 = ` `;
-const sutra_en_36_133 = ` `;
-const sutra_en_36_134 = ` `;
-const sutra_en_36_135 = ` `;
-const sutra_en_36_136 = ` `;
-const sutra_en_36_137 = ` `;
-const sutra_en_36_138 = ` `;
-const sutra_en_36_139 = ` `;
-const sutra_en_36_140 = ` `;
-const sutra_en_36_141 = ` `;
-const sutra_en_36_142 = ` `;
-const sutra_en_36_143 = ` `;
-const sutra_en_36_144 = ` `;
-const sutra_en_36_145 = ` `;
-const sutra_en_36_146 = ` `;
-const sutra_en_36_147 = ` `;
-const sutra_en_36_148 = ` `;
-const sutra_en_36_149 = ` `;
-const sutra_en_36_150 = ` `;
+const sutra_en_36_1 = `1 The word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:
+2 “I will sweep away everything from the face of the earth,” declares the LORD.
+3 “I will sweep away both man and beast; I will sweep away the birds in the sky and the fish in the sea— and the idols that cause the wicked to stumble.”“When I destroy all mankind on the face of the earth,” declares the LORD,
+4 “I will stretch out my hand against Judah and against all who live in Jerusalem. I will destroy every remnant of Baal worship in this place, the very names of the idolatrous priests—
+5 those who bow down on the roofs to worship the starry host, those who bow down and swear by the LORDand who also swear by Molek,
+6 those who turn back from following the LORDand neither seek the LORD nor inquire of him.”
+7 Be silent before the Sovereign LORD, for the day of the LORD is near. The LORD has prepared a sacrifice; he has consecrated those he has invited.
+8 “On the day of the LORD’s sacrifice I will punish the officials and the king’s sons and all those clad in foreign clothes.
+9 On that day I will punish all who avoid stepping on the threshold,who fill the temple of their gods with violence and deceit.
+10 “On that day,” declares the LORD, “a cry will go up from the Fish Gate, wailing from the New Quarter, and a loud crash from the hills.
+11 Wail, you who live in the market district ; all your merchants will be wiped out, all who trade with silver will be destroyed.
+12 At that time I will search Jerusalem with lamps and punish those who are complacent, who are like wine left on its dregs, who think, ‘The LORD will do nothing, either good or bad.’
+13 Their wealth will be plundered, their houses demolished. Though they build houses, they will not live in them; though they plant vineyards, they will not drink the wine.”
+14 The great day of the LORD is near— near and coming quickly. The cry on the day of the LORD is bitter; the Mighty Warrior shouts his battle cry.
+15 That day will be a day of wrath— a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness—
+16 a day of trumpet and battle cry against the fortified cities and against the corner towers.
+17 “I will bring such distress on all people that they will grope about like those who are blind, because they have sinned against the LORD. Their blood will be poured out like dust and their entrails like dung.
+18 Neither their silver nor their gold will be able to save them on the day of the LORD’s wrath.” In the fire of his jealousy the whole earth will be consumed, for he will make a sudden end of all who live on the earth. `;
+const sutra_en_36_2 = `1 Gather together, gather yourselves together, you shameful nation,
+2 before the decree takes effect and that day passes like windblown chaff, before the LORD’s fierce anger comes upon you, before the day of the LORD’s wrath comes upon you.
+3 Seek the LORD, all you humble of the land, you who do what he commands. Seek righteousness, seek humility; perhaps you will be sheltered on the day of the LORD’s anger.
+4 Gaza will be abandoned and Ashkelon left in ruins. At midday Ashdod will be emptied and Ekron uprooted.
+5 Woe to you who live by the sea, you Kerethite people; the word of the LORD is against you, Canaan, land of the Philistines. He says, “I will destroy you, and none will be left.”
+6 The land by the sea will become pastures having wells for shepherds and pens for flocks.
+7 That land will belong to the remnant of the people of Judah; there they will find pasture. In the evening they will lie down in the houses of Ashkelon. The LORD their God will care for them; he will restore their fortunes.
+8 “I have heard the insults of Moab and the taunts of the Ammonites, who insulted my people and made threats against their land.
+9 Therefore, as surely as I live,” declares the LORD Almighty, the God of Israel, “surely Moab will become like Sodom, the Ammonites like Gomorrah— a place of weeds and salt pits, a wasteland forever. The remnant of my people will plunder them; the survivors of my nation will inherit their land.”
+10 This is what they will get in return for their pride, for insulting and mocking the people of the LORD Almighty.
+11 The LORD will be awesome to them when he destroys all the gods of the earth. Distant nations will bow down to him, all of them in their own lands.
+12 “You Cushites, too, will be slain by my sword.”
+13 He will stretch out his hand against the north and destroy Assyria, leaving Nineveh utterly desolate and dry as the desert.
+14 Flocks and herds will lie down there, creatures of every kind. The desert owl and the screech owl will roost on her columns. Their hooting will echo through the windows, rubble will fill the doorways, the beams of cedar will be exposed.
+15 This is the city of revelry that lived in safety. She said to herself, “I am the one! And there is none besides me.” What a ruin she has become, a lair for wild beasts! All who pass by her scoff and shake their fists. `;
+const sutra_en_36_3 = `1 Woe to the city of oppressors, rebellious and defiled!
+2 She obeys no one, she accepts no correction. She does not trust in the LORD, she does not draw near to her God.
+3 Her officials within her are roaring lions; her rulers are evening wolves, who leave nothing for the morning.
+4 Her prophets are unprincipled; they are treacherous people. Her priests profane the sanctuary and do violence to the law.
+5 The LORD within her is righteous; he does no wrong. Morning by morning he dispenses his justice, and every new day he does not fail, yet the unrighteous know no shame.
+6 “I have destroyed nations; their strongholds are demolished. I have left their streets deserted, with no one passing through. Their cities are laid waste; they are deserted and empty.
+7 Of Jerusalem I thought, ‘Surely you will fear me and accept correction!’ Then her place of refuge would not be destroyed, nor all my punishments come upon her. But they were still eager to act corruptly in all they did.
+8 Therefore wait for me,” declares the LORD, “for the day I will stand up to testify.I have decided to assemble the nations, to gather the kingdoms and to pour out my wrath on them— all my fierce anger. The whole world will be consumed by the fire of my jealous anger.
+9 “Then I will purify the lips of the peoples, that all of them may call on the name of the LORDand serve him shoulder to shoulder.
+10 From beyond the rivers of Cush my worshipers, my scattered people, will bring me offerings.
+11 On that day you, Jerusalem, will not be put to shame for all the wrongs you have done to me, because I will remove from you your arrogant boasters. Never again will you be haughty on my holy hill.
+12 But I will leave within you the meek and humble. The remnant of Israel will trust in the name of the LORD.
+13 They will do no wrong; they will tell no lies. A deceitful tongue will not be found in their mouths. They will eat and lie down and no one will make them afraid.”
+14 Sing, Daughter Zion; shout aloud, Israel! Be glad and rejoice with all your heart, Daughter Jerusalem!
+15 The LORD has taken away your punishment, he has turned back your enemy. The LORD, the King of Israel, is with you; never again will you fear any harm.
+16 On that day they will say to Jerusalem, “Do not fear, Zion; do not let your hands hang limp.
+17 The LORD your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.”
+18 “I will remove from you all who mourn over the loss of your appointed festivals, which is a burden and reproach for you.
+19 At that time I will deal with all who oppressed you. I will rescue the lame; I will gather the exiles. I will give them praise and honor in every land where they have suffered shame.
+20 At that time I will gather you; at that time I will bring you home. I will give you honor and praise among all the peoples of the earth when I restore your fortunesbefore your very eyes,” says the LORD.. `;
 
-
-const sutra_en_36 = [sutra_en_36_1,sutra_en_36_2,sutra_en_36_3,sutra_en_36_4,sutra_en_36_5,sutra_en_36_6,sutra_en_36_7,sutra_en_36_8,sutra_en_36_9,sutra_en_36_10,
-                sutra_en_36_11,sutra_en_36_12,sutra_en_36_13,sutra_en_36_14,sutra_en_36_15,sutra_en_36_16,sutra_en_36_17,sutra_en_36_18,sutra_en_36_19,sutra_en_36_20,
-                sutra_en_36_21,sutra_en_36_22,sutra_en_36_23,sutra_en_36_24,sutra_en_36_25,sutra_en_36_26,sutra_en_36_27,sutra_en_36_28,sutra_en_36_29,sutra_en_36_30,
-                sutra_en_36_31,sutra_en_36_32,sutra_en_36_33,sutra_en_36_34,sutra_en_36_35,sutra_en_36_36,sutra_en_36_37,sutra_en_36_38,sutra_en_36_39,sutra_en_36_40,
-                sutra_en_36_41,sutra_en_36_42,sutra_en_36_43,sutra_en_36_44,sutra_en_36_45,sutra_en_36_46,sutra_en_36_47,sutra_en_36_48,sutra_en_36_49,sutra_en_36_50,
-                sutra_en_36_51,sutra_en_36_52,sutra_en_36_53,sutra_en_36_54,sutra_en_36_55,sutra_en_36_56,sutra_en_36_57,sutra_en_36_58,sutra_en_36_59,sutra_en_36_60,
-                sutra_en_36_61,sutra_en_36_62,sutra_en_36_63,sutra_en_36_64,sutra_en_36_65,sutra_en_36_66,sutra_en_36_67,sutra_en_36_68,sutra_en_36_69,sutra_en_36_70,
-                sutra_en_36_71,sutra_en_36_72,sutra_en_36_73,sutra_en_36_74,sutra_en_36_75,sutra_en_36_76,sutra_en_36_77,sutra_en_36_78,sutra_en_36_79,sutra_en_36_80,
-                sutra_en_36_81,sutra_en_36_82,sutra_en_36_83,sutra_en_36_84,sutra_en_36_85,sutra_en_36_86,sutra_en_36_87,sutra_en_36_88,sutra_en_36_89,sutra_en_36_90,
-                sutra_en_36_91,sutra_en_36_92,sutra_en_36_93,sutra_en_36_94,sutra_en_36_95,sutra_en_36_96,sutra_en_36_97,sutra_en_36_98,sutra_en_36_99,sutra_en_36_100,
-                sutra_en_36_101,sutra_en_36_102,sutra_en_36_103,sutra_en_36_104,sutra_en_36_105,sutra_en_36_106,sutra_en_36_107,sutra_en_36_108,sutra_en_36_109,sutra_en_36_110,
-                sutra_en_36_111,sutra_en_36_112,sutra_en_36_113,sutra_en_36_114,sutra_en_36_115,sutra_en_36_116,sutra_en_36_117,sutra_en_36_118,sutra_en_36_119,sutra_en_36_120,
-                sutra_en_36_121,sutra_en_36_122,sutra_en_36_123,sutra_en_36_124,sutra_en_36_125,sutra_en_36_126,sutra_en_36_127,sutra_en_36_128,sutra_en_36_129,sutra_en_36_130,
-                sutra_en_36_131,sutra_en_36_132,sutra_en_36_133,sutra_en_36_134,sutra_en_36_135,sutra_en_36_136,sutra_en_36_137,sutra_en_36_138,sutra_en_36_139,sutra_en_36_140,
-                sutra_en_36_141,sutra_en_36_142,sutra_en_36_143,sutra_en_36_144,sutra_en_36_145,sutra_en_36_146,sutra_en_36_147,sutra_en_36_148,sutra_en_36_149,sutra_en_36_150
-                ];
+const sutra_en_36 = [sutra_en_36_1,sutra_en_36_2,sutra_en_36_3 ];
