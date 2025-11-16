@@ -785,6 +785,7 @@ const sutra_en_40_23 = `1 Then Jesus said to the crowds and to his disciples:
 11 The greatest among you will be your servant.
 12 For those who exalt themselves will be humbled, and those who humble themselves will be exalted.
 13 “Woe to you, teachers of the law and Pharisees, you hypocrites! You shut the door of the kingdom of heaven in people’s faces. You yourselves do not enter, nor will you let those enter who are trying to.
+14 Woe to you, teachers of the law and Pharisees, you hypocrites! You devour windows’ houses and for a show make lengthy prayers. Therefore you will be punished more severely.
 15 “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.
 16 “Woe to you, blind guides! You say, ‘If anyone swears by the temple, it means nothing; but anyone who swears by the gold of the temple is bound by that oath.’
 17 You blind fools! Which is greater: the gold, or the temple that makes the gold sacred?
