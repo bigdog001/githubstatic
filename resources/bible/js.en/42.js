@@ -791,6 +791,7 @@ const sutra_en_42_17 = `1 Jesus said to his disciples: “Things that cause peop
 33 Whoever tries to keep their life will lose it, and whoever loses their life will preserve it.
 34 I tell you, on that night two people will be in one bed; one will be taken and the other left.
 35 Two women will be grinding grain together; one will be taken and the other left. ”
+36 Two men will be in the field; one will be taken and the other left.
 37 “Where, Lord?” they asked. He replied, “Where there is a dead body, there the vultures will gather.” `;
 const sutra_en_42_18 = `1 Then Jesus told his disciples a parable to show them that they should always pray and not give up.
 2 He said: “In a certain town there was a judge who neither feared God nor cared what people thought.
@@ -1055,6 +1056,7 @@ const sutra_en_42_23 = `1 Then the whole assembly rose and led him off to Pilate
 14 and said to them, “You brought me this man as one who was inciting the people to rebellion. I have examined him in your presence and have found no basis for your charges against him.
 15 Neither has Herod, for he sent him back to us; as you can see, he has done nothing to deserve death.
 16 Therefore, I will punish him and then release him. ”
+17 Now he was obliged to release one man to them at the Feast.
 18 But the whole crowd shouted, “Away with this man! Release Barabbas to us!”
 19 (Barabbas had been thrown into prison for an insurrection in the city, and for murder.)
 20 Wanting to release Jesus, Pilate appealed to them again.
