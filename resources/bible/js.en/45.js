@@ -429,7 +429,7 @@ const sutra_en_45_16 = `1 I commend to you our sister Phoebe, a deacon of the ch
 23 Gaius, whose hospitality I and the whole church here enjoy, sends you his greetings. Erastus, who is the city’s director of public works, and our brother Quartus send you their greetings.
 25 Now to him who is able to establish you in accordance with my gospel, the message I proclaim about Jesus Christ, in keeping with the revelation of the mystery hidden for long ages past,
 26 but now revealed and made known through the prophetic writings by the command of the eternal God, so that all the Gentiles might come to the obedience that comes from faith—
-27 to the only wise God be glory forever through Jesus Christ! Amen. `;
+27 to the only wise God be glory forever through Jesus Christ! Amen.`;
 
 const sutra_en_45 = [sutra_en_45_1,sutra_en_45_2,sutra_en_45_3,sutra_en_45_4,sutra_en_45_5,sutra_en_45_6,sutra_en_45_7,sutra_en_45_8,sutra_en_45_9,sutra_en_45_10,
                 sutra_en_45_11,sutra_en_45_12,sutra_en_45_13,sutra_en_45_14,sutra_en_45_15,sutra_en_45_16];
