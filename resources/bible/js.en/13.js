@@ -944,5 +944,4 @@ const sutra_en_13_29 = `1 Then King David said to the whole assembly: “My son 
 const sutra_en_13 = [sutra_en_13_1,sutra_en_13_2,sutra_en_13_3,sutra_en_13_4,sutra_en_13_5,sutra_en_13_6,sutra_en_13_7,sutra_en_13_8,sutra_en_13_9,sutra_en_13_10,
                 sutra_en_13_11,sutra_en_13_12,sutra_en_13_13,sutra_en_13_14,sutra_en_13_15,sutra_en_13_16,sutra_en_13_17,sutra_en_13_18,sutra_en_13_19,sutra_en_13_20,
                 sutra_en_13_21,sutra_en_13_22,sutra_en_13_23,sutra_en_13_24,sutra_en_13_25,sutra_en_13_26,sutra_en_13_27,sutra_en_13_28,sutra_en_13_29
-                ];
-~                         
+                ];                    
