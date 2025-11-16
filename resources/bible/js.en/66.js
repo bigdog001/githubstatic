@@ -297,7 +297,6 @@ const sutra_en_66_17 = ` 1 One of the seven angels who had the seven bowls came 
 const sutra_en_66_18 = `1 After this I saw another angel coming down from heaven. He had great authority, and the earth was illuminated by his splendor.
 2 With a mighty voice he shouted: “ ‘Fallen! Fallen is Babylon the Great!’She has become a dwelling for demons and a haunt for every impure spirit, a haunt for every unclean bird, a haunt for every unclean and detestable animal.
 3 For all the nations have drunk the maddening wine of her adulteries. The kings of the earth committed adultery with her, and the merchants of the earth grew rich from her excessive luxuries.”
-Warning to Escape Babylon’s Judgment
 4 Then I heard another voice from heaven say: “ ‘Come out of her, my people,’so that you will not share in her sins, so that you will not receive any of her plagues;
 5 for her sins are piled up to heaven, and God has remembered her crimes.
 6 Give back to her as she has given; pay her back double for what she has done. Pour her a double portion from her own cup.
