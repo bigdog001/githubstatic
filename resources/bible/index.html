@@ -322,10 +322,14 @@
 
 		const targetChapter = 1;
 		const targetParagraph = 1;
-		const sutraCN = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
-		const sutraEN = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
-		const size_sutra = sutraCN.length;
+		const sutraCNs = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
+		const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
+		const size_sutra = sutraCNs.length;
 		console.log(`size_sutra:${size_sutra}`)
+		for(var k = 0;k<size_sutra;k++){
+			console.log(`${sutraENs[k]}`)
+			console.log(`${sutraCNs[k]}`)
+		}
 		
 
 
