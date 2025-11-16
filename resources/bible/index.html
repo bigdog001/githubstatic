@@ -300,31 +300,31 @@
     });
     var fatal_size = 0;
 
-
-
-
 	for(var j=0; j<66;j++){
-	 const target_en = sutra_en[j]                                ;
+	 const target_en = sutra_en[j] ;
     	 const target_cn = sutras_[j]  ;
-
-	 if(target_en.length !== target_cn.length){
-        console.log(`Fatal: total sutra size not match,en:${target_en.length},cn:${target_cn.length}`);
-        fatal_size++;
-    }
-    for(var i = 0;i< target_en.length;i++){
-        const en_length = target_en[i].split(/\r?\n/).length;
-        const cn_length = target_cn[i].split(/\r?\n/).length;
-        if(en_length !== cn_length){
-            console.log(`Fatal:${j+1}-->${i+1},en:${en_length},cn:${cn_length} `);
-            fatal_size++;
-        }
-    }
-
+		 if(target_en.length !== target_cn.length){
+	        console.log(`Fatal: total sutra size not match,en:${target_en.length},cn:${target_cn.length}`);
+	        fatal_size++;
+	    }
+	    for(var i = 0;i< target_en.length;i++){
+	        const en_length = target_en[i].split(/\r?\n/).length;
+	        const cn_length = target_cn[i].split(/\r?\n/).length;
+	        if(en_length !== cn_length){
+	            console.log(`Fatal:${j+1}-->${i+1},en:${en_length},cn:${cn_length} `);
+	            fatal_size++;
+	        }
+	    }
 	}
-
     if(fatal_size === 0){
     console.log("checking ALL GOOD ");
     }
+
+		const targetChapter = 1;
+		const sutraCN = sutras_[targetChapter-1] ;
+		const sutraEN = sutra_en[targetChapter-1] ;
+		const size_sutra = sutraCN.length;
+		console.log(`size_sutra:${size_sutra}`)
 
 
 
