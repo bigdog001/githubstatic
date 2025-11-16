@@ -352,7 +352,6 @@ const sutra_en_16_12 = `1 These were the priests and Levites who returned with Z
 24 And the leaders of the Levites were Hashabiah, Sherebiah, Jeshua son of Kadmiel, and their associates, who stood opposite them to give praise and thanksgiving, one section responding to the other, as prescribed by David the man of God.
 25 Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub were gatekeepers who guarded the storerooms at the gates.
 26 They served in the days of Joiakim son of Joshua, the son of Jozadak, and in the days of Nehemiah the governor and of Ezra the priest, the teacher of the Law.
-Dedication of the Wall of Jerusalem
 27 At the dedication of the wall of Jerusalem, the Levites were sought out from where they lived and were brought to Jerusalem to celebrate joyfully the dedication with songs of thanksgiving and with the music of cymbals, harps and lyres.
 28 The musicians also were brought together from the region around Jerusalem—from the villages of the Netophathites,
 29 from Beth Gilgal, and from the area of Geba and Azmaveth, for the musicians had built villages for themselves around Jerusalem.
