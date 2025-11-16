@@ -1,168 +1,63 @@
-const sutra_en_61_1 = ` `;
-const sutra_en_61_2 = ` `;
-const sutra_en_61_3 = ` `;
-const sutra_en_61_4 = ` `;
-const sutra_en_61_5 = ` `;
-const sutra_en_61_6 = ` `;
-const sutra_en_61_7 = ` `;
-const sutra_en_61_8 = ` `;
-const sutra_en_61_9 = ` `;
-const sutra_en_61_10 = ` `;
-const sutra_en_61_11 = ` `;
-const sutra_en_61_12 = ` `;
-const sutra_en_61_13 = ` `;
-const sutra_en_61_14 = ` `;
-const sutra_en_61_15 = ` `;
-const sutra_en_61_16 = ` `;
-const sutra_en_61_17 = ` `;
-const sutra_en_61_18 = ` `;
-const sutra_en_61_19 = ` `;
-const sutra_en_61_20 = ` `;
-const sutra_en_61_21 = ` `;
-const sutra_en_61_22 = ` `;
-const sutra_en_61_23 = ` `;
-const sutra_en_61_24 = ` `;
-const sutra_en_61_25 = ` `;
-const sutra_en_61_26 = ` `;
-const sutra_en_61_27 = ` `;
-const sutra_en_61_28 = ` `;
-const sutra_en_61_29 = ` `;
-const sutra_en_61_30 = ` `;
-const sutra_en_61_31 = ` `;
-const sutra_en_61_32 = ` `;
-const sutra_en_61_33 = ` `;
-const sutra_en_61_34 = ` `;
-const sutra_en_61_35 = ` `;
-const sutra_en_61_36 = ` `;
-const sutra_en_61_37 = ` `;
-const sutra_en_61_38 = ` `;
-const sutra_en_61_39 = ` `;
-const sutra_en_61_40 = ` `;
-const sutra_en_61_41 = ` `;
-const sutra_en_61_42 = ` `;
-const sutra_en_61_43 = ` `;
-const sutra_en_61_44 = ` `;
-const sutra_en_61_45 = ` `;
-const sutra_en_61_46 = ` `;
-const sutra_en_61_47 = ` `;
-const sutra_en_61_48 = ` `;
-const sutra_en_61_49 = ` `;
-const sutra_en_61_50 = ` `;
-const sutra_en_61_51 = ` `;
-const sutra_en_61_52 = ` `;
-const sutra_en_61_53 = ` `;
-const sutra_en_61_54 = ` `;
-const sutra_en_61_55 = ` `;
-const sutra_en_61_56 = ` `;
-const sutra_en_61_57 = ` `;
-const sutra_en_61_58 = ` `;
-const sutra_en_61_59 = ` `;
-const sutra_en_61_60 = ` `;
-const sutra_en_61_61 = ` `;
-const sutra_en_61_62 = ` `;
-const sutra_en_61_63 = ` `;
-const sutra_en_61_64 = ` `;
-const sutra_en_61_65 = ` `;
-const sutra_en_61_66 = ` `;
-const sutra_en_61_67 = ` `;
-const sutra_en_61_68 = ` `;
-const sutra_en_61_69 = ` `;
-const sutra_en_61_70 = ` `;
-const sutra_en_61_71 = ` `;
-const sutra_en_61_72 = ` `;
-const sutra_en_61_73 = ` `;
-const sutra_en_61_74 = ` `;
-const sutra_en_61_75 = ` `;
-const sutra_en_61_76 = ` `;
-const sutra_en_61_77 = ` `;
-const sutra_en_61_78 = ` `;
-const sutra_en_61_79 = ` `;
-const sutra_en_61_80 = ` `;
-const sutra_en_61_81 = ` `;
-const sutra_en_61_82 = ` `;
-const sutra_en_61_83 = ` `;
-const sutra_en_61_84 = ` `;
-const sutra_en_61_85 = ` `;
-const sutra_en_61_86 = ` `;
-const sutra_en_61_87 = ` `;
-const sutra_en_61_88 = ` `;
-const sutra_en_61_89 = ` `;
-const sutra_en_61_90 = ` `;
-const sutra_en_61_91 = ` `;
-const sutra_en_61_92 = ` `;
-const sutra_en_61_93 = ` `;
-const sutra_en_61_94 = ` `;
-const sutra_en_61_95 = ` `;
-const sutra_en_61_96 = ` `;
-const sutra_en_61_97 = ` `;
-const sutra_en_61_98 = ` `;
-const sutra_en_61_99 = ` `;
-const sutra_en_61_100 = ` `;
-const sutra_en_61_101 = ` `;
-const sutra_en_61_102 = ` `;
-const sutra_en_61_103 = ` `;
-const sutra_en_61_104 = ` `;
-const sutra_en_61_105 = ` `;
-const sutra_en_61_106 = ` `;
-const sutra_en_61_107 = ` `;
-const sutra_en_61_108 = ` `;
-const sutra_en_61_109 = ` `;
-const sutra_en_61_110 = ` `;
-const sutra_en_61_111 = ` `;
-const sutra_en_61_112 = ` `;
-const sutra_en_61_113 = ` `;
-const sutra_en_61_114 = ` `;
-const sutra_en_61_115 = ` `;
-const sutra_en_61_116 = ` `;
-const sutra_en_61_117 = ` `;
-const sutra_en_61_118 = ` `;
-const sutra_en_61_119 = ` `;
-const sutra_en_61_120 = ` `;
-const sutra_en_61_121 = ` `;
-const sutra_en_61_122 = ` `;
-const sutra_en_61_123 = ` `;
-const sutra_en_61_124 = ` `;
-const sutra_en_61_125 = ` `;
-const sutra_en_61_126 = ` `;
-const sutra_en_61_127 = ` `;
-const sutra_en_61_128 = ` `;
-const sutra_en_61_129 = ` `;
-const sutra_en_61_130 = ` `;
-const sutra_en_61_131 = ` `;
-const sutra_en_61_132 = ` `;
-const sutra_en_61_133 = ` `;
-const sutra_en_61_134 = ` `;
-const sutra_en_61_135 = ` `;
-const sutra_en_61_136 = ` `;
-const sutra_en_61_137 = ` `;
-const sutra_en_61_138 = ` `;
-const sutra_en_61_139 = ` `;
-const sutra_en_61_140 = ` `;
-const sutra_en_61_141 = ` `;
-const sutra_en_61_142 = ` `;
-const sutra_en_61_143 = ` `;
-const sutra_en_61_144 = ` `;
-const sutra_en_61_145 = ` `;
-const sutra_en_61_146 = ` `;
-const sutra_en_61_147 = ` `;
-const sutra_en_61_148 = ` `;
-const sutra_en_61_149 = ` `;
-const sutra_en_61_150 = ` `;
+const sutra_en_61_1 = `1 Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:
+2 Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.
+3 His divine power has given us everything we need for a godly life through our knowledge of him who called us by his own glory and goodness.
+4 Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature, having escaped the corruption in the world caused by evil desires.
+5 For this very reason, make every effort to add to your faith goodness; and to goodness, knowledge;
+6 and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness;
+7 and to godliness, mutual affection; and to mutual affection, love.
+8 For if you possess these qualities in increasing measure, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ.
+9 But whoever does not have them is nearsighted and blind, forgetting that they have been cleansed from their past sins.
+10 Therefore, my brothers and sisters, make every effort to confirm your calling and election. For if you do these things, you will never stumble,
+11 and you will receive a rich welcome into the eternal kingdom of our Lord and Savior Jesus Christ.
+12 So I will always remind you of these things, even though you know them and are firmly established in the truth you now have.
+13 I think it is right to refresh your memory as long as I live in the tent of this body,
+14 because I know that I will soon put it aside, as our Lord Jesus Christ has made clear to me.
+15 And I will make every effort to see that after my departure you will always be able to remember these things.
+16 For we did not follow cleverly devised stories when we told you about the coming of our Lord Jesus Christ in power, but we were eyewitnesses of his majesty.
+17 He received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying, “This is my Son, whom I love; with him I am well pleased.”
+18 We ourselves heard this voice that came from heaven when we were with him on the sacred mountain.
+19 We also have the prophetic message as something completely reliable, and you will do well to pay attention to it, as to a light shining in a dark place, until the day dawns and the morning star rises in your hearts.
+20 Above all, you must understand that no prophecy of Scripture came about by the prophet’s own interpretation of things.
+21 For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit. `;
+const sutra_en_61_2 = `1 But there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the sovereign Lord who bought them—bringing swift destruction on themselves.
+2 Many will follow their depraved conduct and will bring the way of truth into disrepute.
+3 In their greed these teachers will exploit you with fabricated stories. Their condemnation has long been hanging over them, and their destruction has not been sleeping.
+4 For if God did not spare angels when they sinned, but sent them to hell, putting them in chains of darkness to be held for judgment;
+5 if he did not spare the ancient world when he brought the flood on its ungodly people, but protected Noah, a preacher of righteousness, and seven others;
+6 if he condemned the cities of Sodom and Gomorrah by burning them to ashes, and made them an example of what is going to happen to the ungodly;
+7 and if he rescued Lot, a righteous man, who was distressed by the depraved conduct of the lawless
+8 (for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard)—
+9 if this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment.
+10 This is especially true of those who follow the corrupt desire of the flesh and despise authority. Bold and arrogant, they are not afraid to heap abuse on celestial beings;
+11 yet even angels, although they are stronger and more powerful, do not heap abuse on such beings when bringing judgment on them from the Lord.
+12 But these people blaspheme in matters they do not understand. They are like unreasoning animals, creatures of instinct, born only to be caught and destroyed, and like animals they too will perish.
+13 They will be paid back with harm for the harm they have done. Their idea of pleasure is to carouse in broad daylight. They are blots and blemishes, reveling in their pleasures while they feast with you.
+14 With eyes full of adultery, they never stop sinning; they seduce the unstable; they are experts in greed—an accursed brood!
+15 They have left the straight way and wandered off to follow the way of Balaam son of Bezer, who loved the wages of wickedness.
+16 But he was rebuked for his wrongdoing by a donkey—an animal without speech—who spoke with a human voice and restrained the prophet’s madness.
+17 These people are springs without water and mists driven by a storm. Blackest darkness is reserved for them.
+18 For they mouth empty, boastful words and, by appealing to the lustful desires of the flesh, they entice people who are just escaping from those who live in error.
+19 They promise them freedom, while they themselves are slaves of depravity—for “people are slaves to whatever has mastered them.”
+20 If they have escaped the corruption of the world by knowing our Lord and Savior Jesus Christ and are again entangled in it and are overcome, they are worse off at the end than they were at the beginning.
+21 It would have been better for them not to have known the way of righteousness, than to have known it and then to turn their backs on the sacred command that was passed on to them.
+22 Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed returns to her wallowing in the mud.” `;
+const sutra_en_61_3 = `1 Dear friends, this is now my second letter to you. I have written both of them as reminders to stimulate you to wholesome thinking.
+2 I want you to recall the words spoken in the past by the holy prophets and the command given by our Lord and Savior through your apostles.
+3 Above all, you must understand that in the last days scoffers will come, scoffing and following their own evil desires.
+4 They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation.”
+5 But they deliberately forget that long ago by God’s word the heavens came into being and the earth was formed out of water and by water.
+6 By these waters also the world of that time was deluged and destroyed.
+7 By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of the ungodly.
+8 But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.
+9 The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.
+10 But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare.
+11 Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives
+12 as you look forward to the day of God and speed its coming. That day will bring about the destruction of the heavens by fire, and the elements will melt in the heat.
+13 But in keeping with his promise we are looking forward to a new heaven and a new earth, where righteousness dwells.
+14 So then, dear friends, since you are looking forward to this, make every effort to be found spotless, blameless and at peace with him.
+15 Bear in mind that our Lord’s patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him.
+16 He writes the same way in all his letters, speaking in them of these matters. His letters contain some things that are hard to understand, which ignorant and unstable people distort, as they do the other Scriptures, to their own destruction.
+17 Therefore, dear friends, since you have been forewarned, be on your guard so that you may not be carried away by the error of the lawless and fall from your secure position.
+18 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen. `;
 
-
-const sutra_en_61 = [sutra_en_61_1,sutra_en_61_2,sutra_en_61_3,sutra_en_61_4,sutra_en_61_5,sutra_en_61_6,sutra_en_61_7,sutra_en_61_8,sutra_en_61_9,sutra_en_61_10,
-                sutra_en_61_11,sutra_en_61_12,sutra_en_61_13,sutra_en_61_14,sutra_en_61_15,sutra_en_61_16,sutra_en_61_17,sutra_en_61_18,sutra_en_61_19,sutra_en_61_20,
-                sutra_en_61_21,sutra_en_61_22,sutra_en_61_23,sutra_en_61_24,sutra_en_61_25,sutra_en_61_26,sutra_en_61_27,sutra_en_61_28,sutra_en_61_29,sutra_en_61_30,
-                sutra_en_61_31,sutra_en_61_32,sutra_en_61_33,sutra_en_61_34,sutra_en_61_35,sutra_en_61_36,sutra_en_61_37,sutra_en_61_38,sutra_en_61_39,sutra_en_61_40,
-                sutra_en_61_41,sutra_en_61_42,sutra_en_61_43,sutra_en_61_44,sutra_en_61_45,sutra_en_61_46,sutra_en_61_47,sutra_en_61_48,sutra_en_61_49,sutra_en_61_50,
-                sutra_en_61_51,sutra_en_61_52,sutra_en_61_53,sutra_en_61_54,sutra_en_61_55,sutra_en_61_56,sutra_en_61_57,sutra_en_61_58,sutra_en_61_59,sutra_en_61_60,
-                sutra_en_61_61,sutra_en_61_62,sutra_en_61_63,sutra_en_61_64,sutra_en_61_65,sutra_en_61_66,sutra_en_61_67,sutra_en_61_68,sutra_en_61_69,sutra_en_61_70,
-                sutra_en_61_71,sutra_en_61_72,sutra_en_61_73,sutra_en_61_74,sutra_en_61_75,sutra_en_61_76,sutra_en_61_77,sutra_en_61_78,sutra_en_61_79,sutra_en_61_80,
-                sutra_en_61_81,sutra_en_61_82,sutra_en_61_83,sutra_en_61_84,sutra_en_61_85,sutra_en_61_86,sutra_en_61_87,sutra_en_61_88,sutra_en_61_89,sutra_en_61_90,
-                sutra_en_61_91,sutra_en_61_92,sutra_en_61_93,sutra_en_61_94,sutra_en_61_95,sutra_en_61_96,sutra_en_61_97,sutra_en_61_98,sutra_en_61_99,sutra_en_61_100,
-                sutra_en_61_101,sutra_en_61_102,sutra_en_61_103,sutra_en_61_104,sutra_en_61_105,sutra_en_61_106,sutra_en_61_107,sutra_en_61_108,sutra_en_61_109,sutra_en_61_110,
-                sutra_en_61_111,sutra_en_61_112,sutra_en_61_113,sutra_en_61_114,sutra_en_61_115,sutra_en_61_116,sutra_en_61_117,sutra_en_61_118,sutra_en_61_119,sutra_en_61_120,
-                sutra_en_61_121,sutra_en_61_122,sutra_en_61_123,sutra_en_61_124,sutra_en_61_125,sutra_en_61_126,sutra_en_61_127,sutra_en_61_128,sutra_en_61_129,sutra_en_61_130,
-                sutra_en_61_131,sutra_en_61_132,sutra_en_61_133,sutra_en_61_134,sutra_en_61_135,sutra_en_61_136,sutra_en_61_137,sutra_en_61_138,sutra_en_61_139,sutra_en_61_140,
-                sutra_en_61_141,sutra_en_61_142,sutra_en_61_143,sutra_en_61_144,sutra_en_61_145,sutra_en_61_146,sutra_en_61_147,sutra_en_61_148,sutra_en_61_149,sutra_en_61_150
-                ];
+const sutra_en_61 = [sutra_en_61_1,sutra_en_61_2,sutra_en_61_3 ];
