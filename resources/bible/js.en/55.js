@@ -1,168 +1,85 @@
-const sutra_en_55_1 = ` `;
-const sutra_en_55_2 = ` `;
-const sutra_en_55_3 = ` `;
-const sutra_en_55_4 = ` `;
-const sutra_en_55_5 = ` `;
-const sutra_en_55_6 = ` `;
-const sutra_en_55_7 = ` `;
-const sutra_en_55_8 = ` `;
-const sutra_en_55_9 = ` `;
-const sutra_en_55_10 = ` `;
-const sutra_en_55_11 = ` `;
-const sutra_en_55_12 = ` `;
-const sutra_en_55_13 = ` `;
-const sutra_en_55_14 = ` `;
-const sutra_en_55_15 = ` `;
-const sutra_en_55_16 = ` `;
-const sutra_en_55_17 = ` `;
-const sutra_en_55_18 = ` `;
-const sutra_en_55_19 = ` `;
-const sutra_en_55_20 = ` `;
-const sutra_en_55_21 = ` `;
-const sutra_en_55_22 = ` `;
-const sutra_en_55_23 = ` `;
-const sutra_en_55_24 = ` `;
-const sutra_en_55_25 = ` `;
-const sutra_en_55_26 = ` `;
-const sutra_en_55_27 = ` `;
-const sutra_en_55_28 = ` `;
-const sutra_en_55_29 = ` `;
-const sutra_en_55_30 = ` `;
-const sutra_en_55_31 = ` `;
-const sutra_en_55_32 = ` `;
-const sutra_en_55_33 = ` `;
-const sutra_en_55_34 = ` `;
-const sutra_en_55_35 = ` `;
-const sutra_en_55_36 = ` `;
-const sutra_en_55_37 = ` `;
-const sutra_en_55_38 = ` `;
-const sutra_en_55_39 = ` `;
-const sutra_en_55_40 = ` `;
-const sutra_en_55_41 = ` `;
-const sutra_en_55_42 = ` `;
-const sutra_en_55_43 = ` `;
-const sutra_en_55_44 = ` `;
-const sutra_en_55_45 = ` `;
-const sutra_en_55_46 = ` `;
-const sutra_en_55_47 = ` `;
-const sutra_en_55_48 = ` `;
-const sutra_en_55_49 = ` `;
-const sutra_en_55_50 = ` `;
-const sutra_en_55_51 = ` `;
-const sutra_en_55_52 = ` `;
-const sutra_en_55_53 = ` `;
-const sutra_en_55_54 = ` `;
-const sutra_en_55_55 = ` `;
-const sutra_en_55_56 = ` `;
-const sutra_en_55_57 = ` `;
-const sutra_en_55_58 = ` `;
-const sutra_en_55_59 = ` `;
-const sutra_en_55_60 = ` `;
-const sutra_en_55_61 = ` `;
-const sutra_en_55_62 = ` `;
-const sutra_en_55_63 = ` `;
-const sutra_en_55_64 = ` `;
-const sutra_en_55_65 = ` `;
-const sutra_en_55_66 = ` `;
-const sutra_en_55_67 = ` `;
-const sutra_en_55_68 = ` `;
-const sutra_en_55_69 = ` `;
-const sutra_en_55_70 = ` `;
-const sutra_en_55_71 = ` `;
-const sutra_en_55_72 = ` `;
-const sutra_en_55_73 = ` `;
-const sutra_en_55_74 = ` `;
-const sutra_en_55_75 = ` `;
-const sutra_en_55_76 = ` `;
-const sutra_en_55_77 = ` `;
-const sutra_en_55_78 = ` `;
-const sutra_en_55_79 = ` `;
-const sutra_en_55_80 = ` `;
-const sutra_en_55_81 = ` `;
-const sutra_en_55_82 = ` `;
-const sutra_en_55_83 = ` `;
-const sutra_en_55_84 = ` `;
-const sutra_en_55_85 = ` `;
-const sutra_en_55_86 = ` `;
-const sutra_en_55_87 = ` `;
-const sutra_en_55_88 = ` `;
-const sutra_en_55_89 = ` `;
-const sutra_en_55_90 = ` `;
-const sutra_en_55_91 = ` `;
-const sutra_en_55_92 = ` `;
-const sutra_en_55_93 = ` `;
-const sutra_en_55_94 = ` `;
-const sutra_en_55_95 = ` `;
-const sutra_en_55_96 = ` `;
-const sutra_en_55_97 = ` `;
-const sutra_en_55_98 = ` `;
-const sutra_en_55_99 = ` `;
-const sutra_en_55_100 = ` `;
-const sutra_en_55_101 = ` `;
-const sutra_en_55_102 = ` `;
-const sutra_en_55_103 = ` `;
-const sutra_en_55_104 = ` `;
-const sutra_en_55_105 = ` `;
-const sutra_en_55_106 = ` `;
-const sutra_en_55_107 = ` `;
-const sutra_en_55_108 = ` `;
-const sutra_en_55_109 = ` `;
-const sutra_en_55_110 = ` `;
-const sutra_en_55_111 = ` `;
-const sutra_en_55_112 = ` `;
-const sutra_en_55_113 = ` `;
-const sutra_en_55_114 = ` `;
-const sutra_en_55_115 = ` `;
-const sutra_en_55_116 = ` `;
-const sutra_en_55_117 = ` `;
-const sutra_en_55_118 = ` `;
-const sutra_en_55_119 = ` `;
-const sutra_en_55_120 = ` `;
-const sutra_en_55_121 = ` `;
-const sutra_en_55_122 = ` `;
-const sutra_en_55_123 = ` `;
-const sutra_en_55_124 = ` `;
-const sutra_en_55_125 = ` `;
-const sutra_en_55_126 = ` `;
-const sutra_en_55_127 = ` `;
-const sutra_en_55_128 = ` `;
-const sutra_en_55_129 = ` `;
-const sutra_en_55_130 = ` `;
-const sutra_en_55_131 = ` `;
-const sutra_en_55_132 = ` `;
-const sutra_en_55_133 = ` `;
-const sutra_en_55_134 = ` `;
-const sutra_en_55_135 = ` `;
-const sutra_en_55_136 = ` `;
-const sutra_en_55_137 = ` `;
-const sutra_en_55_138 = ` `;
-const sutra_en_55_139 = ` `;
-const sutra_en_55_140 = ` `;
-const sutra_en_55_141 = ` `;
-const sutra_en_55_142 = ` `;
-const sutra_en_55_143 = ` `;
-const sutra_en_55_144 = ` `;
-const sutra_en_55_145 = ` `;
-const sutra_en_55_146 = ` `;
-const sutra_en_55_147 = ` `;
-const sutra_en_55_148 = ` `;
-const sutra_en_55_149 = ` `;
-const sutra_en_55_150 = ` `;
+const sutra_en_55_1 = `1 Paul, an apostle of Christ Jesus by the will of God, in keeping with the promise of life that is in Christ Jesus,
+2 To Timothy, my dear son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.
+3 I thank God, whom I serve, as my ancestors did, with a clear conscience, as night and day I constantly remember you in my prayers.
+4 Recalling your tears, I long to see you, so that I may be filled with joy.
+5 I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.
+6 For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.
+7 For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.
+8 So do not be ashamed of the testimony about our Lord or of me his prisoner. Rather, join with me in suffering for the gospel, by the power of God.
+9 He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time,
+10 but it has now been revealed through the appearing of our Savior, Christ Jesus, who has destroyed death and has brought life and immortality to light through the gospel.
+11 And of this gospel I was appointed a herald and an apostle and a teacher.
+12 That is why I am suffering as I am. Yet this is no cause for shame, because I know whom I have believed, and am convinced that he is able to guard what I have entrusted to him until that day.
+13 What you heard from me, keep as the pattern of sound teaching, with faith and love in Christ Jesus.
+14 Guard the good deposit that was entrusted to you—guard it with the help of the Holy Spirit who lives in us.
+15 You know that everyone in the province of Asia has deserted me, including Phygelus and Hermogenes.
+16 May the Lord show mercy to the household of Onesiphorus, because he often refreshed me and was not ashamed of my chains.
+17 On the contrary, when he was in Rome, he searched hard for me until he found me.
+18 May the Lord grant that he will find mercy from the Lord on that day! You know very well in how many ways he helped me in Ephesus. `;
+const sutra_en_55_2 = `1 You then, my son, be strong in the grace that is in Christ Jesus.
+2 And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.
+3 Join with me in suffering, like a good soldier of Christ Jesus.
+4 No one serving as a soldier gets entangled in civilian affairs, but rather tries to please his commanding officer.
+5 Similarly, anyone who competes as an athlete does not receive the victor’s crown except by competing according to the rules.
+6 The hardworking farmer should be the first to receive a share of the crops.
+7 Reflect on what I am saying, for the Lord will give you insight into all this.
+8 Remember Jesus Christ, raised from the dead, descended from David. This is my gospel,
+9 for which I am suffering even to the point of being chained like a criminal. But God’s word is not chained.
+10 Therefore I endure everything for the sake of the elect, that they too may obtain the salvation that is in Christ Jesus, with eternal glory.
+11 Here is a trustworthy saying: If we died with him, we will also live with him;
+12 if we endure, we will also reign with him. If we disown him, he will also disown us;
+13 if we are faithless, he remains faithful, for he cannot disown himself.
+14 Keep reminding God’s people of these things. Warn them before God against quarreling about words; it is of no value, and only ruins those who listen.
+15 Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth.
+16 Avoid godless chatter, because those who indulge in it will become more and more ungodly.
+17 Their teaching will spread like gangrene. Among them are Hymenaeus and Philetus,
+18 who have departed from the truth. They say that the resurrection has already taken place, and they destroy the faith of some.
+19 Nevertheless, God’s solid foundation stands firm, sealed with this inscription: “The Lord knows those who are his,” and, “Everyone who confesses the name of the Lord must turn away from wickedness.”
+20 In a large house there are articles not only of gold and silver, but also of wood and clay; some are for special purposes and some for common use.
+21 Those who cleanse themselves from the latter will be instruments for special purposes, made holy, useful to the Master and prepared to do any good work.
+22 Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.
+23 Don’t have anything to do with foolish and stupid arguments, because you know they produce quarrels.
+24 And the Lord’s servant must not be quarrelsome but must be kind to everyone, able to teach, not resentful.
+25 Opponents must be gently instructed, in the hope that God will grant them repentance leading them to a knowledge of the truth,
+26 and that they will come to their senses and escape from the trap of the devil, who has taken them captive to do his will. `;
+const sutra_en_55_3 = `1 But mark this: There will be terrible times in the last days.
+2 People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy,
+3 without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good,
+4 treacherous, rash, conceited, lovers of pleasure rather than lovers of God—
+5 having a form of godliness but denying its power. Have nothing to do with such people.
+6 They are the kind who worm their way into homes and gain control over gullible women, who are loaded down with sins and are swayed by all kinds of evil desires,
+7 always learning but never able to come to a knowledge of the truth.
+8 Just as Jannes and Jambres opposed Moses, so also these teachers oppose the truth. They are men of depraved minds, who, as far as the faith is concerned, are rejected.
+9 But they will not get very far because, as in the case of those men, their folly will be clear to everyone.
+10 You, however, know all about my teaching, my way of life, my purpose, faith, patience, love, endurance,
+11 persecutions, sufferings—what kinds of things happened to me in Antioch, Iconium and Lystra, the persecutions I endured. Yet the Lord rescued me from all of them.
+12 In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted,
+13 while evildoers and impostors will go from bad to worse, deceiving and being deceived.
+14 But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it,
+15 and how from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.
+16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,
+17 so that the servant of God may be thoroughly equipped for every good work. `;
+const sutra_en_55_4 = `1 In the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of his appearing and his kingdom, I give you this charge:
+2 Preach the word; be prepared in season and out of season; correct, rebuke and encourage—with great patience and careful instruction.
+3 For the time will come when people will not put up with sound doctrine. Instead, to suit their own desires, they will gather around them a great number of teachers to say what their itching ears want to hear.
+4 They will turn their ears away from the truth and turn aside to myths.
+5 But you, keep your head in all situations, endure hardship, do the work of an evangelist, discharge all the duties of your ministry.
+6 For I am already being poured out like a drink offering, and the time for my departure is near.
+7 I have fought the good fight, I have finished the race, I have kept the faith.
+8 Now there is in store for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but also to all who have longed for his appearing.
+9 Do your best to come to me quickly,
+10 for Demas, because he loved this world, has deserted me and has gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia.
+11 Only Luke is with me. Get Mark and bring him with you, because he is helpful to me in my ministry.
+12 I sent Tychicus to Ephesus.
+13 When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.
+14 Alexander the metalworker did me a great deal of harm. The Lord will repay him for what he has done.
+15 You too should be on your guard against him, because he strongly opposed our message.
+16 At my first defense, no one came to my support, but everyone deserted me. May it not be held against them.
+17 But the Lord stood at my side and gave me strength, so that through me the message might be fully proclaimed and all the Gentiles might hear it. And I was delivered from the lion’s mouth.
+18 The Lord will rescue me from every evil attack and will bring me safely to his heavenly kingdom. To him be glory for ever and ever. Amen.
+19 Greet Priscilla and Aquila and the household of Onesiphorus.
+20 Erastus stayed in Corinth, and I left Trophimus sick in Miletus.
+21 Do your best to get here before winter. Eubulus greets you, and so do Pudens, Linus, Claudia and all the brothers and sisters.
+22 The Lord be with your spirit. Grace be with you all. `;
 
-
-const sutra_en_55 = [sutra_en_55_1,sutra_en_55_2,sutra_en_55_3,sutra_en_55_4,sutra_en_55_5,sutra_en_55_6,sutra_en_55_7,sutra_en_55_8,sutra_en_55_9,sutra_en_55_10,
-                sutra_en_55_11,sutra_en_55_12,sutra_en_55_13,sutra_en_55_14,sutra_en_55_15,sutra_en_55_16,sutra_en_55_17,sutra_en_55_18,sutra_en_55_19,sutra_en_55_20,
-                sutra_en_55_21,sutra_en_55_22,sutra_en_55_23,sutra_en_55_24,sutra_en_55_25,sutra_en_55_26,sutra_en_55_27,sutra_en_55_28,sutra_en_55_29,sutra_en_55_30,
-                sutra_en_55_31,sutra_en_55_32,sutra_en_55_33,sutra_en_55_34,sutra_en_55_35,sutra_en_55_36,sutra_en_55_37,sutra_en_55_38,sutra_en_55_39,sutra_en_55_40,
-                sutra_en_55_41,sutra_en_55_42,sutra_en_55_43,sutra_en_55_44,sutra_en_55_45,sutra_en_55_46,sutra_en_55_47,sutra_en_55_48,sutra_en_55_49,sutra_en_55_50,
-                sutra_en_55_51,sutra_en_55_52,sutra_en_55_53,sutra_en_55_54,sutra_en_55_55,sutra_en_55_56,sutra_en_55_57,sutra_en_55_58,sutra_en_55_59,sutra_en_55_60,
-                sutra_en_55_61,sutra_en_55_62,sutra_en_55_63,sutra_en_55_64,sutra_en_55_65,sutra_en_55_66,sutra_en_55_67,sutra_en_55_68,sutra_en_55_69,sutra_en_55_70,
-                sutra_en_55_71,sutra_en_55_72,sutra_en_55_73,sutra_en_55_74,sutra_en_55_75,sutra_en_55_76,sutra_en_55_77,sutra_en_55_78,sutra_en_55_79,sutra_en_55_80,
-                sutra_en_55_81,sutra_en_55_82,sutra_en_55_83,sutra_en_55_84,sutra_en_55_85,sutra_en_55_86,sutra_en_55_87,sutra_en_55_88,sutra_en_55_89,sutra_en_55_90,
-                sutra_en_55_91,sutra_en_55_92,sutra_en_55_93,sutra_en_55_94,sutra_en_55_95,sutra_en_55_96,sutra_en_55_97,sutra_en_55_98,sutra_en_55_99,sutra_en_55_100,
-                sutra_en_55_101,sutra_en_55_102,sutra_en_55_103,sutra_en_55_104,sutra_en_55_105,sutra_en_55_106,sutra_en_55_107,sutra_en_55_108,sutra_en_55_109,sutra_en_55_110,
-                sutra_en_55_111,sutra_en_55_112,sutra_en_55_113,sutra_en_55_114,sutra_en_55_115,sutra_en_55_116,sutra_en_55_117,sutra_en_55_118,sutra_en_55_119,sutra_en_55_120,
-                sutra_en_55_121,sutra_en_55_122,sutra_en_55_123,sutra_en_55_124,sutra_en_55_125,sutra_en_55_126,sutra_en_55_127,sutra_en_55_128,sutra_en_55_129,sutra_en_55_130,
-                sutra_en_55_131,sutra_en_55_132,sutra_en_55_133,sutra_en_55_134,sutra_en_55_135,sutra_en_55_136,sutra_en_55_137,sutra_en_55_138,sutra_en_55_139,sutra_en_55_140,
-                sutra_en_55_141,sutra_en_55_142,sutra_en_55_143,sutra_en_55_144,sutra_en_55_145,sutra_en_55_146,sutra_en_55_147,sutra_en_55_148,sutra_en_55_149,sutra_en_55_150
-                ];
+const sutra_en_55 = [sutra_en_55_1,sutra_en_55_2,sutra_en_55_3,sutra_en_55_4];
