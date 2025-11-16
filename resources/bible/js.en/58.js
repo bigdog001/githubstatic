@@ -264,7 +264,6 @@ const sutra_en_58_12 = ` 1 Therefore, since we are surrounded by such a great cl
 15 See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many.
 16 See that no one is sexually immoral, or is godless like Esau, who for a single meal sold his inheritance rights as the oldest son.
 17 Afterward, as you know, when he wanted to inherit this blessing, he was rejected. Even though he sought the blessing with tears, he could not change what he had done.
-The Mountain of Fear and the Mountain of Joy
 18 You have not come to a mountain that can be touched and that is burning with fire; to darkness, gloom and storm;
 19 to a trumpet blast or to such a voice speaking words that those who heard it begged that no further word be spoken to them,
 20 because they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned to death.”
