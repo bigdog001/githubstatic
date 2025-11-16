@@ -125,7 +125,6 @@ const sutra_en_16_6 = `1 When word came to Sanballat, Tobiah, Geshem the Arab an
 const sutra_en_16_7 = `1 After the wall had been rebuilt and I had set the doors in place, the gatekeepers, the musicians and the Levites were appointed.
 2 I put in charge of Jerusalem my brother Hanani, along with Hananiah the commander of the citadel, because he was a man of integrity and feared God more than most people do.
 3 I said to them, “The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses.”
-The List of the Exiles Who Returned
 4 Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt.
 5 So my God put it into my heart to assemble the nobles, the officials and the common people for registration by families. I found the genealogical record of those who had been the first to return. This is what I found written there:
 6 These are the people of the province who came up from the captivity of the exiles whom Nebuchadnezzar king of Babylon had taken captive (they returned to Jerusalem and Judah, each to his own town,
