@@ -798,7 +798,6 @@ const sutra_en_14_35 = `1 Josiah celebrated the Passover to the LORD in Jerusale
 26 The other events of Josiah’s reign and his acts of devotion in accordance with what is written in the Law of the LORD—
 27 all the events, from beginning to end, are written in the book of the kings of Israel and Judah. `;
 const sutra_en_14_36 = `1 And the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
-Jehoahaz King of Judah
 2 Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months.
 3 The king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold.
 4 The king of Egypt made Eliakim, a brother of Jehoahaz, king over Judah and Jerusalem and changed Eliakim’s name to Jehoiakim. But Necho took Eliakim’s brother Jehoahaz and carried him off to Egypt.
