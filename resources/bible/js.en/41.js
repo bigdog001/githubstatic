@@ -261,6 +261,7 @@ const sutra_en_41_7 = `1 The Pharisees and some of the teachers of the law who h
 13 Thus you nullify the word of God by your tradition that you have handed down. And you do many things like that.”
 14 Again Jesus called the crowd to him and said, “Listen to me, everyone, and understand this.
 15 Nothing outside a person can defile them by going into them. Rather, it is what comes out of a person that defiles them. ”
+16 If anyone has ears to hear, let him hear.
 17 After he had left the crowd and entered the house, his disciples asked him about this parable.
 18 “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them?
 19 For it doesn’t go into their heart but into their stomach, and then out of the body.” (In saying this, Jesus declared all foods clean.)
@@ -363,7 +364,9 @@ const sutra_en_41_9 = `1 And he said to them, “Truly I tell you, some who are 
 41 Truly I tell you, anyone who gives you a cup of water in my name because you belong to the Messiah will certainly not lose their reward.
 42 “If anyone causes one of these little ones—those who believe in me—to stumble, it would be better for them if a large millstone were hung around their neck and they were thrown into the sea.
 43 If your hand causes you to stumble, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out.
+44 Where their worm does not die, and the fire is not quenched.
 45 And if your foot causes you to stumble, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell.
+46 Where their worm does not die, and the fire is not quenched.
 47 And if your eye causes you to stumble, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,
 48 where “ ‘the worms that eat them do not die, and the fire is not quenched.’
 49 Everyone will be salted with fire.
@@ -445,6 +448,7 @@ const sutra_en_41_11 = `1 As they approached Jerusalem and came to Bethphage and
 23 “Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them.
 24 Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
 25 And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins. ”
+26 But if you do not forgive, neither will your Father who is in heaven forgive your sins.
 27 They arrived again in Jerusalem, and while Jesus was walking in the temple courts, the chief priests, the teachers of the law and the elders came to him.
 28 “By what authority are you doing these things?” they asked. “And who gave you authority to do this?”
 29 Jesus replied, “I will ask you one question. Answer me, and I will tell you by what authority I am doing these things.
@@ -632,6 +636,7 @@ const sutra_en_41_15 = `1 Very early in the morning, the chief priests, with the
 25 It was nine in the morning when they crucified him.
 26 The written notice of the charge against him read: THE KING OF THE JEWS.
 27 They crucified two rebels with him, one on his right and one on his left.
+28 and the scripture was fulfilled which says, “He was counted with the lawless ones” 
 29 Those who passed by hurled insults at him, shaking their heads and saying, “So! You who are going to destroy the temple and build it in three days,
 30 come down from the cross and save yourself !”
 31 In the same way the chief priests and the teachers of the law mocked him among themselves. “He saved others,” they said, “but he can’t save himself!
