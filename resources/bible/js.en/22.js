@@ -87,8 +87,7 @@ const sutra_en_22_6 = `1 Where has your beloved gone, most beautiful of women? W
 10 Who is this that appears like the dawn, fair as the moon, bright as the sun, majestic as the stars in procession?
 11 I went down to the grove of nut trees to look at the new growth in the valley, to see if the vines had budded or the pomegranates were in bloom.
 12 Before I realized it, my desire set me among the royal chariots of my people.
-13 Come back, come back, O Shulammite; come back, come back, that we may gaze on you!
-13 Why would you gaze on the Shulammite as on the dance of Mahanaim? `;
+13 Come back, come back, O Shulammite; come back, come back, that we may gaze on you!  Why would you gaze on the Shulammite as on the dance of Mahanaim? `;
 const sutra_en_22_7 = `1 How beautiful your sandaled feet, O prince’s daughter! Your graceful legs are like jewels, the work of an artist’s hands.
 2 Your navel is a rounded goblet that never lacks blended wine. Your waist is a mound of wheat encircled by lilies.
 3 Your breasts are like two fawns, like twin fawns of a gazelle.
@@ -106,8 +105,7 @@ const sutra_en_22_8 = `1 If only you were to me like a brother, who was nursed a
 2 I would lead you and bring you to my mother’s house— she who has taught me. I would give you spiced wine to drink, the nectar of my pomegranates.
 3 His left arm is under my head and his right arm embraces me.
 4 Daughters of Jerusalem, I charge you: Do not arouse or awaken love until it so desires.
-5 Who is this coming up from the wilderness leaning on her beloved?
-5 Under the apple tree I roused you; there your mother conceived you, there she who was in labor gave you birth.
+5 Who is this coming up from the wilderness leaning on her beloved? Under the apple tree I roused you; there your mother conceived you, there she who was in labor gave you birth.
 6 Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealousy unyielding as the grave. It burns like blazing fire, like a mighty flame.
 7 Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of one’s house for love, it would be utterly scorned.
 8 We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?
