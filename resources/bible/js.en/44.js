@@ -287,6 +287,7 @@ const sutra_en_44_8 = `1 On that day a great persecution broke out against the c
 34 The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?”
 35 Then Philip began with that very passage of Scripture and told him the good news about Jesus.
 36 As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized? ”
+37 [Philip said, “If you believe with all your heart, you may.” The eunuch answered, “I believe that Jesus Christ is the Son of God.”]
 38 And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.
 39 When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.
 40 Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea. `;
