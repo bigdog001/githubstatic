@@ -550,6 +550,7 @@ const sutra_en_44_15 = `1 Certain people came down from Judea to Antioch and wer
 31 The people read it and were glad for its encouraging message.
 32 Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers.
 33 After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them.
+34 but Silas decided to remain there.
 35 But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord.
 36 Some time later Paul said to Barnabas, “Let us go back and visit the believers in all the towns where we preached the word of the Lord and see how they are doing.”
 37 Barnabas wanted to take John, also called Mark, with them,
