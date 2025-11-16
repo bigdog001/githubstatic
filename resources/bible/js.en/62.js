@@ -8,9 +8,7 @@ const sutra_en_62_1 = `1 That which was from the beginning, which we have heard,
 8 If we claim to be without sin, we deceive ourselves and the truth is not in us.
 9 If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
 10 If we claim we have not sinned, we make him out to be a liar and his word is not in us. `;
-const sutra_en_62_2 = `
-  
-1 My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One.
+const sutra_en_62_2 = `1 My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One.
 2 He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world.
 3 We know that we have come to know him if we keep his commands.
 4 Whoever says, “I know him,” but does not do what he commands is a liar, and the truth is not in that person.
