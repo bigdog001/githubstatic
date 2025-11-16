@@ -4,7 +4,6 @@ const sutra_en_38_1 = `1 In the eighth month of the second year of Darius, the w
 4 Do not be like your ancestors, to whom the earlier prophets proclaimed: This is what the LORD Almighty says: ‘Turn from your evil ways and your evil practices.’ But they would not listen or pay attention to me, declares the LORD.
 5 Where are your ancestors now? And the prophets, do they live forever?
 6 But did not my words and my decrees, which I commanded my servants the prophets, overtake your ancestors? “Then they repented and said, ‘The LORD Almighty has done to us what our ways and practices deserve, just as he determined to do.’ ”
-The Man Among the Myrtle Trees
 7 On the twenty-fourth day of the eleventh month, the month of Shebat, in the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berekiah, the son of Iddo.
 8 During the night I had a vision, and there before me was a man mounted on a red horse. He was standing among the myrtle trees in a ravine. Behind him were red, brown and white horses.
 9 I asked, “What are these, my lord?” The angel who was talking with me answered, “I will show you what they are.”
