@@ -849,8 +849,9 @@ const sutra_en_44_24 = `1 Five days later the high priest Ananias went down to C
 3 Everywhere and in every way, most excellent Felix, we acknowledge this with profound gratitude.
 4 But in order not to weary you further, I would request that you be kind enough to hear us briefly.
 5 “We have found this man to be a troublemaker, stirring up riots among the Jews all over the world. He is a ringleader of the Nazarene sect
-6 and even tried to desecrate the temple; so we seized him.By
-8 examining him yourself you will be able to learn the truth about all these charges we are bringing against him.”
+6 and even tried to desecrate the temple; so we seized him.
+7 But the commander, Lysias, came and with the use of much force snatched him from our hands and ordered his accusers to come before you.
+8 by examining him yourself you will be able to learn the truth about all these charges we are bringing against him.”
 9 The other Jews joined in the accusation, asserting that these things were true.
 10 When the governor motioned for him to speak, Paul replied: “I know that for a number of years you have been a judge over this nation; so I gladly make my defense.
 11 You can easily verify that no more than twelve days ago I went up to Jerusalem to worship.
@@ -1001,6 +1002,7 @@ const sutra_en_44_28 = `1 Once safely on shore, we found out that the island was
 26 “ ‘Go to this people and say, “You will be ever hearing but never understanding; you will be ever seeing but never perceiving.”
 27 For this people’s heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.’
 28 “Therefore I want you to know that God’s salvation has been sent to the Gentiles, and they will listen!”
+29 After he said this, the jews left, arguing vigorously among themselves.
 30 For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.
 31 He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance! `;
 
