@@ -436,7 +436,6 @@ const sutra_en_40_13 = `1 That same day Jesus went out of the house and sat by t
 41 The Son of Man will send out his angels, and they will weed out of his kingdom everything that causes sin and all who do evil.
 42 They will throw them into the blazing furnace, where there will be weeping and gnashing of teeth.
 43 Then the righteous will shine like the sun in the kingdom of their Father. Whoever has ears, let them hear.
-The Parables of the Hidden Treasure and the Pearl
 44 “The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.
 45 “Again, the kingdom of heaven is like a merchant looking for fine pearls.
 46 When he found one of great value, he went away and sold everything he had and bought it.
@@ -575,6 +574,7 @@ const sutra_en_40_17 = `1 After six days Jesus took with him Peter, James and Jo
 18 Jesus rebuked the demon, and it came out of the boy, and he was healed at that moment.
 19 Then the disciples came to Jesus in private and asked, “Why couldn’t we drive it out?”
 20 He replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you. ”
+21 But this kind does not go out except by prayer and fasting.
 22 When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men.
 23 They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief.
 24 After Jesus and his disciples arrived in Capernaum, the collectors of the two-drachma temple tax came to Peter and asked, “Doesn’t your teacher pay the temple tax?”
@@ -591,6 +591,7 @@ const sutra_en_40_18 = `1 At that time the disciples came to Jesus and asked, �
 8 If your hand or your foot causes you to stumble, cut it off and throw it away. It is better for you to enter life maimed or crippled than to have two hands or two feet and be thrown into eternal fire.
 9 And if your eye causes you to stumble, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell.
 10 “See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven.
+11 The Son of Man came to save what was lost.
 12 “What do you think? If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?
 13 And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off.
 14 In the same way your Father in heaven is not willing that any of these little ones should perish.
