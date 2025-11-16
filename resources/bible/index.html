@@ -321,10 +321,12 @@
     }
 
 		const targetChapter = 1;
-		const sutraCN = sutras_[targetChapter-1] ;
-		const sutraEN = sutra_en[targetChapter-1] ;
+		const targetParagraph = 1;
+		const sutraCN = sutras_[targetChapter-1][targetParagraph-1] ;
+		const sutraEN = sutra_en[targetChapter-1][targetParagraph-1] ;
 		const size_sutra = sutraCN.length;
 		console.log(`size_sutra:${size_sutra}`)
+		
 
 
 
