@@ -908,7 +908,6 @@ const sutra_en_26_36 = `1 “Son of man, prophesy to the mountains of Israel and
 13 “ ‘This is what the Sovereign LORD says: Because some say to you, “You devour people and deprive your nation of its children,”
 14 therefore you will no longer devour people or make your nation childless, declares the Sovereign LORD.
 15 No longer will I make you hear the taunts of the nations, and no longer will you suffer the scorn of the peoples or cause your nation to fall, declares the Sovereign LORD.’ ”
-Israel’s Restoration Assured
 16 Again the word of the LORD came to me:
 17 “Son of man, when the people of Israel were living in their own land, they defiled it by their conduct and their actions. Their conduct was like a woman’s monthly uncleanness in my sight.
 18 So I poured out my wrath on them because they had shed blood in the land and because they had defiled it with their idols.
@@ -1016,7 +1015,6 @@ const sutra_en_26_40 = `1 In the twenty-fifth year of our exile, at the beginnin
 2 In visions of God he took me to the land of Israel and set me on a very high mountain, on whose south side were some buildings that looked like a city.
 3 He took me there, and I saw a man whose appearance was like bronze; he was standing in the gateway with a linen cord and a measuring rod in his hand.
 4 The man said to me, “Son of man, look carefully and listen closely and pay attention to everything I am going to show you, for that is why you have been brought here. Tell the people of Israel everything you see.”
-The East Gate to the Outer Court
 5 I saw a wall completely surrounding the temple area. The length of the measuring rod in the man’s hand was six long cubits, each of which was a cubit and a handbreadth. He measured the wall; it was one measuring rod thick and one rod high.
 6 Then he went to the east gate. He climbed its steps and measured the threshold of the gate; it was one rod deep.
 7 The alcoves for the guards were one rod long and one rod wide, and the projecting walls between the alcoves were five cubits thick. And the threshold of the gate next to the portico facing the temple was one rod deep.
