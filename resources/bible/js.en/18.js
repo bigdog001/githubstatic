@@ -898,8 +898,7 @@ const sutra_en_18_36 = `1 Elihu continued:
 31 This is the way he governs the nations and provides food in abundance.
 32 He fills his hands with lightning and commands it to strike its mark.
 33 His thunder announces the coming storm; even the cattle make known its approach. `;
-const sutra_en_18_37 = `
-1 “At this my heart pounds and leaps from its place.
+const sutra_en_18_37 = `1 “At this my heart pounds and leaps from its place.
 2 Listen! Listen to the roar of his voice, to the rumbling that comes from his mouth.
 3 He unleashes his lightning beneath the whole heaven and sends it to the ends of the earth.
 4 After that comes the sound of his roar; he thunders with his majestic voice. When his voice resounds, he holds nothing back.
@@ -1058,7 +1057,6 @@ const sutra_en_18_42 = `1 Then Job replied to the LORD:
 4 “You said, ‘Listen now, and I will speak; I will question you, and you shall answer me.’
 5 My ears had heard of you but now my eyes have seen you.
 6 Therefore I despise myself and repent in dust and ashes.”
-Epilogue
 7 After the LORD had said these things to Job, he said to Eliphaz the Temanite, “I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has.
 8 So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken the truth about me, as my servant Job has.”
 9 So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the LORD told them; and the LORD accepted Job’s prayer.
