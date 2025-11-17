@@ -54,7 +54,30 @@ const sutra_cn_en_1_2 = `1 N/A
 23 N/A
 24 N/A
 25 N/A `;
-const sutra_cn_en_1_3 = ` `;
+const sutra_cn_en_1_3 = `1 serpent :蛇|crafty:狡猾
+2 N/A
+3 N/A
+4 N/A
+5 N/A
+6 desirable:合意| gaining:获得| wisdom:智慧
+7 sew:缝纫| fig:无花果
+8 N/A
+9 N/A
+10 N/A
+11 N/A
+12 N/A
+13 serpent:蛇
+14 serpent:蛇| Curse:诅咒| livestock:牲畜| crawl:爬行| belly:肚皮
+15 enmity:敌,敌意| offspring:后代| crush:粉碎| strike:击| heel:脚跟
+16 childbearing:生育| severe:剧烈| labor:分娩|rule over:统治
+17 Curse:诅咒| toil:劳苦
+18 thorn:荆棘| thistle:蓟
+19 sweat:流汗,汗| brow:眉头
+20 N/A
+21 garment:服装
+22 N/A
+23 banish:被放逐
+24 cherubim:基路伯 `;
 const sutra_cn_en_1_4 = ` `;
 const sutra_cn_en_1_5 = ` `;
 const sutra_cn_en_1_6 = ` `;
