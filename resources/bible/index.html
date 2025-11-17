@@ -278,6 +278,7 @@
 
 
 
+
  <style type="text/css">
     a {
         text-decoration: none;
@@ -364,6 +365,16 @@
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
+        const subChapterSelect = document.getElementById("subChapterSelect");
+         if(!subChapterSelect.value){
+                    for(let i = 0; i < 50; i++){
+                    const option = document.createElement("option");
+                    option.value = i;
+                    const xx = sutra_en[0][i].split(/\r?\n/).length; 
+                    option.textContent = `Chapter ${i+1} has ${xx}`;
+                    subChapterSelect.appendChild(option);
+                }
+         }
     }
 
     function loadSubChapter(){
