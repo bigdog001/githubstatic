@@ -233,7 +233,38 @@ const sutra_cn_en_1_9 = `1 N/A
 27 territory:领地| tent:帐棚
 28 N/A
 29 N/A `;
-const sutra_cn_en_1_10 = ` `;
+const sutra_cn_en_1_10 = `1 account:记事
+2 N/A
+3 N/A
+4 N/A
+5 maritime:海上| territories:领土| clan:氏族
+6 N/A
+7 N/A
+8 mighty:强大的| warrior:勇士
+9 mighty:强大的| hunter:猎户
+10 N/A
+11 N/A
+12 N/A
+13 N/A
+14 N/A
+15 N/A
+16 N/A
+17 N/A
+18 N/A
+19 N/A
+20 territories:领土
+21 ancestor:祖先
+22 N/A
+23 N/A
+24 N/A
+25 N/A
+26 N/A
+27 N/A
+28 N/A
+29 N/A
+30 region:地区,地方| stretch:伸展,延伸
+31 territories:领土
+32 clan:氏族 `;
 const sutra_cn_en_1_11 = ` `;
 const sutra_cn_en_1_12 = ` `;
 const sutra_cn_en_1_13 = ` `;
