@@ -204,7 +204,35 @@ const sutra_cn_en_1_8 = `1 livestock:牲畜| ark:方舟| receded:消退
 20 altar:坛| sacrifice:牺牲| burnt:烧焦的
 21 aroma:芳香| curse:咒诅| inclination:志趣
 22 endures:承受| harvest:收获| cease:停息 `;
-const sutra_cn_en_1_9 = ` `;
+const sutra_cn_en_1_9 = `1 N/A
+2 fear:恐惧| dread:畏惧| beasts:野兽|
+3 N/A
+4 N/A
+5 N/A
+6 N/A
+7 N/A
+8 N/A
+9 establish:创建| covenant:盟约| descendants:后代
+10 livestock: 牲畜| ark:方舟
+11 establish:创建| covenant:盟约
+12 sign:记号|covenant:盟约
+13 rainbow:彩虹|covenant:盟约
+14 rainbow:彩虹
+15 N/A
+16 rainbow:彩虹| everlasting:永久|covenant:盟约
+17 sign:记号|covenant:盟约|establish:创建
+18 N/A
+19 scattered:分散
+20 soil:泥土| vineyard:葡萄园
+21 N/A
+22 naked:赤身
+23 garment:衣服|naked:赤身
+24 N/A
+25 Cursed:咒诅
+26 N/A
+27 territory:领地| tent:帐棚
+28 N/A
+29 N/A `;
 const sutra_cn_en_1_10 = ` `;
 const sutra_cn_en_1_11 = ` `;
 const sutra_cn_en_1_12 = ` `;
