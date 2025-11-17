@@ -78,7 +78,32 @@ const sutra_cn_en_1_3 = `1 serpent :蛇|crafty:狡猾
 22 N/A
 23 banish:被放逐
 24 cherubim:基路伯 `;
-const sutra_cn_en_1_4 = ` `;
+const sutra_cn_en_1_4 = `1 pregnant:怀孕
+2 flock:羊群|soil:土壤,土地
+3  In the course of time:随着时间的推移| soil:土壤,土地
+4 offering:奉现,供物|flock:羊群
+5 offering:奉现,供物| downcast:垂头丧气
+6 downcast:垂头丧气
+7 sin:罪恶| crouching:蹲伏|rule over:制伏
+8 N/A
+9 N/A
+10 N/A
+11 curse:咒诅|
+12 wanderer:流浪者
+13 punishment:惩罚
+14 wanderer:流浪者
+15 suffer:受苦| vengeance:复仇|
+16 N/A
+17 pregnant:怀孕
+18 N/A
+19 N/A
+20 tent:帐篷| livestock:牲畜
+21 N/A
+22 forged:锻造|
+23 wounding:伤人| injuring:伤
+24 avenged:复仇
+25 granted:赐予
+26 N/A `;
 const sutra_cn_en_1_5 = ` `;
 const sutra_cn_en_1_6 = ` `;
 const sutra_cn_en_1_7 = ` `;
