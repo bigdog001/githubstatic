@@ -3,6 +3,7 @@
 	<meta charset="UTF-8">
 </head>    
 <body>
+
     <!-- 
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js/1.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js/2.js"></script>
@@ -136,9 +137,9 @@
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/64.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/65.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/66.js"></script>
- -->
+ 
 
-        
+         -->
 
     <script src="./js/1.js"></script>
     <script src="./js/2.js"></script>
@@ -276,7 +277,17 @@
     
 
 
-    <script>
+ <style type="text/css">
+    a {
+        text-decoration: none;
+        color: blue;
+    }
+    a:hover {
+        color:red;
+    }
+</style>
+
+    <script type="text/javascript">
     const sutras_ = [sutra_1,sutra_2,sutra_3,sutra_4,sutra_5,sutra_6,sutra_7,sutra_8,sutra_9,sutra_10,
                      sutra_11,sutra_12,sutra_13,sutra_14,sutra_15,sutra_16,sutra_17,sutra_18,sutra_19,sutra_20,
                      sutra_21,sutra_22,sutra_23,sutra_24,sutra_25,sutra_26,sutra_27,sutra_28,sutra_29,sutra_30,
@@ -322,21 +333,61 @@
     console.log("checking ALL GOOD ");
     }
 
-		const targetChapter = 1;
-		const targetParagraph = 1;
-		const sutraCNs = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
-		const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
-		const size_sutra = sutraCNs.length;
-		console.log(`size_sutra:${size_sutra}`)
-		for(var k = 0;k<size_sutra;k++){
-			console.log(`${sutraENs[k]}`)
-			console.log(`${sutraCNs[k]}`)
-		}
 		
+         
 
+        document.addEventListener('DOMContentLoaded', () => {
+            const targetChapter = 1;
+            const targetParagraph = 1;
+            displayChpterItem( targetChapter , targetParagraph);
+    });
 
+    function displayChpterItem( targetChapter , targetParagraph){
+        const sutraCNs = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
+        const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
+        const size_sutra = sutraCNs.length;
+        console.log(`size_sutra:${size_sutra}`)
+        var body_data = "";
+        for(var k = 0;k<size_sutra;k++){
+            // console.log(`${sutraENs[k]}`)
+            // console.log(`${sutraCNs[k]}`)
+            body_data += `<a href="#" title="${sutraCNs[k]}">${sutraENs[k]}</a><br/><br/>`;
+        }
+        const contentEl = document.getElementById("contents");
+        contentEl.innerHTML = body_data;
+    }
 
+    function loadSubChapter(){
+        const bookSelect = document.getElementById("bookSelect");
+        const selectedValue = bookSelect.value;
+        const chapterLength = sutra_en[selectedValue-1].length;
+        const subChapterSelect = document.getElementById("subChapterSelect");
+        subChapterSelect.innerHTML = "";
+        for(let i = 1; i <= chapterLength; i++){
+            const option = document.createElement("option");
+            option.value = i;
+            option.textContent = `${i} - Chapter ${i}`;
+            subChapterSelect.appendChild(option);
+        }
+    }
 
+    function loadBook(){
+        const bookSelect = document.getElementById("bookSelect");
+        const selectedValue = bookSelect.value;
+        console.log(`Selected book: ${selectedValue}`);
+        const chapterLength = sutra_en[selectedValue-1].length; 
+        console.log(`Total chapters in selected book: ${chapterLength}`);
+
+        const subChapterSelect = document.getElementById("subChapterSelect");
+        subChapterSelect.innerHTML = "";
+        for(let i = 1; i <= chapterLength; i++){
+            const option = document.createElement("option");
+            option.value = i;
+            option.textContent = `${i} - Chapter ${i}`;
+            subChapterSelect.appendChild(option);
+        }
+        displayChpterItem(selectedValue,1);
+    }
 
 
 // const anotherText = "First line\r\nSecond line";
@@ -344,5 +395,80 @@
 // console.log(anotherLines);
 // Output: ["First line", "Second line"]
     </script>
+<select id="bookSelect" onchange="loadBook()">
+    <option value="1">1-创世记</option>
+    <option value="2">2-出埃及记</option>
+    <option value="3">3-利未记</option>
+    <option value="4">4-民数记</option>
+    <option value="5">5-申命记</option>
+    <option value="6">6-约书亚记</option>
+    <option value="7">7-士师记</option>
+    <option value="8">8-路得记</option>
+    <option value="9">9-撒母耳记上</option>
+    <option value="10">10-撒母耳记下</option>
+    <option value="11">11-列王纪上</option>
+    <option value="12">12-列王纪下</option>
+    <option value="13">13-历代志上</option>
+    <option value="14">14-历代志下</option>
+    <option value="15">15-以斯拉记</option>
+    <option value="16">16-尼希米记</option>
+    <option value="17">17-以斯帖记</option>
+    <option value="18">18-约伯记</option>
+    <option value="19">19-诗篇</option>
+    <option value="20">20-箴言</option>
+    <option value="21">21-传道书</option>
+    <option value="22">22-雅歌</option>
+    <option value="23">23-以赛亚书</option>
+    <option value="24">24-耶利米书</option>
+    <option value="25">25-耶利米哀歌</option>
+    <option value="26">26-以西结书</option>
+    <option value="27">27-但以理书</option>
+    <option value="28">28-何西阿书</option>
+    <option value="29">29-约珥书</option>
+    <option value="30">30-阿摩司书</option>
+    <option value="31">31-俄巴底亚书</option>
+    <option value="32">32-约拿书</option>
+    <option value="33">33-弥迦书</option>
+    <option value="34">34-那鸿书</option>
+    <option value="35">35-哈巴谷书</option>
+    <option value="36">36-西番雅书</option>
+    <option value="37">37-哈该书</option>
+    <option value="38">38-撒迦利亚书</option>
+    <option value="39">39-玛拉基书</option>
+    <option value="40">40-马太福音</option>
+    <option value="41">41-马可福音</option>
+    <option value="42">42-路加福音</option>
+    <option value="43">43-约翰福音</option>
+    <option value="44">44-使徒行传</option>
+    <option value="45">45-罗马书</option>
+    <option value="46">46-哥林多前书</option>
+    <option value="47">47-哥林多后书</option>
+    <option value="48">48-加拉太书</option>
+    <option value="49">49-以弗所书</option>
+    <option value="50">50-腓立比书</option>
+    <option value="51">51-歌罗西书</option>
+    <option value="52">52-帖撒罗尼迦前书</option>
+    <option value="53">53-帖撒罗尼迦后书</option>
+    <option value="54">54-提摩太前书</option>
+    <option value="55">55-提摩太后书</option>
+    <option value="56">56-提多书</option>
+    <option value="57">57-腓利门书</option>
+    <option value="58">58-希伯来书</option>
+    <option value="59">59-雅各书</option>
+    <option value="60">60-彼得前书</option>
+    <option value="61">61-彼得后书</option>
+    <option value="62">62-约翰一书</option>
+    <option value="63">63-约翰二书</option>
+    <option value="64">64-约翰三书</option>
+    <option value="65">65-犹大书</option>
+    <option value="66">66-启示录</option>
+</select>
+
+<select id="subChapterSelect" onchange="loadSubChapter()">
+
+</select>
+    <div id="contents">
+
+    </div>
 </body>
 </html>
