@@ -136,7 +136,28 @@ const sutra_cn_en_1_5 = `1 mankind:人类,人| likeness:像
 30 N/A
 31 N/A
 32 N/A `;
-const sutra_cn_en_1_6 = ` `;
+const sutra_cn_en_1_6 = `1 N/A
+2 N/A
+3 contend:周旋| mortal:凡人
+4 renown:名望
+5 wickedness:罪恶|human race:人类| inclination:志趣| evil:恶
+6 regretted:后悔
+7 human race:人类| creatures:生物|
+8 favor:偏爱,恩惠
+9 account:记事| righteous:义士| blameless:义| faithfully:忠诚地
+10 N/A
+11 corrupt:败坏| violence:暴力,暴行
+12 corrupt:败坏
+13 violence:暴力,暴行
+14 ark:方舟| cypress:柏| coat:涂| pitch:沥青
+15 ark:方舟| cubit:肘尺
+16 cubit:肘尺| deck:甲板
+17 floodwaters:洪水| perish:消灭
+18 covenant:盟约|ark:方舟
+19 N/A
+20 N/A
+21 N/A
+22 N/A `;
 const sutra_cn_en_1_7 = ` `;
 const sutra_cn_en_1_8 = ` `;
 const sutra_cn_en_1_9 = ` `;
