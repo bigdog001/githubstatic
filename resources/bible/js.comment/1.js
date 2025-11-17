@@ -158,7 +158,30 @@ const sutra_cn_en_1_6 = `1 N/A
 20 N/A
 21 N/A
 22 N/A `;
-const sutra_cn_en_1_7 = ` `;
+const sutra_cn_en_1_7 = `1 righteous:义人
+2 N/A
+3 N/A
+4 N/A
+5 N/A
+6 N/A
+7 escape:躲避
+8 N/A
+9 N/A
+10 N/A
+11 spring:泉| burst:裂开| floodgate:泄洪闸
+12 N/A
+13 N/A
+14 livestock:牲畜
+15 N/A
+16 N/A
+17 N/A
+18 N/A
+19 N/A
+20 N/A
+21 perish:消灭| livestock:牲畜| mankind:人
+22 breath:气息| nostrils:鼻孔
+23 N/A
+24 N/A `;
 const sutra_cn_en_1_8 = ` `;
 const sutra_cn_en_1_9 = ` `;
 const sutra_cn_en_1_10 = ` `;
