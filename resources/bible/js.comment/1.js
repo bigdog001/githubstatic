@@ -29,7 +29,31 @@ const sutra_cn_en_1_1 = `1 N/A
 29 N/A
 30 beast:兽类| creature:生物|breath:气息
 31 N/A `;
-const sutra_cn_en_1_2 = ` `;
+const sutra_cn_en_1_2 = `1 N/A
+2 N/A
+3 N/A
+4 N/A
+5 shrub:灌木,草木
+6 N/A
+7 nostril:鼻孔
+8 N/A
+9 N/A
+10 headwater:源头
+11 N/A
+12 aromatic:芳香| resin:树脂| onyx:玛瑙
+13 N/A
+14 N/A
+15 N/A
+16 N/A
+17 N/A
+18 N/A
+19 N/A
+20 livestock:牲畜|
+21 rib:肋骨
+22 rib:肋骨
+23 N/A
+24 N/A
+25 N/A `;
 const sutra_cn_en_1_3 = ` `;
 const sutra_cn_en_1_4 = ` `;
 const sutra_cn_en_1_5 = ` `;
