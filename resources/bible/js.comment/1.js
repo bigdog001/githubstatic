@@ -104,7 +104,38 @@ const sutra_cn_en_1_4 = `1 pregnant:怀孕
 24 avenged:复仇
 25 granted:赐予
 26 N/A `;
-const sutra_cn_en_1_5 = ` `;
+const sutra_cn_en_1_5 = `1 mankind:人类,人| likeness:像
+2 mankind:人类,人
+3 N/A
+4 N/A
+5 N/A
+6 N/A
+7 N/A
+8 N/A
+9 N/A
+10 N/A
+11 N/A
+12 N/A
+13 N/A
+14 N/A
+15 N/A
+16 N/A
+17 N/A
+18 N/A
+19 N/A
+20 N/A
+21 N/A
+22 faithfully:忠诚地
+23 N/A
+24 faithfully:忠诚地
+25 N/A
+26 N/A
+27 N/A
+28 N/A
+29 labor:劳动|toil:劳苦| cursed:咒诅
+30 N/A
+31 N/A
+32 N/A `;
 const sutra_cn_en_1_6 = ` `;
 const sutra_cn_en_1_7 = ` `;
 const sutra_cn_en_1_8 = ` `;
