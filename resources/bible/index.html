@@ -278,6 +278,28 @@
 
 
 
+<style type="text/css">
+    a { text-decoration: none; color: blue; }
+    span{ font-size: xx-large; }
+    p{ font-size: small; }
+    a:hover { color:red; }
+    span:hover { color:red; }
+    body { margin:0; padding-bottom:56px; } /* prevent overlap */
+    #pageFooter {
+         text-align: center;;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background: #f5f5f5;
+        border-top: 1px solid #ccc;
+        padding: 8px 12px;
+        font: 12px/1.4 system-ui, sans-serif;
+        color:#333;
+        z-index: 1000;
+    }
+</style>
+
  <style type="text/css">
     a {
         text-decoration: none;
@@ -352,6 +374,12 @@
             displayChpterItem( targetChapter , targetParagraph);
     });
 
+     function displaySubtitle(subtitle){
+        const subtitleEl = document.getElementById("pageFooter");
+        subtitleEl.innerText = subtitle;
+
+    }
+
     function displayChpterItem( targetChapter , targetParagraph){
         const sutraCNs = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
@@ -362,7 +390,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span>${sutraENs[k]}</span> <p href="#">${sutraCNs[k]}</p> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
+            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p href="#">${sutraCNs[k]}</p> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
@@ -503,8 +531,9 @@
 <select id="subChapterSelect" onchange="loadSubChapter()"></select>
 <button onclick="buildComments()">Build</button>
 <br/><br/>
-    <div id="contents">
-    </div>
-</body>
+<div id="contents"></div>
+<div id="pageFooter"></div>
 	
+	
+</body>
 </html>
