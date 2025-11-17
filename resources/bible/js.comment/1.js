@@ -182,7 +182,28 @@ const sutra_cn_en_1_7 = `1 righteous:义人
 22 breath:气息| nostrils:鼻孔
 23 N/A
 24 N/A `;
-const sutra_cn_en_1_8 = ` `;
+const sutra_cn_en_1_8 = `1 livestock:牲畜| ark:方舟| receded:消退
+2 springs:泉| floodgates:泄洪闸
+3 receded:消退| steadily:稳步,渐渐
+4 N/A
+5 receded:消退
+6 N/A
+7 raven:乌鸦
+8 dove:鸽子|receded:消退
+9 dove:鸽子| perch:栖息
+10 dove:鸽子
+11 dove:鸽子| beak:喙,鸟嘴| pluck:摘|receded:消退
+12 dove:鸽子
+13 N/A
+14 N/A
+15 N/A
+16 N/A
+17 N/A
+18 N/A
+19 N/A
+20 altar:坛| sacrifice:牺牲| burnt:烧焦的
+21 aroma:芳香| curse:咒诅| inclination:志趣
+22 endures:承受| harvest:收获| cease:停息 `;
 const sutra_cn_en_1_9 = ` `;
 const sutra_cn_en_1_10 = ` `;
 const sutra_cn_en_1_11 = ` `;
