@@ -278,15 +278,16 @@
 
 
 
-
  <style type="text/css">
     a {
         text-decoration: none;
         color: blue;
-        font-size: small;
     }
     span{
         font-size: xx-large;
+    }
+    p{
+        font-size: small;
     }
     a:hover {
         color:red;
@@ -361,7 +362,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span>${sutraENs[k]}</span><br/> <a href="#">${sutraCNs[k]}</a><br/> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
+            body_data += `<span>${sutraENs[k]}</span> <p href="#">${sutraCNs[k]}</p> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
