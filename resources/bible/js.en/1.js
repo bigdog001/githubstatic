@@ -31,7 +31,7 @@ const sutra_en_1_1 = `1 In the beginning God created the heavens and the earth.
 31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day. `;
 const sutra_en_1_2 = `1 Thus the heavens and the earth were completed in all their vast array.
 2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.
-3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.Adam and Eve
+3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
 4 This is the account of the heavens and the earth when they were created, when the LORD God made the earth and the heavens.
 5 Now no shrub had yet appeared on the earth and no plant had yet sprung up, for the LORD God had not sent rain on the earth and there was no one to work the ground,
 6 but streams came up from the earth and watered the whole surface of the ground.
