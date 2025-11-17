@@ -1,4 +1,34 @@
-const sutra_cn_en_1_1 = ` `;
+const sutra_cn_en_1_1 = `1 N/A
+2 N/A
+3 N/A
+4 N/A
+5 N/A
+6 N/A
+7 vault:拱顶,天空
+8 N/A
+9 N/A
+10 N/A
+11 N/A
+12 N/A
+13 N/A
+14 sacre:神圣的
+15 N/A
+16 govern:管辖,治理
+17 N/A
+18 govern:管辖,治理
+19 N/A
+20 teem:富于,多
+21 creature:生物|teems:富于,多|winged:有翅膀的
+22 N/A
+23 N/A
+24 creature:生物|livestock:牲畜
+25 creature:生物|livestock:牲畜
+26 mankind:人类|likeness:肖像|rule over:管理|livestock:牲畜
+27 mankind:人类
+28 subdue:辖|rule over:管理
+29 N/A
+30 beast:兽类| creature:生物|breath:气息
+31 N/A `;
 const sutra_cn_en_1_2 = ` `;
 const sutra_cn_en_1_3 = ` `;
 const sutra_cn_en_1_4 = ` `;
