@@ -383,7 +383,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p href="#">${sutraCNs[k]}</p> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
+            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span>  <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
