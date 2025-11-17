@@ -265,7 +265,38 @@ const sutra_cn_en_1_10 = `1 account:记事
 30 region:地区,地方| stretch:伸展,延伸
 31 territories:领土
 32 clan:氏族 `;
-const sutra_cn_en_1_11 = ` `;
+const sutra_cn_en_1_11 = `1 N/A
+2 settled:定居
+3 brick:砖| bake:烘烤| tar:漆,焦油| mortar:砂浆,灰泥
+4 scattered:分散
+5 N/A
+6 N/A
+7 confuse:变乱,迷惑
+8 scattered:分散
+9 scattered:分散
+10 account:记事
+11 N/A
+12 N/A
+13 N/A
+14 N/A
+15 N/A
+16 N/A
+17 N/A
+18 N/A
+19 N/A
+20 N/A
+21 N/A
+22 N/A
+23 N/A
+24 N/A
+25 N/A
+26 N/A
+27 family line:后代
+28 N/A
+29 N/A
+30 conceive:怀胎
+31 N/A
+32 N/A `;
 const sutra_cn_en_1_12 = ` `;
 const sutra_cn_en_1_13 = ` `;
 const sutra_cn_en_1_14 = ` `;
