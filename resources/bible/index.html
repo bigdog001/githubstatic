@@ -137,9 +137,9 @@
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/64.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/65.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/66.js"></script>
- 
+  -->
 
-         -->
+        
 
     <script src="./js/1.js"></script>
     <script src="./js/2.js"></script>
@@ -282,7 +282,13 @@
         text-decoration: none;
         color: blue;
     }
+    span{
+        font-size: x-large;
+    }
     a:hover {
+        color:red;
+    }
+    span:hover {
         color:red;
     }
 </style>
@@ -347,11 +353,12 @@
         const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const size_sutra = sutraCNs.length;
         console.log(`size_sutra:${size_sutra}`)
+        
         var body_data = "";
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<a href="#" title="${sutraCNs[k]}">${sutraENs[k]}</a><br/><br/>`;
+            body_data += `<span>${sutraENs[k]}</span><br/>${sutraCNs[k]}<br/><input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
@@ -362,14 +369,9 @@
         const selectedValue = bookSelect.value;
         const chapterLength = sutra_en[selectedValue-1].length;
         const subChapterSelect = document.getElementById("subChapterSelect");
-        subChapterSelect.innerHTML = "";
-        for(let i = 1; i <= chapterLength; i++){
-            const option = document.createElement("option");
-            option.value = i;
-            option.textContent = `${i} - Chapter ${i}`;
-            subChapterSelect.appendChild(option);
-        }
-		displayChpterItem(selectedValue,subChapterSelect.value);
+        
+        console.log(`Loaded book ${selectedValue}: chapter:${subChapterSelect.value}`);
+        displayChpterItem(selectedValue,subChapterSelect.value);
     }
 
     function loadBook(){
@@ -384,10 +386,30 @@
         for(let i = 1; i <= chapterLength; i++){
             const option = document.createElement("option");
             option.value = i;
-            option.textContent = `${i} - Chapter ${i}`;
+            const xx = sutra_en[selectedValue-1][i-1].split(/\r?\n/).length; 
+            option.textContent = `Chapter ${i} has ${xx}`;
             subChapterSelect.appendChild(option);
         }
         displayChpterItem(selectedValue,1);
+    }
+
+    function buildComments(){
+        const bookSelect = document.getElementById("bookSelect").value;
+        const subChapterSelect = document.getElementById("subChapterSelect").value;
+        console.log(`Selected book: ${bookSelect}`);
+        console.log(`Selected sub-chapter: ${bookSelect}/${subChapterSelect}`);
+        const xLength = sutras_[bookSelect-1][subChapterSelect-1].split(/\r?\n/).length
+        var all_Comments = "\n";
+    
+        for(var k = 0;k<xLength;k++){
+            const cK = document.getElementById(`comment_${k}`).value;
+            // all_Comments+=`const sutra_cn_en_${bookSelect}_${subChapterSelect} = '${cK} ';\n`;
+            all_Comments+=`${k+1} ${cK}\n`;
+        }
+        console.log(all_Comments+"\n");
+
+//
+
     }
 
 
@@ -465,11 +487,10 @@
     <option value="66">66-启示录</option>
 </select>
 
-<select id="subChapterSelect" onchange="loadSubChapter()">
-
-</select>
+<select id="subChapterSelect" onchange="loadSubChapter()"></select>
+<button onclick="buildComments()">Build</button>
+<br/><br/>
     <div id="contents">
-
     </div>
 </body>
 </html>
