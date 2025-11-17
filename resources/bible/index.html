@@ -369,7 +369,7 @@
          if(!subChapterSelect.value){
                     for(let i = 0; i < 50; i++){
                     const option = document.createElement("option");
-                    option.value = i;
+                    option.value = i+1;
                     const xx = sutra_en[0][i].split(/\r?\n/).length; 
                     option.textContent = `Chapter ${i+1} has ${xx}`;
                     subChapterSelect.appendChild(option);
