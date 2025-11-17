@@ -277,13 +277,15 @@
     
 
 
+
  <style type="text/css">
     a {
         text-decoration: none;
         color: blue;
+        font-size: small;
     }
     span{
-        font-size: x-large;
+        font-size: xx-large;
     }
     a:hover {
         color:red;
@@ -358,7 +360,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span>${sutraENs[k]}</span><br/>${sutraCNs[k]}<br/><input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
+            body_data += `<span>${sutraENs[k]}</span><br/> <a href="#">${sutraCNs[k]}</a><br/> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
@@ -403,7 +405,6 @@
     
         for(var k = 0;k<xLength;k++){
             const cK = document.getElementById(`comment_${k}`).value;
-            // all_Comments+=`const sutra_cn_en_${bookSelect}_${subChapterSelect} = '${cK} ';\n`;
             all_Comments+=`${k+1} ${cK}\n`;
         }
         console.log(all_Comments+"\n");
@@ -493,4 +494,5 @@
     <div id="contents">
     </div>
 </body>
+	
 </html>
