@@ -1,0 +1,420 @@
+
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="auto"> 
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+        <meta name="generator" content="Astro v5.13.2">
+        <title>HolyBible</title>
+        <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/navbar-static/">
+        <script src="https://getbootstrap.com/docs/5.3/assets/js/color-modes.js"></script>
+        <link href="https://getbootstrap.com/docs/5.3/dist/css/bootstrap.min.css" rel="stylesheet" >
+        <link rel="apple-touch-icon" href="https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+        <link rel="icon" href="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+        <link rel="icon" href="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+        <link rel="manifest" href="https://getbootstrap.com/docs/5.3/assets/img/favicons/manifest.json">
+        <link rel="mask-icon" href="https://getbootstrap.com/docs/5.3/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
+        <link rel="icon" href="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon.ico">
+        <meta name="theme-color" content="#712cf9">
+        <link href="https://getbootstrap.com/docs/5.3/examples/navbar-static/navbar-static.css" rel="stylesheet">
+        <style>.bd-placeholder-img{font-size:1.125rem;text-anchor:middle;-webkit-user-select:none;-moz-user-select:none;user-select:none}@media (min-width: 768px){.bd-placeholder-img-lg{font-size:3.5rem}}.b-example-divider{width:100%;height:3rem;background-color:#0000001a;border:solid rgba(0,0,0,.15);border-width:1px 0;box-shadow:inset 0 .5em 1.5em #0000001a,inset 0 .125em .5em #00000026}.b-example-vr{flex-shrink:0;width:1.5rem;height:100vh}.bi{vertical-align:-.125em;fill:currentColor}.nav-scroller{position:relative;z-index:2;height:2.75rem;overflow-y:hidden}.nav-scroller .nav{display:flex;flex-wrap:nowrap;padding-bottom:1rem;margin-top:-1px;overflow-x:auto;text-align:center;white-space:nowrap;-webkit-overflow-scrolling:touch}.btn-bd-primary{--bd-violet-bg: #712cf9;--bd-violet-rgb: 112.520718, 44.062154, 249.437846;--bs-btn-font-weight: 600;--bs-btn-color: var(--bs-white);--bs-btn-bg: var(--bd-violet-bg);--bs-btn-border-color: var(--bd-violet-bg);--bs-btn-hover-color: var(--bs-white);--bs-btn-hover-bg: #6528e0;--bs-btn-hover-border-color: #6528e0;--bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);--bs-btn-active-color: var(--bs-btn-hover-color);--bs-btn-active-bg: #5a23c8;--bs-btn-active-border-color: #5a23c8}.bd-mode-toggle{z-index:1500}.bd-mode-toggle .bi{width:1em;height:1em}.bd-mode-toggle .dropdown-menu .active .bi{display:block!important}</style>
+</head> 
+
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/1.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/2.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/3.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/4.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/5.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/6.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/7.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/8.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/9.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/10.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/11.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/12.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/13.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/14.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/15.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/16.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/17.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/18.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/19.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/20.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/21.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/22.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/23.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/24.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/25.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/26.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/27.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/28.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/29.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/30.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/31.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/32.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/33.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/34.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/35.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/36.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/37.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/38.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/39.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/40.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/41.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/42.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/43.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/44.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/45.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/46.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/47.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/48.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/49.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/50.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/51.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/52.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/53.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/54.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/55.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/56.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/57.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/58.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/59.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/60.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/61.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/62.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/63.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/64.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/65.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js/66.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/1.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/2.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/3.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/4.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/5.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/6.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/7.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/8.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/9.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/10.js"></script>
+     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/11.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/12.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/13.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/14.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/15.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/16.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/17.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/18.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/19.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/20.js"></script>
+     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/21.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/22.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/23.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/24.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/25.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/26.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/27.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/28.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/29.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/30.js"></script>
+     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/31.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/32.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/33.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/34.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/35.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/36.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/37.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/38.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/39.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/40.js"></script>
+     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/41.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/42.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/43.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/44.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/45.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/46.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/47.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/48.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/49.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/50.js"></script>
+     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/51.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/52.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/53.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/54.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/55.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/56.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/57.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/58.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/59.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/60.js"></script>
+     <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/61.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/62.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/63.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/64.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/65.js"></script>
+    <script src="https://githubstatic.cloud-ip.net/resources/bible/js.en/66.js"></script>
+ 
+
+ <style type="text/css">
+    a {
+        text-decoration: none;
+        color: blue;
+    }
+    span{
+        font-size: xx-large;
+    }
+    p{
+        font-size: small;
+    }
+    a:hover {
+        color:red;
+    }
+    span:hover {
+        color:red;
+    }
+</style>
+
+    <script type="text/javascript">
+    const sutras_ = [sutra_1,sutra_2,sutra_3,sutra_4,sutra_5,sutra_6,sutra_7,sutra_8,sutra_9,sutra_10,
+                     sutra_11,sutra_12,sutra_13,sutra_14,sutra_15,sutra_16,sutra_17,sutra_18,sutra_19,sutra_20,
+                     sutra_21,sutra_22,sutra_23,sutra_24,sutra_25,sutra_26,sutra_27,sutra_28,sutra_29,sutra_30,
+                     sutra_31,sutra_32,sutra_33,sutra_34,sutra_35,sutra_36,sutra_37,sutra_38,sutra_39,sutra_40,
+                     sutra_41,sutra_42,sutra_43,sutra_44,sutra_45,sutra_46,sutra_47,sutra_48,sutra_49,sutra_50,
+                     sutra_51,sutra_52,sutra_53,sutra_54,sutra_55,sutra_56,sutra_57,sutra_58,sutra_59,sutra_60,
+                     sutra_61,sutra_62,sutra_63,sutra_64,sutra_65,sutra_66,
+                    ];
+    const sutra_en = [sutra_en_1,sutra_en_2,sutra_en_3,sutra_en_4,sutra_en_5,sutra_en_6,sutra_en_7,sutra_en_8,sutra_en_9,sutra_en_10,
+                        sutra_en_11,sutra_en_12,sutra_en_13,sutra_en_14,sutra_en_15,sutra_en_16,sutra_en_17,sutra_en_18,sutra_en_19,sutra_en_20,
+                        sutra_en_21,sutra_en_22,sutra_en_23,sutra_en_24,sutra_en_25,sutra_en_26,sutra_en_27,sutra_en_28,sutra_en_29,sutra_en_30,
+                        sutra_en_31,sutra_en_32,sutra_en_33,sutra_en_34,sutra_en_35,sutra_en_36,sutra_en_37,sutra_en_38,sutra_en_39,sutra_en_40,
+                        sutra_en_41,sutra_en_42,sutra_en_43,sutra_en_44,sutra_en_45,sutra_en_46,sutra_en_47,sutra_en_48,sutra_en_49,sutra_en_50,
+                        sutra_en_51,sutra_en_52,sutra_en_53,sutra_en_54,sutra_en_55,sutra_en_56,sutra_en_57,sutra_en_58,sutra_en_59,sutra_en_60,
+                        sutra_en_61,sutra_en_62,sutra_en_63,sutra_en_64,sutra_en_65,sutra_en_66
+    ];                
+
+    sutras_.forEach((msg, index,sutra) => {
+        //console.log(`=============================>Sutra ${index+1} has ${msg.length} Chapters`);
+        msg.forEach((msg_x, index_,sutra_) => {
+            //const msg_length = msg_x.split(/\r?\n/).length;console.log(`length at index ${index_+1}: ${msg_length}`);
+        });
+    });
+    var fatal_size = 0;
+
+	for(var j=0; j<66;j++){
+	 const target_en = sutra_en[j] ;
+    	 const target_cn = sutras_[j]  ;
+		 if(target_en.length !== target_cn.length){
+	        console.log(`Fatal: total sutra size not match,en:${target_en.length},cn:${target_cn.length}`);
+	        fatal_size++;
+	    }
+	    for(var i = 0;i< target_en.length;i++){
+	        const en_length = target_en[i].split(/\r?\n/).length;
+	        const cn_length = target_cn[i].split(/\r?\n/).length;
+	        if(en_length !== cn_length){
+	            console.log(`Fatal:${j+1}-->${i+1},en:${en_length},cn:${cn_length} `);
+	            fatal_size++;
+	        }
+	    }
+	}
+    if(fatal_size === 0){
+    console.log("checking ALL GOOD ");
+    }
+
+		
+         
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const targetChapter = 1;
+            const targetParagraph = 1;
+            displayChpterItem( targetChapter , targetParagraph);
+    });
+
+    function displayChpterItem( targetChapter , targetParagraph){
+        const sutraCNs = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
+        const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
+        const size_sutra = sutraCNs.length;
+        console.log(`size_sutra:${size_sutra}`)
+        
+        var body_data = "";
+        for(var k = 0;k<size_sutra;k++){
+            // console.log(`${sutraENs[k]}`)
+            // console.log(`${sutraCNs[k]}`)
+            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p href="#">${sutraCNs[k]}</p> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
+        }
+        const contentEl = document.getElementById("contents");
+        contentEl.innerHTML = body_data;
+        const subChapterSelect = document.getElementById("subChapterSelect");
+         if(!subChapterSelect.value){
+                    for(let i = 0; i < 50; i++){
+                    const option = document.createElement("option");
+                    option.value = i+1;
+                    const xx = sutra_en[0][i].split(/\r?\n/).length; 
+                    option.textContent = `Chapter ${i+1} has ${xx}`;
+                    subChapterSelect.appendChild(option);
+                }
+         }
+    }
+
+    function displaySubtitle(subtitle){
+        const subtitleEl = document.getElementById("subtitle");
+        subtitleEl.innerText = subtitle;
+
+    }
+
+    function loadSubChapter(){
+        const bookSelect = document.getElementById("bookSelect");
+        const selectedValue = bookSelect.value;
+        const chapterLength = sutra_en[selectedValue-1].length;
+        const subChapterSelect = document.getElementById("subChapterSelect");
+        
+        console.log(`Loaded book ${selectedValue}: chapter:${subChapterSelect.value}`);
+        displayChpterItem(selectedValue,subChapterSelect.value);
+    }
+
+    function loadBook(){
+        const bookSelect = document.getElementById("bookSelect");
+        const selectedValue = bookSelect.value;
+        console.log(`Selected book: ${selectedValue}`);
+        const chapterLength = sutra_en[selectedValue-1].length; 
+        console.log(`Total chapters in selected book: ${chapterLength}`);
+
+        const subChapterSelect = document.getElementById("subChapterSelect");
+        subChapterSelect.innerHTML = "";
+        for(let i = 1; i <= chapterLength; i++){
+            const option = document.createElement("option");
+            option.value = i;
+            const xx = sutra_en[selectedValue-1][i-1].split(/\r?\n/).length; 
+            option.textContent = `Chapter ${i} has ${xx}`;
+            subChapterSelect.appendChild(option);
+        }
+        displayChpterItem(selectedValue,1);
+    }
+
+    function buildComments(){
+        const bookSelect = document.getElementById("bookSelect").value;
+        const subChapterSelect = document.getElementById("subChapterSelect").value;
+        console.log(`Selected book: ${bookSelect}`);
+        console.log(`Selected sub-chapter: ${bookSelect}/${subChapterSelect}`);
+        const xLength = sutras_[bookSelect-1][subChapterSelect-1].split(/\r?\n/).length
+        var all_Comments = "\n";
+    
+        for(var k = 0;k<xLength;k++){
+            const cK = document.getElementById(`comment_${k}`).value;
+            all_Comments+=`${k+1} ${cK}\n`;
+        }
+        console.log(all_Comments+"\n");
+
+//
+
+    }
+
+
+// const anotherText = "First line\r\nSecond line";
+// const anotherLines = anotherText.split(/\r?\n/);
+// console.log(anotherLines);
+// Output: ["First line", "Second line"]
+    </script>
+<body> 
+
+    <select class="form-select form-select-lg mb-3" id="bookSelect" onchange="loadBook()">
+    <option value="1">1-创世记</option>
+    <option value="2">2-出埃及记</option>
+    <option value="3">3-利未记</option>
+    <option value="4">4-民数记</option>
+    <option value="5">5-申命记</option>
+    <option value="6">6-约书亚记</option>
+    <option value="7">7-士师记</option>
+    <option value="8">8-路得记</option>
+    <option value="9">9-撒母耳记上</option>
+    <option value="10">10-撒母耳记下</option>
+    <option value="11">11-列王纪上</option>
+    <option value="12">12-列王纪下</option>
+    <option value="13">13-历代志上</option>
+    <option value="14">14-历代志下</option>
+    <option value="15">15-以斯拉记</option>
+    <option value="16">16-尼希米记</option>
+    <option value="17">17-以斯帖记</option>
+    <option value="18">18-约伯记</option>
+    <option value="19">19-诗篇</option>
+    <option value="20">20-箴言</option>
+    <option value="21">21-传道书</option>
+    <option value="22">22-雅歌</option>
+    <option value="23">23-以赛亚书</option>
+    <option value="24">24-耶利米书</option>
+    <option value="25">25-耶利米哀歌</option>
+    <option value="26">26-以西结书</option>
+    <option value="27">27-但以理书</option>
+    <option value="28">28-何西阿书</option>
+    <option value="29">29-约珥书</option>
+    <option value="30">30-阿摩司书</option>
+    <option value="31">31-俄巴底亚书</option>
+    <option value="32">32-约拿书</option>
+    <option value="33">33-弥迦书</option>
+    <option value="34">34-那鸿书</option>
+    <option value="35">35-哈巴谷书</option>
+    <option value="36">36-西番雅书</option>
+    <option value="37">37-哈该书</option>
+    <option value="38">38-撒迦利亚书</option>
+    <option value="39">39-玛拉基书</option>
+    <option value="40">40-马太福音</option>
+    <option value="41">41-马可福音</option>
+    <option value="42">42-路加福音</option>
+    <option value="43">43-约翰福音</option>
+    <option value="44">44-使徒行传</option>
+    <option value="45">45-罗马书</option>
+    <option value="46">46-哥林多前书</option>
+    <option value="47">47-哥林多后书</option>
+    <option value="48">48-加拉太书</option>
+    <option value="49">49-以弗所书</option>
+    <option value="50">50-腓立比书</option>
+    <option value="51">51-歌罗西书</option>
+    <option value="52">52-帖撒罗尼迦前书</option>
+    <option value="53">53-帖撒罗尼迦后书</option>
+    <option value="54">54-提摩太前书</option>
+    <option value="55">55-提摩太后书</option>
+    <option value="56">56-提多书</option>
+    <option value="57">57-腓利门书</option>
+    <option value="58">58-希伯来书</option>
+    <option value="59">59-雅各书</option>
+    <option value="60">60-彼得前书</option>
+    <option value="61">61-彼得后书</option>
+    <option value="62">62-约翰一书</option>
+    <option value="63">63-约翰二书</option>
+    <option value="64">64-约翰三书</option>
+    <option value="65">65-犹大书</option>
+    <option value="66">66-启示录</option>
+</select>
+
+<select class="form-select form-select-lg mb-3"  id="subChapterSelect" onchange="loadSubChapter()"></select>
+<button onclick="buildComments()">Build</button>
+
+
+    <svg xmlns="http://www.w3.org/2000/svg" class="d-none"> <symbol id="check2" viewBox="0 0 16 16"> <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"></path> </symbol> <symbol id="circle-half" viewBox="0 0 16 16"> <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"></path> </symbol> <symbol id="moon-stars-fill" viewBox="0 0 16 16"> <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"></path> <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"></path> </symbol> <symbol id="sun-fill" viewBox="0 0 16 16"> <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"></path> </symbol> </svg> <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle"> <button class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)"> <svg class="bi my-1 theme-icon-active" aria-hidden="true"><use href="#circle-half"></use></svg> <span class="visually-hidden" id="bd-theme-text">Toggle theme</span> </button> <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bd-theme-text"> <li> <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false"> <svg class="bi me-2 opacity-50" aria-hidden="true"><use href="#sun-fill"></use></svg>
+Light
+<svg class="bi ms-auto d-none" aria-hidden="true"><use href="#check2"></use></svg> </button> </li> <li> <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false"> <svg class="bi me-2 opacity-50" aria-hidden="true"><use href="#moon-stars-fill"></use></svg>
+Dark
+<svg class="bi ms-auto d-none" aria-hidden="true"><use href="#check2"></use></svg> </button> </li> <li> <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true"> <svg class="bi me-2 opacity-50" aria-hidden="true"><use href="#circle-half"></use></svg>
+Auto
+<svg class="bi ms-auto d-none" aria-hidden="true"><use href="#check2"></use></svg> </button> </li> </ul> </div>  
+<!-- <nav class="navbar fixed-bottom navbar-expand-md navbar-dark bg-dark mb-4"> <div class="container-fluid"> <a class="navbar-brand" href="#">Top navbar</a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button> <div class="collapse navbar-collapse" id="navbarCollapse"> <ul class="navbar-nav me-auto mb-2 mb-md-0"> <li class="nav-item"> <a class="nav-link active" aria-current="page" href="#">Home</a> </li> <li class="nav-item"> <a class="nav-link" href="#">Link</a> </li> <li class="nav-item"> <a class="nav-link disabled" aria-disabled="true">Disabled</a> </li> </ul> <form class="d-flex" role="search"> <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> <button class="btn btn-outline-success" type="submit">Search</button> </form> </div> </div> </nav>  -->
+<nav class="navbar fixed-bottom navbar-expand-md navbar-dark bg-dark mb-4"> 
+    <div class="container-fluid"> 
+        
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button> 
+        <div class="collapse navbar-collapse" id="navbarCollapse"> 
+            <ul class="navbar-nav me-auto mb-2 mb-md-0"> 
+                <li class="nav-item"> <a id="subtitle" class="nav-link active" aria-current="page" href="#"></a> </li> 
+                <!-- <li class="nav-item"> <a class="nav-link active" aria-current="page" href="#">Home</a> </li>  -->
+                <!-- <li class="nav-item"> <a class="nav-link" href="#">Link</a> </li>  -->
+                <!-- <li class="nav-item"> <a class="nav-link disabled" aria-disabled="true">Disabled</a> </li>  -->
+            </ul> 
+            <!-- <form class="d-flex" role="search"> <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> <button class="btn btn-outline-success" type="submit">Search</button> </form>  -->
+        </div> 
+    </div> 
+</nav> 
+<main class="container"> 
+      <div id="contents"></div>
+</main>   
+<script src="https://getbootstrap.com/docs/5.3/dist/js/bootstrap.bundle.min.js" class="astro-vvvwv3sm"></script>  
+</body> </html>
