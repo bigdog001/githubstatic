@@ -359,7 +359,27 @@ const sutra_cn_en_1_14 = `1 N/A
 22 sworn:起誓
 23 thread :线|strap:带子| sandal:凉鞋
 24 N/A `;
-const sutra_cn_en_1_15 = ` `;
+const sutra_cn_en_1_15 = `1 vision:梦见| shield:盾牌| reward:奖励
+2 Sovereign:主,主权| inherit:继承| estate:财产,地产
+3 servant:仆人| household:家| heir: 继承人,后嗣
+4 heir: 继承人,后嗣
+5 indeed:确实,的确| offspring:后裔,后代
+6 credited:认可| righteousness:义,正义
+7 possession:领地,所有,所有物
+8 Sovereign:主权,主| gain:取得|possession:领地,所有,所有物
+9 heifer:小母牛| goat:山羊| ram:公羊| dove:斑鸠| pigeon:鸽子
+10 arranged:排列,布置| opposite:对面的
+11 birds of prey:猛禽| carcasses:尸体
+12 thick:浓厚,森然| dreadful:吓人的
+13 descendant:后代| enslave:奴役| mistreat:虐待
+14 punish:惩罚| serve:服侍| afterward:后来| possession:财物
+15 buried:埋葬
+16 descendant:后代| sin:罪孽
+17 firepot:火盆| blazing:炽热| torch:火炬,火|
+18 covenant:立约,约|descendant:后代
+19 N/A
+20 N/A
+21 N/A `;
 const sutra_cn_en_1_16 = ` `;
 const sutra_cn_en_1_17 = ` `;
 const sutra_cn_en_1_18 = ` `;
