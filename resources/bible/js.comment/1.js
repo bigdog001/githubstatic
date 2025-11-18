@@ -297,7 +297,26 @@ const sutra_cn_en_1_11 = `1 N/A
 30 conceive:怀胎
 31 N/A
 32 N/A `;
-const sutra_cn_en_1_12 = ` `;
+const sutra_cn_en_1_12 = `1 household:家族,家庭|
+2 N/A
+3 N/A
+4 N/A
+5 nephew:侄儿| possession:财产,所有物| accumulate:积累| acquire:获得,买进,发展
+6 N/A
+7 offspring:后裔| altar:坛
+8 pitch:野营|
+9 N/A
+10 famine:饥荒| severe:严重
+11 N/A
+12 N/A
+13 spared:幸存
+14 N/A
+15 N/A
+16 acquire:获得,买进,发展| sheep:羊| cattle:牛,黄牛| donkey:驴| camel:骆驼
+17 inflict:造成,加以| diseases:疾病| household:全家,家
+18 summon:召唤
+19 N/A
+20 N/A `;
 const sutra_cn_en_1_13 = ` `;
 const sutra_cn_en_1_14 = ` `;
 const sutra_cn_en_1_15 = ` `;
