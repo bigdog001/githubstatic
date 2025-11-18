@@ -280,8 +280,11 @@
 
 
     body { margin:0; padding-bottom:56px; } /* prevent overlap */
+    #contents{
+        margin: 0 60px;
+    }
     #pageFooter {
-         text-align: center;;
+        text-align: center;;
         position: fixed;
         left: 0;
         bottom: 0;
@@ -291,6 +294,7 @@
         padding: 8px 12px;
         font: 12px/1.4 system-ui, sans-serif;
         color:#333;
+        font-size: xx-large;
         z-index: 1000;
     }
 
@@ -299,7 +303,7 @@
         color: blue;
     }
     span{
-        font-size: xx-large;
+        font-size: x-large;
     }
     p{
         font-size: small;
@@ -383,7 +387,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p>${sutraCNs[k]}</p> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
+            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p>${sutraCNs[k]}</p> <input class="my-comment" type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
@@ -444,6 +448,35 @@
 
 //
 
+    }
+
+    function handleShowCN(){
+        const checkbox = document.getElementById("showCN");
+        if (checkbox.checked) {
+             console.log("Show CN checked");
+             document.querySelectorAll('p').forEach(input => {
+                 input.style.display = 'block';
+             });
+        } else {
+            document.querySelectorAll('p').forEach(input => {
+                 input.style.display = 'none';
+             });
+        }
+    }
+
+    function handleShowComment(){
+        const checkbox = document.getElementById("showComment");
+         if (checkbox.checked) {
+             console.log("Show Comment checked");
+             document.querySelectorAll('input.my-comment').forEach(input => {
+                 input.style.display = 'block';
+             });
+        } else {
+            console.log("Show Comment unchecked");
+            document.querySelectorAll('input.my-comment').forEach(input => {
+                 input.style.display = 'none';
+             });
+        }
     }
 
 
@@ -523,9 +556,12 @@
 
 <select id="subChapterSelect" onchange="loadSubChapter()"></select>
 <button onclick="buildComments()">Build</button>
+<input type="checkbox" id="showCN" checked="true" onclick="handleShowCN()" />Show CN
+<input type="checkbox" id="showComment" checked="true" onclick="handleShowComment()" />Show Comment
 <br/><br/>
 <div id="contents"></div>
 <div id="pageFooter"></div>
+
 
 </body>
 </html>
