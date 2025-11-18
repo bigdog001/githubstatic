@@ -335,7 +335,30 @@ const sutra_cn_en_1_13 = `1 N/A
 16 offspring:后裔| dust:尘沙
 17 breadth:宽度
 18 pitch:野营| tent:帐篷 `;
-const sutra_cn_en_1_14 = ` `;
+const sutra_cn_en_1_14 = `1 N/A
+2 N/A
+3 N/A
+4 subject:从属的,服从的,附属的| rebelled:背叛
+5 allied:联盟| defeated:击败|
+6 desert:沙漠,旷野
+7 conquered:征服| territory:领土|
+8 march:行军,前进|drew up:绘制,制定| battle:战斗|
+9 N/A
+10 tar:焦油,漆| pit:坑| fled:逃亡
+11 N/A
+12 carried off:被带走| nephew:侄子,外甥| possession:财物
+13 escape:逃脱| allied:联盟
+14 relative:亲戚| captive:俘虏| household:家| pursuit:追赶
+15 divided:分割| attack:攻击| routed:击溃| pursuing:追逐
+16 relative:亲戚| possessions:财物|
+17 defeating:杀败| allied:联盟|
+18 priest:祭司
+19 N/A
+20 deliver:交付| enemies:敌人
+21 N/A
+22 sworn:起誓
+23 thread :线|strap:带子| sandal:凉鞋
+24 N/A `;
 const sutra_cn_en_1_15 = ` `;
 const sutra_cn_en_1_16 = ` `;
 const sutra_cn_en_1_17 = ` `;
