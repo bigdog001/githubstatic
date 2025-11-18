@@ -317,7 +317,24 @@ const sutra_cn_en_1_12 = `1 household:家族,家庭|
 18 summon:召唤
 19 N/A
 20 N/A `;
-const sutra_cn_en_1_13 = ` `;
+const sutra_cn_en_1_13 = `1 N/A
+2 N/A
+3 N/A
+4 N/A
+5 flock:羊群| herd:畜群| tents:帐棚
+6 possession:财物
+7 quarreling:争吵| arose:出现|
+8 quarreling:争吵| herders:牧羊人| relatives:亲属
+9 company:队,伍,队伍
+10 N/A
+11 company:队,伍,队伍
+12 pitch:野营| tent:帐篷
+13 wicked:邪恶| sinning:犯罪
+14 N/A
+15 offspring:后裔
+16 offspring:后裔| dust:尘沙
+17 breadth:宽度
+18 pitch:野营| tent:帐篷 `;
 const sutra_cn_en_1_14 = ` `;
 const sutra_cn_en_1_15 = ` `;
 const sutra_cn_en_1_16 = ` `;
