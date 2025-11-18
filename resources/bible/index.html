@@ -388,7 +388,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p>${sutraCNs[k]}</p> <input class="my-comment" type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/>`;
+            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p style="display:none;">${sutraCNs[k]}</p> <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
@@ -557,8 +557,8 @@
 
 <select id="subChapterSelect" onchange="loadSubChapter()"></select>
 <button onclick="buildComments()">Build</button>
-<input type="checkbox" id="showCN" checked="true" onclick="handleShowCN()" />Show CN
-<input type="checkbox" id="showComment" checked="true" onclick="handleShowComment()" />Show Comment
+<input type="checkbox" id="showCN" checked="false" onclick="handleShowCN()" />Show CN
+<input type="checkbox" id="showComment" checked="false" onclick="handleShowComment()" />Show Comment
 <br/><br/>
 <div id="contents"></div>
 <div id="pageFooter"></div>
