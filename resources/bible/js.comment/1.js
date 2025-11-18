@@ -31,7 +31,39 @@ const sutra_cn_en_1_45 = ` `;
 const sutra_cn_en_1_46 = ` `;
 const sutra_cn_en_1_47 = ` `;
 const sutra_cn_en_1_48 = ` `;
-const sutra_cn_en_1_49 = ` `;
+const sutra_cn_en_1_49 = `1 N/A
+2 Assemble:聚集
+3 excelling:卓越
+4 Turbulent:湍流| excel:高强,首位| couch:榻| defiled:污秽
+5 sword:刀剑| weapon:武器| violence:暴力
+6 council:议会,理事会| assembly:集会| hamstrung:腿筋| oxen:牛
+7 Curse:诅咒| anger:怒气| fierce:暴烈,猛烈| fury:愤怒| cruel:残忍的| scatter:分散| disperse:分散,离散
+8 neck:颈项| enemies:仇敌|bow down:下拜
+9 lion:狮| cub:幼兽| prey:猎物| crouches:蹲伏| dares:敢于| rouse:唤醒,惹,鼓舞
+10 scepter:权杖,杖| depart:离| staff:人员| obedience:归顺
+11 tether:系绳| donkey:驴| vine:葡萄树| colt:小马,驴驹| choicest:精选,美好的| branch:枝条| garment:衣服| robes:袍褂| grapes:葡萄,葡萄汁
+12 N/A
+13 seashore:海口|
+14 rawboned:生硬,强壮|sheep pens:羊圈
+15 pleasant:令人愉快的| bend:弯曲,低肩| burden:负荷,服苦|forced labor:强迫劳动
+16 justice:判断| tribes:部落
+17 snake:蛇| viper:毒蛇,虺| bite:咬伤,咬| tumble:翻滚
+18 deliverance:解救
+19 attack:攻击| raider:袭击者| heel:脚跟
+20 delicacies:美味佳肴
+21 doe:雌鹿| bears:承受| fawn:讨好,媚,巴结,谄媚
+22 vine:藤| spring:泉| branch:枝子| climb:爬
+23 bitterness:苦| archers:弓箭手| hostility:敌意
+24 bow:弓| steady:稳健 | limber:柔韧|
+25 Almighty:全能| breast:乳房| womb:子宫
+26 ancient:祖先| bounty:赏金| brow:眉头|
+27 ravenous:贪婪的| wolf:狼| devours:吞噬| prey:猎物| plunder:掠夺
+28 tribes:部落| appropriate:合适的
+29 instruction:嘱咐| Bury:葬| cave:洞
+30 cave:洞
+31 buried:葬
+32 cave:洞
+33 instruction:嘱咐| breathed:呼吸 `;
 const sutra_cn_en_1_50 = `1 wept:哀哭
 2 direct:吩咐,指导| physician:医生| embalm:防腐剂,防腐处理
 3 embalm:防腐剂,防腐处理| mourned:哀悼,哀哭
