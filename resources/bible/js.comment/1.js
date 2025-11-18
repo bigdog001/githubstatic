@@ -1,3 +1,51 @@
+const sutra_cn_en_1_16 = ` `;
+const sutra_cn_en_1_17 = ` `;
+const sutra_cn_en_1_18 = ` `;
+const sutra_cn_en_1_19 = ` `;
+const sutra_cn_en_1_20 = ` `;
+const sutra_cn_en_1_21 = ` `;
+const sutra_cn_en_1_22 = ` `;
+const sutra_cn_en_1_23 = ` `;
+const sutra_cn_en_1_24 = ` `;
+const sutra_cn_en_1_25 = ` `;
+const sutra_cn_en_1_26 = ` `;
+const sutra_cn_en_1_27 = ` `;
+const sutra_cn_en_1_28 = ` `;
+const sutra_cn_en_1_29 = ` `;
+const sutra_cn_en_1_30 = ` `;
+const sutra_cn_en_1_31 = ` `;
+const sutra_cn_en_1_32 = ` `;
+const sutra_cn_en_1_33 = ` `;
+const sutra_cn_en_1_34 = ` `;
+const sutra_cn_en_1_35 = ` `;
+const sutra_cn_en_1_36 = ` `;
+const sutra_cn_en_1_37 = ` `;
+const sutra_cn_en_1_38 = ` `;
+const sutra_cn_en_1_39 = ` `;
+const sutra_cn_en_1_40 = ` `;
+const sutra_cn_en_1_41 = ` `;
+const sutra_cn_en_1_42 = ` `;
+const sutra_cn_en_1_43 = ` `;
+const sutra_cn_en_1_44 = ` `;
+const sutra_cn_en_1_45 = ` `;
+const sutra_cn_en_1_46 = ` `;
+const sutra_cn_en_1_47 = ` `;
+const sutra_cn_en_1_48 = ` `;
+const sutra_cn_en_1_49 = ` `;
+const sutra_cn_en_1_50 = ` `;
+
+
+
+//////==========================================================================================
+
+
+
+
+
+
+
+
+
 const sutra_cn_en_1_1 = `1 N/A
 2 N/A
 3 N/A
@@ -380,41 +428,8 @@ const sutra_cn_en_1_15 = `1 vision:梦见| shield:盾牌| reward:奖励
 19 N/A
 20 N/A
 21 N/A `;
-const sutra_cn_en_1_16 = ` `;
-const sutra_cn_en_1_17 = ` `;
-const sutra_cn_en_1_18 = ` `;
-const sutra_cn_en_1_19 = ` `;
-const sutra_cn_en_1_20 = ` `;
-const sutra_cn_en_1_21 = ` `;
-const sutra_cn_en_1_22 = ` `;
-const sutra_cn_en_1_23 = ` `;
-const sutra_cn_en_1_24 = ` `;
-const sutra_cn_en_1_25 = ` `;
-const sutra_cn_en_1_26 = ` `;
-const sutra_cn_en_1_27 = ` `;
-const sutra_cn_en_1_28 = ` `;
-const sutra_cn_en_1_29 = ` `;
-const sutra_cn_en_1_30 = ` `;
-const sutra_cn_en_1_31 = ` `;
-const sutra_cn_en_1_32 = ` `;
-const sutra_cn_en_1_33 = ` `;
-const sutra_cn_en_1_34 = ` `;
-const sutra_cn_en_1_35 = ` `;
-const sutra_cn_en_1_36 = ` `;
-const sutra_cn_en_1_37 = ` `;
-const sutra_cn_en_1_38 = ` `;
-const sutra_cn_en_1_39 = ` `;
-const sutra_cn_en_1_40 = ` `;
-const sutra_cn_en_1_41 = ` `;
-const sutra_cn_en_1_42 = ` `;
-const sutra_cn_en_1_43 = ` `;
-const sutra_cn_en_1_44 = ` `;
-const sutra_cn_en_1_45 = ` `;
-const sutra_cn_en_1_46 = ` `;
-const sutra_cn_en_1_47 = ` `;
-const sutra_cn_en_1_48 = ` `;
-const sutra_cn_en_1_49 = ` `;
-const sutra_cn_en_1_50 = ` `;
+
+
 
 
 const sutra_cn_en_1 = [sutra_cn_en_1_1,sutra_cn_en_1_2,sutra_cn_en_1_3,sutra_cn_en_1_4,sutra_cn_en_1_5,sutra_cn_en_1_6,sutra_cn_en_1_7,sutra_cn_en_1_8,sutra_cn_en_1_9,sutra_cn_en_1_10,
