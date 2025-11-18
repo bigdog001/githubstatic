@@ -30,7 +30,28 @@ const sutra_cn_en_1_44 = ` `;
 const sutra_cn_en_1_45 = ` `;
 const sutra_cn_en_1_46 = ` `;
 const sutra_cn_en_1_47 = ` `;
-const sutra_cn_en_1_48 = ` `;
+const sutra_cn_en_1_48 = `1 N/A
+2 rallied:集结| strength:力气|
+3 N/A
+4 possession:所有物, 产业| descendant:后裔
+5 reckoned:推想,合算
+6 territory:领地| inherit:继承
+7 sorrow:悲哀| buried:葬
+8 N/A
+9 N/A
+10 embrace:抱
+11 N/A
+12 knees:膝| bowed down:下拜
+13 N/A
+14 N/A
+15 faithfully:忠诚地| shepherd:牧羊人
+16 delivered :解救,拯救|harm:患难
+17 displeased:不喜悦
+18 N/A
+19 refused:不从| descendant:后裔
+20 pronounce:发言
+21 N/A
+22 ridge:岭,块 `;
 const sutra_cn_en_1_49 = `1 N/A
 2 Assemble:聚集
 3 excelling:卓越
