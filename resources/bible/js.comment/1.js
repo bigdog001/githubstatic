@@ -32,7 +32,32 @@ const sutra_cn_en_1_46 = ` `;
 const sutra_cn_en_1_47 = ` `;
 const sutra_cn_en_1_48 = ` `;
 const sutra_cn_en_1_49 = ` `;
-const sutra_cn_en_1_50 = ` `;
+const sutra_cn_en_1_50 = `1 wept:哀哭
+2 direct:吩咐,指导| physician:医生| embalm:防腐剂,防腐处理
+3 embalm:防腐剂,防腐处理| mourned:哀悼,哀哭
+4 mourned:哀悼,哀哭
+5 swear:起誓| bury:葬| tomb:坟墓| dug:掘
+6 bury:葬|swear:起誓
+7 bury:葬| official:臣仆,官员| accompanied:伴随| dignitaries:达官显贵
+8 household:家| belonging:所有物,财物| flock:羊群| herds:畜群
+9 Chariots :战车|horsemen:马兵| company:连队.队伍
+10 threshing floor:禾场,打谷场| bitterly:极,痛,极痛| observed:遵守| mourning:追悼,服丧
+11 mourning:追悼,服丧|threshing floor:禾场,打谷场| solemn:庄严,庄重| ceremony:仪式|
+12 commanded:吩咐
+13 buried:葬| cave:洞| field:田间
+14 N/A
+15 grudge:怨恨,恨|
+16 instruction:吩咐
+17 forgive:饶恕| sin:罪孽| treating:对待| servant:仆人| wept:哭
+18 N/A
+19 N/A
+20 harm:害| accomplish:达成,办到
+21 reassured:放心,安慰
+22 N/A
+23 N/A
+24 promised:承诺
+25 swear:起誓
+26 embalm:防腐剂,防腐处理| coffin:棺材 `;
 
 
 
