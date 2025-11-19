@@ -27,7 +27,34 @@ const sutra_cn_en_1_41 = ` `;
 const sutra_cn_en_1_42 = ` `;
 const sutra_cn_en_1_43 = ` `;
 const sutra_cn_en_1_44 = ` `;
-const sutra_cn_en_1_45 = ` `;
+const sutra_cn_en_1_45 = `1 attendant:侍者,跟班|
+2 wept:哭泣| household:家
+3 terrify:惊惶,惊恐
+4 N/A
+5 distressed:苦恼,忧恨|
+6 famine:饥荒| plowing:耕作| reaping:收割,收获
+7 preserve:保全| remnant:残余,存留| deliverance:拯救,解救
+8 N/A
+9 hurry:匆忙| delay:耽延
+10 region:地区| flock:羊群| herd:牛群,畜群
+11 famine:饥荒| destitute:贫困
+12 N/A
+13 honor:荣耀| accorded:符合,给予|
+14 wept:哭| embraced:拥抱
+15 wept:哭
+16 official:官员,臣仆
+17 N/A
+18 N/A
+19 N/A
+20 belonging:财物
+21 provision:食品,供应
+22 shekel:金钱
+23 donkey:驴| female:母,雌性| grain:粮食|provision:食品,供应
+24 quarrel:争吵
+25 N/A
+26 stunned:目瞪口呆
+27 spirit:精神,灵魂,心灵| revive:复活,复苏,苏醒
+28 convinced:使信服,深信的 `;
 const sutra_cn_en_1_46 = `1 sacrifices:献祭,牺牲
 2 vision:预知,梦见,异象
 3 N/A
