@@ -284,7 +284,7 @@
         margin: 0 60px;
     }
     #pageFooter {
-        text-align: center;;
+        text-align: center;
         position: fixed;
         left: 0;
         bottom: 0;
@@ -304,10 +304,11 @@
     }
     span{
         font-size: large;
-		display: block;
-		 /* margin-bottom: 3px; */
+        display: block;
+        /* margin-bottom: 3px; */
         /* margin-top: 3px; */
     }
+    
     p{
         font-size: small;
     }
@@ -316,8 +317,7 @@
     }
     span:hover {
         color:red;
-		font-size: xx-large;
-		margin-bottom: 8px;
+		/* font-size: xx-large; */
     }
 </style>
 
@@ -392,7 +392,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p style="display:none;">${sutraCNs[k]}</p> <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
+            body_data += `<span class="sutra_en_items" id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p style="display:none;">${sutraCNs[k]}</p> <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
@@ -468,6 +468,16 @@
              });
         }
     }
+
+    function fullScreen(){
+        if (!document.fullscreenElement) {
+            document.documentElement.requestFullscreen();
+        } else {
+            if (document.exitFullscreen) {
+                document.exitFullscreen();
+            }
+        }
+	}
 
     function handleShowComment(){
         const checkbox = document.getElementById("showComment");
@@ -560,10 +570,11 @@
 </select>
 
 <select id="subChapterSelect" onchange="loadSubChapter()"></select>
-<button onclick="buildComments()">Build</button>
+<button onclick="buildComments()">Build</button>&nbsp;<button onclick="fullScreen()">FullScreen</button>
 <input type="checkbox" id="showCN" onclick="handleShowCN()" />Show CN
 <input type="checkbox" id="showComment" onclick="handleShowComment()" />Show Comment
 <br/><br/>
+<h2 style="text-align: center;"> </h2>
 <div id="contents"></div>
 <div id="pageFooter"></div>
 
