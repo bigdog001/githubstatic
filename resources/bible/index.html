@@ -278,6 +278,7 @@
 
 
 
+ 
  <style type="text/css">
 
 
@@ -389,7 +390,7 @@
         const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const size_sutra = sutraCNs.length;
         console.log(`size_sutra:${size_sutra}`)
-        
+        document.getElementById("sutra_title").innerText = `${targetChapter} ${sutra_titles[targetChapter-1][1]} / ${sutra_titles[targetChapter-1][0]} `;
         var body_data = "";
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
@@ -576,7 +577,7 @@
 <input type="checkbox" id="showCN" onclick="handleShowCN()" />Show CN
 <input type="checkbox" id="showComment" onclick="handleShowComment()" />Show Comment
 <br/><br/>
-<h2 style="text-align: center;"> </h2>
+<h2 style="text-align: center;" id="sutra_title"> </h2>
 <div id="contents"></div>
 <div id="pageFooter"></div>
 
