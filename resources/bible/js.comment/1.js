@@ -29,7 +29,37 @@ const sutra_cn_en_1_43 = ` `;
 const sutra_cn_en_1_44 = ` `;
 const sutra_cn_en_1_45 = ` `;
 const sutra_cn_en_1_46 = ` `;
-const sutra_cn_en_1_47 = ` `;
+const sutra_cn_en_1_47 = `1 flocks:羊群| herds:畜群
+2 N/A
+3 occupation:职业| shepherds:牧羊人
+4 famine:饥荒| severe:严重|flocks:羊群| pasture:牧草| settle:定居
+5 N/A
+6 settle:定居| ability:才能| livestock:牲畜
+7 N/A
+8 N/A
+9 pilgrimage:朝圣,朝觐|
+10 N/A
+11 N/A
+12 N/A
+13 region:地区| famine:饥荒| severe:严重| wasted away :饿昏,消瘦
+14 grain:粮食
+15 N/A
+16 livestock:牲畜
+17 livestock:牲畜| sheep:绵羊| goats:山羊| cattle:黄牛| donkeys:驴
+18 N/A
+19 perish:毁灭| bondage:束缚,奴役| desolate:荒凉
+20 famine:饥荒
+21 reduced:减少,还原| servitude:奴役
+22 priests:祭司| allotment:配给
+23 N/A
+24 crop:庄稼
+25 bondage:束缚,奴役
+26 established:设立,创建| priests:祭司
+27 settled:定居| region:地区| acquired:获得
+28 N/A
+29 thigh:大腿| promise:承诺
+30 N/A
+31 swore:起誓| leaned:屈身 `;
 const sutra_cn_en_1_48 = `1 N/A
 2 rallied:集结| strength:力气|
 3 N/A
