@@ -26,7 +26,40 @@ const sutra_cn_en_1_40 = ` `;
 const sutra_cn_en_1_41 = ` `;
 const sutra_cn_en_1_42 = ` `;
 const sutra_cn_en_1_43 = ` `;
-const sutra_cn_en_1_44 = ` `;
+const sutra_cn_en_1_44 = `1 instruction:指示,吩咐| steward:管家| sacks:麻袋
+2 grain:粮
+3 dawned:黎明| donkey:驴
+4 steward:管家| repaid:偿.偿报| evil:恶
+5 divination:占卜| wicked:邪恶
+6 N/A
+7 servant:仆人
+8 sack:口袋,麻袋| steal:偷窃
+9 servant:仆人
+10 N/A
+11 lowered:降下,卸下|sack:口袋,麻袋
+12 steward:管家| proceeded:继续|sack:口袋,麻袋
+13 tore:撕裂
+14 N/A
+15 divination:占卜
+16 prove:证明| innocence:无辜| uncovered:清查,拆穿
+17 N/A
+18 N/A
+19 servant:仆人
+20 N/A
+21 servant:仆人
+22 N/A
+23 servant:仆人
+24 servant:仆人
+25 N/A
+26 N/A
+27 servant:仆人
+28 torn:撕
+29 harm:遭害,伤害| gray:白发苍苍,灰白| grave:坟墓| misery:苦难,苦楚
+30 servant:仆人|bound up :捆绑
+31 servant:仆人|gray:白发苍苍,灰白|grave:坟墓| sorrow:悲楚,悲哀
+32 servant:仆人| guaranteed:保证| blame:责备
+33 servant:仆人
+34 misery:苦难,苦楚 `;
 const sutra_cn_en_1_45 = `1 attendant:侍者,跟班|
 2 wept:哭泣| household:家
 3 terrify:惊惶,惊恐
