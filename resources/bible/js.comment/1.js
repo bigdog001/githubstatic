@@ -28,7 +28,40 @@ const sutra_cn_en_1_42 = ` `;
 const sutra_cn_en_1_43 = ` `;
 const sutra_cn_en_1_44 = ` `;
 const sutra_cn_en_1_45 = ` `;
-const sutra_cn_en_1_46 = ` `;
+const sutra_cn_en_1_46 = `1 sacrifices:献祭,牺牲
+2 vision:预知,梦见,异象
+3 N/A
+4 N/A
+5 N/A
+6 offspring:子孙,后裔| livestock:牲畜| possession:货财| acquired:所得的,获得
+7 grandson:孙子| granddaughter:孙女|offspring:子孙,后裔
+8 descendant:后代
+9 N/A
+10 N/A
+11 N/A
+12 N/A
+13 N/A
+14 N/A
+15 N/A
+16 N/A
+17 N/A
+18 N/A
+19 N/A
+20 N/A
+21 N/A
+22 N/A
+23 N/A
+24 N/A
+25 N/A
+26 direct descendant:直系后裔
+27 N/A
+28 N/A
+29 chariot:战车| wept:哭
+30 N/A
+31 household:全家,家
+32 shepherd:牧羊人| tend:照料,养育| livestock:牲畜| flock:羊群| herds:畜群
+33 occupation:职业
+34 servant:仆人|tend:照料,养育|livestock:牲畜| boyhood:幼年| settle:定居| region:地区| shepherd:牧羊人| detestable:可恨,可恶 `;
 const sutra_cn_en_1_47 = `1 flocks:羊群| herds:畜群
 2 N/A
 3 occupation:职业| shepherds:牧羊人
