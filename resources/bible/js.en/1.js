@@ -394,7 +394,7 @@ const sutra_en_1_16 = `1 Now Sarai, Abram’s wife, had borne him no children. B
 12 He will be a wild donkey of a man; his hand will be against everyone and everyone’s hand against him, and he will live in hostility toward all his brothers.”
 13 She gave this name to the LORD who spoke to her: “You are the God who sees me,” for she said, “I have now seen the One who sees me.”
 14 That is why the well was called Beer Lahai Roi ; it is still there, between Kadesh and Bered.
-15 So Hagar borne Abram a son, and Abram gave the name Ishmael to the son she had borne.
+15 So Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne.
 16 Abram was eighty-six years old when Hagar bore him Ishmael. `;
 const sutra_en_1_17 = `1 When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty ; walk before me faithfully and be blameless.
 2 Then I will make my covenant between me and you and will greatly increase your numbers.”
