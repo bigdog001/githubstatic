@@ -393,7 +393,7 @@
         const words = (sutraEN.match(/\b[\w']+\b/g) || []);
         // console.log(words.map((w,i)=>`${i+1}. ${w}\n`).join('')); 
         dictionary_text = words.map((w,i)=>` <a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a>`).join('');
-        console.log(`dictionary_text:${dictionary_text}`); 
+        //console.log(`dictionary_text:${dictionary_text}`); 
         return dictionary_text;
     }
 
