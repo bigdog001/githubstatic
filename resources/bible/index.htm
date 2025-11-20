@@ -22,6 +22,7 @@
         <style>.bd-placeholder-img{font-size:1.125rem;text-anchor:middle;-webkit-user-select:none;-moz-user-select:none;user-select:none}@media (min-width: 768px){.bd-placeholder-img-lg{font-size:3.5rem}}.b-example-divider{width:100%;height:3rem;background-color:#0000001a;border:solid rgba(0,0,0,.15);border-width:1px 0;box-shadow:inset 0 .5em 1.5em #0000001a,inset 0 .125em .5em #00000026}.b-example-vr{flex-shrink:0;width:1.5rem;height:100vh}.bi{vertical-align:-.125em;fill:currentColor}.nav-scroller{position:relative;z-index:2;height:2.75rem;overflow-y:hidden}.nav-scroller .nav{display:flex;flex-wrap:nowrap;padding-bottom:1rem;margin-top:-1px;overflow-x:auto;text-align:center;white-space:nowrap;-webkit-overflow-scrolling:touch}.btn-bd-primary{--bd-violet-bg: #712cf9;--bd-violet-rgb: 112.520718, 44.062154, 249.437846;--bs-btn-font-weight: 600;--bs-btn-color: var(--bs-white);--bs-btn-bg: var(--bd-violet-bg);--bs-btn-border-color: var(--bd-violet-bg);--bs-btn-hover-color: var(--bs-white);--bs-btn-hover-bg: #6528e0;--bs-btn-hover-border-color: #6528e0;--bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);--bs-btn-active-color: var(--bs-btn-hover-color);--bs-btn-active-bg: #5a23c8;--bs-btn-active-border-color: #5a23c8}.bd-mode-toggle{z-index:1500}.bd-mode-toggle .bi{width:1em;height:1em}.bd-mode-toggle .dropdown-menu .active .bi{display:block!important}</style>
 </head> 
 
+	<script src="https://githubstatic.cloud-ip.net/resources/bible/js/title.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js/1.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js/2.js"></script>
     <script src="https://githubstatic.cloud-ip.net/resources/bible/js/3.js"></script>
@@ -157,21 +158,50 @@
  
 
  <style type="text/css">
+
+
+    body { margin:0; padding-bottom:56px; } /* prevent overlap */
+    #contents{
+        margin: 0 60px;
+    }
+    #pageFooter {
+        text-align: center;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background: #f5f5f5;
+        border-top: 1px solid #ccc;
+        padding: 8px 12px;
+        font: 18px/1.4 system-ui, sans-serif;
+        color:#333;
+        /* font-size: normal; */
+        z-index: 1000;
+    }
+
     a {
         text-decoration: none;
         color: blue;
     }
     span{
-        font-size: xx-large;
+        font-size: large;
+        display: block;
+        /* margin-bottom: 3px; */
+        /* margin-top: 3px; */
     }
+    
     p{
         font-size: small;
+    }
+    p.dictionary_text{
+        font-size: large;
     }
     a:hover {
         color:red;
     }
     span:hover {
         color:red;
+		/* font-size: xx-large; */
     }
 </style>
 
@@ -230,17 +260,33 @@
             displayChpterItem( targetChapter , targetParagraph);
     });
 
+     function displaySubtitle(subtitle){
+        const subtitleEl = document.getElementById("pageFooter");
+        subtitleEl.innerText = subtitle;
+
+    }
+
+    function BuildDictionaryItem(sutraEN){
+        var dictionary_text = "";
+        const words = (sutraEN.match(/\b[\w']+\b/g) || []);
+        // console.log(words.map((w,i)=>`${i+1}. ${w}\n`).join('')); 
+        dictionary_text = words.map((w,i)=>` &nbsp;<a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a> &nbsp;`).join('');
+        //console.log(`dictionary_text:${dictionary_text}`); 
+        return dictionary_text;
+    }
+
     function displayChpterItem( targetChapter , targetParagraph){
         const sutraCNs = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const size_sutra = sutraCNs.length;
         console.log(`size_sutra:${size_sutra}`)
-        
+        document.getElementById("sutra_title").innerText = `${targetChapter} ${sutra_titles[targetChapter-1][1]} / Chapter ${targetParagraph}`;
         var body_data = "";
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            body_data += `<span onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p href="#">${sutraCNs[k]}</p> <input type="text" id="comment_${k}" style="width:70%" value="N/A"/><br/><br/>`;
+            const dictionary_item= "<p class='dictionary_text' style='display:none;'>"+ BuildDictionaryItem(sutraENs[k])+"</p>";
+            body_data += `<span class="sutra_en_items" id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p style="display:none;" class="sutra_cn_text">${sutraCNs[k]}</p> ${dictionary_item} <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
         }
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
@@ -254,12 +300,6 @@
                     subChapterSelect.appendChild(option);
                 }
          }
-    }
-
-    function displaySubtitle(subtitle){
-        const subtitleEl = document.getElementById("subtitle");
-        subtitleEl.innerText = subtitle;
-
     }
 
     function loadSubChapter(){
@@ -309,91 +349,153 @@
 
     }
 
+    function handleShowCN(){
+        const checkbox = document.getElementById("showCN");
+        if (checkbox.checked) {
+             console.log("Show CN checked");
+             document.querySelectorAll('p.sutra_cn_text').forEach(input => {
+                 input.style.display = 'block';
+             });
+        } else {
+            document.querySelectorAll('p.sutra_cn_text').forEach(input => {
+                 input.style.display = 'none';
+             });
+        }
+    }
+
+    function fullScreen(){
+        if (!document.fullscreenElement) {
+            document.documentElement.requestFullscreen();
+        } else {
+            if (document.exitFullscreen) {
+                document.exitFullscreen();
+            }
+        }
+	}
+
+    function handleShowComment(){
+        const checkbox = document.getElementById("showComment");
+         if (checkbox.checked) {
+             console.log("Show Comment checked");
+             document.querySelectorAll('input.my-comment').forEach(input => {
+                 input.style.display = 'block';
+             });
+        } else {
+            console.log("Show Comment unchecked");
+            document.querySelectorAll('input.my-comment').forEach(input => {
+                 input.style.display = 'none';
+             });
+        }
+    }
+
+    function handleShowDictionary(){
+        const checkbox = document.getElementById("showDictionary");
+         if (checkbox.checked) {
+             console.log("Show Dictionary checked");
+             document.querySelectorAll('p.dictionary_text').forEach(input => {
+                 input.style.display = 'block';
+             });
+        } else {
+            console.log("Show Dictionary unchecked");
+            document.querySelectorAll('p.dictionary_text').forEach(input => {
+                 input.style.display = 'none';
+             });
+        }
+    }
+
+   
+
+
+    
 
 // const anotherText = "First line\r\nSecond line";
 // const anotherLines = anotherText.split(/\r?\n/);
 // console.log(anotherLines);
 // Output: ["First line", "Second line"]
     </script>
-<body> 
-
-    <select class="form-select form-select-lg mb-3" id="bookSelect" onchange="loadBook()">
-    <option value="1">1-创世记</option>
-    <option value="2">2-出埃及记</option>
-    <option value="3">3-利未记</option>
-    <option value="4">4-民数记</option>
-    <option value="5">5-申命记</option>
-    <option value="6">6-约书亚记</option>
-    <option value="7">7-士师记</option>
-    <option value="8">8-路得记</option>
-    <option value="9">9-撒母耳记上</option>
-    <option value="10">10-撒母耳记下</option>
-    <option value="11">11-列王纪上</option>
-    <option value="12">12-列王纪下</option>
-    <option value="13">13-历代志上</option>
-    <option value="14">14-历代志下</option>
-    <option value="15">15-以斯拉记</option>
-    <option value="16">16-尼希米记</option>
-    <option value="17">17-以斯帖记</option>
-    <option value="18">18-约伯记</option>
-    <option value="19">19-诗篇</option>
-    <option value="20">20-箴言</option>
-    <option value="21">21-传道书</option>
-    <option value="22">22-雅歌</option>
-    <option value="23">23-以赛亚书</option>
-    <option value="24">24-耶利米书</option>
-    <option value="25">25-耶利米哀歌</option>
-    <option value="26">26-以西结书</option>
-    <option value="27">27-但以理书</option>
-    <option value="28">28-何西阿书</option>
-    <option value="29">29-约珥书</option>
-    <option value="30">30-阿摩司书</option>
-    <option value="31">31-俄巴底亚书</option>
-    <option value="32">32-约拿书</option>
-    <option value="33">33-弥迦书</option>
-    <option value="34">34-那鸿书</option>
-    <option value="35">35-哈巴谷书</option>
-    <option value="36">36-西番雅书</option>
-    <option value="37">37-哈该书</option>
-    <option value="38">38-撒迦利亚书</option>
-    <option value="39">39-玛拉基书</option>
-    <option value="40">40-马太福音</option>
-    <option value="41">41-马可福音</option>
-    <option value="42">42-路加福音</option>
-    <option value="43">43-约翰福音</option>
-    <option value="44">44-使徒行传</option>
-    <option value="45">45-罗马书</option>
-    <option value="46">46-哥林多前书</option>
-    <option value="47">47-哥林多后书</option>
-    <option value="48">48-加拉太书</option>
-    <option value="49">49-以弗所书</option>
-    <option value="50">50-腓立比书</option>
-    <option value="51">51-歌罗西书</option>
-    <option value="52">52-帖撒罗尼迦前书</option>
-    <option value="53">53-帖撒罗尼迦后书</option>
-    <option value="54">54-提摩太前书</option>
-    <option value="55">55-提摩太后书</option>
-    <option value="56">56-提多书</option>
-    <option value="57">57-腓利门书</option>
-    <option value="58">58-希伯来书</option>
-    <option value="59">59-雅各书</option>
-    <option value="60">60-彼得前书</option>
-    <option value="61">61-彼得后书</option>
-    <option value="62">62-约翰一书</option>
-    <option value="63">63-约翰二书</option>
-    <option value="64">64-约翰三书</option>
-    <option value="65">65-犹大书</option>
-    <option value="66">66-启示录</option>
+<select id="bookSelect" onchange="loadBook()">
+    <option value="1">1-创世记/Genesis has 50 chapters</option>
+    <option value="2">2-出埃及记/Exodus has 40 chapters</option>
+    <option value="3">3-利未记/Leviticus has 27 chapters</option>
+    <option value="4">4-民数记/Numbers has 36 chapters</option>
+    <option value="5">5-申命记/Deuteronomy has 34 chapters</option>
+    <option value="6">6-约书亚记/Joshua has 24 chapters</option>
+    <option value="7">7-士师记/Judges has 21 chapters</option>
+    <option value="8">8-路得记/Ruth has 4 chapters</option>
+    <option value="9">9-撒母耳记上/1 Samuel has 31 chapters</option>
+    <option value="10">10-撒母耳记下/2 Samuel has 24 chapters</option>
+    <option value="11">11-列王纪上/1 Kings has 22 chapters</option>
+    <option value="12">12-列王纪下/2 Kings has 25 chapters</option>
+    <option value="13">13-历代志上/1 Chronicles has 29 chapters</option>
+    <option value="14">14-历代志下/2 Chronicles has 36 chapters</option>
+    <option value="15">15-以斯拉记/ Ezra has 10 chapters</option>
+    <option value="16">16-尼希米记/Nehemiah has 13 chapters</option>
+    <option value="17">17-以斯帖记/Esther has 10 chapters</option>
+    <option value="18">18-约伯记/Job has 42 chapters</option>
+    <option value="19">19-诗篇/Psalms has 150 chapters</option>
+    <option value="20">20-箴言/Proverbs has 31 chapters</option>
+    <option value="21">21-传道书/Ecclesiastes has 12 chapters</option>
+    <option value="22">22-雅歌/Song of Solomon has 8 chapters</option>
+    <option value="23">23-以赛亚书/Isaiah has 66 chapters</option>
+    <option value="24">24-耶利米书/Jeremiah has 52 chapters</option>
+    <option value="25">25-耶利米哀歌/Lamentations has 5 chapters</option>
+    <option value="26">26-以西结书/Ezekiel has 48 chapters</option>
+    <option value="27">27-但以理书/Daniel has 12 chapters</option>
+    <option value="28">28-何西阿书/Hosea has 14 chapters</option>
+    <option value="29">29-约珥书/Joel has 3 chapters</option>
+    <option value="30">30-阿摩司书/Amos has 9 chapters</option>
+    <option value="31">31-俄巴底亚书/Obadiah has 1 chapter</option>
+    <option value="32">32-约拿书/Jonah has 4 chapters</option>
+    <option value="33">33-弥迦书/Micah has 7 chapters</option>
+    <option value="34">34-那鸿书/Nahum has 3 chapters</option>
+    <option value="35">35-哈巴谷书/Habakkuk has 3 chapters</option>
+    <option value="36">36-西番雅书/Zephaniah has 3 chapters</option>
+    <option value="37">37-哈该书/Haggai has 2 chapters</option>
+    <option value="38">38-撒迦利亚书/Zechariah has 14 chapters</option>
+    <option value="39">39-玛拉基书/Malachi has 4 chapters</option>
+    <option value="40">40-马太福音/Matthew has 28 chapters</option>
+    <option value="41">41-马可福音/Mark has 16 chapters</option>
+    <option value="42">42-路加福音/Luke has 24 chapters</option>
+    <option value="43">43-约翰福音/John has 21 chapters</option>
+    <option value="44">44-使徒行传/Acts has 28 chapters</option>
+    <option value="45">45-罗马书/Romans has 16 chapters</option>
+    <option value="46">46-哥林多前书/1 Corinthians has 16 chapters</option>
+    <option value="47">47-哥林多后书/2 Corinthians has 13 chapters</option>
+    <option value="48">48-加拉太书/Galatians has 6 chapters</option>
+    <option value="49">49-以弗所书/Ephesians has 6 chapters</option>
+    <option value="50">50-腓立比书/Philippians has 4 chapters</option>
+    <option value="51">51-歌罗西书/Colossians has 4 chapters</option>
+    <option value="52">52-帖撒罗尼迦前书/1 Thessalonians has 5 chapters</option>
+    <option value="53">53-帖撒罗尼迦后书/2 Thessalonians has 3 chapters</option>
+    <option value="54">54-提摩太前书/1 Timothy has 6 chapters</option>
+    <option value="55">55-提摩太后书/2 Timothy has 4 chapters</option>
+    <option value="56">56-提多书/Titus has 3 chapters</option>
+    <option value="57">57-腓利门书/Philemon has 1 chapter</option>
+    <option value="58">58-希伯来书/Hebrews has 13 chapters</option>
+    <option value="59">59-雅各书/James has 5 chapters</option>
+    <option value="60">60-彼得前书/1 Peter has 5 chapters</option>
+    <option value="61">61-彼得后书/2 Peter has 3 chapters</option>
+    <option value="62">62-约翰一书/1 John has 5 chapters</option>
+    <option value="63">63-约翰二书/2 John has 1 chapter</option>
+    <option value="64">64-约翰三书/3 John has 1 chapter</option>
+    <option value="65">65-犹大书/Jude has 1 chapter</option>
+    <option value="66">66-启示录/Revelation has 22 chapters</option>
 </select>
 
-<select class="form-select form-select-lg mb-3"  id="subChapterSelect" onchange="loadSubChapter()"></select>
-<button onclick="buildComments()">Build</button>
+<select id="subChapterSelect" onchange="loadSubChapter()"></select>
+<button onclick="buildComments()">Build</button>&nbsp;<button onclick="fullScreen()">FullScreen</button>
+<input type="checkbox" id="showCN" onclick="handleShowCN()" />CN
+<input type="checkbox" id="showComment" onclick="handleShowComment()" />Comment
+<input type="checkbox" id="showDictionary" onclick="handleShowDictionary()" />Dictionary
+<br/><br/>
 
 
 
 
 <main class="container"> 
+	<h2 style="text-align: center;" id="sutra_title"> </h2> &nbsp;&nbsp; <h2 style="text-align: center;" id="chapter_title"></h2> 
       <div id="contents"></div>
 </main>   
+	<div id="pageFooter"></div>
 <script src="https://getbootstrap.com/docs/5.3/dist/js/bootstrap.bundle.min.js" class="astro-vvvwv3sm"></script>  
 </body> </html>
