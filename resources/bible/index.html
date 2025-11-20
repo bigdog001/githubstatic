@@ -278,7 +278,7 @@
 
 
 
- 
+
  <style type="text/css">
 
 
@@ -314,6 +314,9 @@
     
     p{
         font-size: small;
+    }
+    p.dictionary_text{
+        font-size: large;
     }
     a:hover {
         color:red;
@@ -389,7 +392,7 @@
         var dictionary_text = "";
         const words = (sutraEN.match(/\b[\w']+\b/g) || []);
         // console.log(words.map((w,i)=>`${i+1}. ${w}\n`).join('')); 
-        dictionary_text = words.map((w,i)=>` <a class="dictionary_text" target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" style='display:none;'>${w}</a>`).join('');
+        dictionary_text = words.map((w,i)=>` <a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a>`).join('');
         console.log(`dictionary_text:${dictionary_text}`); 
         return dictionary_text;
     }
@@ -404,7 +407,7 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            const dictionary_item=BuildDictionaryItem(sutraENs[k]);
+            const dictionary_item= "<p class='dictionary_text' style='display:none;'>"+ BuildDictionaryItem(sutraENs[k])+"</p>";
             body_data += `<span class="sutra_en_items" id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p style="display:none;" class="sutra_cn_text">${sutraCNs[k]}</p> ${dictionary_item} <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
         }
         const contentEl = document.getElementById("contents");
@@ -511,12 +514,12 @@
         const checkbox = document.getElementById("showDictionary");
          if (checkbox.checked) {
              console.log("Show Dictionary checked");
-             document.querySelectorAll('a.dictionary_text').forEach(input => {
-                 input.style.display = 'inline';
+             document.querySelectorAll('p.dictionary_text').forEach(input => {
+                 input.style.display = 'block';
              });
         } else {
             console.log("Show Dictionary unchecked");
-            document.querySelectorAll('a.dictionary_text').forEach(input => {
+            document.querySelectorAll('p.dictionary_text').forEach(input => {
                  input.style.display = 'none';
              });
         }
@@ -610,6 +613,7 @@
 <h2 style="text-align: center;" id="sutra_title"> </h2> &nbsp;&nbsp; <h2 style="text-align: center;" id="chapter_title"></h2> 
 <div id="contents"></div>
 <div id="pageFooter"></div>
+	
 
 
 
