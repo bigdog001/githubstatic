@@ -67,8 +67,14 @@
         return dictionary_text;
     }
 
+	var player_sutra;
 	function playme(mp3_url){
-        new Audio(mp3_url).play();
+        if(player_sutra){
+			player_sutra.stop();
+		}else{
+			player_sutra = new Audio(mp3_url);
+			player_sutra.play()
+		}
     }
 
     function displayChpterItem( targetChapter , targetParagraph){
