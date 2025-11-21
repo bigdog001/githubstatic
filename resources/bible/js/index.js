@@ -85,7 +85,7 @@
             body_data += `<span class="sutra_en_items" id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p style="display:none;" class="sutra_cn_text">${sutraCNs[k]}</p> ${dictionary_item} <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
         }
 		//cn_mp3_urls
-		body_data+= `<br/><br/> <span onclick=playme("${cn_mp3_urls[targetChapter-1][targetParagraph-1]}") >@</span><br/><br/>`;
+		body_data+= `<br/><br/> <span onclick=playme("${cn_mp3_urls[targetChapter-1][targetParagraph-1]}") >@</span> &nbsp;&nbsp; <span onclick=playme("${en_mp3_urls[targetChapter-1][targetParagraph-1]}") >@En</span><br/><br/>`;
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
         const subChapterSelect = document.getElementById("subChapterSelect");
