@@ -68,9 +68,7 @@
     }
 
 	var player_cn ;
-	var player_en;
 	var player_cn_flag = 0;
-	var player_en_flag = 0;
 	function playcn(){
 		if(player_cn_flag === 0){
 			console.log("cn mp3 play..");
@@ -83,6 +81,8 @@
 		}
     }
 
+	var player_en;
+	var player_en_flag = 0;
 	function playen(){
          if(player_en_flag === 0){
 			 console.log("en mp3 play..");
@@ -95,11 +95,21 @@
 		}
     }
 
+	
+
 	function audioPlay(){
 		console.log("audioPlay.......");
 		const audioSelect = document.getElementById("audioSelect");
         const selectedValue = audioSelect.value;
 		console.log(`audioPlay...${selectedValue}....`);
+		//const cn_mp3_urls=<option value="1">CN</option>
+		//const en_MaxMcLean_mp3_urls=<option value="2" selected>Max McLean</option>
+		//const en_Dramatized_mp3_urls=<option value="3">Dramatized</option>
+		//const en_GeorgeWSarris_mp3_urls=<option value="4">George W.Sarris</option>
+		//const en_Anglicised_mp3_urls=<option value="5">Anglicised</option>
+
+	
+		
 		
 	}
 
