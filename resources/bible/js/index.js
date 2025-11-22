@@ -67,8 +67,28 @@
         return dictionary_text;
     }
 
-	function playme(mp3_url){
-         new Audio(mp3_url).play();
+	var player_cn ;
+	var player_en;
+	var player_cn_flag = 0;
+	var player_en_flag = 0;
+	function playcn(){
+		if(player_cn_flag == 0){
+			player_cn.play();
+			player_cn_flag = 1 ;
+		}else{
+			player_cn.stop();
+			player_cn_flag = 0 ;
+		}
+    }
+
+	function playen(){
+         if(player_en_flag == 0){
+			player_en.play();
+			player_en_flag = 1 ;
+		}else{
+			player_en.stop();
+			player_en_flag = 0 ;
+		}
     }
 
     function displayChpterItem( targetChapter , targetParagraph){
@@ -84,8 +104,10 @@
             const dictionary_item= "<p class='dictionary_text' style='display:none;'>"+ BuildDictionaryItem(sutraENs[k])+"</p>";
             body_data += `<span class="sutra_en_items" id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}')">${sutraENs[k]}</span> <p style="display:none;" class="sutra_cn_text">${sutraCNs[k]}</p> ${dictionary_item} <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
         }
-		//cn_mp3_urls
-		body_data+= `<br/><br/> <span onclick=playme("${cn_mp3_urls[targetChapter-1][targetParagraph-1]}") >@</span> &nbsp;&nbsp; <span onclick=playme("${en_mp3_urls[targetChapter-1][targetParagraph-1]}") >@En</span><br/><br/>`;
+		
+		player_cn = new Audio(cn_mp3_urls[targetChapter-1][targetParagraph-1]);
+		player_en = new Audio(en_mp3_urls[targetChapter-1][targetParagraph-1]);
+		body_data+= `<br/><br/> <span onclick=playcn() >@</span> &nbsp;&nbsp; <span onclick=playen() >@En</span><br/><br/>`;
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
         const subChapterSelect = document.getElementById("subChapterSelect");
