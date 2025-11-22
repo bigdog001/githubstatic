@@ -72,20 +72,24 @@
 	var player_cn_flag = 0;
 	var player_en_flag = 0;
 	function playcn(){
-		if(player_cn_flag == 0){
+		if(player_cn_flag === 0){
+			console.log("cn mp3 play..");
 			player_cn.play();
 			player_cn_flag = 1 ;
 		}else{
+			console.log("cn mp3 stop..");
 			player_cn.stop();
 			player_cn_flag = 0 ;
 		}
     }
 
 	function playen(){
-         if(player_en_flag == 0){
+         if(player_en_flag === 0){
+			 console.log("en mp3 play..");
 			player_en.play();
 			player_en_flag = 1 ;
 		}else{
+			console.log("en mp3 stop..");
 			player_en.stop();
 			player_en_flag = 0 ;
 		}
