@@ -78,7 +78,7 @@
 			player_cn_flag = 1 ;
 		}else{
 			console.log("cn mp3 stop..");
-			player_cn.stop();
+			player_cn.pause();
 			player_cn_flag = 0 ;
 		}
     }
@@ -90,7 +90,7 @@
 			player_en_flag = 1 ;
 		}else{
 			console.log("en mp3 stop..");
-			player_en.stop();
+			player_en.pause();
 			player_en_flag = 0 ;
 		}
     }
