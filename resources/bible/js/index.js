@@ -81,21 +81,66 @@
 		}
     }
 
-	var player_en;
-	var player_en_flag = 0;
-	function playen(){
-         if(player_en_flag === 0){
-			 console.log("en mp3 play..");
-			player_en.play();
-			player_en_flag = 1 ;
+	var player_en_MaxMcLean;
+	var player_en_MaxMcLean_flag = 0;
+	function playEnMaxMcLean(){
+         if(player_en_MaxMcLean_flag === 0){
+			 console.log("en_MaxMcLean mp3 play..");
+			player_en_MaxMcLean.play();
+			player_en_MaxMcLean_flag = 1 ;
 		}else{
-			console.log("en mp3 stop..");
-			player_en.pause();
-			player_en_flag = 0 ;
+			console.log("en_MaxMcLean stop..");
+			player_en_MaxMcLean.pause();
+			player_en_MaxMcLean_flag = 0 ;
 		}
     }
 
+
 	
+	var player_en_Dramatized;
+	var player_en_Dramatized_flag = 0;
+	function playEnDramatized(){
+         if(player_en_Dramatized_flag === 0){
+			 console.log("player_en_Dramatized mp3 play..");
+			player_en_Dramatized.play();
+			player_en_Dramatized_flag = 1 ;
+		}else{
+			console.log("player_en_Dramatized stop..");
+			player_en_Dramatized.pause();
+			player_en_Dramatized_flag = 0 ;
+		}
+    }
+
+
+	var player_en_GeorgeWSarris;
+	var player_en_GeorgeWSarris_flag = 0;
+	function playEnGeorgeWSarris(){
+         if(player_en_GeorgeWSarris_flag === 0){
+			 console.log("player_en_GeorgeWSarris mp3 play..");
+			player_en_GeorgeWSarris.play();
+			player_en_GeorgeWSarris_flag = 1 ;
+		}else{
+			console.log("player_en_GeorgeWSarris stop..");
+			player_en_GeorgeWSarris.pause();
+			player_en_GeorgeWSarris_flag = 0 ;
+		}
+    }
+
+
+	var player_en_Anglicised;
+	var player_en_Anglicised_flag = 0;
+	function playEnAnglicised(){
+         if(player_en_Anglicised_flag === 0){
+			 console.log("player_en_Anglicised mp3 play..");
+			player_en_Anglicised.play();
+			player_en_Anglicised_flag = 1 ;
+		}else{
+			console.log("player_en_Anglicised stop..");
+			player_en_Anglicised.pause();
+			player_en_Anglicised_flag = 0 ;
+		}
+    }
+
 
 	function audioPlay(){
 		console.log("audioPlay.......");
@@ -107,9 +152,26 @@
 		//const en_Dramatized_mp3_urls=<option value="3">Dramatized</option>
 		//const en_GeorgeWSarris_mp3_urls=<option value="4">George W.Sarris</option>
 		//const en_Anglicised_mp3_urls=<option value="5">Anglicised</option>
-
-	
-		
+		if(selectedValue == 1){
+			playcn();
+			return;
+		}
+		if(selectedValue == 2){
+			playEnMaxMcLean();
+			return;
+		}
+		if(selectedValue == 3){
+			playEnDramatized();
+			return;
+		}
+		if(selectedValue == 4){
+			playEnGeorgeWSarris();
+			return;
+		}
+		if(selectedValue == 5){
+			playEnAnglicised();
+			return;
+		}
 		
 	}
 
@@ -128,8 +190,13 @@
         }
 		
 		player_cn = new Audio(cn_mp3_urls[targetChapter-1][targetParagraph-1]);
-		player_en = new Audio(en_mp3_urls[targetChapter-1][targetParagraph-1]);
-		body_data+= `<br/><br/> <span onclick=playcn() >@</span> &nbsp;&nbsp; <span onclick=playen() >@En</span><br/><br/>`;
+		player_en_MaxMcLean = new Audio(en_MaxMcLean_mp3_urls[targetChapter-1][targetParagraph-1]);
+		player_en_Dramatized = new Audio(en_Dramatized_mp3_urls[targetChapter-1][targetParagraph-1]);
+		player_en_GeorgeWSarris = new Audio(en_GeorgeWSarris_mp3_urls[targetChapter-1][targetParagraph-1]);
+		player_en_Anglicised = new Audio(en_Anglicised_mp3_urls[targetChapter-1][targetParagraph-1]);
+
+		
+		//body_data+= `<br/><br/> <span onclick=playcn() >@</span> &nbsp;&nbsp; <span onclick=playen() >@En</span><br/><br/>`;
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
         const subChapterSelect = document.getElementById("subChapterSelect");
