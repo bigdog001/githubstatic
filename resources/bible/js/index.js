@@ -95,6 +95,14 @@
 		}
     }
 
+	function audioPlay(){
+		console.log("audioPlay.......");
+		const audioSelect = document.getElementById("audioSelect");
+        const selectedValue = audioSelect.value;
+		console.log(`audioPlay...${selectedValue}....`);
+		
+	}
+
     function displayChpterItem( targetChapter , targetParagraph){
         const sutraCNs = sutras_[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
