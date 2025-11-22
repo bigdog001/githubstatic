@@ -143,7 +143,7 @@ const sutra_en_1_6 = `1 When human beings began to increase in number on the ear
 5 The LORD saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time.
 6 The LORD regretted that he had made human beings on the earth, and his heart was deeply troubled.
 7 So the LORD said, “I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them.”
-8 But Noah found favor in the eyes of the LORD.Noah and the Flood
+8 But Noah found favor in the eyes of the LORD.
 9 This is the account of Noah and his family. Noah was a righteous man, blameless among the people of his time, and he walked faithfully with God.
 10 Noah had three sons: Shem, Ham and Japheth.
 11 Now the earth was corrupt in God’s sight and was full of violence.
