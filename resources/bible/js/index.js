@@ -157,12 +157,7 @@
 		
 		setTimeout(() => {
 		    console.log("Waited for 3 seconds");
-		}, 3000); 
-
-
-
-		
-		if(selectedValue == 1){
+			if(selectedValue == 1){
 			playcn();
 			return;
 		}
@@ -182,6 +177,9 @@
 			playEnAnglicised();
 			return;
 		}
+
+			
+		}, 3000); 
 		
 	}
 
