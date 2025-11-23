@@ -152,6 +152,16 @@
 		//const en_Dramatized_mp3_urls=<option value="3">Dramatized</option>
 		//const en_GeorgeWSarris_mp3_urls=<option value="4">George W.Sarris</option>
 		//const en_Anglicised_mp3_urls=<option value="5">Anglicised</option>
+
+
+		
+		setTimeout(() => {
+		    console.log("Waited for 3 seconds");
+		}, 3000); 
+
+
+
+		
 		if(selectedValue == 1){
 			playcn();
 			return;
