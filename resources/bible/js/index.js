@@ -127,17 +127,17 @@
     }
 
 
-	var player_en_Anglicised;
-	var player_en_Anglicised_flag = 0;
-	function playEnAnglicised(){
-         if(player_en_Anglicised_flag === 0){
-			 console.log("player_en_Anglicised mp3 play..");
-			player_en_Anglicised.play();
-			player_en_Anglicised_flag = 1 ;
+	var player_en_DavidSuchet;
+	var player_en_DavidSuchet_flag = 0;
+	function playEnDavidSuchet(){
+         if(player_en_DavidSuchet_flag === 0){
+			 console.log("player_en_DavidSuchet mp3 play..");
+			player_en_DavidSuchet.play();
+			player_en_DavidSuchet_flag = 1 ;
 		}else{
-			console.log("player_en_Anglicised stop..");
-			player_en_Anglicised.pause();
-			player_en_Anglicised_flag = 0 ;
+			console.log("player_en_DavidSuchet stop..");
+			player_en_DavidSuchet.pause();
+			player_en_DavidSuchet_flag = 0 ;
 		}
     }
 
@@ -174,7 +174,7 @@
 			return;
 		}
 		if(selectedValue == 5){
-			playEnAnglicised();
+			playEnDavidSuchet();
 			return;
 		}
 
@@ -201,7 +201,7 @@
 		player_en_MaxMcLean = new Audio(en_MaxMcLean_mp3_urls[targetChapter-1][targetParagraph-1]);
 		player_en_Dramatized = new Audio(en_Dramatized_mp3_urls[targetChapter-1][targetParagraph-1]);
 		player_en_GeorgeWSarris = new Audio(en_GeorgeWSarris_mp3_urls[targetChapter-1][targetParagraph-1]);
-		player_en_Anglicised = new Audio(en_Anglicised_mp3_urls[targetChapter-1][targetParagraph-1]);
+		player_en_DavidSuchet = new Audio(en_DavidSuchet_mp3_urls[targetChapter-1][targetParagraph-1]);
 
 		
 		//body_data+= `<br/><br/> <span onclick=playcn() >@</span> &nbsp;&nbsp; <span onclick=playen() >@En</span><br/><br/>`;
