@@ -11,7 +11,7 @@ import com.mycomm.YesHttp.core.YesHttpEngine;
 import com.mycomm.YesHttp.core.YesHttpError;
 
 public class Main {
-    String flag = "mclean";//dramatized mclean purevoice
+    String flag = "mclean";//dramatized mclean purevoice //https://www.biblegateway.com/audio/suchet/nivuk/Gen.1
     String mp3_1_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Gen.1-50";
     String mp3_2_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Exod.1-40";
     String mp3_3_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Lev.1-27";
