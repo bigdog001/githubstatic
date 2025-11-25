@@ -54,7 +54,7 @@
 
      function displaySubtitle(subtitle){
         const subtitleEl = document.getElementById("pageFooter");
-        subtitleEl.innerHtml = `${subtitle} <div style="text-align: right;">@bible.cloud-ip.net</div>`;
+        subtitleEl.innerHtml = `${subtitle} <div style="text-align: right;color: red;">@bible.cloud-ip.net</div>`;
     }
 
     function BuildDictionaryItem(sutraEN){
