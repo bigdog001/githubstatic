@@ -9,7 +9,13 @@ import com.mycomm.YesHttp.core.StringRequest;
 import com.mycomm.YesHttp.core.TextBaseResponseListener;
 import com.mycomm.YesHttp.core.YesHttpEngine;
 import com.mycomm.YesHttp.core.YesHttpError;
-
+/**  
+<dependency>
+            <groupId>com.hadoopz</groupId>
+            <artifactId>YesHttp</artifactId>
+            <version>1.0.53</version>
+        </dependency>
+**/
 public class Main {
     String flag = "mclean";// mclean purevoice dramatized
     String mp3_1_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Gen.1-50";
