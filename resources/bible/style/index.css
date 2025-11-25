@@ -2,7 +2,11 @@ body { margin:0; padding-bottom:56px; } /* prevent overlap */
     #contents{
         //margin: 0 60px;
     }
-	
+	#logo_url{
+		text-align: right;
+		color: red;	
+		font: 12px/1.4 system-ui, sans-serif;
+	}
     #pageFooter {
         text-align: center;
         position: fixed;
