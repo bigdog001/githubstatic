@@ -203,7 +203,7 @@
 		player_en_DavidSuchet = new Audio(en_DavidSuchet_mp3_urls[targetChapter-1][targetParagraph-1]);
 
 		
-		body_data+= `<br/> <div id="logo_url"> @bible.cloud-ip.net </div> <br/><br/><br/>`;
+		//body_data+= `<br/> <div id="logo_url"> @bible.cloud-ip.net </div> <br/><br/><br/>`;
         const contentEl = document.getElementById("contents");
         contentEl.innerHTML = body_data;
         const subChapterSelect = document.getElementById("subChapterSelect");
