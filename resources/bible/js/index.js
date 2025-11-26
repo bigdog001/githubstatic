@@ -104,7 +104,7 @@
 
      function displaySubtitle(subtitle){
         const subtitleEl = document.getElementById("pageFooter");
-        subtitleEl.innerHTML = `${subtitle} <div id="logo_url">@bible.cloud-ip.net</div>`;
+        subtitleEl.innerHTML = `${subtitle}`;
     }
 
     function BuildDictionaryItem(sutraEN){
