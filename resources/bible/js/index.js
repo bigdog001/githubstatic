@@ -50,7 +50,57 @@
             const targetChapter = 1;
             const targetParagraph = 1;
             displayChpterItem( targetChapter , targetParagraph);
+
+			
+			const msg_mark = "bible.cloud-ip.net";
+		    watermark({ watermark_txt: msg_mark });
+		    let wmTimer;
+		    window.addEventListener('resize', () => {
+		      clearTimeout(wmTimer);
+		      wmTimer = setTimeout(() => watermark({ watermark_txt:msg_mark }), 300);
+		    });
+
+			
     });
+
+
+  function watermark(settings) {
+    const {
+      watermark_txt = 'test',
+      rows = 6,
+      cols = 6,
+      xGap = 220,
+      yGap = 160,
+      rotate = -30,
+      color = 'rgba(0,0,0,0.08)',
+      font = '14px monospace'
+    } = settings || {};
+
+    document.getElementById('wmLayer')?.remove();
+    const layer = document.createElement('div');
+    layer.id = 'wmLayer';
+
+    const w = window.innerWidth;
+    const h = window.innerHeight;
+
+    for (let r = 0; r < rows; r++) {
+      for (let c = 0; c < cols; c++) {
+        const x = c * xGap + 40;
+        const y = r * yGap + 40;
+        if (x > w - 80 || y > h - 40) continue;
+        const item = document.createElement('div');
+        item.className = 'wmItem';
+        item.textContent = watermark_txt;
+        item.style.left = x + 'px';
+        item.style.top = y + 'px';
+        item.style.color = color;
+        item.style.font = font;
+        item.style.transform = `rotate(${rotate}deg)`;
+        layer.appendChild(item);
+      }
+    }
+    document.body.appendChild(layer);
+  }
 
      function displaySubtitle(subtitle){
         const subtitleEl = document.getElementById("pageFooter");
