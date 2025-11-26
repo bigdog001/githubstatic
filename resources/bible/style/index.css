@@ -1,3 +1,17 @@
+ #wmLayer{
+        position:fixed;
+        inset:0;
+        z-index:9999;
+        pointer-events:none;
+        user-select:none;
+    }
+    .wmItem{
+        position:absolute;
+        font:14px monospace;
+        color:rgba(0,0,0,.08);
+        white-space:nowrap;
+        transform-origin:0 0;
+    }
 body { margin:0; padding-bottom:56px; } /* prevent overlap */
     #contents{
         //margin: 0 60px;
