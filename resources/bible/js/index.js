@@ -69,7 +69,7 @@
     const xRandom = Math.floor(Math.random() * (max - min + 1) + min) ;
     const yRandom = Math.floor(Math.random() * (max - min + 1) + min) ;
 
-    const xRotate = Math.floor(Math.random() * (-45 - (-10) + 1) + (-10)) ;
+    const xRotate = Math.floor(Math.random() * (-45 - (-1) + 1) + (-1)) ;
 	  
     console.log('watermark random:', xRandom, yRandom);
     const {
