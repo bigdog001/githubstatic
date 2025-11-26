@@ -68,6 +68,9 @@
     const max = 300,min = 150;
     const xRandom = Math.floor(Math.random() * (max - min + 1) + min) ;
     const yRandom = Math.floor(Math.random() * (max - min + 1) + min) ;
+
+    const xRotate = Math.floor(Math.random() * (-45 - (-10) + 1) + (-10)) ;
+	  
     console.log('watermark random:', xRandom, yRandom);
     const {
       watermark_txt = 'test',
@@ -75,7 +78,7 @@
       cols = 12,
       xGap = xRandom,
       yGap = yRandom,
-      rotate = -30,
+      rotate = xRotate,
       color = 'rgba(0,0,0,0.08)',
       font = '14px monospace'
     } = settings || {};
