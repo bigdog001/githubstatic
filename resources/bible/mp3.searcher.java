@@ -17,166 +17,122 @@ import com.mycomm.YesHttp.core.YesHttpError;
         </dependency>
 **/
 public class Main {
-    String flag = "mclean";// mclean purevoice dramatized
-    String mp3_1_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Gen.1-50";
-    String mp3_2_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Exod.1-40";
-    String mp3_3_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Lev.1-27";
-    String mp3_4_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Num.1-36" ;
-    String mp3_5_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Deut.1-34" ;
-    String mp3_6_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Josh.1-24" ;
-    String mp3_7_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Judg.1-21" ;
-    String mp3_8_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Ruth.1-4" ;
-    String mp3_9_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1Sam.1-31" ;
-    String mp3_10_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2Sam.1-24" ;
-    String mp3_11_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1Kgs.1-22" ;
-    String mp3_12_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2Kgs.1-25" ;
-    String mp3_13_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1Chr.1-29" ;
-    String mp3_14_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2Chr.1-36" ;
-    String mp3_15_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Ezra.1-10" ;
-    String mp3_16_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Neh.1-13" ;
-    String mp3_17_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Esth.1-10" ;
-    String mp3_18_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Job.1-42" ;
-    String mp3_19_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Ps.1-150" ;
-    String mp3_20_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Prov.1-31" ;
-    String mp3_21_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Eccl.1-12" ;
-    String mp3_22_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Song.1-8" ;
-    String mp3_23_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Isa.1-66" ;
-    String mp3_24_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Jer.1-52" ;
-    String mp3_25_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Lam.1-5" ;
-    String mp3_26_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Ezek.1-48" ;
-    String mp3_27_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Dan.1-12" ;
-    String mp3_28_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Hos.1-14" ;
-    String mp3_29_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Joel.1-3" ;
-    String mp3_30_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Amos.1-9" ;
-    String mp3_31_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Obad.1" ;
-    String mp3_32_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Jonah.1-4" ;
-    String mp3_33_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Mic.1-7" ;
-    String mp3_34_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Nah.1-3" ;
-    String mp3_35_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Hab.1-3" ;
-    String mp3_36_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Zeph.1-3" ;
-    String mp3_37_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Hag.1-2" ;
-    String mp3_38_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Zech.1-14" ;
-    String mp3_39_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Mal.1-4" ;
-    String mp3_40_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Matt.1-28" ;
-    String mp3_41_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Mark.1-16" ;
-    String mp3_42_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Luke.1-24" ;
-    String mp3_43_url = "https://www.biblegateway.com/audio/"+flag+"/niv/John.1-21" ;
-    String mp3_44_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Acts.1-28" ;
-    String mp3_45_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Rom.1-16" ;
-    String mp3_46_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1Cor.1-16" ;
-    String mp3_47_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2Cor.1-13" ;
-    String mp3_48_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Gal.1-6" ;
-    String mp3_49_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Eph.1-6" ;
-    String mp3_50_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Phil.1-4" ;
-    String mp3_51_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Col.1-4" ;
-    String mp3_52_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1Thess.1-5" ;
-    String mp3_53_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2Thess.1-3" ;
-    String mp3_54_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1Tim.1-6" ;
-    String mp3_55_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2Tim.1-4" ;
-    String mp3_56_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Titus.1-3" ;
-    String mp3_57_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Phlm.1" ;
-    String mp3_58_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Heb.1-13" ;
-    String mp3_59_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Jas.1-5" ;
-    String mp3_60_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1Pet.1-5" ;
-    String mp3_61_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2Pet.1-3" ;
-    String mp3_62_url = "https://www.biblegateway.com/audio/"+flag+"/niv/1John.1-5" ;
-    String mp3_63_url = "https://www.biblegateway.com/audio/"+flag+"/niv/2John.1" ;
-    String mp3_64_url = "https://www.biblegateway.com/audio/"+flag+"/niv/3John.1" ;
-    String mp3_65_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Jude.1" ;
-    String mp3_66_url = "https://www.biblegateway.com/audio/"+flag+"/niv/Rev.1-22"; 
+    
+    String flag = "purevoice/niv";   // mclean dramatized purevoice(George W.Saris)
+    Mp3Item [] mp3Items_suchet = new Mp3Item[]{
+            new Mp3Item(1,"https://www.biblegateway.com/audio/"+flag+"/Gen.",50),
+            new Mp3Item(2, "https://www.biblegateway.com/audio/"+flag+"/Exod.",40 ),
+            new Mp3Item(3, "https://www.biblegateway.com/audio/"+flag+"/Lev.",27 ),
+            new Mp3Item(4, "https://www.biblegateway.com/audio/"+flag+"/Num." ,36 ),
+            new Mp3Item(5, "https://www.biblegateway.com/audio/"+flag+"/Deut." ,34 ),
+            new Mp3Item(6, "https://www.biblegateway.com/audio/"+flag+"/Josh." ,24 ),
+            new Mp3Item(7,"https://www.biblegateway.com/audio/"+flag+"/Judg."  ,21 ),
+            new Mp3Item(8, "https://www.biblegateway.com/audio/"+flag+"/Ruth.", 4),
+            new Mp3Item(9, "https://www.biblegateway.com/audio/"+flag+"/1Sam." ,31 ),
+            new Mp3Item(10,"https://www.biblegateway.com/audio/"+flag+"/2Sam."  ,24 ),
+            new Mp3Item(11, "https://www.biblegateway.com/audio/"+flag+"/1Kgs.",22 ),
+            new Mp3Item(12,"https://www.biblegateway.com/audio/"+flag+"/2Kgs.",25),
+            new Mp3Item(13,"https://www.biblegateway.com/audio/"+flag+"/1Chr.",29),
+            new Mp3Item(14,"https://www.biblegateway.com/audio/"+flag+"/2Chr.",36),
+            new Mp3Item(15,"https://www.biblegateway.com/audio/"+flag+"/Ezra.",10),
+            new Mp3Item(16,"https://www.biblegateway.com/audio/"+flag+"/Neh.",13),
+            new Mp3Item(17,"https://www.biblegateway.com/audio/"+flag+"/Esth.",10),
+            new Mp3Item(18,"https://www.biblegateway.com/audio/"+flag+"/Job." ,42),
+            new Mp3Item(19,"https://www.biblegateway.com/audio/"+flag+"/Ps.",150),
+            new Mp3Item(20,"https://www.biblegateway.com/audio/"+flag+"/Prov.",31),
+            new Mp3Item(21,"https://www.biblegateway.com/audio/"+flag+"/Eccl.",12),
+            new Mp3Item(22,"https://www.biblegateway.com/audio/"+flag+"/Song.",8),
+            new Mp3Item(23,"https://www.biblegateway.com/audio/"+flag+"/Isa.",66),
+            new Mp3Item(24,"https://www.biblegateway.com/audio/"+flag+"/Jer." ,52),
+            new Mp3Item(25,"https://www.biblegateway.com/audio/"+flag+"/Lam.",5),
+            new Mp3Item(26,"https://www.biblegateway.com/audio/"+flag+"/Ezek.",48),
+            new Mp3Item(27,"https://www.biblegateway.com/audio/"+flag+"/Dan." ,12),
+            new Mp3Item(28,"https://www.biblegateway.com/audio/"+flag+"/Hos.",14),
+            new Mp3Item(29,"https://www.biblegateway.com/audio/"+flag+"/Joel.",3),
+            new Mp3Item(30,"https://www.biblegateway.com/audio/"+flag+"/Amos.",9),
+            new Mp3Item(31,"https://www.biblegateway.com/audio/"+flag+"/Obad.",1),
+            new Mp3Item(32,"https://www.biblegateway.com/audio/"+flag+"/Jonah.",4),
+            new Mp3Item(33,"https://www.biblegateway.com/audio/"+flag+"/Mic.",7),
+            new Mp3Item(34,"https://www.biblegateway.com/audio/"+flag+"/Nah.",3),
+            new Mp3Item(35,"https://www.biblegateway.com/audio/"+flag+"/Hab.",3),
+            new Mp3Item(36,"https://www.biblegateway.com/audio/"+flag+"/Zeph." ,3),
+            new Mp3Item(37,"https://www.biblegateway.com/audio/"+flag+"/Hag.",2),
+            new Mp3Item(38,"https://www.biblegateway.com/audio/"+flag+"/Zech.",14),
+            new Mp3Item(39,"https://www.biblegateway.com/audio/"+flag+"/Mal.",4),
+            new Mp3Item(40,"https://www.biblegateway.com/audio/"+flag+"/Matt.",28),
+            new Mp3Item(41,"https://www.biblegateway.com/audio/"+flag+"/Mark." ,16),
+            new Mp3Item(42,"https://www.biblegateway.com/audio/"+flag+"/Luke." ,24),
+            new Mp3Item(43,"https://www.biblegateway.com/audio/"+flag+"/John.",21),
+            new Mp3Item(44,"https://www.biblegateway.com/audio/"+flag+"/Acts.",28),
+            new Mp3Item(45,"https://www.biblegateway.com/audio/"+flag+"/Rom.",16),
+            new Mp3Item(46,"https://www.biblegateway.com/audio/"+flag+"/1Cor.",16),
+            new Mp3Item(47,"https://www.biblegateway.com/audio/"+flag+"/2Cor." ,13),
+            new Mp3Item(48,"https://www.biblegateway.com/audio/"+flag+"/Gal.",6),
+            new Mp3Item(49,"https://www.biblegateway.com/audio/"+flag+"/Eph.",6),
+            new Mp3Item(50, "https://www.biblegateway.com/audio/"+flag+"/Phil.",4),
+            new Mp3Item(51,"https://www.biblegateway.com/audio/"+flag+"/Col.",4),
+            new Mp3Item(52,"https://www.biblegateway.com/audio/"+flag+"/1Thess." ,5),
+            new Mp3Item(53,"https://www.biblegateway.com/audio/"+flag+"/2Thess.",3),
+            new Mp3Item(54,"https://www.biblegateway.com/audio/"+flag+"/1Tim.",6),
+            new Mp3Item(55,"https://www.biblegateway.com/audio/"+flag+"/2Tim.",4),
+            new Mp3Item(56,"https://www.biblegateway.com/audio/"+flag+"/Titus.",3),
+            new Mp3Item(57,"https://www.biblegateway.com/audio/"+flag+"/Phlm.",1),
+            new Mp3Item(58,"https://www.biblegateway.com/audio/"+flag+"/Heb." ,13),
+            new Mp3Item(59,"https://www.biblegateway.com/audio/"+flag+"/Jas.",5),
+            new Mp3Item(60,"https://www.biblegateway.com/audio/"+flag+"/1Pet.",5),
+            new Mp3Item(61,"https://www.biblegateway.com/audio/"+flag+"/2Pet.",3),
+            new Mp3Item(62,"https://www.biblegateway.com/audio/"+flag+"/1John.",5),
+            new Mp3Item(63,"https://www.biblegateway.com/audio/"+flag+"/2John.",1),
+            new Mp3Item(64,"https://www.biblegateway.com/audio/"+flag+"/3John.",1),
+            new Mp3Item(65,"https://www.biblegateway.com/audio/"+flag+"/Jude.",1),
+            new Mp3Item(66,"https://www.biblegateway.com/audio/"+flag+"/Rev.",22),
+    };
 
 
- 
-    public static void main(String[] args) throws NamingException {
-        String textmsg = """
-            <div class="audio-status">
-            <audio id="audio-player-element" autoplay="autoplay" controls controlsList="nodownload">
-                                            <source
-                src="https://stream.biblegateway.com/bibles/32/niv-mclean/Gen.8.7dd98ef6fec3d9d5720d4bd76a5a02b3.mp3">
-                          </audio>
-            <div class="audio-status-timeline-wrapper">
-              <div class="audio-status-time">0:00</div>
-              <input type="range" id="slider" class="slider" name="slider"
-        min="0" value="0" />
-              <div class="audio-status-duration">0:00</div>
-            </div>
-          </div>
-          """;
-        Pattern p = Pattern.compile("src=\"(https://stream\\.biblegateway\\.com/bibles/\\d+/niv-mclean/[A-Za-z0-9._-]+\\.mp3)\"");
-        Matcher m = p.matcher(textmsg);
-        if (m.find()) {
-            System.out.println("Matched URL: " + m.group(1));
+    // mvn clean -DskipTests=false test -Dtest=JCloudServerApplicationTests#buildMp3Test
+    @Test
+    void buildMp3Test() {
+        System.out.println();
+        for(int i=0;i<mp3Items_suchet.length;i++){
+            printChapterMp3(mp3Items_suchet[i]);
         }
+        System.out.println();
     }
 
-    public static void URLs() {
-    String flag = "suchet";
-    String mp3_1_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Gen.1-50";
-    String mp3_2_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Exod.1-40";
-    String mp3_3_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Lev.1-27";
-    String mp3_4_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Num.1-36" ;
-    String mp3_5_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Deut.1-34" ;
-    String mp3_6_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Josh.1-24" ;
-    String mp3_7_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Judg.1-21" ;
-    String mp3_8_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Ruth.1-4" ;
-    String mp3_9_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1Sam.1-31" ;
-    String mp3_10_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2Sam.1-24" ;
-    String mp3_11_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1Kgs.1-22" ;
-    String mp3_12_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2Kgs.1-25" ;
-    String mp3_13_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1Chr.1-29" ;
-    String mp3_14_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2Chr.1-36" ;
-    String mp3_15_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Ezra.1-10" ;
-    String mp3_16_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Neh.1-13" ;
-    String mp3_17_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Esth.1-10" ;
-    String mp3_18_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Job.1-42" ;
-    String mp3_19_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Ps.1-150" ;
-    String mp3_20_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Prov.1-31" ;
-    String mp3_21_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Eccl.1-12" ;
-    String mp3_22_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Song.1-8" ;
-    String mp3_23_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Isa.1-66" ;
-    String mp3_24_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Jer.1-52" ;
-    String mp3_25_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Lam.1-5" ;
-    String mp3_26_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Ezek.1-48" ;
-    String mp3_27_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Dan.1-12" ;
-    String mp3_28_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Hos.1-14" ;
-    String mp3_29_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Joel.1-3" ;
-    String mp3_30_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Amos.1-9" ;
-    String mp3_31_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Obad.1" ;
-    String mp3_32_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Jonah.1-4" ;
-    String mp3_33_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Mic.1-7" ;
-    String mp3_34_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Nah.1-3" ;
-    String mp3_35_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Hab.1-3" ;
-    String mp3_36_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Zeph.1-3" ;
-    String mp3_37_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Hag.1-2" ;
-    String mp3_38_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Zech.1-14" ;
-    String mp3_39_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Mal.1-4" ;
-    String mp3_40_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Matt.1-28" ;
-    String mp3_41_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Mark.1-16" ;
-    String mp3_42_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Luke.1-24" ;
-    String mp3_43_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/John.1-21" ;
-    String mp3_44_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Acts.1-28" ;
-    String mp3_45_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Rom.1-16" ;
-    String mp3_46_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1Cor.1-16" ;
-    String mp3_47_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2Cor.1-13" ;
-    String mp3_48_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Gal.1-6" ;
-    String mp3_49_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Eph.1-6" ;
-    String mp3_50_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Phil.1-4" ;
-    String mp3_51_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Col.1-4" ;
-    String mp3_52_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1Thess.1-5" ;
-    String mp3_53_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2Thess.1-3" ;
-    String mp3_54_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1Tim.1-6" ;
-    String mp3_55_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2Tim.1-4" ;
-    String mp3_56_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Titus.1-3" ;
-    String mp3_57_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Phlm.1" ;
-    String mp3_58_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Heb.1-13" ;
-    String mp3_59_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Jas.1-5" ;
-    String mp3_60_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1Pet.1-5" ;
-    String mp3_61_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2Pet.1-3" ;
-    String mp3_62_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/1John.1-5" ;
-    String mp3_63_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/2John.1" ;
-    String mp3_64_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/3John.1" ;
-    String mp3_65_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Jude.1" ;
-    String mp3_66_url = "https://www.biblegateway.com/audio/"+flag+"/nivuk/Rev.1-22"; 
+    private void printChapterMp3(Mp3Item item){
+        if(item == null){
+            return;
+        }
+        System.out.print("const en_GeorgeWSarris_mp3_urls_"+item.getId()+"=[");
+        for(int i = 1;i<=item.getSize();i++){
+            Request request = new StringRequest(HttpMethod.GET, item.getBaseUrl()+i, new TextBaseResponseListener() {
+                @Override
+                public void responseMe(final String msg) {
+//                    System.out.println("the response of success:" + msg);
+                    Pattern p = Pattern.compile("src=\"(https://stream\\.biblegateway\\.com/bibles/\\d+/niv-purevoice/[A-Za-z0-9._-]+\\.mp3)\"");
+                    Matcher m = p.matcher(msg);
+                    if (m.find()) {
+                        System.out.println("\"" + m.group(1)+"\",");
+                    }else {
 
+                    }
+
+                }
+            },
+                    new Response.ErrorListener() {
+                        @Override
+                        public void onErrorResponse(final YesHttpError error
+                        ) {
+                            System.out.println("this is the response of error:" + error.getMessage());
+
+                        }
+                    }, null,Request.Protocol.HTTPS_IGNORE_CERT
+            ) ;
+            YesHttpEngine.getYesHttpEngine().send(request);
+
+
+        }
+        System.out.println("];");
     }
+
 }
