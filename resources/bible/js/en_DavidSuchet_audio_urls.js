@@ -66,8 +66,7 @@ const en_DavidSuchet_mp3_urls_3=["https://stream.biblegateway.com/bibles/32/nivu
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Lev.25.c330905df278ba5e4313a7ae72cb2d0e.mp3",
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Lev.26.309534e517d29b93e2dcdd519e8050d8.mp3",
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Lev.27.ffd81f82528632f7281cc89d3207d230.mp3"];
-const en_DavidSuchet_mp3_urls_4=[
-"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.1.08b9c055934e46209ef4e7c627e106bd.mp3",
+const en_DavidSuchet_mp3_urls_4=["https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.1.08b9c055934e46209ef4e7c627e106bd.mp3",
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.2.5e7af2e539383f844a6de70e54bfb117.mp3",
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.3.6288058b0bca05feebb01332d27ddc71.mp3",
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.4.a89aef29ae8efac8602071d7b415bfe6.mp3",
@@ -103,7 +102,40 @@ const en_DavidSuchet_mp3_urls_4=[
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.34.49e4d69afcbee28362a5d1773368deef.mp3",
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.35.4c8c12f0b4f27d96fa4e569720845182.mp3",
 "https://stream.biblegateway.com/bibles/32/nivuk-suchet/Num.36.73f8c2b9f27689c00028b29052df4a2f.mp3"];
-const en_DavidSuchet_mp3_urls_5=["http://audio2.abiblica.org/bibles/app/audio/1/5/1.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/2.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/3.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/4.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/5.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/6.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/7.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/8.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/9.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/10.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/11.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/12.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/13.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/14.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/15.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/16.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/17.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/18.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/19.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/20.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/21.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/22.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/23.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/24.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/25.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/26.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/27.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/28.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/29.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/30.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/31.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/32.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/33.mp3","http://audio2.abiblica.org/bibles/app/audio/1/5/34.mp3",];
+const en_DavidSuchet_mp3_urls_5=["https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.1.18a670da15e2c83bdb5a8fba6b247be8.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.2.ad940b647782f320a8bb39b8869ea8dc.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.3.dc2a795e3d3f71c8694151ac35721d21.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.4.d6bb56a5671aa277946487146d8b8026.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.5.ea4f05e46ccded24e2906b547ad20376.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.6.7cbb6a42cbb3fdd5486d7da367e9a3cb.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.7.622d19b079b83ee494484c65a8485695.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.8.c63534f09f2aed2c4a8434c4a9dba502.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.9.5db03d5b060875c1d8b44a9b2c84fa3d.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.10.88603d2c715173eec6a8c84ed146fc20.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.11.d0bb09dae1d6444bb62ef9a89eed7e77.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.12.3e29af113fd87b0b21802bd124d543cb.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.13.662238f34390948ab10c332ed781af17.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.14.ffa8e95a2abe34e85e43d778c5af1c4b.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.15.bdf3d73d198077b687c2faf51cdb5431.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.16.c96543a1deae741225e5cdb26474189e.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.17.6c46060f861a479d482c8950aa79d2b5.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.18.90ff43647a98dbe8c9ecede6905d19f7.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.19.2815dc11cdd5d2d0d74f17ab7315e83b.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.20.4f0cbd7c4f61a11a075c81e3a995b07f.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.21.fd1f666cba7aff18b99db8da49e68e7e.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.22.8e43c12b4642bcf0130f8ce0beaaf0bd.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.23.225e8fea355457620ad0d11ffe2f09b0.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.24.52baf63148fdeee343e80a17c8ba116b.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.25.fd2fc6243a804aebb5937f6167fd28fe.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.26.b4eeaa3867cbe89242315eaf45773b79.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.27.981dbefc537ad1437396a53a67478a33.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.28.e365b86ca8a5f9edb6900fc6c8e409e6.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.29.a065be337333b61293fbb6f6253cae01.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.30.b831c6f8df9793c8bc18b61a2c5c9fee.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.31.9e1bf0225efb52db7fbcc4fde0ff0f1c.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.32.373709b2b123b9d138c8d54a06f6074e.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.33.e9084adab5876f548f5f6669e5fb6677.mp3",
+"https://stream.biblegateway.com/bibles/32/nivuk-suchet/Deut.34.94da1d69e8570bfd15d463a84632614c.mp3"];
 const en_DavidSuchet_mp3_urls_6=["http://audio2.abiblica.org/bibles/app/audio/1/6/1.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/2.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/3.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/4.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/5.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/6.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/7.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/8.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/9.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/10.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/11.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/12.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/13.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/14.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/15.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/16.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/17.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/18.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/19.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/20.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/21.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/22.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/23.mp3","http://audio2.abiblica.org/bibles/app/audio/1/6/24.mp3",];
 const en_DavidSuchet_mp3_urls_7=["http://audio2.abiblica.org/bibles/app/audio/1/7/1.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/2.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/3.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/4.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/5.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/6.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/7.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/8.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/9.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/10.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/11.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/12.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/13.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/14.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/15.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/16.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/17.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/18.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/19.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/20.mp3","http://audio2.abiblica.org/bibles/app/audio/1/7/21.mp3",];
 const en_DavidSuchet_mp3_urls_8=["http://audio2.abiblica.org/bibles/app/audio/1/8/1.mp3","http://audio2.abiblica.org/bibles/app/audio/1/8/2.mp3","http://audio2.abiblica.org/bibles/app/audio/1/8/3.mp3","http://audio2.abiblica.org/bibles/app/audio/1/8/4.mp3",];
