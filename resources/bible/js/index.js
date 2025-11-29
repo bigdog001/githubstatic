@@ -109,14 +109,22 @@
     document.body.appendChild(layer);
   }
 
-     function displaySubtitle(subtitle,comment_id){
-		console.log(`subtitle:${subtitle},comment_id:${comment_id}`);
+     function displaySubtitle(subtitle,dic_id){
+		console.log(`subtitle:${subtitle},comment_id:${dic_id}`);
         const subtitleEl = document.getElementById("pageFooter");
-        subtitleEl.innerHTML = `${subtitle} &nbsp; <span style="display: inline-block;" onClick="showCommentById('${comment_id}')"> .<span>`;
+        subtitleEl.innerHTML = `${subtitle} &nbsp; <span style="display: inline-block;" onClick="showCommentById('${dic_id}')"> .<span>`;
     }
 
-	function showCommentById(comment_id){
-		console.log(`showCommentById:${comment_id}`);
+	function showCommentById(dic_id){
+		const dic_id_dom = document.getElementById(dic_id);
+		//input.style.display = 'block';input.style.display = 'none';
+		console.log(`showCommentById:${dic_id_dom.style.display}`);
+		if(dic_id_dom.style.display === 'block'){
+			dic_id_dom.style.display = 'none';
+		}else{
+			dic_id_dom.style.display = 'block';
+		}
+		
 	}
 
     function BuildDictionaryItem(sutraEN){
