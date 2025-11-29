@@ -254,9 +254,9 @@
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
             // console.log(`${sutraCNs[k]}`)
-            const dictionary_item= "<p class='dictionary_text' style='display:none;'>"+ BuildDictionaryItem(sutraENs[k])+"</p>";
+            const dictionary_item= "<p class='dictionary_text' id="dic_item_${k}" style='display:none;'>"+ BuildDictionaryItem(sutraENs[k])+"</p>";
 			
-            body_data += `<span class="sutra_en_items" id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}','comment_${k}')">${sutraENs[k]}</span> <p style="display:none;" class="sutra_cn_text">${sutraCNs[k]}</p> ${dictionary_item} <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
+            body_data += `<span class="sutra_en_items" id="sutra_en_text_${targetChapter}_${k}" onClick="displaySubtitle('${sutraCNs[k]}','dic_item_${k}')">${sutraENs[k]}</span> <p style="display:none;" class="sutra_cn_text">${sutraCNs[k]}</p> ${dictionary_item} <input class="my-comment" type="text" id="comment_${k}" style="width:70%;display: none;" value="N/A"/><br/>`;
         }
 		
 		player_cn = new Audio(cn_mp3_urls[targetChapter-1][targetParagraph-1]);
