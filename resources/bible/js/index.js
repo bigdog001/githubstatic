@@ -112,8 +112,12 @@
      function displaySubtitle(subtitle,comment_id){
 		console.log(`subtitle:${subtitle},comment_id:${comment_id}`);
         const subtitleEl = document.getElementById("pageFooter");
-        subtitleEl.innerHTML = `${subtitle}`;
+        subtitleEl.innerHTML = `${subtitle} &nbsp; <span style="display: inline-block;" onClick="showCommentById(${comment_id})"> .<span>`;
     }
+
+	function showCommentById(comment_id){
+		console.log(`showCommentById:${comment_id}`);
+	}
 
     function BuildDictionaryItem(sutraEN){
         var dictionary_text = "";
