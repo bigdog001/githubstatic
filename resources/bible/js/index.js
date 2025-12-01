@@ -62,7 +62,7 @@
   function watermark(settings) {
     const max = 300,min = 150;
     const xRandom = Math.floor(Math.random() * (max - min + 1) + min) ;
-    const yRandom = Math.floor(Math.random() * (90 - 35 + 1) + 35) ;
+    const yRandom = Math.floor(Math.random() * (90 - 45 + 1) + 45) ;
 
     const xRotate = Math.floor(Math.random() * (-30 - (-1) + 1) + (-1)) ;
 	  
