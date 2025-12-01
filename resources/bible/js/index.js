@@ -373,10 +373,10 @@
 
 function handleShowDictionary(){
 	const dic_btn = document.getElementById("subtitle_dic_btn");
-	if(dic_btn.style.display === 'block'){
+	if(dic_btn.style.display === 'inline-block'){
 			dic_btn.style.display = 'none';
 		}else{
-			dic_btn.style.display = 'block';
+			dic_btn.style.display = 'inline-block';
 		}
 }
     function handleShowDictionary_x(){
