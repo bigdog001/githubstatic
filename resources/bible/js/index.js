@@ -62,9 +62,9 @@
   function watermark(settings) {
     const max = 300,min = 150;
     const xRandom = Math.floor(Math.random() * (max - min + 1) + min) ;
-    const yRandom = Math.floor(Math.random() * (120 - 45 + 1) + 45) ;
+    const yRandom = Math.floor(Math.random() * (150 - 50 + 1) + 50) ;
 
-    const xRotate = Math.floor(Math.random() * (-30 - (-1) + 1) + (-1)) ;
+    const xRotate = Math.floor(Math.random() * (-25 - (-1) + 1) + (-1)) ;
 	  
     console.log('watermark random:', xRandom, yRandom);
     const {
