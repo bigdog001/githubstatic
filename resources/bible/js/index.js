@@ -371,7 +371,7 @@
         }
     }
 
-function handleShowDictionary(){
+function handleShowDictionary_x(){
 	const dic_btn = document.getElementById("subtitle_dic_btn");
 	if(dic_btn.style.display === 'inline-block'){
 			dic_btn.style.display = 'none';
@@ -379,7 +379,7 @@ function handleShowDictionary(){
 			dic_btn.style.display = 'inline-block';
 		}
 }
-    function handleShowDictionary_x(){
+    function handleShowDictionary(){
         const checkbox = document.getElementById("showDictionary");
          if (checkbox.checked) {
              console.log("Show Dictionary checked");
