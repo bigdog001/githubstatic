@@ -15,12 +15,7 @@
                         sutra_en_61,sutra_en_62,sutra_en_63,sutra_en_64,sutra_en_65,sutra_en_66
     ];                
 
-    sutras_.forEach((msg, index,sutra) => {
-        //console.log(`=============================>Sutra ${index+1} has ${msg.length} Chapters`);
-        msg.forEach((msg_x, index_,sutra_) => {
-            //const msg_length = msg_x.split(/\r?\n/).length;console.log(`length at index ${index_+1}: ${msg_length}`);
-        });
-    });
+    
     var fatal_size = 0;
 
 	for(var j=0; j<66;j++){
@@ -112,7 +107,7 @@
      function displaySubtitle(subtitle,dic_id){
 		console.log(`subtitle:${subtitle},comment_id:${dic_id}`);
         const subtitleEl = document.getElementById("pageFooter");
-        subtitleEl.innerHTML = `${subtitle} &nbsp; <span style="display: inline-block;" onClick="showCommentById('${dic_id}')"> .<span>`;
+        subtitleEl.innerHTML = `${subtitle} &nbsp; <span id="subtitle_dic_btn" style="display: inline-block;" onClick="showCommentById('${dic_id}')"> . <span>`;
     }
 
 	function showCommentById(dic_id){
@@ -257,7 +252,7 @@
         const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const size_sutra = sutraCNs.length;
         console.log(`size_sutra:${size_sutra}`)
-        document.getElementById("sutra_title").innerHTML = `${targetChapter} ${sutra_titles[targetChapter-1][1]} / Chapter ${targetParagraph} &nbsp;<a href='#' onclick='audioPlay();return false;'>.</a>`;
+        document.getElementById("sutra_title").innerHTML = `${targetChapter} ${sutra_titles[targetChapter-1][1]} / Chapter <a href='#' onclick='audioPlay();return false;'>${targetParagraph}</a>`;
         var body_data = "";
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
@@ -376,7 +371,15 @@
         }
     }
 
-    function handleShowDictionary(){
+function handleShowDictionary(){
+	const dic_btn = document.getElementById("subtitle_dic_btn");
+	if(dic_btn.style.display === 'block'){
+			dic_btn.style.display = 'none';
+		}else{
+			dic_btn.style.display = 'block';
+		}
+}
+    function handleShowDictionary_x(){
         const checkbox = document.getElementById("showDictionary");
          if (checkbox.checked) {
              console.log("Show Dictionary checked");
