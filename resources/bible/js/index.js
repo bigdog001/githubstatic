@@ -107,7 +107,7 @@
      function displaySubtitle(subtitle,dic_id){
 		console.log(`subtitle:${subtitle},comment_id:${dic_id}`);
         const subtitleEl = document.getElementById("pageFooter");
-        subtitleEl.innerHTML = `${subtitle} &nbsp; <button id="subtitle_dic_btn" class="btn btn-primary btn-sm" style="display: none;" onClick="showCommentById('${dic_id}')">D<button>`;
+        subtitleEl.innerHTML = `${subtitle} &nbsp; <button type="button" id="subtitle_dic_btn" class="btn btn-primary btn-sm" style="display: none;" onClick="showCommentById('${dic_id}')">D<button>`;
     }
 
 	function showCommentById(dic_id){
