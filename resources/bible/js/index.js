@@ -35,6 +35,10 @@
 		      clearTimeout(wmTimer);
 		      wmTimer = setTimeout(() => watermark({ watermark_txt:msg_mark }), 300);
 		    });
+			window.addEventListener('scroll', () => {
+		      clearTimeout(wmTimer);
+		      wmTimer = setTimeout(() => watermark({ watermark_txt:msg_mark }), 300);
+		    });
 
 			
     });
