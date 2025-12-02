@@ -54,7 +54,7 @@
     console.log('watermark random:', xRandom, yRandom);
     const {
       watermark_txt = 'test',
-      rows = 12,
+      rows = 24,
       cols = 12,
       xGap = xRandom,
       yGap = yRandom,
