@@ -237,7 +237,7 @@
         const sutraENs = sutra_en[targetChapter-1][targetParagraph-1].split(/\r?\n/); ;
         const size_sutra = sutraCNs.length;
         console.log(`size_sutra:${size_sutra}`)
-        document.getElementById("sutra_title").innerHTML = `${targetChapter} ${sutra_titles[targetChapter-1][1]} <a href='#' onclick='audioPlay();return false;'>/</a> Chapter <a href='#' onclick='audioPlay();return false;'>${targetParagraph}</a>`;
+        document.getElementById("sutra_title").innerHTML = `${targetChapter} ${sutra_titles[targetChapter-1][1]} <a href='#' onclick='audioPlay();return false;'>/</a> Chapter ${targetParagraph}`;
         var body_data = "";
         for(var k = 0;k<size_sutra;k++){
             // console.log(`${sutraENs[k]}`)
