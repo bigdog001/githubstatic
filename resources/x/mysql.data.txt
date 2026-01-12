@@ -1,0 +1,6 @@
+mysqldump -u root -p --single-transaction --quick --routines --triggers \
+  --databases $(mysql -u root -p -N -e "SHOW DATABASES" | grep -Ev "^(information_schema|performance_schema|mysql|sys)$") \
+  > /backups/mysql/user-dbs_$(date +%F_%H%M).sql
+
+  # Restore all
+mysql -u root -p < /backups/mysql/all-dbs_YYYY-MM-DD_HHMM.sql
