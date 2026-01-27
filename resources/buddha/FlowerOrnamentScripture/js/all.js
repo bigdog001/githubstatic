@@ -69,9 +69,9 @@ having no attachment to the body, no clinging to practice, no dwelling on doctri
 the past gone, the future not yet arrived, the present empty, 
 there is no doer, no receiver of consequences; 
 this time doesn't move, another time doesn't shift-what thing is therein to be called religious practice? 
-Where docs religious practice come from? Where is it? 
+Where does religious practice come from? Where is it? 
 Who is the body? By whom is it performed? 
-Docs it exist? Does it not exist? 
+Does it exist? Does it not exist? 
 Is it form? Is it not form? Is it sensation? Is it not sensation?
 Is it conception? Is it not conception? Is it action? Is it not action? 
 Is it consciousness? Is it not consciousness? 
@@ -126,7 +126,7 @@ Indra said, "Only a Buddha could know this person's merit-no one else could be a
 Truth Wisdom said, "This person's merit, compared to the merit of an enlightening being who has just determined to realize enlightenment, 
 does not amount even to a hundredth, not even a thousandth, 
 a hun­dred thousandth, a millionth, a hundred millionth, a billionth, a hun­ dred billionth, a trillionth, a hundred trillionth, 
-a quadrillionth, a quintillionth-that merit docs not amount to the smallest imaginable fraction of the merit of determination for enlightenment.
+a quadrillionth, a quintillionth-that merit does not amount to the smallest imaginable fraction of the merit of determination for enlightenment.
 "Setting aside that example for the moment, 
 suppose someone pro­vided all the beings of ten infinities of worlds with medicines for a hundred eons, 
 and then taught them to practice the path of ten virtues, 
@@ -142,7 +142,7 @@ The king of gods said, "Only a Buddha could know the merit of such a person."
 
 
 Truth Wisdom said, "This person's merit, compared to the merit of an enlightening being who has just determined to realize enlightenment, 
-docs not amount to a hundredth part, not even a thousandth, a hundred thousandth, 
+does not amount to a hundredth part, not even a thousandth, a hundred thousandth, 
 or even the smallest imaginable fraction thereof. Why? Because when the Buddhas first set their minds on enlightenment, 
 they do not do so just to provide the beings of innumerable worlds in all directions with all comforts for a hundred eons or a hundred thousand quadrillion eons. 
 They do not set their minds on enlightenment just to teach that many beings to cultivate morality and goodness, 
@@ -184,7 +184,7 @@ This is why they set their minds on unexcelled complete perfect enlightenment.
 
 
 "Again, setting this example aside, suppose there is someone who can in a single thought know the number of eons of becoming and decay of innumerable worlds in the eastern direction, 
-and docs this for an incalculable eon; no one can determine the bounds of those numbers of eons. 
+and does this for an incalculable eon; no one can determine the bounds of those numbers of eons. 
 Then suppose there is a second person who can know in a single thought all the numbers of eons known by the first person over an incalculable eon. 
 Again, continue this up to ten persons, then extend it to all ten directions. 
 The limit of the number of eons of becoming and decay of all these incalculable worlds of the ten directions may be known, 
@@ -323,16 +323,75 @@ unthinkably many, immeasurably many, unspeakably many, unspeakably unspeakably m
 untold Buddhas as well as to all the sentient beings in as many worlds, for unspeakably unspeakably many eons, 
 and then after the passing of each Buddha, built a monument for each one, high and wide, as previously described. 
 This merit too would not amount to even the smallest fraction ofthe virtue ofthe enlightening being's initial determination for enlightenment. Why?
-Because enlightening beings do not set their minds on unexcelled complete perfect enlightenment just to make of Terings to a certain number of Buddhas. They set their minds on unexcelled complete perfect enlightenment to make offerings to all the innumerable, unspeakably unspeakably many past, present, and future Buddhas of the entire space of the whole cosmos in all directions.
-"Having aroused this determination, they arc able to know the first attainment of true awakening as well as the final release of all Buddhas of the past, arc able to believe in the roots of goodness of all Buddhas of the future, and arc able to know the knowledge and wisdom of all Buddhas of the present. The virtues of those Buddhas, these enlighten­ ing beings can believe in, can accept, can cultivate, can attain, can know, can witness, and can perfect; they can be equal, of the same nature, as the Buddhas. Why? Because these enlightening beings arouse their aspiration in order not to let the lineage of all enlightened ones die out; they arouse their aspiration in order to pervade all worlds; they arouse their determination in order to liberate the beings of all worlds; they arouse their aspiration in order to completely know the formation and disintegration of all worlds; they arouse their determination in order to completely know the defilement and purity of all beings; they arouse their minds in order to know the purity of the realms of desire, form, and formlessness in all worlds; they arouse their determination in order to completely know the inclinations, afflictions, and mental habits of all living beings; they arouse their aspiration in order to completely know the faculties and means of all beings; they arouse their determination in order to completely know the mental activities of all beings; they arouse their aspiration in order to know all beings' knowledge ofpast, present, and future. Because they have set their minds on enlightenment, they arc always remembered by all the Buddhas of past, present, and future, and will attain the unsurpassed enlightenment of all Buddhas of all times. Then they will be given the sublime teachings of all Buddhas of all times, and will be actually and essentially equal to all Buddhas of all times. Having cultivated the methods of fostering the Path used by all Buddhas ofall times, consummated the powers and fearlessnesses of all Buddhas of all times, and adorned themselves with the unique qualities of all Buddhas of all times, they will thoroughly attain the knowledge and wisdom to explain the truth of all Buddhas of the cosmos. Why? Because by means of this determination they will attain Buddhahood.
-"Know that such a person is thereupon the same as the Buddhas of all times, thereupon equal in perspective to the Buddhas of all times, thereupon equal in virtue to the Buddhas of all times, and attains the true knowledge of the ultimate equality of one body and infinite bodies of the Enlightened.
-"As soon as one sets the mind on complete enlightenment, one is praised by all the Buddhas of all quarters and can thereupon expound the teaching, edify and purify the beings of all worlds, and can there­ upon shake all worlds, and can thereupon illumine all worlds, and can thereupon extinguish the pains of the states of misery in all worlds, and can thereupon beautify and purify all lands, and can thereupon manifest attainment of Buddhahood in all worlds, and can thereupon cause all living things to rejoice, and can thereupon enter into the essence of all reality realms, and can thereupon maintain the lineage of all enlightened ones, and can thereupon attain the light of wisdom of all Buddhas.
-"This enlightening being who has just aspired to enlightenment does not apprehend anything in the past, present, or future-whether Buddhas, Buddhas' teachings, enlightening beings, principles ofenlightening beings, solitary awakened ones, principles of solitary awakened ones, listeners, principles of listeners, the world, worldly things, the transmundane, transmundanc things, sentient beings, or norms of sentient beings-the enlightening being only seeks omniscience and has no mental attach­ ment to anything."
-A t that point, b y the spiritual power o f the Buddha, worlds as numerous as the atoms in ten thousand buddha-lands in each of the ten directions all quaked in six ways, rained celestial flowers, perfumes, incenses, garlands, robes, jewels, and ornaments, produced celestial music and radiated celestial lights and sounds. Now in each of the ten directions, beyond as many worlds as atoms in ten buddha-lands, were as many Buddhas as atoms in ten thousand buddha-lands, all named Truth Wisdom; each of them appeared bodily before the enlightening being Truth Wisdom and said these words: "Good, good! Truth Wisdom, you arc now able to expound this teaching; we Buddhas, as many in each of the ten directions as atoms in ten thousand buddha-lands, also expound this teaching. All Buddhas teach in this way. As you ex­ pounded this teaching, there were as many enlightening beings as atoms in ten thousand buddha-lands who were inspired with the deter­ mination for enlightenment: we now give them all the prediction of enlightenment, that in the future, after ten unspeakable numbers of boundless cons, they will alike attain buddhahood in the same con, and, appearing in the world, will all be called Pure Mind Buddha. The worlds they live in will each be different. We will all protect and keep this teaching, so that all the enlightening beings of the future who have not heard it will be able to hear it."
-As in this world Endurance, atop the Mt. Sumerus of the four quarters, this teaching was spoken, to cause them to accept the teaching once they have heard it, so also was it spoken in all the countless worlds throughout the universe, to edify living beings. All those who ex­ pounded it were called Truth Wisdom. They spoke such a teaching by the spiritual power of the Buddhas, by the power of the Buddhas' original vow, in order to reveal the Buddhas' teaching, to illumine all with the light ofknowledge, to expose the truth, to cause beings to realize the essence ofthings, to cause all congregations to rejoice, to reveal the causal basis of the Buddhas' teaching, to realize the equality of all Buddhas, to comprehend the nonduality of the realm of reality.
-Then the enlightening being Truth Wisdom looked over all the congregations in all lands in the ten directions of the entire realm of space, and because he desired to perfect the living beings, because he wanted to purify all actions, results, and consequences, because he wanted to reveal the realm of reality, because he wanted to extirpate the roots of defilement, because he wanted to increase great faith and resolution, because he wanted to cause all to know the faculties of infinite sentient beings, because he wanted to cause all to know the equality of past, present, and future phenomena, because he wanted to cause all to contemplate the realm of nirvana, and because he wanted to increase inherently pure roots of goodness, he spoke these verses by the power of Buddha:
-To benefit the world enlightening beings make a great resolution, That resolution extending everywhere throughout the ten directions: Living beings, lands, the phenomena of past, present, and future, Enlightened as well as enlightening beings, supreme oceans,
-To the limits of space, equal to the cosmos,
+Because enlightening beings do not set their minds on unexcelled complete perfect enlightenment just to make offerings to a certain number of Buddhas. 
+They set their minds on unexcelled complete perfect enlightenment to make offerings to all the innumerable, 
+unspeakably unspeakably many past, present, and future Buddhas of the entire space of the whole cosmos in all directions.
+
+"Having aroused this determination, they are able to know the first attainment of true awakening as well as the final release of all Buddhas of the past, 
+are able to believe in the roots of goodness of all Buddhas of the future, and are able to know the knowledge and wisdom of all Buddhas of the present. 
+The virtues of those Buddhas, these enlighten­ing beings can believe in, 
+can accept, can cultivate, can attain, can know, can witness, and can perfect; 
+they can be equal, of the same nature, as the Buddhas. Why? 
+Because these enlightening beings arouse their aspiration in order not to let the lineage of all enlightened ones die out; 
+they arouse their aspiration in order to pervade all worlds; they arouse their determination in order to liberate the beings of all worlds; 
+they arouse their aspiration in order to completely know the formation and disintegration of all worlds; 
+they arouse their determination in order to completely know the defilement and purity of all beings; 
+they arouse their minds in order to know the purity of the realms of desire, form, and formlessness in all worlds; 
+they arouse their determination in order to completely know the inclinations, afflictions, and mental habits of all living beings; 
+they arouse their aspiration in order to completely know the faculties and means of all beings; 
+they arouse their determination in order to completely know the mental activities of all beings; 
+they arouse their aspiration in order to know all beings' knowledge ofpast, present, and future. 
+Because they have set their minds on enlightenment, they are always remembered by all the Buddhas of past, present, 
+and future, and will attain the unsurpassed enlightenment of all Buddhas of all times. 
+Then they will be given the sublime teachings of all Buddhas of all times, and will be actually and essentially equal to all Buddhas of all times. 
+Having cultivated the methods of fostering the Path used by all Buddhas of all times, consummated the powers and fearlessnesses of all Buddhas of all times, 
+and adorned themselves with the unique qualities of all Buddhas of all times, 
+they will thoroughly attain the knowledge and wisdom to explain the truth of all Buddhas of the cosmos. Why? 
+Because by means of this determination they will attain Buddhahood.
+"Know that such a person is thereupon the same as the Buddhas of all times, thereupon equal in perspective to the Buddhas of all times, 
+thereupon equal in virtue to the Buddhas of all times, and attains the true knowledge of the ultimate equality of one body and infinite bodies of the Enlightened.
+
+"As soon as one sets the mind on complete enlightenment, one is praised by all the Buddhas of all quarters and can thereupon expound the teaching, 
+edify and purify the beings of all worlds, and can there­ upon shake all worlds, and can thereupon illumine all worlds, 
+and can thereupon extinguish the pains of the states of misery in all worlds, and can thereupon beautify and purify all lands, 
+and can thereupon manifest attainment of Buddhahood in all worlds, and can thereupon cause all living things to rejoice, 
+and can thereupon enter into the essence of all reality realms, and can thereupon maintain the lineage of all enlightened ones, 
+and can thereupon attain the light of wisdom of all Buddhas.
+
+"This enlightening being who has just aspired to enlightenment does not apprehend anything in the past, present, or future-whether Buddhas, 
+Buddhas' teachings, enlightening beings, principles ofenlightening beings, solitary awakened ones, 
+principles of solitary awakened ones, listeners, principles of listeners, the world, worldly things, the transmundane, transmundane things, 
+sentient beings, or norms of sentient beings-the enlightening being only seeks omniscience and has no mental attach­ ment to anything."
+
+At that point, by the spiritual power of the Buddha, worlds as numerous as the atoms in ten thousand buddha-lands in each of the ten directions all quaked in six ways, 
+rained celestial flowers, perfumes, incenses, garlands, robes, jewels, and ornaments, produced celestial music and radiated celestial lights and sounds. 
+Now in each of the ten directions, beyond as many worlds as atoms in ten buddha-lands, were as many Buddhas as atoms in ten thousand buddha-lands, 
+all named Truth Wisdom; each of them appeared bodily before the enlightening being Truth Wisdom and said these words: 
+"Good, good! Truth Wisdom, you arc now able to expound this teaching; we Buddhas, as many in each of the ten directions as atoms in ten thousand buddha-lands, 
+also expound this teaching. All Buddhas teach in this way. As you ex­ pounded this teaching, 
+there were as many enlightening beings as atoms in ten thousand buddha-lands who were inspired with the deter­ mination for enlightenment: 
+we now give them all the prediction of enlightenment, that in the future, after ten unspeakable numbers of boundless cons, 
+they will alike attain buddhahood in the same con, and, appearing in the world, will all be called Pure Mind Buddha. 
+The worlds they live in will each be different. We will all protect and keep this teaching, 
+so that all the enlightening beings of the future who have not heard it will be able to hear it."
+
+
+As in this world Endurance, atop the Mt. Sumerus of the four quarters, this teaching was spoken, 
+to cause them to accept the teaching once they have heard it, so also was it spoken in all the countless worlds throughout the universe, 
+to edify living beings. All those who ex­ pounded it were called Truth Wisdom. 
+They spoke such a teaching by the spiritual power of the Buddhas, by the power of the Buddhas' original vow, in order to reveal the Buddhas' teaching, 
+to illumine all with the light ofknowledge, to expose the truth, to cause beings to realize the essence ofthings, 
+to cause all congregations to rejoice, to reveal the causal basis of the Buddhas' teaching, to realize the equality of all Buddhas, 
+to comprehend the nonduality of the realm of reality.
+
+
+Then the enlightening being Truth Wisdom looked over all the congregations in all lands in the ten directions of the entire realm of space, 
+and because he desired to perfect the living beings, because he wanted to purify all actions, results, and consequences, 
+because he wanted to reveal the realm of reality, because he wanted to extirpate the roots of defilement, 
+because he wanted to increase great faith and resolution, because he wanted to cause all to know the faculties of infinite sentient beings, 
+because he wanted to cause all to know the equality of past, present, and future phenomena, because he wanted to cause all to contemplate the realm of nirvana, and because he wanted to increase inherently pure roots of goodness, he spoke these verses by the power of Buddha:
+To benefit the world enlightening beings make a great resolution, That resolution extending everywhere throughout the ten directions: Living beings, lands, the
+phenomena of past, present, and future, Enlightened as well as enlightening beings, supreme oceans, To the limits of space, equal to the cosmos,
 And all the worlds there arc therein:
 In accord with Buddhas' teachings, they go to every one; Arousing their minds this way, they never regress.
 They think of living beings with compassion, never abandoning them;
@@ -355,22 +414,22 @@ They arc anointed by the Buddhas, their minds without attachment.
 Remembering to requite their debt to the Most Honorable Human, Their minds arc incorruptible, like diamond.
 Able to clearly comprehend the sphere of Buddhas' action,
 They naturally cultivate and practice enlightening deeds.
-The different thoughts of the various realms of beings arc infinite­ Their acts, their results, and their minds arc also not one­ Everything down to their various different faculties and natures Arc all clearly seen once the great mind is developed.
+The different thoughts of the various realms of beings arc infinite­ Their acts, their results, 
+and their minds arc also not one­ Everything down to their various different faculties and natures Arc all clearly seen once the great mind is developed.
 That mind is far-reaching, as vast as the cosmos;
-Without reliance, unchanging, like space-
-Heading for Buddha-knowledge without grasping anything,
+Without reliance, unchanging, like space Heading for Buddha-knowledge without grasping anything,
 It clearly comprehends the realm of truth, apart from discriminatory thought.
-Knowing the minds ofliving beings without the concept ofbeings, Comprehending all things without the concept of things,
+Knowing the minds of living beings without the concept of beings, Comprehending all things without the concept of things,
 Though discriminating all, yet free from discrimination,
 It goes to all lands, billions and trillions.
 Following, contemplating, able to enter all
-The wondrous troves of teachings of countless Buddhas, Knowing all the faculties and behaviors ofliving beings,
-Those who have reached this point arc like the Buddha.
+The wondrous troves of teachings of countless Buddhas, Knowing all the faculties and behaviors of living beings,
+Those who have reached this point are like the Buddha.
 Always in accord with the pure great vow,
 Gladly supporting the enlightened without turning back, Always pleasing to the sight ofhumans and cclestials, Always protected mindfully by the Buddhas,
 Their minds are pure, free from dependence;
 Though they contemplate the profound teaching, they do not cling,
-Meditating thus for countless cons
+Meditating thus for countless eons
 Without any attachments in the past, present, or future.
 Their minds are firm and sure, impossible to overcome;
 They proceed to Buddhas' enlightenment without obstruction. Determined to seek the wondrous Way, they get rid of infantile Ignorance;
@@ -384,7 +443,8 @@ Their light of knowledge illumines clearly.
 Liberating many with great compassion, utterly beyond compare, Their kindness extends everywhere, like space.
 And yet they do not discriminate in regard to living beings; Thus being pure, they roam through the world.
 Giving solace and comfort to living beings everywhere, Everything they do is true and genuine.
-Always with a pure heart, they don't contradict themselves; They arc always strengthened and protected by all the Buddhas. They remember everything that was in the past,
+Always with a pure heart, they don't contradict themselves; They are always strengthened and protected by all the Buddhas. 
+They remember everything that was in the past,
 And discern everything in the future.
 They enter all worlds in the ten directions
 To liberate beings, causing them to be detached.
@@ -422,8 +482,11 @@ Aiding beings, giving offerings to Buddhas.
 From the Buddhas they ask the profound truth;
 They think of the enlightened ones as parents,
 And perform enlightening practices to benefit sentient beings. With wisdom and flexible means they penetrate the treasury of truths,
-Entering the profound realm ofknowledge without any attachment. Meditating in accord with truth, they explain the reality-realm For countless cons, without being able to exhaust it.
-Though their knowledge skillfully penetrates, it has no location; They are not tired or wearied, have no attachment to anything. Born in the house of the Buddhas of past, present, and future, They experience the subtle reality-body of the enlightened ones. Manifesting various forms for all living beings,
+Entering the profound realm ofknowledge without any attachment. Meditating in accord with truth, 
+they explain the reality-realm For countless eons, without being able to exhaust it.
+Though their knowledge skillfully penetrates, it has no location; They are not tired or wearied, have no attachment to anything. 
+Born in the house of the Buddhas of past, present, and future, They experience the subtle reality-body of the enlightened ones. 
+Manifesting various forms for all living beings,
 Like magicans there's nothing they can't make:
 Some manifest the beginning of practice of excellent action, Some manifest birth, up to leaving home,
 Some manifest fulfilling enlightenment under a tree,
@@ -463,7 +526,7 @@ Their minds pure, with no discrimination;
 Such is their instantaneous inconceivable power.
 They do not discriminate among worlds,
 They have no illusions about any thing;
-While they contemplate the teachings, they do not grasp them, And though they arc always rescuing beings none arc delivered. All worlds arc only mental images:
+While they contemplate the teachings, they do not grasp them, And though they arc always rescuing beings none are delivered. All worlds arc only mental images:
 Therein arc various distinctions:
 Knowing the realms of ideation arc dangerous and deep, Enlightening beings manifest spiritual powers to rescue and liberate. Like the powers of a magician
 Arc the spiritual metamorphoses of enlightening beings;
@@ -483,7 +546,7 @@ They always observe diligently how nothing exists.
 According with the dispassionate state of nirvana,
 They abide in noncontcntion and nonreliance.
 Their minds, like ultimate reality, have no compare:
-They arc turned wholly to enlightenment, never to regress. Cultivating supreme practice without backsliding or weakening, They rest on enlightenment, unwavering.
+They are turned wholly to enlightenment, never to regress. Cultivating supreme practice without backsliding or weakening, They rest on enlightenment, unwavering.
 Buddhas, enlightening beings, and the worlds
 Throughout the cosmos, they all clearly understand.
 If you want to attain the supreme, foremost of paths,
@@ -509,14 +572,14 @@ They all dwell in the uncrcated sphere ofreality.
 To the assemblies of infinite Buddhas
 They go to call on them;
 Always being leaders, they ask the Buddhas
-About the vows and practices cultivated by enlightening beings. Their minds always remember the Buddhas of the ten directions, Yct without depending on or grasping anything.
+About the vows and practices cultivated by enlightening beings. Their minds always remember the Buddhas of the ten directions, Yet without depending on or grasping anything.
 They constantly urge living beings to plant roots of goodness, Adorning their lands, making them pure.
-A ll sentient beings in all realms of existence
+All sentient beings in all realms of existence
 They observe with unobstructed eyes:
 Their habits, natures, faculties, and understandings, Countless and boundless, all they clearly see.
 Aware of all defilement and purity,
 They cause them to cultivate themselves and enter the Way. Measureless, countless meditation concentrations Enlightening beings can enter in a single instant:
-Their perceptions, knowlcdgcs and objects therein
+Their perceptions, knowledges and objects therein
 They all know thoroughly and attain mastery.
 Enlightening beings, attaining this great knowledge, Immediately direct it to enlightenment, unhindered.
 Because they want to help and benefit living beings,
@@ -592,7 +655,7 @@ Causing them to cut off delusions and become saints,
 Amasses virtue which may be immeasurable,
 But cannot compare to the virtue of the will for enlightenment. Also, to cause millions to achieve individual awakening
 And attain the subtle path of noncontentious action,
-Docs not amount to anything much at all
+Does not amount to anything much at all
 Compared to the determination for enlightenment.
 If one could pass billions of lands in an instant
 And did so for immeasurable eons,
@@ -609,13 +672,14 @@ The desires, understandings, means, and mental patterns
 Of the sentient beings of the worlds of the ten directions,
 As well as the bounds of space, might be measured,
 But the virtues of the aspirations for enlightenment cannot be assessed.
-Enlightening beings' aspiration is equal to the ten directions; Their kindness universally nourishes all living beings, Causing all to cultivate the virtues of buddhahood:
+Enlightening beings' aspiration is equal to the ten directions; 
+Their kindness universally nourishes all living beings, Causing all to cultivate the virtues of buddhahood:
 That's why their power has no bounds.
 Sentient beings' desires, understandings, inclinations, Faculties, devices, and practices arc all different; Enlightening beings know them all instantly,
 Same as the mind of omniscience.
 The deluded actions of living beings
 Continue through time without interruption,
-Yct their bounds still might be known;
+Yet their bounds still might be known;
 But the virtues ofwill for enlightenment are inconceivable.
 Will for enlightenment can divorce afflictions ofaction
 And provide offerings to all the Enlightened:
@@ -631,7 +695,7 @@ Wish-fulfilling jewels, radiating light,
 And brings such offerings moment after moment
 Over countless eons, beyond the power of speech,
 Though such a person's accumulation of merit would be great,
-It docs not equal the magnitude of the virtue of aspiring to enlightenment.
+It does not equal the magnitude of the virtue of aspiring to enlightenment.
 None of the various examples told
 Can match the determination for enlightenment,
 Because the most honorable people of all times
@@ -650,7 +714,8 @@ Perfecting all virtues,
 Able to relinquish everything, always consistent, Purifying behavior, free from attachment,
 Fulfilling unsurpassed virtues,
 Always persevering without regression,
-Entering deep concentration, always meditating, Uniting with vastly great knowledge and wisdom: This is the supreme stage of enlightening beings, Producing the path of all the Universally Good.
+Entering deep concentration, always meditating, Uniting with vastly great knowledge and wisdom: 
+This is the supreme stage of enlightening beings, Producing the path of all the Universally Good.
 All the Enlightened Ones of past, present, and future Protect the initial aspiration,
 Adorning it with spiritual powers and mystic transfiguration, With concentrations and spells.
 The living beings of the ten directions are infinite,
@@ -670,7 +735,8 @@ As well as the various pleasures of the other states of being,
 And the pleasures of progress, concentration, religious faculties and powers, and so on,
 All depend on the first aspiration to enlightenment.
 Based on the production ofthis far-reaching determination Can one practice the six ways of transcendence:
-Urging sentient beings to carry out right practice, Experiencing peace and happiness in the three realms, Abiding in the Buddhas' unhindered true knowledge, Revealing all the wonderful actions there arc,
+Urging sentient beings to carry out right practice, Experiencing peace and happiness in the three realms, 
+Abiding in the Buddhas' unhindered true knowledge, Revealing all the wonderful actions there arc,
 Able to cause countless living beings
 To cut off deluded actions and turn to nirvana,
 Making vows of boundless virtues
