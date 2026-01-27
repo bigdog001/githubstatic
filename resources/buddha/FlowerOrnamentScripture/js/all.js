@@ -1194,7 +1194,8 @@ How could Buddha have any explanation?
 It is just in accord with one's own mind
 One thinks Buddha expounds such a doctrine.
 `;
-const sutra_21=``;
+const sutra_21_1=``;
+const sutra_21_2=``;
 const sutra_22=``;
 const sutra_23=``;
 const sutra_24=``;
@@ -1243,11 +1244,16 @@ const sutra_all = [{
   content:sutra_20
 } ,
 {
-  id:21,
+  id:21_1,
   title_cn:" ",
   title_en:" ",
-  content:sutra_21
-} ,
+  content:sutra_21_1
+},{
+  id:21_2,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_21_2
+}  ,
 {
   id:22,
   title_cn:" ",
