@@ -1,0 +1,114 @@
+const sutra_16 = `THEN THE GODLING Right Mindfulness said to the enlightening being Truth Wisdom, 
+"In all worlds, enlightening beings, following the teaching of the Enlightened Ones, 
+dye their clothing and leave home to become mendicants: 
+how can they attain purity of religious practice, 
+and from the state of enlightening reach the path of unexcelled enlightenment?"
+
+
+Truth Wisdom said,
+"Great enlightening beings, when performing religious practice, 
+should attentively contemplate ten things objectively: 
+the body, physical action, speech, verbal action, mind, mental action, Buddha, the Teaching, the religious community, and the precepts. 
+They should contemplate in this way: Is the body religious practice? 
+And so on, down to: Arc precepts religious practice? 
+If the body were religious practice, then religious practice would be not good, 
+it would not be the true teaching, 
+it would be defiled, 
+it would be impure, 
+it would be foul, 
+it would be unclean, 
+it would be disgusting, 
+it would be intractable, 
+it would be defined, 
+it would be a corpse, 
+it would be a mass of microbes. 
+If physical action were religious practice, 
+then reli­ gious practice would be walking, standing, sitting, lying down, 
+look­ing around, up and down. 
+If speech were religious practice, 
+then religious practice would be sound and breath, chest, tongue, lips, exhalation and inhalation,constriction and relaxation, high and low, clear and unclear. 
+If verbal activity were religious practice, 
+then reli­ gious practice would be greetings, 
+summary explanations, extensive explanations, 
+metaphorical explanations, direct explanations, 
+praise, criticism, definitions, explanations accommodated to conventions, 
+clear explanations. 
+If the mind were religious practice, 
+then religious practice would be consideration and pondering, 
+discrimination, various discrimi­nations, conception, various conceptions, thought, various thoughts, 
+acts of illusion and dreams. 
+If mental activity were religious practice, 
+then religious practice would be ideas, 
+cold and heat, hunger and thirst, pain and pleasure, sorrow and joy. 
+If Buddha is religious practice, 
+is material form to be considered Buddha? 
+Is sensation Buddha? Is concep­ tion Buddha? Is action Buddha? Arc spiritual powers Buddha? 
+Are works Buddha? Are resulting consequences Buddha? 
+If the Teaching is religious practice, is extinction the Teaching? 
+Is nirvana the Teaching? Is nonbirth the Teaching? 
+Is nonorigination the Teaching? Is inexplica­ bility the Teaching? 
+Is nondiscrimination the Teaching? Is nonaction the Teaching? 
+Is nonconjunction the Teaching? 
+If the Community is reli­ gious practice, is heading for stream-entering the Community? 
+Is the fruit of stream-entering the Community? Is heading for the state of once-returner the Community?
+Is the fruit of once-returner the Community? Is heading for the state ofnonrcturner the Community? 
+Is the fruit of nonrcturner the Community? Is heading for sainthood the Community? 
+Is the fruit of sainthood the Community? 
+Are those with the three super-knowledges the Community? 
+Are those with the six paranormal powers the Community? 
+If the precepts are religious practice, is the ordination altar the precepts? 
+Is asking about purity the precepts? Is teaching proper manners the precepts? 
+Is the threefold repetition the precepts? Is the instructor the precepts? 
+Is the tutor the precepts? Is shaving off the hair the precepts? 
+Is putting on the monastic garb the precepts? Is begging the precepts?
+Is right livelihood the precepts?
+
+
+"Having contemplated thus, 
+having no attachment to the body, no clinging to practice, no dwelling on doctrine, 
+the past gone, the future not yet arrived, the present empty, 
+there is no doer, no receiver of consequences; 
+this time doesn't move, another time doesn't shift-what thing is therein to be called religious practice? 
+Where docs religious practice come from? Where is it? 
+Who is the body? By whom is it performed? 
+Docs it exist? Does it not exist? 
+Is it form? Is it not form? Is it sensation? Is it not sensation?
+Is it conception? Is it not conception? Is it action? Is it not action? 
+Is it consciousness? Is it not consciousness? 
+Contemplating in this way, because the reality of religious practice cannot be apprehended, 
+because the things of past, present, and future are all empty, 
+because the intellect has no attachment, because the mind has no obstruction, 
+because the sphere ofoperation is nondual, because expedient means are free, 
+because ofacceptance offormless truth, because of contemplation of formless truth, 
+because of knowing the Buddha's teaching is equanimous, because offulfilling all qualities ofBuddhahood, 
+is such practice called pure religious practice.
+
+
+"Ten things should also be cultivated: 
+knowledge of what is so and what is not; 
+knowledge of past, present, and future consequences of actions; 
+knowledge of all meditations, liberations, and concentrations; 
+knowledge of superiority and inferiority of faculties;
+knowledge of all kinds of understandings; 
+knowledge of all kinds of realms; 
+knowledge of where all paths lead; 
+unhindered clairvoyance; unhindered knowl­ edge of past lives; 
+knowledge of the eternal cancellation of habit energy. 
+Contemplating each of these ten powers of the enlightened, 
+in each power are innumerable meanings;  one should ask about them, 
+and after having heard about them should arouse a mind of great kindness and compassion and observe sentient beings without abandoning them,
+reflect on the teachings unceasingly, carry out superlative deeds without seeking rewards, 
+comprehend that objects arc like dreams, 
+like illusions, like reflections, like echoes, and like magical productions. 
+If enlighten­ ing beings can unite with such contemplations, 
+they will not entertain a dualistic understanding of things and all enlightening teachings will become evident to them: 
+at the time of their first determination they will immediately attain complete perfect enlightenment, 
+will know all things arc the mind's own nature, and will perfect the body of wisdom and understand without relying on another. "
+`;
+const sutra_all = [{
+  id:16,
+  title:"梵行",
+  content:sutra_16
+},{
+  
+}]
