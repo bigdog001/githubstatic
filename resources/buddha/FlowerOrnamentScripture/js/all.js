@@ -1220,10 +1220,13 @@ because they have developed unerring powers of elucidation;
 because they have developed profound faith and resolve boosted by the Buddhas; 
 because they have developed the power of knowledge to enter the assemblies of all Buddhas; 
 because they have developed the pure mind that knows the Buddhas of all times are of the same essential nature; 
-because they have developed the knowledge of enlightened ones of all times, and the great will and knowledge of all enlightening beings, and are able to be teachers of the truth, to open up the treasury of the true teaching of the Buddhas, and to protect and keep it. "
+because they have developed the knowledge of enlightened ones of all times, and the great will and knowledge of all enlightening beings, 
+and are able to be teachers of the truth, to open up the treasury of the true teaching of the Buddhas, and to protect and keep it. "
+
+
 Then, to restate what he meant, the enlightening being Truth Wisdom, by the spiritual power of the Buddha uttered these verses:
 Mind dwelling on enlightenment, gathering myriad virtues, Never self-indulgent, planting unshakable wisdom,
-Always mindful of the aspiration for enlightenment-
+Always mindful of the aspiration for enlightenment 
 At this all Buddhas rejoice.
 Mindfulness and will firm, self-motivated,
 Relying on nothing in the world, and never shrinking in fright, Entering the profound truth by the practice of noncontention­ At this the Buddhas all rejoice.
@@ -1252,13 +1255,37 @@ Imperturbable as a mountain, their knowledge is like an ocean, And like a great 
 When Truth Wisdom had spoken these verses, the Buddha was delighted, and everyone reverentially put them into practice.
 
 `;
-const sutra_19=`THEN, BY THE SPIRITUAL POWER of the Enlightened One, in all worlds of the ten directions, in the Jambu continent of each of the four quarters, and on the peak of their polar mountains, the Enlightened One was seen in the midst of an assembly, wherein the enlightening beings, due to the spiritual power of the Buddha, expounded the Teaching, each one having the sense of facing the Buddha at all times.
-At that time the World Honored One, without leaving the foot of the enlightenment trees and the peaks of the polar mountains, headed for the jewel-adorned hall of the palace of the Suyama heaven. The king of the Suyama heaven, seeing from afar the Buddha coming, produced by magical powers a jewe1 lotus bank lion throne in his palace, with a million tiers of decorations, wrapped in a million golden nets, covered with a million drapes offlowers, a million drapes ofgarlands, a million drapes of perfumes, and a million drapes of jewels, surrounded by a million canopies each of flowers, garlands, perfumes, and jewels; a million lights illumined it. A million celestial kings of the Suyama heaven bowed in respect, a million Brahma kings danced for joy, a million enlightening beings sang praises. A million heavenly sympho­ nies each played a million tones of truth, continuing endlessly; a million clouds of various flowers, a million clouds of various garlands, a million clouds of various ornaments, and a million clouds of various robes, covered all around; a million clouds of various wish-fulfilling
-jewels shone with light. The throne was born from a million kinds of roots of goodness, protected by a million Buddhas, augmented by a million kinds of virtues, dignified and purified by a million kinds of faith and a million kinds of vows, produced by a million kinds of action, established by a million kinds of truths, conjured up by a million kinds of spiritual powers, always producing a million kinds of sounds revealing all truths.
-Then that celestial king, having set out this throne, turned to the Buddha, the World Honored One, bowed and joined his palms with reverence and respect and said, "Welcome, 0 World Honored One; welcome, Felicitous One; welcome, Enlightened One; welcome, 0 Worthy; welcome, 0 Truly Awakened One. Please be so gracious as to sojourn in this palace." Then the Buddha, accepting the invitation, ascended to the precious hall. This also took place in the same way everywhere in the ten directions.
+const sutra_19=`THEN, BY THE SPIRITUAL POWER of the Enlightened One, in all worlds of the ten directions, 
+in the Jambu continent of each of the four quarters, and on the peak of their polar mountains, 
+the Enlightened One was seen in the midst of an assembly, wherein the enlightening beings,
+due to the spiritual power of the Buddha, expounded the Teaching, each one having the sense of facing the Buddha at all times.
+
+
+At that time the World Honored One, without leaving the foot of the enlightenment trees and the peaks of the polar mountains, 
+headed for the jewel-adorned hall of the palace of the Suyama heaven. 
+The king of the Suyama heaven, seeing from afar the Buddha coming, produced by magical powers a jewe1 lotus bank lion throne in his palace, 
+with a million tiers of decorations, wrapped in a million golden nets, covered with a million drapes offlowers, 
+a million drapes ofgarlands, a million drapes of perfumes, and a million drapes of jewels, 
+surrounded by a million canopies each of flowers, garlands, perfumes, and jewels; 
+a million lights illumined it. A million celestial kings of the Suyama heaven bowed in respect,
+a million Brahma kings danced for joy, a million enlightening beings sang praises. 
+A million heavenly sympho­ nies each played a million tones of truth, continuing endlessly;
+a million clouds of various flowers, a million clouds of various garlands, a million clouds of various ornaments, 
+and a million clouds of various robes, covered all around; 
+a million clouds of various wish-fulfilling jewels shone with light. 
+The throne was born from a million kinds of roots of goodness, protected by a million Buddhas,
+augmented by a million kinds of virtues, dignified and purified by a million kinds of faith and a million kinds of vows,
+produced by a million kinds of action, established by a million kinds of truths, 
+conjured up by a million kinds of spiritual powers, always producing a million kinds of sounds revealing all truths.
+Then that celestial king, having set out this throne, turned to the Buddha, the World Honored One,
+bowed and joined his palms with reverence and respect and said, "Welcome, 0 World Honored One; welcome, Felicitous One; 
+welcome, Enlightened One; welcome, 0 Worthy; welcome, 0 Truly Awakened One. Please be so gracious as to sojourn in this palace."
+Then the Buddha, accepting the invitation, ascended to the precious hall. This also took place in the same way everywhere in the ten directions.
+
+
 Then the celestial king, reflecting on the roots of goodness he had planted with past Buddhas, spoke these verses with the aid of the Buddha's spiritual powers:
 The Buddha Renown, famed throughout the ten directions, Supreme among the Auspicious,
-Has been in this hall ofjewels;
+Has been in this hall of jewels;
 Therefore this place is most auspicious.
 The Buddha Jewel King, lamp of the world, Supreme among the Auspicious,
 Has been in this pure hall;
@@ -1284,13 +1311,40 @@ Has been in this well-adorned hall;
 Therefore this place is most auspcious.
 The Buddha Ascetic, benefiting the world, Supreme among the Auspicious,
 Has been in this hall of universal embellishment; Therefore this place is most auspicious.
-Just as the king of the Suyama heaven in this world, graced with the occult power of the Buddha, recalled the virtues of Buddhas of ancient times and extolled them, so did all the kings of the Suyama heavens in the ten directions laud the virtues of Buddhas.
-Then the World Honored One entered thejewel-adorned hall and sat crosslegged on the jewel lotus flower bank lion throne; the hall sud­ denly expanded vastly. The same thing happened in all worlds of the ten directions as happened in the abodes of the gods .
+
+
+Just as the king of the Suyama heaven in this world, graced with the occult power of the Buddha, 
+recalled the virtues of Buddhas of ancient times and extolled them, 
+so did all the kings of the Suyama heavens in the ten directions laud the virtues of Buddhas.
+
+
+Then the World Honored One entered thejewel-adorned hall and sat crosslegged on the jewel lotus flower bank lion throne; 
+the hall sud­ denly expanded vastly. The same thing happened in all worlds of the ten directions as happened in the abodes of the gods .
 
 `;
-const sutra_20=`THEN, DUE TO THE SPIRITUAL FORCE of the Buddha, a great enlighten­ ing being from each ofthe ten directions, each accompanied by as many enlightening beings as atoms in a buddha-land, came from beyond as many lands as atoms in a hundred thousand buddha-lands, and gathered in an assembly. The names of those great enlightening beings were: Forest of Virtues; Forest of Wisdom; Forest of Victory; Forest of Fearlessness; Forest of Conscience; Forest of Energy; Forest of Power; Forest of Practice; Forest of Awareness; Forest of Knowledge. The lands which these enlightening beings came from were called: Intimate Wisdom; Symbolic Wisdom; Jewel Wisdom; Supreme Wisdom; Lamp Wisdom; Adamantine Wisdom; Peaceful Wisdom; Sun Wisdom; Clear Wisdom; Pure Wisdom. These enlightening beings had each purely cultivated religious practice in the company of a Buddha; the names of those Buddhas were: Eternal Eye; Invincible Eye; Nondwelling Eye; Imperturbable Eye; Divine Eye; Eye of Liberation; Eye Comprehending Truth; Eye Understanding Forms; Supreme Eye; Violet Eye.
-Having come to the Buddha, these enlightening beings bowed at the Buddha's feet, then each made jewel bank lion seats in their respective directions and sat thereupon. As in this world enlighten­ ing beings gathered this way in the Suyama heaven, so did this also take place in all worlds; the names of the enlightening beings, their worlds, and the Buddhas they associated with, were all the san1e.
-Then the World Honored One emanated from the top of his feet ten trillion beams of light of wonderful hues, illumining the ten directions; the Buddhas and congregations in the palaces of the Suyama heavens in all worlds were made clearly visible. Then the Enlightening being Forest of Virtues, imbued with power from the Buddha, looked over the ten directions and said in verse,
+const sutra_20=`THEN, DUE TO THE SPIRITUAL FORCE of the Buddha, a great enlighten­ ing being from each ofthe ten directions, 
+each accompanied by as many enlightening beings as atoms in a buddha-land, came from beyond as many lands as atoms in a hundred thousand buddha-lands, 
+and gathered in an assembly. The names of those great enlightening beings were: Forest of Virtues; 
+Forest of Wisdom; Forest of Victory; Forest of Fearlessness; Forest of Conscience; 
+Forest of Energy; Forest of Power; Forest of Practice; Forest of Awareness; Forest of Knowledge. 
+
+
+The lands which these enlightening beings came from were called: Intimate Wisdom; Symbolic Wisdom; Jewel Wisdom;
+Supreme Wisdom; Lamp Wisdom; Adamantine Wisdom; Peaceful Wisdom; Sun Wisdom; Clear Wisdom; Pure Wisdom. 
+These enlightening beings had each purely cultivated religious practice in the company of a Buddha; the names of those Buddhas were: Eternal Eye; 
+Invincible Eye; Nondwelling Eye; Imperturbable Eye; Divine Eye; Eye of Liberation; Eye Comprehending Truth; Eye Understanding Forms; Supreme Eye;Violet Eye.
+
+
+Having come to the Buddha, these enlightening beings bowed at the Buddha's feet, then each made jewel bank lion seats in their respective directions and sat thereupon.
+As in this world enlighten­ ing beings gathered this way in the Suyama heaven, so did this also take place in all worlds; 
+the names of the enlightening beings, their worlds, and the Buddhas they associated with, were all the same.
+
+
+Then the World Honored One emanated from the top of his feet ten trillion beams of light of wonderful hues, illumining the ten directions; 
+the Buddhas and congregations in the palaces of the Suyama heavens in all worlds were made clearly visible. 
+Then the Enlightening being Forest of Virtues, imbued with power from the Buddha, looked over the ten directions and said in verse,
+
+
 Buddha emanates great light
 Illumining the ten directions;
 All sec the Honored One ofheaven and earth Freely, without obstruction.
@@ -1323,7 +1377,7 @@ Buddha's virtues arc boundless; How could they be measured? Neither abiding nor 
 Then the enlightening being Forest of Wisdom, empowered by the Buddha, looked over the ten directions and said in verse,
 The great leader of the world,
 Supreme honored one, free from defilement, Is hard to get to meet
-Even in countless cons.
+Even in countless eons.
 Buddha emits great light
 Visible to all the world;
 Preaching extensively for the multitudes, He benefits all living beings.
