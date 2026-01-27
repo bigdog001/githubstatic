@@ -928,10 +928,105 @@ const sutra_all = [{
 },
 {
   id:19,
-  title_cn:"明法",
-  title_en:"Clarifying Method",
+  title_cn:" ",
+  title_en:" ",
   content:sutra_19
-} 
+} ,
+{
+  id:20,
+  title_cn:" ",
+  title_en:"   ",
+  content:sutra_20
+} ,
+{
+  id:21,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_21
+} ,
+{
+  id:22,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_22
+} ,
+{
+  id:23,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_23
+} ,
+{
+  id:24,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_24
+},
+{
+  id:25_1,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_1
+},
+{
+  id:25_2,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_2
+},
+{
+  id:25_3,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_3
+},
+{
+  id:25_4,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_4
+},
+{
+  id:25_5,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_5
+},
+{
+  id:25_6,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_6
+},
+{
+  id:25_7,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_7
+},
+{
+  id:25_8,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_8
+},
+{
+  id:25_9,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_9
+},
+{
+  id:25_10,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_10
+}, {
+  id:25_11,
+  title_cn:" ",
+  title_en:" ",
+  content:sutra_25_11
+}
 
 
 
