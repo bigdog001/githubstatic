@@ -888,8 +888,312 @@ Imperturbable as a mountain, their knowledge is like an ocean, And like a great 
 When Truth Wisdom had spoken these verses, the Buddha was delighted, and everyone reverentially put them into practice.
 
 `;
-const sutra_19=``;
-const sutra_20=``;
+const sutra_19=`THEN, BY THE SPIRITUAL POWER of the Enlightened One, in all worlds of the ten directions, in the Jambu continent of each of the four quarters, and on the peak of their polar mountains, the Enlightened One was seen in the midst of an assembly, wherein the enlightening beings, due to the spiritual power of the Buddha, expounded the Teaching, each one having the sense of facing the Buddha at all times.
+At that time the World Honored One, without leaving the foot of the enlightenment trees and the peaks of the polar mountains, headed for the jewel-adorned hall of the palace of the Suyama heaven. The king of the Suyama heaven, seeing from afar the Buddha coming, produced by magical powers a jewe1 lotus bank lion throne in his palace, with a million tiers of decorations, wrapped in a million golden nets, covered with a million drapes offlowers, a million drapes ofgarlands, a million drapes of perfumes, and a million drapes of jewels, surrounded by a million canopies each of flowers, garlands, perfumes, and jewels; a million lights illumined it. A million celestial kings of the Suyama heaven bowed in respect, a million Brahma kings danced for joy, a million enlightening beings sang praises. A million heavenly sympho­ nies each played a million tones of truth, continuing endlessly; a million clouds of various flowers, a million clouds of various garlands, a million clouds of various ornaments, and a million clouds of various robes, covered all around; a million clouds of various wish-fulfilling
+jewels shone with light. The throne was born from a million kinds of roots of goodness, protected by a million Buddhas, augmented by a million kinds of virtues, dignified and purified by a million kinds of faith and a million kinds of vows, produced by a million kinds of action, established by a million kinds of truths, conjured up by a million kinds of spiritual powers, always producing a million kinds of sounds revealing all truths.
+Then that celestial king, having set out this throne, turned to the Buddha, the World Honored One, bowed and joined his palms with reverence and respect and said, "Welcome, 0 World Honored One; welcome, Felicitous One; welcome, Enlightened One; welcome, 0 Worthy; welcome, 0 Truly Awakened One. Please be so gracious as to sojourn in this palace." Then the Buddha, accepting the invitation, ascended to the precious hall. This also took place in the same way everywhere in the ten directions.
+Then the celestial king, reflecting on the roots of goodness he had planted with past Buddhas, spoke these verses with the aid of the Buddha's spiritual powers:
+The Buddha Renown, famed throughout the ten directions, Supreme among the Auspicious,
+Has been in this hall ofjewels;
+Therefore this place is most auspicious.
+The Buddha Jewel King, lamp of the world, Supreme among the Auspicious,
+Has been in this pure hall;
+Therefore this place is most auspicious.
+The Buddha Joyful Eye, with unhindered vision , Supreme among the Auspicious,
+Has been in this adorned hall;
+Therefore this place is most auspicious.
+The Buddha Burning Lamp, lighting the world, Supreme among the Auspicious,
+Has been in this magnificent hall;
+Therefore this place is most auspicious.
+The Buddha Benefactor, aid of the world, Supreme among the Auspicious,
+Has been in this undefiled hall;
+Therefore this place is most auspicious.
+The Buddha Well Aware, who had no teacher, Supreme among the Auspicious,
+Has been in this hall of precious fragrance; Therefore this place is most auspicious.
+The Buddha Surpassing the Gods, a lamp in the world, Supreme among the Auspicious,
+Has been in this hall of sublime fragrance;
+Therefore this place is most auspicious.
+The Buddha No Departure, hero of philosophy, Supreme among the Auspicious,
+Has been in this hall of the universal eye; Therefore this place is most auspicious.
+The Buddha Unsurpassed, replete with all virtues, Supreme among the Auspicious,
+Has been in this well-adorned hall;
+Therefore this place is most auspcious.
+The Buddha Ascetic, benefiting the world, Supreme among the Auspicious,
+Has been in this hall of universal embellishment; Therefore this place is most auspicious.
+Just as the king of the Suyama heaven in this world, graced with the occult power of the Buddha, recalled the virtues of Buddhas of ancient times and extolled them, so did all the kings of the Suyama heavens in the ten directions laud the virtues of Buddhas.
+Then the World Honored One entered thejewel-adorned hall and sat crosslegged on the jewel lotus flower bank lion throne; the hall sud­ denly expanded vastly. The same thing happened in all worlds of the ten directions as happened in the abodes of the gods .
+
+`;
+const sutra_20=`THEN, DUE TO THE SPIRITUAL FORCE of the Buddha, a great enlighten­ ing being from each ofthe ten directions, each accompanied by as many enlightening beings as atoms in a buddha-land, came from beyond as many lands as atoms in a hundred thousand buddha-lands, and gathered in an assembly. The names of those great enlightening beings were: Forest of Virtues; Forest of Wisdom; Forest of Victory; Forest of Fearlessness; Forest of Conscience; Forest of Energy; Forest of Power; Forest of Practice; Forest of Awareness; Forest of Knowledge. The lands which these enlightening beings came from were called: Intimate Wisdom; Symbolic Wisdom; Jewel Wisdom; Supreme Wisdom; Lamp Wisdom; Adamantine Wisdom; Peaceful Wisdom; Sun Wisdom; Clear Wisdom; Pure Wisdom. These enlightening beings had each purely cultivated religious practice in the company of a Buddha; the names of those Buddhas were: Eternal Eye; Invincible Eye; Nondwelling Eye; Imperturbable Eye; Divine Eye; Eye of Liberation; Eye Comprehending Truth; Eye Understanding Forms; Supreme Eye; Violet Eye.
+Having come to the Buddha, these enlightening beings bowed at the Buddha's feet, then each made jewel bank lion seats in their respective directions and sat thereupon. As in this world enlighten­ ing beings gathered this way in the Suyama heaven, so did this also take place in all worlds; the names of the enlightening beings, their worlds, and the Buddhas they associated with, were all the san1e.
+Then the World Honored One emanated from the top of his feet ten trillion beams of light of wonderful hues, illumining the ten directions; the Buddhas and congregations in the palaces of the Suyama heavens in all worlds were made clearly visible. Then the Enlightening being Forest of Virtues, imbued with power from the Buddha, looked over the ten directions and said in verse,
+Buddha emanates great light
+Illumining the ten directions;
+All sec the Honored One ofheaven and earth Freely, without obstruction.
+Buddha sits in the Suyama palace
+Yet pervades all worlds in the cosmos; This phenomenon is most extraordinary, Wondercd at by the world.
+The king of the Suyama heaven Has praised ten Buddhas in verse; What is seen in this assembly
+Is all the same everywhere.
+Those groups of enlightening beings
+All have the same names as ours:
+In every place in the ten directions
+They expound the unsurpassed teaching.
+The worlds from which they come
+Arc also the same in name as ours:
+Each of them have, with their Buddhas, Perfected religious practice.
+The names of each of those Buddhas Are also the same as of ours;
+Their countries are rich and happy, Their spiritual powers are autonomous.
+Everywhere in the ten directions They think the Buddha's there; Some see him in the human world, Some sec him in heaven.
+The Buddha abides everywhere In all the various lands:
+Wc now see the Buddha
+In this celestial court.
+He made a vow of enlightenment
+That extended to every world in the cosmos; This is why Buddha's power
+Pervades all inconceivably.
+Leaving behind worldly desires
+He fulfilled boundless virtue; Therefore he gained spiritual power And is seen by all beings.
+He traverses all worlds in the cosmos Like space, with no obstruction;
+One body, infinite bodies:
+His form cannot be grasped.
+Buddha's virtues arc boundless; How could they be measured? Neither abiding nor leaving, He permeates the cosmos.
+Then the enlightening being Forest of Wisdom, empowered by the Buddha, looked over the ten directions and said in verse,
+The great leader of the world,
+Supreme honored one, free from defilement, Is hard to get to meet
+Even in countless cons.
+Buddha emits great light
+Visible to all the world;
+Preaching extensively for the multitudes, He benefits all living beings.
+Buddha appears in the world Removing the darkness of ignorance; Such a lamp of the world
+Is rare and hard to get to behold.
+Having cultivated generosity, self-control, and patience, Diligence and meditation,
+And ultimate transcendent wisdom,
+With them he lights the world.
+The Buddha has no peer;
+None comparable can be found. Without comprehending real truth No one can perceive him.
+Buddha's body and psychic powers Are inconceivably free:
+Neither going nor coming,
+He speaks the truth to liberate.
+If any can sec and hear
+The pure Teacher of humans and gods, They'll leave forever the states ofwoe And cast off all miseries.
+For measureless, countless eons
+He cultivated enlightening practice; Who cannot know the meaning of this Cannot attain buddhahood.
+If one can know this meaning,
+One's virtues will surpass
+One who makes offerings to countless Buddhas For inconceivable cons.
+Even if one gives to a Buddha Countless lands full ofjewels,
+If one knows not this meaning, One never attains enlightenment.
+Then the enlightening being Forest of Victory, imbued with power from the Buddha, looked over the ten directions and said in verse,
+As in the summer months
+With the sky clear and cloudless, The radiant sun blazes with light Filling the ten directions,
+That light boundless,
+Impossible to measure
+Even by those with eyes,
+Let alone the blind-
+So arc the Buddhas-
+Their virtues arc boundless;
+Even in inconceivable cons
+No one can know them in detail.
+All things have no provenance And no one can create them:
+There is nowhere whence they arc born, They cannot be discriminated.
+All things have no provenance, Therefore they have no birth; Because there is no birth, Neither can extinction be found.
+All things are birthless
+And have no extinction either; Those who understand in this way Will sec the Buddha.
+Because things have no birth,
+Their inherent nature is nonexistent; One who analyzes and knows this Will arrive at the profound truth.
+Because things have no inherent nature No one can comprehend them;
+When understanding things in this way, Ultimately nothing is understood.
+That which is said to have birth
+Is to manifest lands-
+If one can know the nature of lands One's mind will not be confused: Examining according to truth
+The nature of the world and lands, If one is able to know this,
+One can explain all things.
+Then the enlightening being Forest of Fearlessness, by the power of the Buddha, looked over the ten directions and said in verse,
+The Buddha's immense body
+Reaches the extremities of the cosmos; Without leaving this seat
+It pervades all places.
+Whoever, hearing this teaching, Respects and has faith in it,
+Shall forever escape all the miseries Of the states of woe.
+Even going to many worlds, Uncountably numerous, Singlc-mindedly desiring to hear
+Of the powers of the Buddha,
+And such qualities of Buddhas, Their unexcelled enlightenment, Even wanting to hear for a moment, None is able to do so.
+If any in the past
+Believed this aspect of Buddha, They have already become Buddhas And arc lamps of the world.
+If any will get to hear
+Of the Buddha's free powers, And having heard will believe, They too will become Buddhas.
+If any in the present
+Can believe this teaching of Buddha, They will also become Buddhas
+And expound the teaching fearlessly.
+This teaching is hard to encounter Even in countless cons:
+If any get to hear it,
+Know it is the power of past vows.
+If any can accept and hold
+Such teachings of Buddha,
+And, upholding them, spread them too, They will become Buddhas.
+How much the more so those who work diligently, Firm of mind, not giving up:
+You should know such people
+Will certainly attain enlightenment.
+Then the enlightening being Forest of Conscience, empowered by the Buddha, looked over the ten directions and said in verse,
+If people get to hear
+This rare teaching of freedom
+And can produce ajoyful mind
+They'll soon remove the webs of doubt.
+The one who knows and sees all
+Speaks these words himself;
+There's nothing the Buddha knows not, Therefore he's inconceivable.
+Never from lack of wisdom
+Has wisdom ever been born: Worldlings arc always in the dark, And therefore none can produce it.
+Just as form and nonfarm
+Are two and not one,
+So are knowledge and ignorance: They arc essentially different.
+As signs and signlessncss, Birth-death and nirvana,
+Arc distinct and not the same, So arc knowledge and nescience.
+When a world first comes to be
+There's no sign of decay:
+So it is with knowledge and ignorance: Their characteristics arc not simultaneous.
+Like the enlightening beings' first state of mind Docs not coexist with their final state of mind, So it is with knowledge and nescience:
+These two minds do not coexist.
+Just as bodies of consciousness Arc individual and don't combine, So also knowledge and ignorance Ultimately have no communion.
+Just as a panacea
+Can eliminate all toxins, So also can knowledge Extinguish all ignorance.
+The Enlightened is unexcelled And also has no peer;
+He has no compare at all
+And is therefore hard to meet.
+Then the enlightening being Forest of Energy, empowered by the Buddha, looked over the ten directions and said in verse,
+All things have no differentiation;
+No one can know them:
+Only among Buddhas arc they known, Because Buddhas' knowledge is ultimate.
+Just as gold and gold color
+Are in essence no different,
+So also phenomena and nonphenomena Arc in essence no different.
+Sentient beings and not sentient beings Are both without reality:
+In this way the natures of all things
+In truth are nonexistent.
+Just as the future
+Has not the marks of the past, So also do all things
+Not have any marks at all.
+Just as the signs of birth and death Are all unreal,
+So also arc all things
+Void of intrinsic nature.
+Nirvana cannot be grasped,
+But when spoken of there are two kinds, So it is of all things:
+When discriminated, they are different.
+Just as based on something counted There exists a way of counting,
+Their nature is nonexistent:
+Thus are phenomena perfectly known.
+It's like the method of counting,
+Adding one, up to infinity;
+The numbers have no substantial nature: They are distinguished due to intellect.
+Just as the worlds have an end When burnt in the final holocaust
+Yct space is not destroyed:
+So is the Buddha's knowledge.
+These sentient beings of the universe Each grasp characteristics of space:
+So it is of the Buddhas;
+Worldlings conceive of them arbitrarily.
+Then the enlightening being Forest ofPower, by the Buddha's power, looked over the ten directions and said in verse,
+All realms of living beings
+Arc in the past, present, or future:
+The living beings of past, present, and future All dwell in the five clusters.
+The five clusters arc based on actions, Actions arc based on mind:
+Mental phenomena arc like phantoms, And so indeed is the world.
+The world doesn't make itself, Nor is it made by another: Yet it has a formation
+And also has a disintegration.
+Though the world has a formation And a disintegration,
+One who understands the world Would not speak this way.
+What is the world,
+What is not a world?
+World and not world
+Arc only distinctions of name.
+The three times and five clusters
+Arc called the world,
+Their extinction is "not the world": Thus they arc just temporary names.
+How arc the clusters explained? What nature do they have?
+The nature of the clusters is indestructible, So it is called unborn.
+Analyzing these clusters,
+Their nature is fundamentally empty and nil; Because it is empty, it cannot be destroyed: This is the meaning of birthlessness.
+Since sentient beings arc thus, So also arc the Buddhas; Buddhas and Buddha-teachings Intrinsically have no existence.
+If any can know these things Truly, without delusion,
+The one who knows and sees all Will always be before them.
+Then the enlightening being Forest of Practice, empowered by the Buddha, looked over the ten directions and said in verse,
+As in all worlds
+All the solid clements
+Have no independent existence Yct arc found everywhere,
+So also docs the Buddha-body Pervade all worlds,
+Its various physical forms Without abode or origin.
+Just because of activities
+Do we say the name "living beings"­ And there is no action to be found Apart from hving beings.
+The nature of action is fundamentally empty and nil, But is that on which beings arc based,
+Everywhere producing all physical forms,
+And yet coming from nowhere.
+This is the active power of forms , Impossible to conceive:
+If one comprehends the basis, Therein no object is seen.
+The Buddha-body is also like this: It cannot be conceived;
+Its various physical forms
+Appear in all lands in the cosmos.
+The body is not the Buddha, Nor is Buddha a body:
+Only reality is the body, Permeating all things.
+If one can sec the Buddha-body
+Pure as the nature of reality, Such a one has no doubt
+Or confusion about the Buddha.
+If one sees all things
+As in essence like nirvana, This is seeing the Enlightened Ultimately without abode.
+If one cultivates right awareness And clearly sees true awakening, Signless, without discrimination, This is an inheritor of truth.
+Then the enlightening being Forest of Awareness, imbued with the power of Buddha, looked over the ten directions and said in verse,
+It's like a painter
+Spreading the various colors: Delusion grasps different forms
+But the clements have no distinctions.
+In the clements there's no form, And no form in the clements; And yet apart from the clements No form can be found.
+In the mind is no painting, In painting there is no mind; Yet not apart from mind
+Is any painting to be found.
+That mind never stops, Manifesting all forms, Countless, inconceivably many, Unknown to one another.
+Just as a painter
+Can't know his own mind Yct paints due to the mind, So is the nature of all things.
+Mind is like an artist,
+Able to paint the worlds:
+The five clusters all arc born thence; There's nothing it doesn't make.
+As is the mind, so is the Buddha; As the Buddha, so living beings: Know that Buddha and mind
+Arc in essence inexhaustible.
+If people know the actions of mind Create all the worlds,
+They will sec the Buddha
+And understand Buddha's true nature.
+Mind does not stay in the body,
+Nor body stay in mind:
+Yet it's able to perform Buddha-work Freely, without precedent.
+If people want to really know
+All Buddhas of all times,
+They should contemplate the nature of the cosmos: All is but mental construction.
+Then the enlightening being Forest of Knowledge, rece1vmg power from the Buddha, looked over the ten directions and said in verse,
+The grasped cannot be grasped, The seen cannot be seen,
+The heard cannot be heard:
+The one mind is inconceivable.
+The finite and the infinite
+Arc both ungraspablc;
+If any want to apprehend them, Ultimately they apprehend nothing.
+To say what should not be said
+Is self-deception;
+When one's own task is not complete, One cannot gladden others.
+Those who wish to laud the Buddha's Boundless body of wondrous form Could not express it fully
+Even in countless eons.
+Just as the wish-fulfilling jewel
+Can manifest all colors,
+Being colorless yet manifesting color, So are all the Buddhas.
+Also like clear space
+Is formless and invisible
+And though it shows all forms
+None can see space,
+So it is with the Buddhas;
+They manifest infinite forms everywhere
+Yct are not in the province of mental activity So no one is able to see them.
+Though the Buddha's voice is heard, The sound is not the Buddha;
+And yet not apart from sound
+Can the Truly Awake be known.
+Enlightenment has no coming or going; It's apart from all discriminations:
+How then can one
+Say he is able to see it?
+The Buddhas have no doctrine:
+How could Buddha have any explanation?
+It is just in accord with one's own mind
+One thinks Buddha expounds such a doctrine.
+`;
 const sutra_21=``;
 const sutra_22=``;
 const sutra_23=``;
