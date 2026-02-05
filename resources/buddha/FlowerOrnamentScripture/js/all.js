@@ -1612,7 +1612,7 @@ How could Buddha have any explanation?
 It is just in accord with one's own mind
 One thinks Buddha expounds such a doctrine.
 `;
-const sutra_21_1=`
+const sutra_21=`
 THEN THE ENLIGHTENING B EI NG Forest of Virtues, imbued with the
 Buddha's power, entered into absorption in the skillful meditation of
 enlightening beings; when he had entered this absorption, there appeared before him Buddhas from beyond as many lands as atoms in ten
@@ -1644,10 +1644,17 @@ Buddha Children, the practice of enlightening beings is inconceivable,
 equal to the space of the cosmos. Why? Because enlightening beings cultivate practice in emulation of the Buddhas of past, present, and
 future. Buddha-Children, great enlightening beings have ten kinds of
 practices, which are expounded by the Buddhas of past, present, and
-future. What are the ten? (1) The practice of giving joy; (2) beneficial
-practice; (3) the practice of nonopposition; (4) the practice of indomitability; (5) the practice of nonconfusion; (6) the practice of good manifestation; (7) the practice of nonattachment; (8) the practice of that which
-is difficult to attain; (9) the practice of good teachings; (10) the practice
-of truth .
+future. What are the ten?
+ (1) The practice of giving joy;
+ (2) beneficialpractice; 
+ (3) the practice of nonopposition; 
+ (4) the practice of indomitability; 
+ (5) the practice of nonconfusion; 
+ (6) the practice of good manifestation; 
+ (7) the practice of nonattachment; 
+ (8) the practice of that which is difficult to attain; 
+ (9) the practice of good teachings; 
+ (10) the practice of truth .
 "What is the great enlightening being's practice of giving joy? Here
 the enlightening beings are magnanimous givers, bestowing whatever
 they have with an equanimous mind , without regret, without hoping
@@ -1680,320 +1687,312 @@ with the flesh of this body, and may I not die so long as even a single
 tiny creature is still not filled, and may the flesh I cut off be inexhaustible.
 By this virtue may I attain unexcelled complete perfect enlightenment,
 and experience great nirvana; and may those who eat my flesh also
-attain perfect enlightenment, attain impartial knowledge, fulfill all Buddha teachings, extensively perform Buddha work until entering extinction without remainder. If the heart of even one sentient being is
-unfulfilled, I will not attain unexcelled perfect enlightenment. '
+attain perfect enlightenment, attain impartial knowledge, fulfill all Buddha teachings, 
+extensively perform Buddha work until entering extinction without remainder. 
+If the heart of even one sentient being is unfulfilled, 
+I will not attain unexcelled perfect enlightenment. '
+
 "Thus do enlightening beings benefit the living, yet without any
 concept of self or any concept of sentient beings, or any concept of
 existence, or any concept of life, without various concepts-no concept
 of personality, no concept of person, no concept of human being, no
 concept of doer or receiver-they only observe the infinity of the realm
 of reality and the realm of sentient beings, their emptiness, absence of
-existents, signlcssncss, insubstantiality, indeterminacy, nondepcndcncc,
-and noncrcation.
+existents, signlcssncss, insubstantiality, indeterminacy, nondependence, and noncrcation.
+
 " When they perform this contemplation, they do not see themselves,
 they do not sec anything given , they do not sec a receiver, they do not
 sec a field of blessings, they do not see a deed, they do not sec any
-reward, they do not see any result, they do not sec a great result, they
-do not sec a small result.
+reward, they do not see any result, they do not sec a great result, they do not sec a small result.
+
+
 "Then the enlightening beings observe that all the bodies taken on by
 living beings in the past, future, and present eventually perish; then
 they form this thought: ' How remarkable it is how foolish and ignorant
 sentient beings arc; within birth and death they receive countless bodies,
 which arc perishable and transient, soon returning to decay and extinction:
+
+
 having already passed away, now passing away, and yet to pass away,
-they still cannot usc the destructible body to seck the indestructible
-body. I should learn all that the Buddhas learn, to realize omniscience,
-know all truths, and explain to sentient beings the indestructible nature
-of reality, which is equal in past, present, and future, and which accords
-with utmost tranquility and serenity, to cause them to permanently
-attain peace and happiness.'
-"This is called the great enlightening beings' first practice, of giving
-j Oy.
-" What is the great enlightening beings' beneficial practice? Here
-enlightening beings maintain pure self-control, and their minds have no
-attachment to color or form, sound, fragrance, flavor, or feeling. Also
-they preach this to sentient beings. They do not seck power, social
-status, wealth, appearance, or dominions. They have no attachment to
-anything, but just firmly uphold pure conduct, thinking, 'As I maintain
-pure discipline, I shall surely get rid of all bondage, the torment of
-craving, oppression, slander, and disturbance, and will attain the impartial truth praised by the Buddhas.'
+they still cannot usc the destructible body to seck the indestructible body. 
+I should learn all that the Buddhas learn, to realize omniscience,
+know all truths, and explain to sentient beings the indestructible nature of reality, 
+which is equal in past, present, and future, and which accords
+with utmost tranquility and serenity, to cause them to permanently attain peace and happiness.'
+"This is called the great enlightening beings' first practice, of giving joy.
+
+
+" What is the great enlightening beings' beneficial practice? 
+Here enlightening beings maintain pure self-control, 
+and their minds have no attachment to color or form, sound, fragrance, flavor, or feeling. 
+Also they preach this to sentient beings. 
+They do not seck power, social status, wealth, appearance, 
+or dominions. They have no attachment to anything, 
+but just firmly uphold pure conduct, thinking, 
+'As I maintain pure discipline, I shall surely get rid of all bondage, 
+the torment of craving, oppression, slander, and disturbance, 
+and will attain the impartial truth praised by the Buddhas.'
+
 " When enlightening beings maintain pure discipline in this way, even
 if countless devils should come to them in a single day, each bringing
-countless goddesses all well versed in the arts of pleasure, beautiful and
-:-dluring, with various amusing things, in order to disturb the enlightening beings' attention on the Way, the enlightening beings think, 'These
-desires arc hindrances to the Way and obstruct unexcelled enlightenment. '
-Therefore they do not conceive even a single thought of lust; their minds are as pure as Buddha. The only exception is in terms of
-expedient means to teach and transform sentient beings-yet they still
-do not relinquish the determination for omniscience.
-"Enlightening beings do not afflict a single sentient being in pursuit
-of their own desires; they would rather die themselves than to do
-anything which would afflict a single being.
-"After enlightening beings have gotten to see the Buddha, they never
-arouse a single thought of desire, much less act upon desire.
-"At this point, enlightening beings think, 'All sentient beings, throughout the long night of ignorance, think of desires, pursue desires, and are
-attached to desires; their minds are set in their ways and they arc
-addicted to desires, whirling along with them, not having any freedom.
-I should cause these devils and these goddesses, and all sentient beings,
-to abide by the unexcelled precepts; once they abide in pure discipline,
-their minds will never turn back from the direction of universal
-knowledge, and eventually they will attain unexcelled complete perfect
-enlightenment, and finally enter complete extinction with no remainder.
-Why? This is the work we ought to do. We should follow the Buddhas
-in cultivating this learning, and having done so, divorce all bad actions
-and get rid of the ignorance of the idea of self, enter all Buddhateachings by means of knowledge, and explain them to sentient beings,
-to rid them of delusion, all the while knowing, however, that there is
-no delusion apart from sentient beings and there are no sentient beings
-apart from delusion, that there are no sentient beings within delusion
-and no delusion within sentient beings, and also that it is not that
-delusion is sentient beings or that sentient beings are a delusion-delusion
-is not something inside or outside, and sentient beings arc not something inside or outside. They know all things are unreal, suddenly
-arising and suddenly perishing, having no solidity or stability, like
-dreams, like reflections, like phantoms, like illusions, fooling the ignorant.
-Those who understand in this way will be able to comprehend all
-actions, to master birth and death as well as nirvana, to realize
-enlightenment, to save themselves and cause others to gain salvation, to
-liberate themselves and enable others to gain liberation, to conquer
-themselves and cause others to be tamed, to become tranquil themselves and enable others to become tranquil, to be secure themselves and enable others to be secure, to be free from defilement
-themselves and cause others to be free from defilement, to be pure
-themselves and cause others to be pure, to be dispassionate themselves
-and cause others to be dispassionate, to be happy themselves and cause
-others to be happy.
-"Here enlightening beings also form this thought: 'I should follow all
-the enlightened ones, detach from all worldly actions, fulfill all qualities
-of buddhahood, abide in supreme equanimity, be impartial toward all
-beings, clearly understand the objective realm, get rid of all error, cut
-off all conceptualizations, abandon all attachments, and skillfully engineer emancipation, to ever abide mentally in unexcelled, inexplicable,
-independent, immutable, measureless, boundless, inexhaustible, formless,
-most profound wisdom. '
-"This is called the great enlightening beings' second practice, of
-beneficial action.
-" Wh:H is the great enlightening beings' practice of nonopposition?
+countless goddesses all well versed in the arts of pleasure, beautiful and dluring, 
+with various amusing things, in order to disturb the enlightening beings' attention on the Way, 
+the enlightening beings think, 'These desires arc hindrances to the Way and obstruct unexcelled enlightenment. '
+
+Therefore they do not conceive even a single thought of lust; their minds are as pure as Buddha. 
+The only exception is in terms of expedient means to teach and transform sentient beings-yet they still do not relinquish the determination for omniscience.
+"Enlightening beings do not afflict a single sentient being in pursuit of their own desires; they would rather die themselves than to do anything which would afflict a single being.
+"After enlightening beings have gotten to see the Buddha, they never arouse a single thought of desire, much less act upon desire.
+"At this point, enlightening beings think, 'All sentient beings, throughout the long night of ignorance, think of desires, pursue desires, 
+and are attached to desires; their minds are set in their ways and they are addicted to desires, 
+whirling along with them, not having any freedom. I should cause these devils and these goddesses, 
+and all sentient beings,to abide by the unexcelled precepts; 
+once they abide in pure discipline, their minds will never turn back from the direction of universal knowledge, 
+and eventually they will attain unexcelled complete perfect enlightenment, 
+and finally enter complete extinction with no remainder.Why? 
+This is the work we ought to do. We should follow the Buddhas in cultivating this learning, 
+and having done so, divorce all bad actions and get rid of the ignorance of the idea of self, 
+enter all Buddhateachings by means of knowledge, and explain them to sentient beings,to rid them of delusion, 
+all the while knowing, however, that there is no delusion apart from sentient beings and there are no sentient beings apart from delusion, 
+that there are no sentient beings within delusion and no delusion within sentient beings, 
+and also that it is not that delusion is sentient beings or that sentient beings are a delusion-delusion is not something inside or outside, 
+and sentient beings arc not something inside or outside. 
+
+They know all things are unreal, suddenly arising and suddenly perishing, having no solidity or stability, 
+like dreams, like reflections, like phantoms, like illusions, fooling the ignorant.
+Those who understand in this way will be able to comprehend all actions, 
+to master birth and death as well as nirvana, 
+to realize enlightenment, to save themselves and cause others to gain salvation, 
+to liberate themselves and enable others to gain liberation, 
+to conquer themselves and cause others to be tamed, to become tranquil themselves and enable others to become tranquil, 
+to be secure themselves and enable others to be secure, to be free from defilement themselves and cause others to be free from defilement, 
+to be pure themselves and cause others to be pure, to be dispassionate themselves and cause others to be dispassionate, 
+to be happy themselves and cause others to be happy. "Here enlightening beings also form this thought: 'I should follow all the enlightened ones, 
+detach from all worldly actions, fulfill all qualities of buddhahood, abide in supreme equanimity, 
+be impartial toward all beings, clearly understand the objective realm, 
+get rid of all error, cut off all conceptualizations, abandon all attachments, and skillfully engineer emancipation, 
+to ever abide mentally in unexcelled, inexplicable, independent, immutable, measureless, boundless, inexhaustible, formless, most profound wisdom. '
+"This is called the great enlightening beings' second practice, of beneficial action. " Which is the great enlightening beings' practice of nonopposition?
 Here enlightening beings always practice tolerance and forbearance,
-being humble and respectful, not harming self, others, or both ; not
-stealing or causing others to steal, not being attached to themselves, to
-others, or to both; not seeking fame or profit. They only think, 'I
-should always expound the Teaching to sentient beings, to cause them
-to divorce all evils, to cut off greed, anger, folly, pride, hypocrisy,
-stinginess, jealousy, obsequiousness, and dishonesty, and cause them to
-always abide peacefully in forbearance and harmony. '
-"When enlightening beings achieve this forbearance, even if countless
-beings should come to them and each being should produce countless
-mouths and utter countless words-unpleasant words, unwholesome
-words, displeasing words, undesirable words, words which arc not
-those of the benevolent or the virtuous, words which arc not those of
-wisdom, words which arc not in accord with sagacity, words which
-sages do not approach, detestable words, and unbearable words-even
-if they abuse and revile the enlightening beings with such speech, and,
-furthermore, if they all had countless hands, bearing countless cudgels,
-with which they attacked and injured the enlightening beings, without
-relenting, for immeasurable cons, should enlightening beings encounter
-such torture, their hair standing on end, their life about to end, they
-form this thought: 'If my mind is disturbed by this suffering, then I
-have not mastered myself, I am not self-possessed, I do not understand
-myself, I am uncultivated, I am not properly stabilized, I am not at
-peace, I am careless, I give rise to attachments-how can I enable others
-to attain purity of mind ?'
-"Then the enlightening beings also think, 'Since beginningless time I
-have dwelt in birth and death and experienced its pains and vexations,'
-and thus reflecting, they redouble their efforts, purify their minds, and
-attain joy. They skillfully tunc and concentrate themselves, and, themselves able to abide in the Buddha-teaching, they also enable sentient
-beings to attain the same condition. They further reflect, 'This body is
-empty and null, it has no self or possessions, it has no reality-it is void
-by nature, with no duality. Neither pain nor pleasure has any existence,
-because all things arc empty. I should expound this teaching for people,
-to enable all sentient beings to do away with their views. Therefore,
-though I meet with suffering today, I should accept it with patience,
-out of compassion for beings, to benefit beings, to pacify beings, out of
-pity for beings, to take care of beings and not abandon them, to attain
-enlightenment myself and also to enable others to attain enlightenment, so that my mind will never regress, and so that I may progress on the \\vay
-of Buddhahood .'
+being humble and respectful, not harming self, others, or both ; 
+not stealing or causing others to steal, not being attached to themselves, to others, or to both; not seeking fame or profit. 
+They only think,'I should always expound the Teaching to sentient beings, to cause them to divorce all evils, to cut off greed, anger, folly, pride, hypocrisy, stinginess, jealousy, obsequiousness, 
+and dishonesty, and cause them to always abide peacefully in forbearance and harmony. '
+
+"When enlightening beings achieve this forbearance, even if countless beings should come to them and each being should produce countless mouths and utter countless words-unpleasant words, 
+unwholesome words, displeasing words, undesirable words, words which arc not those of the benevolent or the virtuous, 
+words which arc not those of wisdom, words which arc not in accord with sagacity, 
+words which sages do not approach, detestable words, and unbearable words-even
+
+if they abuse and revile the enlightening beings with such speech, and, furthermore, if they all had countless hands, 
+bearing countless cudgels, with which they attacked and injured the enlightening beings, without relenting, for immeasurable cons, 
+should enlightening beings encounter such torture, their hair standing on end, their life about to end, 
+they form this thought: 'If my mind is disturbed by this suffering, then I have not mastered myself, 
+I am not self-possessed, I do not understand myself, I am uncultivated, I am not properly stabilized, 
+I am not at peace, I am careless, I give rise to attachments-how can I enable others to attain purity of mind ?'
+
+"Then the enlightening beings also think, 'Since beginningless time I have dwelt in birth and death and experienced its pains and vexations,'
+and thus reflecting, they redouble their efforts, purify their minds, 
+and attain joy. They skillfully tunc and concentrate themselves, 
+and themselves able to abide in the Buddha-teaching, 
+they also enable sentient beings to attain the same condition. 
+
+They further reflect, 'This body is empty and null, it has no self or possessions, it has no reality-it is void by nature, with no duality. 
+Neither pain nor pleasure has any existence, because all things arc empty. I should expound this teaching for people, to enable all sentient beings to do away with their views. 
+
+Therefore, though I meet with suffering today, I should accept it with patience, 
+out of compassion for beings,  to benefit beings, to pacify beings, 
+out of pity for beings, to take care of beings and not abandon them, 
+to attain enlightenment myself and also to enable others to attain enlightenment, 
+so that my mind will never regress, and so that I may progress on the way of Buddhahood .'
+
 "This is called the enlightening beings' third practice, of nonopposition.
-" What is great enlightening beings' practice of indomitability? Here
-the enlightening beings cultivate various forms of energy-foremost
-energy, great energy, excellent energy, outstanding energy, supreme
-energy , sublime energy, exalted energy, unsurpassed energy, unequalled
-energy, comprehensive energy. They become naturally free from the
-three poisons of greed, hatred, and delusion, naturally free from pride
-and conceit, naturally not hypocritical, naturally not stingy or jealous,
-naturally not deceitful, naturally conscientious. Ultimately they do not
-make any effort that would afflict a single living being. They only
-make efforts to cut off all afflictions, to pull out the roots of all
-confusion , to get rid of all force of habit, to know all realms of living
-beings, to know where all beings die and arc born, to know the
-afflictions of all sentient beings, to know the inclinations of all sentient
-beings, to know the perspectives of all sentient beings, to know the
-superiority and inferiority of faculties of all sentient beings, to know the
-mental activities of all sentient beings, to know all realms of phenomena,
-to know the basic nature of all Buddha qualities, to know the equal
-nature of all B uddha qualities, to know the equal nature of all time
-frames, to attain the light of knowledge of all B uddha-teachings, to
-experience the knowledge of all B uddha-teachings, to know the unique
-true character of all Buddha-teachings, to know the infinity of all
-Buddha-teachings, to attain far-reaching decisive knowledge of techniques of all Buddha-teachings, and to attain the knowledge to analyze
+" What is great enlightening beings' practice of indomitability? Here the enlightening beings cultivate various forms of energy-foremost energy, great energy, excellent energy, 
+outstanding energy, supreme energy , sublime energy, exalted energy, unsurpassed energy, unequalled energy, comprehensive energy. 
+They become naturally free from the three poisons of greed, hatred, and delusion, naturally free from pride and conceit, 
+naturally not hypocritical, naturally not stingy or jealous, naturally not deceitful, naturally conscientious. 
+Ultimately they do not make any effort that would afflict a single living being. 
+They only make efforts to cut off all afflictions, to pull out the roots of all confusion , 
+to get rid of all force of habit, 
+to know all realms of living beings, 
+to know where all beings die and arc born, 
+to know the afflictions of all sentient beings, 
+to know the inclinations of all sentient beings, 
+to know the perspectives of all sentient beings, 
+to know the superiority and inferiority of faculties of all sentient beings, 
+to know the mental activities of all sentient beings, 
+to know all realms of phenomena,
+to know the basic nature of all Buddha qualities, 
+to know the equal
+nature of all B uddha qualities, 
+to know the equal nature of all time frames, 
+to attain the light of knowledge of all Buddha-teachings, 
+to experience the knowledge of all Buddha-teachings, 
+to know the unique true character of all Buddha-teachings, 
+to know the infinity of all Buddha-teachings, 
+to attain far-reaching decisive knowledge of techniques of all Buddha-teachings, 
+and to attain the knowledge to analyze
 and expound the expressions and meanings of all Buddha-teachings.
-"Once enlightening beings have perfected these practices of energetic
-effort, if someone should say to them, 'Can you pass countless cons
-enduring the pains of uninterrupted hell for the sake of each and every
-being in countless worlds, cause those beings to each meet countless
-Buddhas in the world, and through seeing Buddhas attain felicity and
-finally enter extinction without remainder, after which you yourself
-attain unexcelled complete perfect enlightenment?' They would answer
-'I can. ' Then again if someone should say, 'There arc countless oceansyou should drain them drop by drop with a hairtip; there arc countless
-worlds-you should shatter them to atoms, and count each and every
-drop of the oceans and atoms of the worlds, and for that number of
-cons endure incessant suffering for the sake of living beings, ' the
-enlightening beings would not have a moment of regret or resentment
-on hearing such words-they would only be more joyful, feeling profoundly happy and fortunate that they had attained such a great benefit
-that they could by their power enable sentient beings to be forever
-liberated from suffering. Enlightening beings, by these means which
-they employ, enable all beings in all worlds to eventually reach ultimate
-release without remainder."This is called the enlightening beings' practice of indomitability.
-" What is great enlightening beings' practice of nonconfusion? Here
-enlightening beings perfect right mindfulness, their minds free from
-distraction and disturbance, firm and imperturbable, consummately
-pure, immeasurably vast, without any delusion or confusion. By virtue
-of this right mindfulness they well understand all worldly speech and
-are able to remember the verbal explanations of transmundane laws.
-That is to say, they can remember the explanations of material and
-immaterial phenomena; they can remember the explanations of the definition of the intrinsic nature of sensation, perception, conditioning,
-and consciousness, without any confusion in their minds. In the world
-they die in one place and are born in another without confusion in their
-minds. They enter the womb and leave the womb without confusion in
-their minds. They arouse the will for enlightenment without confusion
-in their minds. They attend teachers without confusion in their minds.
-They earnestly practice the Buddhas' teachings without confusion in
-their minds. They notice the doings of demons without confusion in
-their minds. They divorce demonic activity without confusion in their
-minds. They cultivate enlightening practice for countless cons without
-confusion in their minds. The enlightening beings, having developed
-this i mmeasurable right mindfulness, spend countless eons listening to
-truthful teachings from enlightened and enlightening guides-profound
-teachings relating to emptiness, vast teachings relating to activity in the
-relative world, teachings relating to adornment by virtuous qualities,
-teachings of all kinds of arrays of the qualities of the cosmos, all
-interrelated, teachings expounding various bodies of words, phrases,
-and sentences, teachings of the embellishments of enlightening beings,
-teachings of the supremacy of the spiritual power and radiance of the
-Buddhas, teachings of the purity of correct seeking of certain understanding, teachings of nonattachment to any world, teachings which
-define all worlds, teachings of extremely broad scope, teachings of
-removing the blinders of ignorance and understanding all beings, teachings of what is common and what is not, teachings of the excellence of
-enlightening knowledge, teachings of the independence of omniscience.
-" Having heard these teachings, enlightening beings keep them constantly in mind for an incalculable period of time. Why? When great
-enlightening beings cultivate practices over countless eons, they never
-afflict a single sentient being, which would cause loss of right mindfulness;
-they do not ruin the right teaching, and do not cut off roots of
-goodness-their minds are always expanding knowledge. Furthermore,
-these enlightening beings cannot be confused or disturbed by any kind
-of sound-loud sounds, coarse and garbled sounds, terrifying sounds,
-pleasing sounds, displeasing sounds, car-shattering sounds, sensedebilitating sounds. When the cnlightenings hear such countless good
-or bad sounds, even though the sounds fill countless worlds, they arc
-never disturbed or distracted for a moment. That is to say, their right mindfulness is undisturbed, their state is undisturbed, their concentration is undisturbed, their entry into emptiness is undisturbed, their
-practice of enlightening acts is undisturbed, their determination for
-enlightenment is undisturbed, their recollection of the Buddhas is
-undisturbed, their contemplation of truth is undisturbed, their knowledge to civilize sentient beings is undisturbed, their knowledge to
-purify sentient beings is undisturbed, their certain understanding of the
-meaning of profundity is undisturbed.
-"Because they do no evil, they have no obstruction of evil habits;
-because they do not produce afflictions, they have no obstruction by
-afflictions; because they do not slight the teaching, they have no barrier
-to the teaching; because they do not slander and repudiate the truth,
-they have no obstruction by retribution.
-"Even if the aforementioned sounds should each fill countless worlds
-ceaselessly for countless eons, each able to devastate the faculties, bodies
-and minds of sentient beings, they still could not damage the minds of
-these enlightening beings. Enlightening beings enter concentration, abide
-in the teaching of the Sage, and meditate on and investigate all sounds,
-becoming thoroughly familiar with the characteristics of origin, existence,
-and disappearance of all sounds, and come to know the nature of the
-origin, existence, and disappearance of all sounds: having heard them,
-they do not give rise to covetousness or aversion, and don't lose
-mindfulness-they apprehend their characteristics precisely without being
-influenced by or attached to them. They know all sounds have no
-existence and are in reality ungraspable, that they have no creator and
-no origin, that they arc equal to nirvana and have no differentiations.
-"Thus do enlightening beings perfect tranquil, peaceful physical,
-verbal, and mental action, never regressing, till they reach omniscience.
-They skillfully enter all manner of meditative concentrations and know
-that all concentrations are of the same one essence. They comprehend
-that all things have no bounds and attain true knowledge of all things.
-They attain profound concentration detached from all sounds. They
-attain countless kinds of concentration. They increasingly develop a
-boundlessly vast mind of great compassion.
-"At this point enlightening beings attain countless concentrations in a
-single instant, and, hearing such sounds, are not disturbed-they gradually increase and broaden their concentration. They form this thought:
-'I should get all beings to abide peacefully in unsurpassed pure
-mindfulness, so they may attain nonregrcssion on the way to omniscience,
-and ultimately attain to nirvana without remainder.'
+
+
+"Once enlightening beings have perfected these practices of energetic effort, 
+if someone should say to them, 'Can you pass countless consenduring the pains of uninterrupted hell for the sake of each and every being in countless worlds, 
+cause those beings to each meet countless Buddhas in the world, 
+and through seeing Buddhas attain felicity and finally enter extinction without remainder, 
+after which you yourself attain unexcelled complete perfect enlightenment?' 
+They would answer 'I can. ' Then again if someone should say, 'There arc countless oceansyou should drain them drop by drop with a hairtip; 
+
+there are countless worlds you should shatter them to atoms, and count each and every drop of the oceans and atoms of the worlds, 
+and for that number of eons endure incessant suffering for the sake of living beings, 
+
+' the enlightening beings would not have a moment of regret or resentment on hearing such words-they would only be more joyful, 
+feeling profoundly happy and fortunate that they had attained such a great benefit that they could by their power enable sentient beings to be forever liberated from suffering. 
+Enlightening beings, by these means which they employ, enable all beings in all worlds to eventually reach ultimate release without remainder."This is called the enlightening beings' practice of indomitability.
+
+" What is great enlightening beings' practice of nonconfusion? 
+Here enlightening beings perfect right mindfulness, their minds free from distraction and disturbance, firm and imperturbable, consummately pure, immeasurably vast, without any delusion or confusion. 
+By virtue of this right mindfulness they well understand all worldly speech and are able to remember the verbal explanations of transmundane laws.
+
+That is to say, they can remember the explanations of material and immaterial phenomena; 
+they can remember the explanations of the definition of the intrinsic nature of sensation, perception, conditioning, and consciousness, without any confusion in their minds. 
+
+In the world they die in one place and are born in another without confusion in their minds. 
+They enter the womb and leave the womb without confusion in their minds. 
+They arouse the will for enlightenment without confusion in their minds. 
+They attend teachers without confusion in their minds.
+They earnestly practice the Buddhas' teachings without confusion in their minds. 
+They notice the doings of demons without confusion in their minds. 
+They divorce demonic activity without confusion in their minds. 
+They cultivate enlightening practice for countless cons without confusion in their minds. 
+The enlightening beings, having developed this i mmeasurable right mindfulness, 
+spend countless eons listening to truthful teachings from enlightened and enlightening guides profound teachings relating to emptiness, 
+vast teachings relating to activity in the relative world, 
+teachings relating to adornment by virtuous qualities,
+teachings of all kinds of arrays of the qualities of the cosmos, all interrelated, 
+teachings expounding various bodies of words, phrases, and sentences, teachings of the embellishments of enlightening beings,
+teachings of the supremacy of the spiritual power and radiance of the Buddhas, 
+teachings of the purity of correct seeking of certain understanding, teachings of nonattachment to any world, 
+teachings which define all worlds, teachings of extremely broad scope, 
+teachings of removing the blinders of ignorance and understanding all beings, teachings of what is common and what is not, 
+teachings of the excellence of enlightening knowledge, 
+teachings of the independence of omniscience.
+
+" Having heard these teachings, enlightening beings keep them constantly in mind for an incalculable period of time. Why? 
+When great enlightening beings cultivate practices over countless eons, 
+they never afflict a single sentient being, which would cause loss of right mindfulness;
+
+they do not ruin the right teaching, and do not cut off roots of goodness-their minds are always expanding knowledge. 
+Furthermore, these enlightening beings cannot be confused or disturbed by any kind of sound-loud sounds, coarse and garbled sounds, terrifying sounds, pleasing sounds, 
+displeasing sounds, car-shattering sounds, sensedebilitating sounds. When the cnlightenings hear such countless good or bad sounds, even though the sounds fill countless worlds, 
+they are never disturbed or distracted for a moment. 
+
+That is to say, their right mindfulness is undisturbed, their state is undisturbed, 
+their concentration is undisturbed, their entry into emptiness is undisturbed, 
+their practice of enlightening acts is undisturbed, 
+their determination for enlightenment is undisturbed, 
+their recollection of the Buddhas is undisturbed, 
+their contemplation of truth is undisturbed, 
+their knowledge to civilize sentient beings is undisturbed, 
+their knowledge to purify sentient beings is undisturbed, 
+their certain understanding of the meaning of profundity is undisturbed. 
+"Because they do no evil,  they have no obstruction of evil habits;
+because they do not produce afflictions, they have no obstruction by afflictions; 
+because they do not slight the teaching, they have no barrier to the teaching; 
+because they do not slander and repudiate the truth, they have no obstruction by retribution.
+
+"Even if the aforementioned sounds should each fill countless worlds ceaselessly for countless eons, 
+each able to devastate the faculties, bodies and minds of sentient beings, they still could not damage the minds of these enlightening beings. 
+Enlightening beings enter concentration, abide in the teaching of the Sage, and meditate on and investigate all sounds,
+becoming thoroughly familiar with the characteristics of origin, existence, and disappearance of all sounds, and come to know the nature of the origin, existence, 
+and disappearance of all sounds: 
+having heard them,they do not give rise to covetousness or aversion, and don't lose mindfulness-they apprehend their characteristics precisely without being influenced by or attached to them. 
+They know all sounds have no existence and are in reality ungraspable,  that they have no creator and no origin, that they arc equal to nirvana and have no differentiations.
+"Thus do enlightening beings perfect tranquil, peaceful physical, verbal, and mental action, never regressing,  till they reach omniscience. 
+
+They skillfully enter all manner of meditative concentrations and know that all concentrations are of the same one essence. They comprehend that all things have no bounds and attain true knowledge of all things.
+They attain profound concentration detached from all sounds. 
+They attain countless kinds of concentration. 
+They increasingly develop a boundlessly vast mind of great compassion.
+
+
+"At this point enlightening beings attain countless concentrations in a single instant, and, hearing such sounds, are not disturbed-they gradually increase and broaden their concentration. 
+They form this thought:'I should get all beings to abide peacefully in unsurpassed pure mindfulness, so they may attain nonregrcssion on the way to omniscience, and ultimately attain to nirvana without remainder.'
+
 "This is called the enlightening beings' fifth practice, leaving confusion behind.
 "What is the great enlightening beings' practice of good manifestation?
-Here the enlightening beings arc pure in thought, word, and deed; they
-abide in nonacquisition, and demonstrate nonacquisitive thought, word,
-and deed . They know that physical, verbal, and mental actions have no absolute existence. Because they arc free from falsehood, they arc free
-from bondage. What they demonstrate is without inherent nature and
-depends on nothing. They abide in mental accord with reality. They
-know the intrinsic natu re of infinite minds. They know the inherent
-nature of all things is ungraspablc, formless, exceedingly profound and
-difficult to penetrate . They abide in the absolute state, true thusness, the
-essence of things; they appear in life by way of expedien ts, yet have no
-retribution tor a ctions. Unborn and undying, they abide in the dispassionate, tranquil nature of the realm of nirvana. They abide in the
-nature of true reality, absence of inherent reality or own-being. They
-arc beyond the power of speech to fully describe, they transcend all
-worlds and do not depend on an ything. They enter into the truth that is
-free from discrimin ation. bondage, and attachment. They enter the true
-principle of supreme knowledge. They enter the transccndcntJl truth
-which cannot be understood or known by any worldlings. Such arc the
-characteristics of the enlightening beings' expedient nJJnifestations of
-lite.
-"These enlightening beings formulate this thou ght: 'The natu re of all
-sentient beings is naturclcssncss; the natu re ofall phenomena is uncrcatcd;
-the form of :tll bnds of formlessness-in all worlds there only exists
-verbal expression . and verbal expression has no basis in facts. Furthermore. facts have no basis in words.' Thus do enlightening beings
-understand that all things arc void, and all worlds arc silent: all the
-Buddha teachings add nothing-the Buddha teachings arc no different
-from the phenomena of the world, and the phenomena of the world arc
-no different from the Buddha teachings. The Buddha teachings and
-worldly phenomena arc neither mixed up nor differentiated . Knowing
-that the nature of clements is equal, entering everywhere into the triple
-world, never giving up the determination for great enlightenment,
-never retreating from the wil l to transform sentient beings, ever
-expanding and increasing the heart of great compassion, they arc a
-reliance for all living beings.
-"Then enlightening beings also form this thought: 'If I do not develop and mature sentient beings, who will? If I do not pacify and
-civilize sentient beings, who will? If I do not teach and renew sentient
-beings, \\vho will? If I do not awaken sentient beings, who will? If I do
-not purify sentient beings, who will? This is my duty, my task. ' They
-also form this thought: 'If I alone understand this profound teaching,
-then only [ will attain liberation in unexcelled complete perfect
-en lightenment. while all sentient beings, being blind, will enter perilous
-paths, bound by afflictions, like people seriously ill constantly sutlcring
-pains . In the prison of craving and attachment, they arc unable to get
-out by themsel ves. They will not leave the realms of hells, hungry
-ghosts, animals, or the netherworld; they cannot extinguish suffering or
-abandon evil deeds. Forever in the darkness of ignorance, they do not
-sec reality. Revol ving in birth and death , they have no means of emancipation. Living in the eight difficult situations, encrusted by all
-sorts of defilements, all manner of afflictions cover their minds. Deluded by false views, they do not travel the right path . ' Thus observing
-sentient beings, enlightening beings think, 'It would not be proper for
-me to abandon these sentient beings while they are still undeveloped,
-immature, and unruly, and myself attain unexcelled complete perfect
-enlightenment. I should first transform these sentient beings, practicing
-enlightening deeds for unspeakably many cons, first developing the
-undeveloped, and taming the unruly.'
-" When these enlightening beings abide by this practice, if gods,
-demons, ascetics, priests, or inhabitants of any worlds-cherubim, titans,
-etc.-should get to see them, or sojourn with them for awhile, and
-honor and respect them, serve them and give them offerings, or even
-hear of them, once having crossed their minds these deeds will not be in
-vain-they shall surely attain perfect enlightenment.
+Here the enlightening beings arc pure in thought, word, and deed; 
+
+they abide in nonacquisition, and demonstrate nonacquisitive thought, word,and deed . 
+They know that physical, verbal, and mental actions have no absolute existence. 
+Because they are free from falsehood, 
+they are free from bondage. 
+What they demonstrate is without inherent nature and depends on nothing. 
+
+They abide in mental accord with reality. 
+They know the intrinsic natu re of infinite minds. 
+They know the inherent nature of all things is ungraspablc, formless, exceedingly profound and difficult to penetrate . 
+They abide in the absolute state, true thusness, the essence of things; 
+
+they appear in life by way of expedients, 
+yet have no retribution tor a ctions. 
+Unborn and undying, they abide in the dispassionate, tranquil nature of the realm of nirvana. 
+
+They abide in the nature of true reality, absence of inherent reality or own-being. 
+They are beyond the power of speech to fully describe, 
+they transcend all worlds and do not depend on an ything. 
+
+They enter into the truth that is free from discrimin action. 
+bondage, and attachment. 
+They enter the true principle of supreme knowledge. 
+They enter the transccndcntal truth which cannot be understood or known by any worldlings. 
+Such are the characteristics of the enlightening beings' expedient manifestations of lite.
+"These enlightening beings formulate this thought: 'The natu re of all sentient beings is naturclcssncss; 
+the nature of all phenomena is uncreated;
+the form of all lands of formlessness-in all worlds there only exists verbal expression . 
+
+and verbal expression has no basis in facts. Furthermore. 
+facts have no basis in words.' Thus do enlightening beings understand that all things are void, 
+and all worlds arc silent: all the Buddha teachings add nothing-the Buddha teachings are no different from the phenomena of the world, 
+and the phenomena of the world are no different from the Buddha teachings. 
+
+The Buddha teachings and worldly phenomena are neither mixed up nor differentiated . 
+Knowing that the nature of clements is equal, entering everywhere into the triple world, 
+never giving up the determination for great enlightenment,
+never retreating from the wil l to transform sentient beings, 
+ever expanding and increasing the heart of great compassion, they are a reliance for all living beings.
+
+
+"Then enlightening beings also form this thought: 'If I do not develop and mature sentient beings, who will? 
+If I do not pacify and civilize sentient beings, who will? 
+If I do not teach and renew sentient beings, who will? 
+If I do not awaken sentient beings, who will? 
+If I do not purify sentient beings, who will? 
+This is my duty, my task. 
+' They also form this thought: 'If I alone understand this profound teaching, then only i will attain liberation in unexcelled complete perfect enlightenment. 
+while all sentient beings, being blind, will enter perilous paths, bound by afflictions, like people seriously ill constantly sutlering pains . 
+In the prison of craving and attachment, they arc unable to get out by themselves. 
+They will not leave the realms of hells, hungry ghosts, animals, or the netherworld; 
+they cannot extinguish suffering or abandon evil deeds. 
+Forever in the darkness of ignorance, they do not sec reality. 
+Revol ving in birth and death , they have no means of emancipation. 
+Living in the eight difficult situations, encrusted by all sorts of defilements, all manner of afflictions cover their minds. 
+Deluded by false views, they do not travel the right path . ' Thus observing sentient beings, enlightening beings think, 
+'It would not be proper for me to abandon these sentient beings while they are still undeveloped, immature, and unruly, 
+and myself attain unexcelled complete perfect enlightenment. 
+I should first transform these sentient beings, practicing enlightening deeds for unspeakably many cons, first developing the undeveloped, and taming the unruly.'
+
+" When these enlightening beings abide by this practice, if gods, demons, ascetics, priests, or inhabitants of any worlds-cherubim, titans, etc. 
+should get to see them, or sojourn with them for awhile, and honor and respect them, serve them and give them offerings, or even hear of them, 
+once having crossed their minds these deeds will not be in vain-they shall surely attain perfect enlightenment.
+
 "This is called the great enlightening beings' sixth practice, the practice of good manifestation.
 " What is the great enlightening beings' practice of nonattachment?
-These great enlightening beings, with minds free from attachment, can
-in every successive instant enter into countless worlds and adorn and
-purify these countless worlds, their minds free from attachment to
-anything in these worlds. They visit countless Buddhas, pay their
-respects, wait on them, and present them with offerings of countless
-t1owcrs, perfumes, garlands, fragrant ointments, powdered incenses,
-clothes, jewels, banners, parasols, and various other adornments, all
-without number. These offerings arc for the sake of the ultimate uncrcatcd
+These great enlightening beings, with minds free from attachment, 
+can in every successive instant enter into countless worlds and adorn and purify these countless worlds, 
+their minds free from attachment to anything in these worlds. 
+They visit countless Buddhas, pay their respects, wait on them, and present them with offerings of countless flowers, perfumes, garlands, fragrant ointments, powdered incenses,
+clothes, jewels, banners, parasols, and various other adornments,  all without number. 
+These offerings arc for the sake of the ultimate uncrcatcd
 truth, for the sake of abiding in the inconceivable truth. In every instant
 they sec countl ess Buddhas; their minds are free from attachment to the
 l3uddha 's places, and they have no attachment to the buddha-lands
@@ -17172,25 +17171,5851 @@ concepts about the Buddha teaching; though they know all things are
 equal and nondual, yet they always clearly see all buddha-lands; though
 they are already equal to the buddhas of past, present, and future, yet
 they continue to cultivate the conduct of enlightening beings.
+
 "Great enlightening beings live by this great principle of the undertaking of Universal Good: know that these people's minds are pure.
-"This is the great knowledge of the superior mind of the great concentration of the unimpeded wheel, the tenth concentration of great
-enlightening beings.
-"These are the ten great spheres of concentration practiced by the
-Universally Good enlightening being, in which great enlightening beings
-abide. "  
+"This is the great knowledge of the superior mind of the great concentration of the unimpeded wheel, the tenth concentration of great enlightening beings.
+"These are the ten great spheres of concentration practiced by the Universally Good enlightening being, in which great enlightening beings abide. "  
 `;
-const sutra_28=``;
-const sutra_29=``;
-const sutra_30=``;
-const sutra_31=``;
-const sutra_32=``;
-const sutra_33=``;
-const sutra_34=``;
-const sutra_35=``;
-const sutra_36=``;
-const sutra_37=``;
-const sutra_38=``;
-const sutra_39=``;
+const sutra_28=`THEN THE GREAT ENLIGHTENING BEING Universally Good said to the enlightening beings, "Offspring of Buddha, great enlightening beings have
+ten kinds of superknowledge. W hat are the ten? By means of knowledge
+of others' minds, great enlightening beings know the differences of the
+minds of living beings in a world system: good minds, bad minds, broad
+minds, narrow minds, big minds, small minds, minds that go along with
+birth and death, minds that turn away from birth and death, minds of
+learners, minds of self-enlightened ones, minds of enlightening beings,
+celestial minds, water-spirit minds, yaksha minds, titan minds, garuda
+minds, kinnara minds, mahoraga minds, human minds, nonhuman minds,
+hellish minds, bestial minds, netherworld minds, hungry-ghost minds,
+minds of beings in difficult situations. They know distinctly such countless different sentient beings: as in one world, so in a hundred worlds, a
+thousand worlds, a hundred thousand worlds, a billion worlds, as many
+worlds as atoms in untold buddha-lands-they know distinctly the minds
+of all beings therein. This is called great enlightening beings' first superknowledge, the spiritual power of accurate knowledge of others' minds.
+"By means of the superknowledge of the unobstructed pure celestial
+eye great enlightening beings see sentient beings in worlds as many as
+atoms in untold buddha-lands, dying in one place, being born in another,
+their good and bad tendencies and courses of action, their virtuous and
+sinful characteristics, whether they are beautiful or ugly, defiled or pure:
+they see innumerable sentient beings of such kinds-celestial beings,
+water spirits, demons, hobgoblins, titans, demigods, serpents, humans,
+nonhumans, microscopic creatures, gigantic creatures, small groups, and
+large groups. They clearly see various sentient beings with unobstructed
+eyes, unerringly seeing whatever deeds they have accumulated, whatever
+suffering and happiness they experience, whatever mentalities, thoughts,
+and views they have, whatever languages they speak, whatever their
+motives and acts, whatever their concerns and productions. This is called
+great enlightening beings' super knowledge of the celestial eye.
+"By means of the superknowledge of instant recall of past lives, great
+enlightening beings are able to know the events of past lives of themselves as well as of the beings in countless worlds over countless eonswhere they were born, their names, their castes, their races, their diets,
+their pains and pleasures. The beginningless development of continuous
+cycles in the various states of existence through causes and conditions,
+various classes, various lands, various forms of life, various physical
+characteristics, various activities, various bonds and compulsions, various
+mentalities and thoughts, various differences in circumstances of birththey know all such things as these.
+"Also they remember the names, manner of emergence, congregations, parents, attendants, disciples, and foremost two disciples of as
+many buddhas as atoms in so many buddha-lands in worlds as many as
+atoms in so many buddha-lands, as many eons ago as atoms in so many
+buddha-lands, and the cities where they lived, how they left home, the
+enlightenment trees under which they attained true awakening, where
+they sat, what scriptures they preached, how they benefited so many
+beings, how long they lived, what buddha-works they performed, how
+they passed away into the realm of ultimate nirvana without residue,
+how long their teachings lasted after their demise--all this they can
+recall.
+"Also they remember as many buddha-names as atoms in untold
+numbers of buddha-lands, there being to each name as many buddhas as
+atoms in untold buddha-lands, from their ftrst determination establishing
+their vows, cultivating practices, honoring buddhas, taming sentient
+beings, their congregations, their teachings, their life spans, their spiritual
+powers and miracles, and so on, including their entry into nirvana without residue, how long their teaching lasted after their complete nirvana,
+the setting up of monuments to them, their various adornments, causing
+sentient beings to plant roots of goodness-all these they are able to
+know.
+"This is called great enlightening beings' third superknowledge, the
+spiritual faculty of knowing past lives.
+"Great enlightening beings, by superknowledge of the eons of the
+entire future, know the ages in worlds as numerous as atoms in untold
+buddha-lands, the deaths and births of all the beings in each age, the
+continuity of existences, their actions, the results and consequences of
+their deeds-whether good or not, whether emancipated or not, whether
+certain or not, whether wrongly focused or rightly focused, whether
+their basic virtues are together with compulsions or not, whether they
+have fully embodied basic virtues or not, whether they absorb basic
+virtues or not, whether they accumulate basic virtues or not, whether
+they accumulate criminal qualities or not. All of these the enlightening
+beings are able to know.
+" Also they know the whole future of worlds as numerous as atoms in
+untold buddha-lands, with as many eons, each eon with as many buddhanames, each name with as many buddhas; they are able to know all such
+things as the ftrst inspiration and determination of each buddha, their practices, their service to buddhas, their education of beings, their congregations, their teachings, their life spans, their spiritual powers and
+miracles, and so on, up to their entry into nirvana without remainder,
+how long their teachings remain in the world after their ultimate nirvana,
+and the building of their monuments, with various adornments, causing
+sentient beings to plant roots of goodness.
+"This is called great enlightening beings' fourth superknowledge, the
+power of knowing the ages of the entire future.
+" Great enlightening beings develop the unobstructed celestial ear,
+fully matured, far-reaching, penetratingly sensitive, free from blockage,
+perceiving without hindrance, thoroughly developed, able to hear or not
+hear all sounds at will.
+" In the east there are as many buddhas as atoms in untold buddhalands; the great enlightening beings are able to receive and hold the pure
+teachings explained, revealed, exposed, expounded, set up, taught, tuned,
+recollected, and analyzed by those buddhas, deep and vast, with various
+differences, their infinite means and skills. Also they are able to remember the meanings and expressions therein, addressed to one person or to
+many, according to their language, according to their wisdom, according
+to what they comprehend, according to what is shown, according to
+what is to be subdued, according to their realms, according to their
+bases, according to their paths of emancipation; the enlightening beings
+remember all this without forgetting, without halting, without retreating, without delusion, without confusion, explaining it to others to
+enable them to attain understanding, ultimately never missing a single
+point. As in the east, the same is also true of the south, west, and north,
+the four intermediate directions, and the zenith and nadir.
+"This is called great enlightening beings' fifth superknowledge, that
+of the unobstructed pure celestial ear.
+"Great enlightening beings abide in superknowledge of insubstantiality, effortless superknowledge, superknowledge of equality, far-reaching
+superknowledge, measureless superknowledge, independent superknowledge, superknowledge manifesting forms at will, creative superknowledge,
+superknowledge of nonorigination, undiminishing superknowledge,
+uninterrupted superknowledge, indestructible superknowledge, enriching superknowledge, superknowledge going anywhere.
+"These great enlightening beings, hearing the names of buddhas in all
+worlds extremely distant-names of buddhas in countless worlds, measureless worlds, worlds as many as atoms in unspeakably many buddhalands-immediately see themselves where those buddhas are. Some of
+those worlds are upright, some inverted; they have various forms, locations, differentiations, boundless, unobstructed, various lands, times,
+eons, infinite qualities, in different arrays; those buddhas appear therein,
+manifest miracles, and make known their names, infinitely countless,
+each different: as soon as the enlightening beings hear those buddhas'
+names, without moving from where they are they see themselves where those buddhas are, paying respects to and attending those buddhas, asking
+about the principles of enlightening, entering buddha-knowledge; they
+are able to apprehend the buddhas' lands, enlightenment sites, congregations, and teachings, up to the ultimate end, without any attachment.
+"In this way they pass as many eons as atoms in untold buddha-lands,
+reaching everywhere in the ten directions without going anywhere, yet
+traveling to the lands, seeing the buddhas, hearing the teachings, inquiring
+after the Way, without stopping or giving up, without rest, without
+weariness, cultivating the practice of enlightening beings, accomplishing
+their great undertakings, causing them all to be fulfilled, without regressing, to cause the immense family of buddhas not to come to an end.
+"This is called great enlightening beings' sixth superknowledge, that
+of going to all buddha-lands while dwelling in insubstantiality, without
+motion or action.
+"By the superknowledge that skillfully understands the speech of all
+living beings, the great enlightening beings know the various verbal
+expressions of beings in as many worlds as atoms in untold numbers of
+buddha-lands: the words of sages, the words of those who arc not sages,
+celestial words, the words of water spirits, goblins, cherubim, titans,
+birds, hobgoblins, serpents, humans, nonhumans, and untold numbers of
+beings-all their words and speech, their individual expressions and
+various distinctions, the great enlightening beings can know completely.
+" Whatever world these enlightening beings enter, they are able to
+know the natures and inclinations of all the beings therein, and speak to
+them in accord with their natures and inclinations so that they can
+understand completely without doubt or confusion. Just as the sunlight
+when it appears illumines all forms so that all with eyes can see them
+clearly, in the same way do great enlightening beings with knowledge
+understanding all speech enter into the masses of all verbal expressions and
+cause the intelligent to gain thorough understanding of all verbalization.
+"This is called great enlightening beings' seventh superknowledge,
+the power of understanding all language.
+"Great enlightening beings, by the superknowledge of production of
+arrays of infinite physical forms, know that all phenomena are apart
+from physical forms, have no signs of distinction, have no signs of
+variety, have no signs of infinity, have no signs of discrimination, have
+no signs of color. Enlightening beings thus entering the realm of reality
+can manifest their bodies in various forms: that is, for example, boundless
+forms, infinite forms, pure forms, adorned forms, all-pervasive forms,
+incomparable forms, all-illumining forms, predominating forms, nonantagonistic forms, forms with various characteristics, forms free from
+all that is bad, maj estic forms, honorable forms, inexhaustible forms,
+forms with myriad interwoven subtleties, extremely beautiful forms,
+immeasurable forms, well-guarded forms, forms able to bring about
+maturation, forms changing according to those who are taught, uninhibited forms, very clear forms, unsullied forms, extremely pure forms,forms of great strength, forms with inconceivable skills, incorruptible
+forms, flawless forms, unclouded forms, well-settled forms, superbly
+arrayed forms, forms with handsome features, forms with various minor
+refinements, forms of great nobility, forms of marvelous realms, wellpolished forms, forms with pure determination, forms of blazing refulgence, forms of supreme grandeur, uninterrupted forms, independent
+forms, peerless forms, forms filling unspeakably many buddha-lands,
+increasing forms, steadfast, receptive forms, forms of supreme qualities,
+forms that accord with inclinations, forms of pure understanding, forms
+of accumulated splendors, forms of skillful ascertainment, forms without
+solidity, forms of spacious clarity, pure delightful forms, untainted forms,
+incalculable forms, forms wondrous to behold, forms seen everywhere,
+forms appearing according to the time, tranquil forms, dispassionate
+forms, forms of fields of blessings, forms able to create peace, forms
+removing all fear, forms free from foolish actions, forms of wisdom and
+courage, forms with physical characteristics free from resistance, forms
+traveling everywhere, forms with minds not relying on anything, forms
+created by great kindness, forms manifested by great compassion, impartially emancipating forms, forms replete with blessed qualities, forms
+according to thoughts in the mind, forms of boundless jewels, forms of
+the lights within jewels, forms trusted by sentient beings, forms in which
+omniscience appears, forms with happy eyes, forms of the foremost
+arrays of jewels, forms without location, forms freely manifested at will,
+forms of various spiritual powers, forms of those born in the family of
+buddhas, forms beyond all comparisons or metaphors, forms pervading
+the cosmos, forms to which the masses flock, various forms, forms of
+perfection, forms of emancipation, forms adapted to those to be taught,
+forms of dignified conduct, forms that one never tires of seeing, varied
+clear, pure forms, forms able to emanate countless webs of light, forms
+of untold various differentiations of light, forms of inconceivable fragrances and light beyond the world, forms of radiance of light of innumerable suns, forms showing incomparable lunar bodies, forms of
+clouds of innumerable pleasant flowers, forms producing arrays of clouds
+of garlands of all kinds of lotus blossoms, forms of fragrant flames
+beyond all worlds perfuming everywhere, forms producing all embryos
+of enlightenment, forms with untold voices revealing and expounding
+all truths, forms fulfilling all the practices of Universal Good.
+"Great enlightening beings entering deeply into this formless cosmos
+of reality are able to manifest such various form bodies, to cause those to
+be taught to sec, to cause those to be taught to remember, to operate the
+cycles of the Teaching for those to be taught in accord with proper
+timing for those to be taught, in accord with the characteristics of those
+to be taught, to cause those to be taught to draw near, to cause those to
+be taught to awaken, producing various miracles for those to be taught,
+manifesting various powers for those to be taught, doing whatever they
+can for those to be taught. "This is called great enlightening beings' eighth superknowledge, of
+countless form bodies, diligently cultivated and perfected for the purpose
+of liberating all living beings.
+"By superknowledge of phenomena, enlightening beings know all
+phenomena are nameless, without essence, neither come nor go, are
+neither different nor not different, neither various nor not various, neither
+dual nor nondual, have no identity, have no compare, are not born, do
+not perish, do not shift, do not disintegrate, have no reality, have no
+falsehood, are of one form which is formless, are not nonexistent, are not
+existent, are not phenomenal, are not nonphenomenal, are not in conformity with conventions, arc not not in conformity with conventions,
+are not actions, are not not actions, are not consequences, are not not
+consequences, are not compounded, are not uncompounded, are not
+absolute, are not nonabsolute, are not the path of enlightenment, are not
+not the path of enlightenment, are not emancipation, are not not emancipation, are not a certain measure, are not measureless, are not mundane, are not not mundane, are not born from cause, are not not born
+from causes, are not definite, are not indefinite, are not complete, are
+not incomplete, are not emerging, are not not emerging, are not distinguished, are not indistinguishable, are not logical, are not illogical.
+"These great enlightening beings do not grasp conventional truth, do
+not dwell in absolute truth, do not discriminate phenomena, do not set
+up words; they accord with the essence of extinction, yet they do not
+give up their undertakings. Seeing what is true and knowing the principles thereof, they spread clouds of teaching and shower rains of teaching. Though they know the character of reality cannot be verbally
+expressed, yet by expedient means and endless intellectual power they
+teach in an orderly fashion according to principles and according to
+meanings. Because they have mastered the skills of verbal explanation of
+phenomena and principles, their great kindness and compassion purified,
+they produce words for all things that are actually beyond words, according to their principles and meanings, without contradiction, explaining that all things arise from conditions. Though they do use words
+to explain, yet they are not attached to them at all. They explain all
+things, with endless intellectual power, analyzing, defining, revealing,
+guiding, causing the nature of all things to be fully revealed, cutting
+through the web of doubts, causing all to be clarified. Even while they
+take care of sentient beings, they do not abandon true reality. They do
+not regress from nonduality, and they are always able to expound the
+reality of nonobstruction. By means of myriad subtle nuances they adapt
+to the minds of sentient beings, showering the rain of truth on all
+according to proper timing.
+"This is called great enlightening beings' ninth superknowledge,
+knowledge of all phenomena.
+"By the superknowledge of concentration on the extinction of all
+things, great enlightening beings enter into concentration on the extinction of all things in every moment; yet they do not retire from the Path of enlightening beings, they do not give up the tasks of enlightening
+beings, they do not abandon the heart of great kindness and compassion.
+They cultivate the transcendent ways unceasingly and investigate all
+buddha-lands tirelessly. They do not give up the vow to liberate sentient
+beings, do not stop the work of turning the wheel of the Teaching, do
+not abandon the activity of civilizing sentient beings, do not give up the
+practice of honoring and serving the buddhas, do not abandon the door
+of mastery of all teachings, do not give up seeing all buddhas, do not
+abandon always listening to all their teachings. They know all things are
+equal and do not hinder one another. They freely accomplish all Buddha
+teachings, and attain fulfillment of all their excellent vows. They know
+the differentiations of all lands. They enter the family of buddhas and
+reach the other shore. They arc able to study all things in each world and
+com prehend that all things are signless; they know all things come from
+conditions and have no intrinsic being of their own, nevertheless they
+explain them expediently according to conventional usage. Though their
+minds do not dwell on anything, yet in accord with sentient beings'
+faculties and dispositions they expediently explain all kinds of things.
+"When these enlightening beings are in concentration , they may remain in concentration for an con, a hundred eons, a thousand cons, a
+million eons, a billion eons, a trillion cons, or any number of eons, if they
+wish. W hen the enlightening beings enter this concentration on the
+extinction of all things, no matter how many cons they pass in this
+concentration, their bodies do not disintegrate, waste away, or change.
+They are neither visible nor invisible. They do not pass away, decay, or
+tire out-it is inexhaustible. Though they do nothing at all in respect to
+existence or nonexistence, yet they are able to accomplish the tasks of
+enlightening beings: that is to say, they never abandon sentient beings,
+teaching and harmonizing them according to proper timing, causing
+them to increase in all enlightened qualities; they attain fulfillment of all
+practices of enlightening beings, and for the sake of aiding and benefiting
+all sentient beings they ceaselessly work miracles. Like rays of light, they
+appear everywhere while remaining silent and unmoving in concentration.
+"This is called great enlightening beings' tenth superknowledge, of
+concentration on the extinction of all things.
+"Great enlightening beings abiding in these ten kinds of superknowledge
+arc inconceivable to any celestial or human beings, to any sentient beings,
+to any Buddhist disciples, individual illuminates,. or even to other enlightening beings. The physical, verbal, and mental actions of these great
+enlightening beings are inconceivable; their freedom in concentration
+and the realms of their knowledge, too, arc inconceivable. On ly the
+buddhas and the enlightening beings who also have attained these supcrknowlcdges are able to tell of the virtues and sing the praises of these
+people.
+"These are the ten supcrknowledges of great enlightening beings. If
+great enlightening beings abide in these supcrknowledges, they will
+completely attain superknowledge unhindered in all times." 
+ 
+`;
+const sutra_29=`
+THEN THE GREAT ENLIGHTENING BEING Universally Good said to the enlightening beings, "Off-;pring of Buddha, great enlightening beings have
+ten kinds of acceptance. If you acquire these acceptances, you will manage
+to arrive at the stage of unhindered acceptance. What are the ten? They
+are acceptance of the voice of the Teaching; conformative acceptance;
+acceptance of the non origination of all things; acceptance of illusoriness;
+acceptance of being miragelike; acceptance of being dreamlike; acceptance of being echolike; acceptance of being like a reflection; acceptance
+of being phantomlike; acceptance of being spacelike. These ten acceptances have been expounded, are being expounded, and will be expounded by the buddhas of past, present, and future.
+"What is great enlightening beings' acceptance of the voice of the
+Teaching? It means when they hear the teachings expounded by the
+buddhas, they are not startled or frightened or overawed; they believe
+deeply, understand, appreciate, aim for, concentrate on, remember,
+practice, and abide by them. This is called great enlightening beings'
+acceptance of the voice of the Teaching.
+"What is great enlightening beings' conformative acceptance? It means
+they contemplate the Teaching, investigate it, impartially conform to it
+without opposition, comprehend it, purify their minds, live correcdy by
+the Teaching, apply it, enter into it, and fulfill it. This is called great enlightening beings' second acceptance, that of conforming to the Teaching.
+"What is great enlightening beings' acceptance of the nonorigination
+of things? These great enlightening beings do not see that there is anything at all that originates and do not see that there is anything at all that
+perishes. Why? If there is no origination, there is no perishing; if there is
+no perishing, there is no extinction; if there is no extinction, they are free
+from defilements; if they are free from defilements, there is no differentiation; if there is no differentiation, there is no location; if there is no
+location, there is quiescence; if there is quiescence, there is detachment
+from desire; if there is detachment from desire, there is no doing; if there
+is no doing, there is no wish; if there is no wish, .there is no dwelling; if
+there i s n o dwelling, there i s n o coming and no going. This is called great
+enlightening beings' acceptance of the non origination of things. "What is great enlightening beings' acceptance of illusoriness? These
+great enlightening beings know all things are like illusions and arise from
+causes and conditions. In one thing they understand many things, and
+in many things they understand one thing. These enlightening beings,
+knowing the illusoriness of things, comprehend lands, comprehend sentient beings, comprehend the cosmos, comprehend the equality of worlds,
+comprehend the equality of appearances of buddhas, comprehend the
+equality of past, present, and future, and accomplish various spiritual
+powers and mystic transformations.
+"Just as illusions are not elephants, not horses, not chariots, not walking, not men, not women, not boys, not girls, not trees, not leaves, not
+flowers, not fruits, not earth, not water, not fire, not wind, not day, not
+night, not a day, not a month, not a fortnight, not a year, not a hundred
+years, not an eon, not many eons, not stable, not confused, not pure, not
+alloyed, not one, not variegated, not broad, not narrow, not many, not
+few, not finite, not infinite, not gross, not subtle, not any things at
+all-variety is not illusion, illusion is not various, yet by illusion are
+manifested all kinds of different things-in the same way do great
+enlightening beings look upon all worlds as illusory; that is, the worlds
+of action, the worlds of affliction, the worlds of lands, the worlds of
+phenomena, the worlds of time, the worlds of dispositions, the worlds
+of becoming, the worlds of decay, the worlds of movement, the worlds
+of creativity. When great enlightening beings see all worlds as like
+illusions, they do not see beings born or dying, they do not see countries
+born or perishing, they do not see phenomena born or perishing, they do
+not see a past that can be differentiated, they do not see a future that has a
+beginning, they do not see a present that remains for even a moment;
+they do not examine enlightenment, do not discriminate enlightenment,
+do not see buddhas emerging, do not see buddhas passing away into
+nirvana, do not see abiding by great vows, do not see entry into the
+absolute, do not go out of the essence of equality.
+"Though these enlightening beings develop buddha-lands, they know
+lands have no differentiation; though they develop sentient beings, they
+know sentient beings have no differentiation; though they examine the
+cosmos, yet they abide peacefully in the essence of reality, silent and
+unmoving; though they realize past, present, and future are equal, yet
+they do not oppose the distinction of past, present, and future phenomena; though they are fully complete in physical, mental, and sense elements, they do not rely on anything; though they liberate sentient beings,
+yet they know the cosmos is impartial and makes no distinctions; though
+they know all things are beyond words and cannot be verbally explained,
+yet they always explain things with inexhaustible powers of analysis;
+though they are not attached to the work of teaching beings, yet they do
+not give up great compassion, turning the wheel of Teaching to liberate
+all; though they reveal to them past causes and conditions, yet they
+k110w that conditionality has no movement. This is called great enlightening beings' acceptance of illusoriness. "What is great enlightening beings' acceptance of being miragelike?
+These great enlightening beings know that all worlds are like mirages.
+Just as mirages have no location, are not inside or outside, not existent or
+nonexistent, not finite or eternal, not uniform or multiform or formless,
+but just expressed in conventional terms, in the same way do enlightening beings truly see and know all things, actually realizing this of all
+things, attaining complete acceptance. This is called enlightening beings'
+acceptance of being miragelike.
+"What is great enlightening beings' acceptance of being dreamlike?
+Here great enlightening beings know all worlds are like dreams. Just as
+dreams are neither of the world nor apart from the world, not of the
+realm of desire, not of the realm of form, not of the formless realm, not
+arising, not disappearing, not defiled, not pure, and yet obviously manifest, in the same way do enlightening beings know all worlds to be like
+dreams, unchanging, because of being free like dreams, because of clinging
+like dreams, because of being inherently unconnected like dreams, because of being like the basic nature of dreams, because of being hke
+visions in dreams, because of being undifferentiated like dreams, because
+of being like thoughts in dreams, because of being as when awakening
+from a dream. This is called great enlightening beings' acceptance of
+being dreamlike.
+"What is great enlightening beings' acceptance of being echolike?
+Here the great enlightening beings, hearing buddhas explain the truth,
+seeing into the nature of things, applying this practically, achieving
+realization and reaching the other shore, know that all sounds are the
+same as echoes, with no coming or going, appearing in this way. The
+great enlightening beings observe the voice of the buddhas as emerging
+without emerging from inside or outside or both . Though they understand that this voice does not emerge from inside, outside, or both, yet it
+is possible to produce skillful expressions to accomplish explanation. Like
+echoes in a valley, it is produced by conditions and is not at variance
+with the nature of things. It enables sentient beings each to understand
+according to kind and to be able to practice this learning.
+"Just as the wife of the emperor of gods can produce a thousand tones
+in one sound without consciously trying to do so, so also do great
+enlightening beings enter the realm of nondiscrimination, develop a
+voice that skillfully adapts to different types, and forever turn the wheel
+of the Teaching in boundless worlds. These enlightening beings skillfully
+observe all beings and preach to them with a universal tongue, their
+voices pervading all lands in the ten directions unhindered, causing all to
+hear the Teaching differentl y according to their n eeds. Though they
+know sound has no origin, they manifest the sound of their voice everywhere; though they know there is nothing to say, they extensively
+explain all things. Their wondrous voice is impartial, all understand it
+according to species and type, while the enlightening beings comprehend this all by means of their knowledge. This is called great enlightening beings' acceptance of being echolike. "What is great enlightening beings' acceptance of being like a reflection? These great enlightening beings are not born in the world, do not
+die in the world; they are not in the worl d, not outside the world; they
+do not act in the world, yet are not inactive in the world; they are not the
+same as the world, yet are not different from the world; they do not go
+to the world, nor do they not go to it; they do not dwell in the world,
+nor do they not dwell in the world; they are not worldly or unworldly.
+They are not cultivating the practices of enlightening beings, yet they do
+not give up their great vow; they are neither real nor unreal. Though
+they always carry out all B uddha teachings, yet they are able to manage
+all mundane affairs; they do not follow the mundane stream, nor dwell
+in the religious stream.
+"Just as the sun, moon, men, women, houses, mountains, rivers,
+springs, and so on, are reflected in anything clear-in oil, water, a jewel,
+a mirror, and so on-and the reflections are neither one with nor different from the oil, water, jewel, or mirror, are neither separated nor
+united, not flowing along in river currents, not sinking in lakes or wells,
+appearing therein without being affected, and people know that such
+and such a reflection is in such and such a place and not elsewhere, and,
+though things far and near cast their reflections, there is no corresponding distance of the images from one another, similarly great enlightening
+beings know their own bodies and others' bodies are all spheres of cognition and do not understand them dualistically as self and others, and
+simultaneously appear in their own lands and other lands. Just as there
+are no roots, sprouts, stalks, nodes, branches, or leaves in a seed, yet it
+can produce these things, so also do great enlightening beings distinguish
+duality in that which is nondual, their skill in means completely fluid
+and all-encompassing, without blockage. This is called great enlightening beings' acceptance of being like a reflection.
+"When great enlightening beings achieve this acceptance, though
+they do not travel to the lands of the ten directions, yet they can appear
+in all buddha-lands, neither leaving here nor going there. They are like
+reflections appearing everywhere, unhindered wherever they go, causing
+sentient beings to see different bodies with the same appearance of solidity as the world. However, these differentiations are not differentiationdifference and nondiffcrence do not obstruct one another. These great
+enlightening beings are born from the lineage of the buddhas-their
+bodies, speech, and minds are pure and unimpeded, so they are able to
+acquire pure bodies of boundless forms.
+" What is great enlightening beings' acceptance of being phantomlike?
+These great enlightening beings know all worlds are like phantomsthat is, all sentient beings are phantoms of mentalization, being created
+by consciousness and thought; all worldly realms are phantoms of acts
+and cmditioning , being created by discrimination; all pain and pleasure
+are phantoms of delusion, being produced by arbitrary clinging; all
+worlds are phantoms of unreal phenomena, being made apparent by
+verbalization; all afflictions arc phantoms of discrimination, being created by thoughts. There is also the phantom of pure pacification,
+being manifested by nondiscrimination; the phantom of not changing
+through time, because of the equality of the uncreate; the phantom of
+enlightening beings' willpower, because of their extensive practices; the
+phantom of buddhas' great compassion, based on expedient demonstrations; the phantoms of means of teaching, being expounded by wisdom,
+expertise, and intellectual powers.
+"Thus do enlightening beings know mundane and transmundane
+phantoms; they know them by direct experience, with extensive knowledge, boundless knowledge, factual knowledge, independent knowledge, true knowledge, incapable of being overturned by false views,
+going along with the events of the world without loss or corruption.
+"Just as a phantom does not arise from the mind or from mental
+states, does not arise from action, does not experience consequences, is
+not born in the world, does not die in the world, cannot be pursued,
+cannot be grasped or touched, is not long-lasting, is not momentary, is
+not acting in the world, is not apart from the world, is not bound to one
+location, is not ubiquitous, is not finite, is not infinite, does not weary or
+rest, is not unwearying or unceasing, not ordinary, not holy, not defiled,
+not pure, not born, not dead, not wise, not foolish, not seen, not unseen,
+not based in the world, not entering the reality realm, not clever, not
+dull, not grasping, not nongrasping, not birth and death, not nirvana,
+not existent, not nonexistent, in the same way do enlightening beings
+course through the world by skill in means, cultivating the path of enlightening beings, knowing worldly phenomena, multiplying their
+bodies for phantomlike travel, not clinging to the world, not attached to
+their own bodies, not conceptualizing anything in the world or themselves, not dwelling in the world, not leaving the world, not dwelling
+on things, not aloof from things. Because of their fundamental vow they
+do not abandon a single sentient being, they do not guide only a few
+sentient beings, they do not discriminate things yet are not indiscriminate. They know the nature of things has no coming or going, and though
+they have no existence, they fulfill the Buddha teachings, knowing
+everything is like a phantom, neither existent nor nonexistent.
+"When great enlightening beings thus abide in acceptance of being
+phantomlike, they are able to fulfill the path of enlightenment of all
+buddhas and benefit living beings. This is called enlightening beings'
+acceptance of being phantomlike: when great enlightening beings achieve
+this acceptance, like magicians, everything they do is phantomlike. They
+do not dwell on anything in any buddha-land, do not cling to the world,
+tirelessly proceed toward enlightenment without producing false ideas
+about the Buddha teachings, cultivate the practices of enlightening
+beings, and get rid of delusion. Though they have no body, yet they
+manifest all bodies; though they have no abode, yet they abide in m yriad
+buddha-lands; though they have no form, yet they manifest myriad
+forms; though they do not cling to ultimate truth , yet they clearly perceive the essential nature of things, impartially and completely. "These great enlightening beings, not relying on anything, are called
+liberated; having shed all errors, they are called disciplined; entering the
+congregations of all buddhas everywhere without moving, they are
+called masters of spiritual power; well versed in the truth of nonorigination, they are called unregressing; imbued with all powers, which even
+mountains cannot impede, they are called unobstructed.
+"What is great enlightening beings' acceptance of being spacelike?
+These great enlightening beings understand that all phenomena are like
+space because they are signless; all worlds are like space because they have
+no origin; all things are like space because they are nondual; all actions of
+sentient beings are like space because they have no course; all buddhas are
+like space because they have no discrimination; all buddhas' powers are
+like space because they have no distinctions; all meditation concentrations are like space because of equality of past, present, and future; all the
+principles the buddhas teach are like space because they cannot be explained in words; all buddha-bodies are like space because they have no
+attachment and no obstruction. In this way enlightening beings, by
+means of the device of being spacelike, comprehend that all things have
+no existence.
+" When great enlightening beings comprehend all things by the
+knowledge that recognizes and accepts their spacelike nature, they
+acquire spacelike bodies, spacelike physical action, spacelike speech,
+spacelike minds, and spacelike mental action. Just as space, the harbor
+of all things, is not born and does not perish, so also are all the bodies
+of realities of great enlightening beings unborn and imperishable. Just
+as space is indestructible, similarly are the powers of knowledge of great
+enlightening beings indestructible; j ust as all worlds rest in space while
+space rests on nothing, similarly all true teachings rest on great enlightening beings while they rest on nothing. Just as space, without any origin
+or destruction, can hold the origin and destruction of all worlds, similarly
+great enlightening beings, without aim or attainment, can show aim and
+attainment, causing all worldlings to cultivate purity. Just as space, without direction or angles, can manifest innumerable directions and angles,
+similarly great enlightening beings, without actions or consequences, are
+able to show all kinds of actions and consequences. Just as space is not
+walking or standing yet can reveal all kinds of postures and movements,
+similarly great enlightening beings are not walking or standing yet can
+differentiate all movements. Just as space is not form and not not form,
+yet can reveal all kinds of forms, similarly great enlightening beings are
+not mundane corporeality or transmundane corporeality, yet can manifest all forms. Just as space is not old or new, yet can perdure, revealing
+all things, similarly great enlightening beings are not ancient or recent,
+but can perdure, revealing the practices carried out by enlightening
+beings. Just as space is not clean or dirty, yet is not apart from cleanness
+and pollution, similarly great enlightening beings are not obstructed or
+unobstructed, yet are not apart from obstruction and nonobstruction.
+Just as all worlds appear to space while space does not appear to all worlds, similarly all things appear to great enlightening beings while
+great enlightening beings do not appear to all things. Just as space penetrates everywhere, without boundaries, similarly great enlightening
+beings penetrate all things, yet their minds have no boundaries.
+"Why is this? Because enlightening beings' doings are like space.
+That is to say, all their practices, all their purifications, and all their
+accomplishments are all impartial, of one substance, one flavor, one
+essence, of the same measure as space, pure and all-pervasive. Thus do
+they witness and know all things without fabricated notions of things,
+purify all buddha-lands, perfect all supporting bodies, comprehend all
+realms without confusion, embody all powers, which are indestructible,
+fulfill all virtues, which arc boundless, arrive at the realm of all profound
+truths, master the paths of all ways of transcendence, sit on all adamantine seats of enlightenment everywhere, utter all voices adapting to all
+species, and operate the cycles of the Teaching for all worlds according
+to proper timing. This is called great enlightening beings' acceptance of
+being spacelike.
+"When great enlightening beings attain these acceptances, they acquire
+a body that does not come from anywhere because it does not go anywhere; they acquire a birthless body, having no extinction; they acquire
+a motionless body, having no disintegration; they acquire an insubstantial body, being beyond falsehood; they acquire a uniform body, being
+formless; they acquire an infinite body, the power of buddhahood being
+infinite; they acquire an impartial body, being the same characteristic of
+Thusness; they acquire an undifferentiated body, seeing past, present,
+and future as equal; they acquire a body that reaches everywhere, their
+pure eye perceiving equally, without obstruction; they acquire a body
+free from the realm of desire, knowing that all phenomena neither form
+nor dissolve; they acquire a body as boundless as space, their store of
+virtue being as inexhaustible as space; they acquire a body of endless
+knowledge of the equality of the nature of things, knowing the forms
+of all things are one form and their nature is natureless, like space; they
+acquire a body of infinite, unobstructed sound, being unopposed and
+unobstructed like space; they acquire a body of pure action of enlightening beings endowed with all skills, being unhindered in all places, like
+space; they acquire a body of continuity of succession of the oceans of all
+Buddha teachings, because like space they cannot be brought to an end;
+they acquire a body manifesting infinite buddha-lands within all buddhalands, being free from greed and attachment, unbounded as space; they
+acquire a body ceaselessly manifesting all aspects of miraculous power,
+being boundless as the sky and ocean; they acquire a body of indestructible durable strength, sustaining all worlds like space; they acquire a
+body with all senses clear and sharp, indestructible as adamant, because
+like space they cannot be burned by the fires that end an eon; they acquire
+a body of power to hold all worlds, their power of knowledge being like space.  "These are called the ten acceptances of enlightening beings. "
+Then the great enlightening being Universally Good, in order to
+restate this teaching, spoke these verses:
+Just as people of the world
+Hearing of a mine of jewels
+Become glad at heart
+Because they can obtain them,
+So enlightening beings,
+Endowed with great wisdom,
+Hearing the buddhas' teaching,
+The most profound character of nullity,
+Become calm at heart
+When they hear this teaching.
+They are not startled or frightened,
+Nor arc they overawed;
+Great beings seeking enlightenment,
+Hearing this grandiose message,
+Minds pure, able to accept,
+Have no doubt about it.
+Thinking to themselves that by hearing this
+Exceedingly profound and subtle teaching
+They will become omniscient
+Guides of heaven and earth,
+Enlightening beings, hearing this message,
+Are very glad at heart.
+Producing steadfast determination,
+Vowing to seek the buddhas' truths,
+Because they incline to enlightenment
+Their minds are gradually tamed.
+It causes their faith to grow,
+Not repudiating truthTherefore, hearing this message,
+Their minds are able to accept it.
+Immutable, stable,
+They cultivate enlightening practice;
+In their quest for enlightenment,
+They proceed wholeheartedly toward that path.
+Diligent, vigorous, never turning back,
+They do not cast off the yoke of virtues. Because they seek enlightenment,
+Their minds are without fear;
+Hearing the truth, they become yet braver
+And serve the buddhas, gaining rapport with them.
+As someone of great fortune
+Who has found a treasure of gold
+Makes whatever ornaments
+Are suitable to wear,
+So do enlightening beings,
+Hearing this most profound doctrine,
+Think and increase the ocean of knowledge,
+Thereby cultivating conformity to the teaching.
+The existence of things they know accordingly,
+The nonexistence of things they also know accordingly;
+As the truth of the teaching is thus,
+Thus do they know all things.
+Achieving a pure mind,
+Thoroughly clear, full ofjoy,
+They know things arise from conditions
+And vigorously cultivate practice;
+They see all things impartially
+And comprehend their inherent nature.
+Not straying from the Buddha's teaching,
+They are aware of all things;
+Their determination is always firm
+As they purify enlightenment.
+Immovable as mountains,
+Single-mindedly seeking true awakening,
+With a mind inspired to effort
+They also cultivate the path of concentration,
+Practicing diligently for countless eons,
+With never any regression or digression.
+The principles enlightening beings enter
+Are the sphere of action of buddhas;
+Able to know them thoroughly,
+Their minds without aversion or sloth,
+As the Peerless One teaches,
+They look upon things impartially.
+Without impartial acceptance
+None can attain equanimous knowledge;Following the Buddha's teaching,
+They accomplish this facet of acceptance;
+They know things as they are
+Yet have no notion of things.
+All the gods
+Of the thirty-three heavens
+Eat from the same vessel
+Yet their food is not the same:
+The various foods they eat
+Do not come from the ten directionsThey spontaneously appear in the vessel
+According to the actions of the gods.
+In the same way do enlightening beings
+Observe all phenomena
+As arising from conditionsHaving no origin, they have no destruction;
+Having no destruction, they have no extinction;
+If there is no extinction, there is no defilement.
+In the changing things of the world
+They know there is no change;
+There being no change, there is no location,
+And no location means nullity.
+Their minds without attachment,
+They vow to liberate all the living,
+Thinking only of the Buddha Way,
+Never distracted or perturbed,
+Ever with compassionate will
+Acting expediently in the world.
+Diligently seeking the ten powers,
+They are in the world without lingering;
+Without coming or going,
+They expediently teach the truth.
+These acceptances are supreme,
+Comprehending truth without end,
+Entering the cosmos of reality,
+Yet actually without entering anywhere.
+Enlightening beings abiding in these acceptances
+See the buddhas everywhere
+Simultaneously giving them directionsThis is called getting the joy of buddhahood. They comprehend the nullity and purity
+Of all things of all times,
+Yet can influence sentient beings
+Into the path of virtue.
+The various things of the world
+Are all illusory;
+If one can know this is so,
+One's mind will be unshakable.
+All acts are born from mind,
+Therefore it is said mind is like magic:
+If one gets rid of this false imagination,
+One extinguishes all paths of existence.
+Just as a skillful magician
+Causes forms to appear,
+Causing the masses to crave them in vain,
+While they ultimately get nothing,
+So also is the worldAll in it is illusion,
+Without essence or origin,
+Yet appearing variously.
+Liberating living beings,
+Letting them know things are illusory,
+Living beings, too, are not other than illusionOn comprehending illusion, there are no "living beings."
+Living beings and lands,
+All things there are in all times,
+In the same way, without exception,
+Are all illusory.
+Making illusory forms of men and women,
+Elephants, horses, cattle, and sheep,
+Houses, ponds, springs, and such,
+Gardens, groves, flowers, and fruits,
+Illusory things have no awareness
+And also have no abode;
+Ultimately of the character of nullity,
+They only appear according to imagination.
+Enlightening beings are able to see
+Things of the world this way--
+All things, existent and nonexistent, They realize are illusions;
+Living beings and lands
+Are made by various acts.
+Entering the realm of illusion,
+They have no attachment therein;
+Thus attaining skillfulness,
+They are tranquil, free from folly.
+In the state of non obstruction
+Manifesting great power everywhere,
+The courageous offspring of Buddha
+Accordingly enter the sublime Teaching,
+Accurately perceiving all conceptions
+As wrapping up the world in their mesh,
+The conceptions like mirages
+Causing beings to misunderstand.
+Enlightening beings, knowing conceptions well,
+Get rid of all delusions.
+Living beings, each different,
+Are not the same in form and type;
+Enlightening beings understand these are all conceptions,
+All without true reality.
+All beings in the ten directions
+Are shrouded by conceptions;
+If they would give up erroneous views,
+They would end their conceptions of the world.
+The world is like a mirage,
+Differentiated because of conceptions;
+Knowing the world is an ideation,
+One is freed from delusion of thought, view, and mind.
+Just as a mirage in the heat
+People think is water,
+Yet the water does not exist
+And the wise should not seek it,
+The same is true of sentient beings:
+Worldly states are all nonexistent,
+Like mirages, existing in the perceptionThis is the realm of the unobstructed mind.
+If one detaches from conceptions
+One will get rid of false descriptions, Liberating all the ignorant
+Who are attached to ideas.
+A voiding pride and conceit,
+Eliminating conceptions of the world,
+Dwelling on the point of extinction and infinity,
+This is enlightening beings' method.
+Enlightening beings realize things of the world
+Are all like dreams,
+Neither having nor lacking location,
+Eternally null in essence.
+All things have no discrimination;
+Like dreams, they are not different from mindThe worlds of past, present, and future
+Are all like this.
+The substance of dreams has no birth or destruction
+And also has no location.
+The three worlds are all like thisThose who see this are freed in mind.
+Dreams are not in the world,
+Nor are they unworldly:
+Not discriminating these two,
+One enters the stage of acceptance.
+Just like seeing in dreams
+Various different forms,
+So also is the world
+No different from a dream.
+Those in dream-concentration
+Realize all in the world is like a dream,
+Not the same and not different,
+Not one and not various.
+The acts of beings and lands,
+Polluted and pure,
+They understand all
+Are equal to dreams.
+The practices of enlightening beings
+As well as their great vows
+They understand are all like dreams,
+No different from the world. Realizing the world is empty,
+They do not destroy the things of the world,
+Like long, short, and such forms,
+As seen in a dream.
+This is called acceptance of the dreamlike;
+Understanding things of the world by this,
+One swiftly attains unhindered wisdom
+To liberate sentient beings.
+Cultivating such practice
+Produces broad understanding,
+Knowing well the nature of things,
+Without mental attachment to things.
+All the various sounds and voices
+Of all realms of the world
+Arc not internal or external:
+Realizing all are like echoes,
+Like hearing all kinds of echoes,
+The mind doesn't discriminate.
+When enlightening beings hear sounds
+Their minds are also like this;
+Looking to the buddhas
+And listening to the sound of their teachings,
+Their discourses without number,
+Though they hear, they are not attached.
+As echoes come from nowhere,
+So do the voices they hear;
+Yet they can distinguish the principles
+And not violate or mistake them.
+They understand utterances
+While not discriminating among voices;
+Knowing all voices are empty and null,
+They broadcast pure, clear sounds.
+Understanding truth is not in words,
+They enter the wordless realm,
+Yet can explain in words,
+Like echoes filling the world.
+They know the ways of speech
+And are vocally well equipped;While knowing the nature of sound is null,
+They speak the language of the world.
+According to the voice of the world
+They show the same differentiations,
+Their voice pervading everywhere
+A wakening living beings.
+Enlightening beings, attaining this acceptance,
+Influence the world with a pure message,
+Skillfully explaining past, present, and future,
+Without attachment to the world.
+Because they want to help the world,
+They single-mindedly seek enlightenment,
+While always entering the nature of things
+Without discriminatory thought therein.
+They see all worlds
+To be null, devoid of intrinsic nature,
+Yet always cultivate practice intently
+In order to benefit beings.
+Not dwelling in the world,
+Not leaving the world,
+They do not rely on anything in the worldReliance cannot be found.
+They know the nature of the world
+And are not attached to that nature;
+While they do not rely on beings,
+They teach beings to transcend.
+They know the inherent nature
+Of everything in the world;
+Understanding things are not dual,
+They still have no attachment to nonduality.
+Their minds are not apart from the world,
+Nor do they dwell on the world;
+It is not outside the world
+That they cultivate all-knowledge.
+Just as reflections in water
+Are not inside or outside,
+Enlightening beir1gs seeking enlightenment.
+
+Know the world is not the world:
+They do not dwell in or leave the world,
+Because the world is inexplicable;
+And they are not inside or outside,
+Appearing in the world like reflections.
+Entering this profound truth,
+They are thoroughly purified;
+Not giving up their original vow,
+They are radiant lamps of wisdom.
+Worlds without bound
+Their knowledge enters, all equally;
+Edifying beings everywhere,
+They cause them to give up attachments.
+Contemplating the most profound truth,
+Aiding living beings,
+Henceforth they enter into knowledge
+And cultivate all its ways.
+Enlightening beings examine all things,
+Clearly realize all are like phantoms,
+And carry out phantomlike practice,
+Never giving it up.
+Conforming to phantomlike nature,
+They practice the way of enlightenment;
+All things are like phantoms,
+And so is enlightening beings' practice.
+All worldly realms
+And infinite acts
+Are equally phantomlike,
+Ultimately resting in nullity.
+The buddhas of all times
+Are all like phantoms too;
+Originally vowing to perform certain deeds,
+They metamorphose into buddhas.
+Buddhas liberate phantom beings
+By great kindness and compassion;
+The liberation is also phantomlike;
+By phantom power they teach them.
+Knowing the world is all phantomlike,
+They do not discriminate worldly realms;
+Phantom phenomena, various, different,
+All come from differences of action.
+Cultivating enlightening practices,
+Adorning phantom treasuries,
+With arrays of infinite goodness
+They make the world according to deeds.
+Phantomlike things are beyond conception,
+And they do not conceptualize things;
+Both things and concepts are null and voidSuch is enlightening beings' practice.
+The sea of phantoms understood by knowledge,
+The phantom nature stamps the world;
+Phantoms are not things born and perishingThe same is true of knowledge.
+The tenth acceptance clearly sees
+Sentient beings and phenomena
+Are null and void in essence,
+Like space, with no location.
+Attaining this spacelike knowledge,
+One is forever free from grasping and clinging:
+Like space, it has no variation
+And is unobstructed in the world.
+Achievement of acceptance of being like space
+Is, like space, inexhaustible:
+Objects are like space,
+Yet one does not think of them as space.
+Space has no intrinsic nature,
+And yet it is not nothingness,
+But has no variationThe power of knowledge is also like this.
+Space has no beginning,
+No middle, and no end;
+Its measure cannot be foundEnlightening beings' knowledge is also thus.
+Thus observing the nature of things,
+All like space, 
+With no origin or destruction,
+Is the attainment of enlightening beings:
+Themselves abiding in the principle of being spacelike,
+They also explain it to others,
+Conquering all demonsThis is the method of the acceptances.
+The distinctions of features of the world
+Are empty, without any marks;
+Entering into signlessness,
+All signs are equal.
+By one single means
+They enter all worlds:
+That is knowing that all things in all times
+Are in essence equal to space.
+Knowledge and voice
+And the enlightening beings' body
+Are in essence like spaceAll are quiescent and void.
+These ten acceptances
+Are cultivated by offspring of buddhas;
+Their minds rest at peace,
+And they explain them to others.
+Learning them well,
+They develop great power;
+The powers of truth and knowledge
+Become means to enlightenment.
+Arriving at these acceptances,
+They achieve unobstructed knowledge
+Transcending the masses
+And turn the unexcelled wheel of the Teaching.
+The great practices they carry out
+Are beyond measureOnly the ocean of knowledge of the Tamer
+Can know them in detail.
+Giving up their egos to cultivate practice,
+They plunge into the profound nature of reality;
+Their minds always dwelling on pure truths,
+These they give to others. 
+
+The number of living beings
+And atoms in lands may be known,
+But no limit can be ascertained
+To the virtues of enlightening beings.
+Enlightening beings are able to accomplish
+These ten acceptances;
+Their wisdom and their conduct
+No sentient beings can fathom.  
+
+`;
+const sutra_30=`
+AT THAT TIME the enlightening being Mind King said to the Buddha,
+" World Honored One, the buddhas speak of incalculable, measureless,
+boundless, incomparable, innumerable, unaccountable, unthinkable,
+immeasurable, unspeakable, untold numbers-what are these?"
+The Buddha said, "It is good that you ask the Buddha, the Truly Enlightened One, in order to have the beings of the world penetrate the
+meaning of the numbers known to the Buddha. Listen carefully and
+think well about this; I will explain for you." Then the enlightening
+being Mind King willingly received the teaching. The Buddha said,
+"Ten to the tenth power times ten to the tenth power equals ten to the
+twentieth power; ten to the twentieth power times ten to the twentieth
+power equals ten to the fortieth power; ten to the fortieth power times
+ten to the fortieth power equals ten to the eightieth power; ten to the
+eightieth power times ten to the eightieth power equals ten to the power
+of 160; ten to the power of 1 60 squared equals ten to the power of 320;
+ten to the power of 320 squared equals ten to the power of 640; ten to the
+power of 640 squared equals ten to the power of 1 ,280; ten to the power
+of 1 ,280 squared equals ten to the power of 2,560; that squared equals ten
+to the power of 5, 1 20; that squared equals ten to the power of 1 0,240;
+that squared equals ten to the power of 20,480; that squared is ten to
+the power of 40,960; that squared is ten to the power of 8 1 ,920; that
+squared is ten to the power of 1 63,840; that squared is ten to the power
+of327,680; that squared is ten to the power of 655 ,360; that squared is ten
+to the power of 1 ,3 1 1 ,720; that squared is ten to the power of2,623,540;
+that squared is ten to the power of 5,247,080; that squared is ten to the
+power of 10,494, 1 60; that squared is ten to the power of 20,988,320; that
+squared is ten to the power of 41 ,976,640; that squared is ten to the
+power of 83,953,280; that squared is ten to the power of 1 67,906,560;
+that squared is ten to the power of 335,813,120; that squared is ten to the
+power of 671 ,626,240; that squared is ten to the power of 1 ,343,252,480;
+that squared is ten to the power of 2,686,504,960; that squared is ten
+to the power of 5,373,009,920; that squared is ten to the power of
+1 0, 746,01 9,840; that squared is ten to the power of 21 ,492,039,680;
+
+that squared is ten to the power of 42,984,079,360; that squared is ten
+to the power of 85,968, 1 58,720; that squared is ten to the power of
+171 ,936,31 7,440; that squared is ten to the power of 343,872,634,880;
+that squared is ten to the power of 687,745 ,269,760; that squared is ten
+to the power of 1 ,375 ,490,539,520; that squared is ten to the power of
+2,750,981 ,079,040; that squared is ten to the power of 5,501 ,962,1 58,080;
+that squared is ten to the power of 11 ,003,924,3 16,160; that squared
+is ten to the power of 22,007,848,632,320; that squared is ten to the
+power of 44,01 5,697,264,640; that squared is ten to the power of
+88,03 1 ,394,529,280; that squared is ten to the power of 1 76,062,
+789,058,560; that squared is ten to the power of 352,125,578,1 1 7,120;
+that squared is ten to the power of 704,25 1,1 56,234,240; that squared is
+ten to the power of 1 ,408,502,302,468,480; that squared is ten to the
+power of 2,81 7,004,604,936,960; that squared is ten to the power of
+5,634,009,209,893,920; that squared is ten to the power of 1 1 ,268,018,
+41 9,747,840; that squared is ten to the power of 22,536,036,839,495,680;
+that squared is ten to the power of 45,072,073,678,991 ,360; that squared
+is ten to the power of 90,1 44,1 47,357,982,720; that squared is ten to the
+power of 1 80,288,294,715,965,440; that squared is ten to the power of
+360,576,589,431 ,930,880; that squared is ten to the power of 721 ,1 53,
+1 78,863,861 ,760; that squared is ten to the power of 1 ,442,306,357,
+727,723,520; that squared is ten to the power of 2,884,612,715,455 ,
+447,040; that squared is ten to the power of 5,769,225,430,91 0,894,080;
+that squared is ten to the power of 1 1 ,538,450,861 ,821 ,788,1 60; that
+squared is ten to the power of 23,076,901 ,773,643,576,320; that squared
+is ten to the power of 46,153,803,447,287,1 52,640; that squared is ten
+to the power of 92,307,606,894,574,305,280; that squared is ten to the
+power of 1 84,61 5 ,21 3,789,148,61 0,560; that squared is ten to the power
+of 369,230,427,578,297,221 ,1 20; that squared is ten to the power of
+738,460,895,156,594,442,240; that squared is ten to the power of 1 ,476,
+921 ,790,313,1 88,884,480; that squared is ten to the power of 2,953,
+843,580,626,377,768,960; that squared is ten to the power of 5,907,
+687,1 61 ,252,755,537,920; that squared is ten to the power of 11,815,
+374,322,505,5 1 1 ,065,840; that squared is ten to the power of 23,630,
+748,645,01 1 ,022,131 ,680; that squared is ten to the power of 42,261,
+497,290,022,044,263,360; that squared is ten to the power of 94,522,994,
+580,044,088,526,720; that squared is ten to the power of 1 89,045,989,
+1 60,088, 1 77,053,520; that squared is ten to the power of 378,091 ,978,
+320,1 76,354,1 07,040; that squared is ten to the power of 756, 1 83,956,
+640,352,708,21 4,080; that squared is ten to the power of 1 ,51 2,367,
+913,280,705,41 6,428,160; that squared is ten to the power of 3,024,
+735 ,826,561 ,41 0,832,856,220; that squared is ten to the power of 6,049,
+71 ,653,122,821 ,665, 712,640; that squared is ten to the power of 12,
+98,943,306,245,643,331 ,425 ,280; that squared is ten to the power of
+24,1 97,886,612,49 1 ,286,462,850,560; that squared is ten to the power 
+
+of 48,395,773,224,982,672,925,701,120; that squared is ten to the power
+of 96,79 1 ,546,449,965,145,83 1 ,402,340; that squared is ten to the power
+of 1 93 ,583,092,899,930,291 ,662,804,480; that squared is ten to the
+power of 387,1 66,1 85 ,799,860,583 ,325,608 ,960; that squared is ten to
+the power of 774,332,371 ,599,721 ,166,651 ,21 7,920; that squared is ten
+to the power of 1 ,548,664, 743, 1 99,442,333,302,635,840; that squared
+is ten to the power of 3,097,329,486,398,884,666,605,271 ,680; that
+squared is ten to the power of 6,1 94,658,972,797,769,333,21 0,543,360;
+that squared is ten to the power of 1 2,389,31 7,945,595 ,538,666,421,
+086, 720; that squared is ten to the power of 24,778,635,89 1 ,191 ,077,
+332,842, 1 73,440; that squared is ten to the power of 49,557,271 ,782,
+382, 1 54,665,686,346,880; that squared is ten of the power of 99,1 1 4,
+543,564,764,309,331 ,372,693,760; that squared is ten to the power of
+1 98,229,087, 1 29,528,61 8,662, 745,387,520; that squared is ten to the
+power of 396,458 , 1 74,259,057,237,325 ,490,775 ,040; that squared is ten
+to the power of 792,916,348,518,1 14,474,650,981 ,550,080; that squared
+is ten to the power of 1 ,585 ,832,697,036,228,949,301 ,963,100,160; that
+squared is ten to the power of 3,171,665,394,072,457,898,603,926,200,
+320; that squared is ten to the power of 6,343,330,788,1 44,9 1 5,797,
+207,852,400,640; that squared is ten to the power of 1 2,686,661 ,576,
+289,83 1 ,594,41 5,704,801 ,280; that squared is ten to the power of 25,
+373,323, 1 52,579,663,1 88,831 ,409,602,560; that squared is ten to the
+power of 50,746,646,305,159,326,377,662,81 9,205,120; that squared is
+ten to the power of 1 01 ,493,292,610,318,652,755,325,638,41 0,240; that
+squared is an incalculable; an incalculable to the fourth power is a
+measureless; a measureless to the fourth power is a boundless; a boundless to the fourth power is an incomparable; an incomparable to the
+fourth power is an innumerable; an innumerable to the fourth power
+is an unaccountable; an unaccountable to the fourth power is an unthinkable; an unthinkable to the fourth power is an i mmeasurable; an
+immeasurable to the fourth power is an unspeakable; an unspeakable
+to the fourth power is an untold, which is unspeakably unspeakable; an
+untold multiplied by itself is a square untold."
+Then the Buddha spoke these verses to the enlightening being Mind
+King:
+Untold unspeakables
+Fill all unspeakables;
+In unspeakable eons
+Explanation of the unspeakable cannot be finished.
+lf untold buddha-lands are reduced to atoms,
+In one atom arc untold lands,
+And as in one,
+So in each. 
+The atoms to which these buddha-lands are reduced in an instant
+are unspeakable,
+And so are the atoms of continuous reduction moment to
+moment
+Going on for untold eons;
+These atoms contain lands unspeakably many,
+And the atoms in these lands are even harder to tell of.
+Counting this way for unspeakable eons,
+Using unspeakable numbers,
+Counting eons by these atoms,
+One atom standing for ten myriad unspeakable numbers of eons,
+If you praise a single Universally Good for that many eons,
+It would still be impossible to exhaust the amount of virtue of
+Universal Good.
+On a point the size of the tip of a single fine hair
+Are unspeakably many Universally Goods;
+The same is true of all points
+All throughout the cosmos.
+The lands on a point the size of a hairtip
+Are measureless, unspeakable;
+So are the lands on every single point
+Throughout the whole of space.
+The lands on those points
+Have innumerable different kinds of abode;
+There are untold lands of different kinds,
+Untold lands of the same kind.
+On untold points of hairtip size
+Are untold pure lands,
+Their various arrays unspeakable,
+Their various wonders unspeakable:
+On each point in them
+Are recited untold buddha-names,
+There being to each and every name
+Untold numbers of buddhas.
+On the body of each buddha
+Appear unspeakably many pores;
+In each of these pores
+They manifest unspeakably many forms.
+The unspeakably many pores
+Each radiate unspeakably many beams of light; 
+In each of those beams of light
+Appear unspeakably many lotuses;
+In each of those lotuses
+Are unspea
+kably many petals;
+In each of those petals
+Appear unspeakably many forms;
+In those untold forms
+Also appear untold petals;
+In the petals are untold light rays,
+In the light rays untold forms;
+In each of those untold forms
+Appear untold lights;
+In the lights appear untold moons,
+And the moons also manifest untold moons;
+In each of those untold moons
+Appear untold beams of light;
+In each of those light beams
+Also appear untold suns;
+In each of those untold suns
+Are manifest untold forms;
+And in each of those forms again
+Are manifest untold rays of light;
+In each of those rays of light
+Appear untold lion thrones,
+Each with untold ornaments,
+Each with untold lights,
+With untold beautiful forms in the lights,
+With untold pure lights in the forms;
+In each of those pure lights
+Also appear various subtle lights;
+These lights also radiate various lights,
+Unt
+old, unspea
+kably many.
+In each of these various lights
+Appear wondrous jewels like mountains;
+The j ewels appearing in each light
+Are unspeakably many, untold.
+One of those mountainlike jewels
+Manifests untold lands;
+All of the mountainlike jewels
+Manifest lands like this.
+Reducing one land to atoms,
+The forms in each atom are untold;
+All of the lands atomized, each atom's forms
+Are unspeakably many, untold. 
+
+These various forms in atoms
+All produce untold lights;
+In each light appear untold buddhas.
+Untold are each buddha 's discourses,
+In each discourse are untold sublime verses;
+Untold are those who gain understanding on hearing them.
+Untold understandings in each mental instant
+Reveal unspeakably many truths.
+They reveal all future buddhas,
+Externally expounding their teachings,
+Each buddha's teachings unspeakably many,
+With untold purities of all sorts.
+Uttering unspeakably many subtle voices,
+Turning untold cycles of true teaching,
+In each cycle of teaching
+Expounding unspeakably many scriptures,
+In each scripture
+Defining unspeakably many doctrines,
+In each of those doctrines
+Explaining unspeakably many principles,
+With each of those principles
+Taming untold sentient beings.
+Then again, on a single point
+Buddhas may dwell for untold eons,
+And as on one point, so on all points,
+For the same number of eons,
+The nonobstruction of their minds unspeakable,
+Emanating unspeakably many buddhas,
+Each emanation buddha
+Also manifesting untold emanations.
+The reality bodies of those buddhas are unspeakably many,
+The emanated bodies of those buddhas are unspeakably many,
+Their adornments are unspeakably measureless.
+They travel infinitely through the ten directions,
+Coursing through untold lands,
+Observing untold sentient beings,
+Purifying untold sentient beings,
+Taming untold sentient beings.
+Their embellishments are unspeakable,
+Their masteries are unspeakable,
+Their mystic transformations are unspeakable, 
+
+Their spiritual powers are unspeakable,
+Their spheres are unspeakable,
+Their empowerments are unspeakable,
+The worlds they live in are unspeakable,
+Their pure characteristics of reality are unspeakable.
+They deliver untold discourses,
+In each and every discourse
+Expounding untold doctrines,
+In each and every doctrine
+Explaining untold principles,
+Each and every principle
+Containing untold definitions,
+Each and every definition
+Conquering untold beings.
+895
+Unspeakable homogeneous principles, unspeakable homogeneous
+minds,
+Unspeakable heterogeneous principles, unspeakable heterogeneous
+minds,
+Unspeakable heterogeneous faculties,
+Unspeakable heterogeneous languagesIn every mental moment, wherever they go,
+They tame unspeakable numbers of beings.
+Their occult projections are unspeakable,
+Their miraculous displays arc unspeakable;
+The times and ages therein are unspeakable,
+The differentiations therein are unspeakable.
+Enlightening beings can explain them in particular,
+While mathematicians cannot comprehend them;
+The great and small lands on a point,
+Polluted, pure, gross, and subtle,
+All of them unspeakably many,
+Enlightening beings comprehend and can distinguish.
+Reducing a land to atoms,
+Those atoms are measureless, untold;
+Boundless lands, as many as these atoms,
+Are gathered on a single hairtip.
+These lands, unspeakable,
+Are together on a hairtip without crowding;
+Without causing the hairtip to expand,
+Those lands all gather there. 
+
+The lands therein
+Retain their original form, without mixup;
+Just as one land does not disorder the others,
+The same is true of all lands.
+The realms in space, without bound,
+All are arrayed on a hairtip;
+These lands on a hairtip
+Enlightening beings can tell of in an instant.
+Into a minute pore
+Untold lands enter in succession;
+The pore can admit those lands,
+But those lands cannot fill the pore.
+The number of eons of their entry is unspeakable,
+The number of eons of their admission is unspeakable;
+Th e durations of their procession, array, and abiding
+Are all unspeakable eons.
+Thus having taken in and settled these lands,
+Enlightening beings' spheres are unspeakable;
+Their devices during entry are unspeakable,
+Their deeds after entry are unspeakable.
+The clear comprehensions of their cognitive faculties are
+unspeakable,
+Their journeys in all directions are unspeakable,
+Their vigorous endeavors are unspeakable,
+Their autonomous mystic transfigurations are unspeakable.
+Their meditations are unspeakable.
+Their great vows are unspeakable,
+Their spheres of action are unspeakable,
+All their attainments are unspeakable.
+The purities of their physical actions are unspeakable,
+The purities of their verbal actions are unspeakable,
+The purities of their mental actions are unspeakable,
+The purities of their resolutions are unspeakable.
+The purities of their subtle knowledge are unspeakable,
+The purities of their sublime wisdom are unspeakable,
+Their perceptions of reality are unspeakable,
+Their cessations of doubts are unspeakable. 
+
+Their escapes from birth and death are unspeakable,
+Their ascents to the absolute state are unspeakable,
+Their deep concentrations are unspeakable,
+Their total comprehensions are unspeakable.
+All sentient beings are unspeakable,
+All buddha-lands are unspeakable,
+Knowledge of sentient beings' forms is unspeakable,
+Knowledge of their dispositions is unspeakable,
+Knowledge of their deeds and the results is unspeakable,
+Knowledge of their intellects is unspeakable,
+Knowledge of their embodiments is unspeakable,
+Knowledge of their types is unspeakable,
+Knowledge of their species is unspeakable,
+Knowledge of their birthplaces is unspeakable,
+Knowledge of when they are born is unspeakable,
+Knowledge of their having been born is unspeakable,
+Knowledge of their understandings is unspeakable,
+Knowledge of their tendencies is unspeakable,
+Knowledge of their languages is unspeakable,
+Knowledge of their works is unspeakable,
+Enlightening beings with great compassion
+Benefit all worldly beings,
+Manifesting untold bodies everywhere,
+Entering untold buddha-lands,
+Seeing untold enlightening beings,
+Developing untold knowledges,
+Seeking untold teachings,
+Broadcasting untold lessons of buddhas.
+They manifest untold various bodies,
+Traveling to untold lands,
+Showing untold spiritual powers,
+Pervading untold regions,
+Emanating untold bodies in each place,
+Approaching untold buddhas,
+Making untold offerings
+Of untold infinite varieties,
+Untold pure clear jewels,
+Untold beautiful lotus blossoms,
+Untold garlands of the finest scent,
+Offering them to untold enlightened ones,
+Their pure faith untold,
+Supreme resolution untold, 
+
+Powerful aspiration untold,
+Honoring untold buddhas.
+They practice untold generosity.
+Their minds in the untold past
+Giving to all who seek, untold,
+Giving all, untold times.
+The purities of their self-control are untold;
+The purities of their minds are untold;
+They eulogize untold buddhas,
+Delight in untold truths.
+They accomplish untold forbearances,
+Their acceptance of nonorigination untold;
+They embody untold tranquillities,
+Dwelling in untold states of peace.
+They exude untold energy,
+Their past determinations untold,
+Their irreversible aspiration untold,
+Their immutable wills untold.
+Their treasuries of all concentrations are untold;
+They examine untold phenomena and principles,
+Stilled in untold concentrations,
+Mastering untold meditations.
+Their attainments of wisdom are untold,
+Their freedoms in concentration are untold,
+Their comprehensions of things are untold,
+Their clear visions of buddhas are untold.
+They cultivate measureless, untold practices,
+Undertake untold far-reaching vows;
+Their profound spheres are untold,
+Their pure means of teaching are untold.
+The power of enlightening beings' ways is unspeakable,
+The stations of enlightening beings' ways are unspeakable,
+Their right recollection is unspeakable,
+Their realms of principle and fact are unspeakable.
+They cultivate unspeakably many means of enlightenment,
+They study unspeakably many profound sciences; 
+
+Their immeasurable wisdom is unspeakable,
+Their ultimate wisdom is unspeakable.
+Their know ledge of things is unspeakable,
+Their pure cycles of teaching are unspeakable,
+Their great clouds of teachings are unspeakable,
+Their great rain of teaching is unspeakable.
+Their spiritual powers are unspeakably many,
+Their techniques are unspeakably many,
+Their knowledge of empty quiescence is unspeakable,
+The continuity of mental instants is unspeakable.
+Their measureless practices are unspeakable,
+Their constancy instant to instant is unspeakable;
+The oceans of buddha-lands are untold,
+They can go to them all, unspeakably .
+The differences in the lands are untold,
+Their various purities are untold,
+Their different adornments are untold,
+Their boundless forms are untold.
+Their various arrays are untold,
+Their various refinements are untold;
+Pure buddha-lands are unspeakably many,
+Polluted buddha-lands are unspeakably many.
+Knowing sentient beings is unspeakable,
+Knowing their natures is unspeakable,
+Knowing their deeds and rewards is unspeakable,
+Knowing their mentalities is unspeakable.
+Knowing beings' characters is unspeakable,
+Knowing their understandings and inclinations is unspeakable;
+Their defilement and purity are unspeakable,
+Observing and civilizing them are unspeakable.
+Transforming powers are unspeakable;
+Manifesting various bodies, untold,
+Cultivating untold energy,
+Enlightening beings liberate untold sentient beings.
+They manifest untold m ystic transfigurations,
+Emanate untold great beams of light,
+
+With untold various forms,
+And purify untold sentient beings.
+Each of their pores, untold,
+Radiate webs of light, untold,
+The webs of light manifesting untold hues,
+Illumining untold buddha-lands.
+Their courage and fearlessness are untold,
+Their technical skills are untold,
+Taming untold sentient beings,
+Emancipating them from birth and death .
+Their pure deeds are untold,
+Their pure words are untold,
+Their boundless thoughts are untold,
+Their sublime practices are untold.
+They develop untold jewels of knowledge,
+And enter untold realms of reality.
+Enlightening beings' mnemonic powers are unutterable,
+They are able to learn inexplicably.
+The voices of the wise are untold,
+The purity of their voices is unspeakable;
+Their accurate awareness of reality is untold,
+Their awakening of sentient beings is untold.
+They embody untold dignified bearing;
+Their pure actions are untold.
+They achieve untold expertise
+And educate untold worldlings.
+The offspring of buddhas are unspeakably many
+And so are their pure, excellent acts.
+They eulogize untold buddhas,
+Their praises inexhaustible, beyond telling.
+The guides of the world are unspeakably many;
+So are their expositions and descriptions.
+Those enlightening beings are unspeakably many,
+Their pure virtues untold.
+Their spheres are unutterable ,
+They can remain there indefinitely, 
+
+Their knowledge therein untold;
+They live through all ages, which none can ever tell.
+They are gladdened by untold buddhas,
+Their wisdom and equanimity are beyond speech;
+They penetrate untold truths,
+With untold freedom from obstruction amid phenomena.
+Past, present, and future being like space, unspeakable,
+Their knowledge of all times is untold;
+Their comprehension of past, present, and future unutterable,
+They dwell in knowledge beyond speech.
+Their superlative actions are untold,
+Their measureless vows are untold,
+Their pure great vows are untold,
+They accomplish ineffable enlightenment.
+The enlightenment of the buddhas is inexpressible;
+They develop untold knowledge,
+Discern untold principles,
+Know all laws,
+Beautify untold buddha-lands,
+And cultivate untold powers.
+They cultivate practice for an unutterably long time,
+And are ineffably enlightened in a single instant.
+The buddhas' freedoms are unspeakable,
+Their extensive explanations of truth cannot be recounted.
+Their various spiritual powers are inexplicable,
+They appear in untold worlds;
+Their cycles of pure teaching are ineffable,
+Their courageous ability to teach unspeakable,
+Their various expositions unutterable,
+Their compassion for the world cannot be told.
+Through all eons, unspeakably many,
+They praise untold merits and virtues;
+While unspeakable eons may end,
+Those untold virtues cannot be exhausted.
+Untold enlightened ones
+With untold tongues
+Praise the untold virtues of buddhas,
+Impossible to exhaust in untold eons.
+
+The living beings in the ten directions
+All attain enlightenment at once;
+Therein one buddha can manifest to all
+Untold embodiments,
+Each of these untold bodies
+Manifesting untold heads,
+Each of these untold heads
+Manifesting untold tongues,
+Each of the untold tongues
+Manifesting untold voices,
+Each of the untold voices
+Remaining for untold eons.
+As is one, so are all buddhas;
+As one body, so all bodies;
+As one head, so all heads;
+As one tongue, so all tongues;
+As one voice, so all voices,
+Ever praising the enlightened for untold eons;
+The untold eons may end,
+But praise of enlightened virtues cannot be exhausted.
+In a single atom there can be
+Untold lotus worlds;
+In each lotus world
+Are untold Chief of Goodness Buddhas,
+Pervading the entire cosmos
+And every atom therein.
+Worlds, becoming, subsisting, and decaying,
+Are measureless, unspeakable in number;
+The point of a single atom is boundless,
+Containing measureless lands therein.
+The differentiations of the ten directions are unutterable,
+The arrays of the oceans of worlds cannot be all told of;
+In each land are buddhas
+With life spans of unspeakable eons.
+Those buddhas' deeds cannot be recounted,
+Their profound teachings are unutterable,
+Their great spiritual powers are ineffable,
+Their unimpeded knowledge is inexpressible.
+They enter into a point,
+The events at that point untold; 
+They achieve the ten powers, unspeakable,
+And awaken to ineffable enlightenment.
+Entering untold realms of pure principle,
+They gain untold treasuries of deep knowledge:
+Various numerical measurements, untold,
+They comprehend, all, as they are;
+Various physical measurements, untold,
+They completely master;
+Various concentrations, untold,
+They can pass eons in, each one.
+In the presence of untold buddhas,
+The purifications they practice are untold;
+They attain unutterable mental freedoms
+And journey in all directions, beyond the power of speech .
+The manifestations of their spiritual powers are untold,
+Their spheres of action are boundless, ineffable;
+They go to untold lands
+And understand untold buddhas.
+Their vigor and courage are unspeakable,
+Their knowledge and comprehension unutterable .
+They do not act on rules, nor do they not act on them,
+Their penetration of realms of objects is infinite.
+For unreckonable vast eons
+They travel constantly through the ten directions, infinitely.
+Their knowledge of enlightening means is infinite,
+Their knowledge of truth is infinite,
+Their knowledge of spiritual powers is infinite,
+Their miracles in each mental instant are infinite.
+They comprehend infinitely each one
+Of the infinite buddhas' teachings;
+They can realize enlightenment at once
+Or can enter realization at various times.
+The buddha-lands on a hairtip are infinite,
+The buddha-lands in an atom are infinite;
+They can go to all these buddha-lands
+And see the infinite buddhas.
+They realize one truth infinitely,
+And enter the infinite line of buddhas
+
+The buddhas' lands are infiniteThey can travel to all and attain enlightenment.
+The lands, beings, and buddhas
+Have infinite distinctions in individuality;
+As such, past, present, and future worlds are boundless:
+Enlightening beings can see them all. 
+
+`;
+const sutra_31=`THEN THE ENLIGHTENING BEING Mind King, in the congregation,
+said to all the enlightening beings, "Offspring of Buddha, one eon
+in this world Endurance, the field of Shakyamuni Buddha, is a day
+and a night in the world Bliss, the field of Amitabha Buddha; one
+eon in the world of Bliss is a day and night in the world Vestment
+Banner, the field of the Buddha Adamant; one eon in the world
+Vestment Banner is a day and night in the world Wheel of Speech
+Which Does Not Roll Back, the field of the Buddha Lotus Blossoms of Sublime Light Blooming; one eon in the world Wheel of
+Speech Which Does Not Roll Back is a day and night in the world
+Free from Defilement, the field of the Buddha Banner of Truth; an
+eon in the world Free from Defilement is a day and night in the
+world Good Lamp, the field of the Buddha Lion; an eon in the
+world Good Lamp is a day and night in the world Subtle Light, the
+field of the Buddha Treasury of Light; an eon in the world Subtle
+Light is a day and night in the world Hard to Surpass, the field
+of the Buddha Blooming Lotus of Light of Truth; an eon in the
+world Hard to Surpass is a day and night in the world Adorning
+Wisdom, the field of the Buddha Light of All Spiritual Powers;
+an eon in the world Adorning Wisdom is a day and night in the
+world Mirror Light, the field of the Buddha Moon Knowledge:
+this succession goes on past a million zillion worlds; an eon in the
+last of these worlds is a day and a night in the world Supreme
+Lotus, the field of the Buddha Supreme in Goodness, which is
+filled by the enlightening being Universally Good and the great
+enlightening beings engaged in the same practice."`;
+const sutra_32=`THEN THE GREAT ENLIGHTENING BEING Mind King said to the enlightening beings, "In the east there is a place called Wizard Mountain where
+enlightening beings have lived since ancient times. At present there is an
+enlightening being named Best of Diamonds there with a group of followers, three hundred enlightening beings, always there expounding the
+Teaching. In the south there is a place called Outstanding Peak, where
+enlightening beings have dwelled since ancient times. Now there is an
+enlightening being named Spiritual Wisdom there with a group of followers, five hundred enlightening beings, always there expounding the
+Teaching. In the west there is a place called Diamond Flame Mountain,
+where enlightening beings have lived since ancient times. Now there
+is an enlightening being named Vigorous Fearless Action there with a
+following of three hundred enlightening beings, always expounding the
+Teaching. In the north there is a place called Mass of Fragrance Mountain, where enlightening beings have lived since ancient times; now there
+is an enlightening being named Musky Elephant there with a following
+of three thousand enlightening beings, always expounding the Teaching.
+In the northeast there is a place called Clear, Cool Mountain, where
+enlightening beings have lived since ancient times; now there is an enlightening being there named Manj ushri, with a following of ten thousand enlightening beings, always expounding the Teaching. In the ocean
+there is a place called Diamond Mountain, where enlightening beings
+have lived since ancient times; now there is an enlightening being named
+Born of Truth there with a following of twelve hundred enlightening
+beings, always expounding the Teaching. In the southeast there is a pbce
+called Monument Mountain, where enlightening beings have lived since
+ancient times; now there is an enlightening being named Celestial Crown
+there with a following of a thousand enlightening beings, always expounding the Teaching. In the southwest there is a place called Mountain of Light, where enlightening beings have lived since ancient times;
+now there is an enlightening being named Best of Sages there with a following of three thousand enlightening beings, always expounding the
+Teaching. In the northwest there is a place called Fragrant Breeze Mountain, where enlightening beings have lived since ancient times; now there
+is an enlightening being named Fragrant Light there with a following of
+five thousand enlightening beings, always expounding the Teaching.
+"In the ocean there is also a dwelling place called Cave of Adornments, where enlightening beings have lived since ancient times. South
+of Vaishali there is a dwelling place called Stable Roots, where enlightening beings have stayed since ancient times. In the city of Mathura
+there is a dwelling place called Cave of Satisfaction, where enlightening
+beings have lived since ancient times. In the city of Kuchana there is a
+dwelling place called Seat of the Law, where enlightening beings have
+lived since ancient times. In the city Pure Other Shore there is a dwelling
+place called Mucilinda, where enlightening beings have lived since ancient times. In the state of Maratha there is a dwelling place called Built
+by the Uninhibited Dragon King, where enlightening beings have lived
+since ancient times. In A fghanistan there is a dwelling place called Producing Compassion, where enlightening beings have lived since ancient
+times. In China there is a dwelling place called Cave of Original Man,
+where enlightening beings have lived since ancient times. In Kashgar
+there is a dwelling place called Oxhead Mountain, where enlightening
+beings have lived since ancient times. In Kashmir there is a dwelling
+place called Process, where enlightening beings have lived since ancient
+times. In the city of Increasing Joy there is a dwelling place called Seeing
+a Hundred Million Treasuries of Light, where enlightening beings have
+lived since ancient times. In the state of Gandhara there is a place called
+Shangrila Cavern, where enlightening beings have lived since ancient
+times. " 
+`;
+const sutra_33=`AT THAT TIME there were in the assembly enlightening beings who were
+thinking, "How are the buddhas' lands inconceivable? How are the buddhas' original vows inconceivable? How are the families of buddhas inconceivable? How are the manifestations of buddhas inconceivable?
+How are the bodies of buddhas inconceivable? How are the voices of
+buddhas inconceivable? How are the knowledge and wisdom of buddhas
+inconceivable? How are the freedoms of buddhas inconceivable? How is
+the nonobstruction of buddhas inconceivable? How is the liberation of
+buddhas inconceivable?"
+The Buddha, knowing what the enlightening beings were thinking,
+used the support of spiritual power, the embrace of knowledge, the
+radiance of light, and the fulfillment of occult force to cause the enlightening being B lue Lotus Blossom Trove to abide in the nonhesitation
+of buddhas, enter the reality realm of buddhas, acquire the mystic power
+and psychic freedom of buddhas, attain the unimpeded, immensely
+broad insight of buddhas, know the succession of all lineages of buddhas,
+and abide by the untold means of buddhas' teachings. Thereupon that
+enlightening being was able to commune with the unobstructed realm of
+reality, thus was able calmly to sustain profound practice free from impediments, thus was able to fulfill the great vow of universal good, thus
+was able to know and perceive all aspects of buddhahood. With great
+compassion he observed sentient beings, wishing to cause them to be
+pure and diligent in self-cultivation, to accept and apply all the principles
+of enlightening beings. In a single mental instant he produced enlightened
+knowledge and understood all the inexhaustible means of knowledge,
+his mnemonic command and intellectual powers complete.
+By the power of Buddha he said to the enlightening being Lotus Blossom Calyx, "The buddhas, World Honored Ones, have innumerable
+abodes-the abode of eternity, the abode of great compassion, the abode
+of various bodies performing buddha-work, the abode of cquanimously
+turning the wheel of the pure Teaching, the abode of explaining innumerable principles by means of analytic knowledge, the abode of the
+inconceivable qualities of all buddhas, the abode of the sound of purity
+pervading infinite lands, the abode of the inexpressibly profound realm
+of reality, the abode of manifesting all supreme spiritual powers-and
+are able to reveal the ultimate truth that has no barrier.
+"The buddhas have ten things that pervade the infinite cosmos. What
+are these ten? All buddhas have unbounded bodies, with pure forms,
+entering into all states of being without defilement or attachment. All
+buddhas have unbounded, unobstructed eyes that can clearly see all
+things. All buddhas have unbounded, unobstructed ears that can understand all sounds and utterances. All buddhas have unbounded, unobstructed noses that can reach the other shore of freedom of the buddhas.
+All buddhas have universal tongues that utter sublime sounds pervading
+the cosmos. All buddhas have unbounded bodies that appear to sentient
+beings in accord with their minds. All buddhas have unbounded minds
+that dwell on the unobstructed impartial body of reality. All buddhas
+have unbounded, unobstructed liberation, manifesting inexhaustible
+great spiritual powers. All buddhas have unbounded pure worlds, manifesting buddha-lands according to the pleasures of sentient beings,
+replete with infinite adornments, yet without giving rise to any obsession or attachment to them. All buddhas have unbounded practical undertakings of enlightening beings, having complete knowledge, spiritual
+freedom, and ability to master all elements of buddhahood. These are the
+ten phenomena of buddhahood that pervade the cosmos without bound,
+which are in the perfectly enlightened ones.
+"The buddhas have ten kinds of instantly creative knowledge. What
+are these ten? All buddhas can, in a single instant, appear to descend from
+heaven in infinite worlds. All buddhas can, in a single instant, manifest
+birth as enlightening beings in infinite worlds. All buddhas can, in a
+single instant, manifest renunciation of the mundane and study of the
+way to liberation in infinite worlds. All buddhas can, in a single instant,
+manifest attainment of true enlightenment under enlightenment trees in
+infinite worlds. All buddhas can, in a single instant, manifest turning the
+wheel of the Teaching in infinite worlds. All buddhas can, in a single
+instant, manifest education of sentient beings and service of the enlightened in infinite worlds. All buddhas can, in a single instant, manifest
+untold variety of buddha-bodies in infinite worlds. All buddhas can, in a
+single instant, manifest all kinds of adornments in infinite worlds, innumerable adornments, the freedoms of the enlightened, and the treasury
+of omniscience. All buddhas can, in a single instant, manifest countless
+pure beings in infinite worlds. All buddhas can, in a single instant, manifest the buddhas of past, present, and future in infinite worlds, with
+various faculties and characters, various energies, and various practical
+understandings, attaining true enlightenment in the past, present, and
+future.
+"The buddhas have ten kinds of proper timing. What are these ten? All buddhas develop and mature those with affinity at the appropriate
+time. All buddhas give enlightening beings instructions for the future
+at the proper time. All buddhas show spiritual powers in accord with
+sentient beings' minds at the proper time. All buddhas show buddhabodies in accord with sentient beings' understandings at the proper time.
+All buddhas persist in great relinquishment at the proper time. All buddhas go into inhabited places at the appropriate time. All buddhas receive
+the pure and faithful at the proper time. All buddhas tame evil sentient
+beings at the appropriate time. All buddhas reveal the inconceivable
+occult powers of the enlightened at the proper time.
+"The buddhas have ten peerless inconceivable realms. What are they?
+All buddhas, once sitting, pervade infinite worlds in the ten directions.
+All buddhas, uttering one logical statement, can express all Buddha
+teachings. All buddhas, emanating one light, can illumine all worlds. All
+buddhas, in one body, can manifest all bodies. All buddhas can show all
+worlds in one place. All buddhas can ascertain all things within one
+knowledge without any impediment. All buddhas can travel to all
+worlds in the ten directions in a single moment of thought. All buddhas
+can manifest the infinite spiritual powers of the enlightened in a single
+instant. All buddhas can focus on all the buddhas and sentient beings of
+past, present, and future in a single instant without confusion of mind.
+All buddhas are in one instant essentially the same as all buddhas of past,
+future, and present.
+"The buddhas can produce ten kinds of knowledge. What are they?
+All buddhas know all things have no aim, yet they can produce knowledge of dedicated undertaking. All buddhas know all things h ave no
+body, yet they can produce knowledge of pure bodies. All buddhas know
+all things are fundamentally nondual, yet they can produce knowledge
+capable of awareness and understanding. All buddhas know all things
+have no self and no being, yet they can produce knowledge to civilize
+beings. All buddhas know all things fundamentally have no marks, yet
+they can produce knowledge of all marks. All buddhas know all worlds
+have no becoming or decay, yet they can produce knowledge of becoming and decay. All buddhas know all things have no creation, yet they
+can produce knowledge of the effects of action. All buddhas know all
+things have no verbal explanation, yet they can produce knowledge of
+verbal explanation. All buddhas know all things have no defilement or
+purity, yet they can produce knowledge of defilement and purity. All
+buddhas know all things have no birth or extinction, yet they can p roduce knowledge of birth and extinction.
+"The buddhas have ten kinds of ways of entry into universality. What
+are they? All buddhas have i mmaculate bodies that penetrate past, present, and future . All buddhas are endowed with three kinds of masteryof diagnosis, prescription, and occult powers-by which they edify
+beings everywhere. A ll buddhas are endowed with mnemonic powers
+able to receive and hold all B uddha teachings. All buddhas are endowed with four special know ledges-of principles, meanings, expressions, and
+elocution-and operate all cycles of pure teaching everywhere. All buddhas have impartial great compassion and never abandon all sentient
+beings. All buddhas have profound meditation concentration and always
+observe all sentient beings everywhere. All buddhas have roots of goodness beneficial to others, and civilize sentient beings unceasingly. All
+buddhas have unobstructed minds, able to abide calmly in all universes.
+All buddhas have unimpeded spiritual powers and are able to manifest
+the buddhas of past, present, and future in one instant. All buddhas have
+unobstructed intellect, in a single instant defining sets of ages of past,
+present, and future.
+"Buddhas have ten great qualities that are hard to believe in. What are
+they? All buddhas can destroy all demons. All buddhas can overcome all
+false teachers. All buddhas can tame all sentient beings and make them all
+happy. All buddhas can go to all worlds and guide the myriad types of
+beings there. All buddhas can knowingly experience the most profound
+realm of reality. All buddhas can, by means of a non dual body, manifest
+various bodies, filling the world. All buddhas can, with pure voices, produce the special know ledges of principle, meaning, expression, and elocution, and expound truths endlessly, to the unfailing benefit of those
+who accept. All buddhas can manifest buddhas as numerous as atoms in
+all worlds in a single pore, without end. All buddhas can manifest in a
+single atom as many lands as atoms in all worlds, replete with all kinds of
+fine adornments, and continuously turn the wheel of the sublime Teaching therein for the edification of sentient beings-yet the atom is not
+enlarged and the worlds are not small; they always abide in the realm of
+reality by realizational knowledge. All buddhas arrive at the pure realm
+of reality, shatter the darkness of ignorance of the world by means of the
+light of knowledge, cause all to gain understanding of the Buddha teachings, follow the enlightened, and dwell in the ten powers.
+"The buddhas have ten kinds of great virtue that are impeccably pure.
+What are they? All buddhas are endowed with great spiritual power,
+impeccably pure. All buddhas are born in the families of the enlightened
+ones of past, present, and future, of people harmonious and good, impeccably pure. All buddhas' minds are free from obsession forever,
+impeccably pure. All buddhas are free from attachment to anything in
+the past, present, or future, impeccably pure. All buddhas know all kinds
+of natures are one nature, coming from nowhere, i mpeccably pure. All
+buddhas' virtues, past, present, and future, are inexhaustible, equal to the
+cosmos, impeccably pure. All buddhas' boundless physical forms pervade all lands of the ten directions, teaching all sentient beings at the
+appropriate times, with i mpeccable purity. All buddhas acquire the fourfold fearlessness, are freed from all fears, and roar the great lion's roar
+among the masses, clearly discerning all things, impeccably pure. All the
+buddhas enter final nirvana in untold ages, and when sentient beings hear
+their names they gain immeasurable benefit, same as if the buddhas were presently existing, impeccably pure. All buddhas, though in untold distant worlds, can be seen by sentient beings who correctly meditate on
+them single-mindedly, impeccably pure.
+"The buddhas have ten kinds of ultimate purity. What are they? All
+buddhas' past great vows are ultimately pure. The religious conduct
+maintained by all buddhas is ultimately pure. All buddhas' separation
+from the confusions of worldly beings is ultimately pure. All buddhas'
+adorned lands are ultimately pure. All buddhas' followings are ultimately pure. All buddhas' families are ultimately pure. All buddhas'
+physical characteristics and refinements are ultimately pure. The nondefilement of the reality-body of all buddhas is ultimately pure. All
+buddhas' omniscient knowledge, without obstruction, is ultimately
+pure . All buddhas' liberation, freedom, accomplishment of their tasks,
+and arrival at completion are ultimately pure.
+"Buddhas have ten kinds of buddha-work in all worlds in all times.
+What are they? If there are sentient beings who think of them singlemindedly, the buddhas appear before them. If there are sentient beings
+whose minds arc unruly, they explain the Teaching to them. If there are
+sentient beings able to develop pure faith , they will surely cause them to
+acquire immeasurable roots of goodness. If there are sentient beings able
+to enter the ranks of truth, they will appear to testify to it, so that they
+know all. They teach and influence sentient beings tirelessly. They travel
+to all buddha-lands, coming and going without impediment. With great
+compassion they do not abandon sentient beings. They manifest transfigured emanation bodies, continuing forever. Their exercise of spiritual
+powers is ceaseless. They abide in the cosmos of reality, able to observe
+everywhere.
+"Buddhas have ten kinds of virtues of inexhaustible oceans of knowledge. What are they? The virtue of the inexhaustible ocean of knowledge of the boundless body of reality of all buddhas; the virtue of the
+inexhaustible ocean of knowledge of the infinite buddha-works of all
+buddhas; the virtue of the inexhaustible ocean of knowledge of the
+sphere of the enlightened eye of all buddhas; the virtue of the inexhaustible ocean of knowledge of the infinite, inconceivable roots of goodness
+of all buddhas; the virtue of the inexhaustible ocean of knowledge of all
+buddhas showering all liberating teachings everywhere; the virtue of the
+inexhaustible ocean of knowledge of all buddhas extolling the qualities
+of enlightenment; the virtue of the inexhaustible ocean of knowledge
+of the various undertakings and practices carried out by all buddhas in
+the past; the virtue of the inexhaustible ocean of knowledge of the
+eternal performance of buddha-work by all buddhas; the virtue of the
+inexhaustible ocean of knowledge of all buddhas comprehending the
+mental patterns of all sentient beings; the virtue of the inexhaustible
+ocean of knowledge of the unsurpassable adornments of virtue and
+knowledge of all buddhas.
+"Buddhas have ten kinds of eternal law. What are they? All buddhas always carry out all the transcendent ways. All buddhas are always free
+from confusion in regard to all things. All buddhas always have universal compassion. All buddhas always have the ten powers. All buddhas
+always turn the wheel of the Teaching. All buddhas always demonstrate
+the accomplishment of true awakening for the benefit of sentient beings.
+All buddhas always gladly lead all sentient beings. All buddhas always
+correctly remember the truth of nonduality. All buddhas, after having
+caught sentient beings, always show entry into nirvana without remainder, because the realm of the buddhas has no bounds.
+"Buddhas have ten kinds of exposition of the innumerable facets of
+the Teaching of the buddhas. What are they? All buddhas expound innumerable facets of the realms of sentient beings. All buddhas expound
+innumerable facets of the activities of sentient beings. All buddhas
+expound innumerable facets of effects of acts of sentient beings. All buddhas expound innumerable facets of teaching sentient beings. All buddhas
+expound innumerable facets of purifying sentient beings. All buddhas
+expound innumerable facets of vows of enlightening beings. All buddhas expound innumerable facets of practices of enlightening beings.
+All buddhas expound innumerable facets of the ages of becoming and
+decay of all worlds. All buddhas expound innumerable facets of enlightening beings devotedly purifying buddha-lands. All buddhas
+expound innumerable facets of the successive emergence in each age
+of the past, present, and future buddhas in innumerable worlds. All
+buddhas expound the ways of knowledge of all buddhas.
+"Buddhas have ten kinds of performance of buddha-work for sentient
+beings. What are they? All buddhas manifest physical forms to do
+buddha-work for sentient beings. All buddhas make subtle utterances
+to do buddha-work for sentient beings. All buddhas accept things to
+do buddha-work for sentient beings. All buddhas accept nothing to do
+buddha-work for sentient beings. All buddhas do buddha-work for sentient beings by means of earth, water, fire, and air. All buddhas magically
+show all realms of objects to da buddha-work for sentient beings. All
+buddhas do buddha-work for sentient beings by various names and
+epithets. All buddhas do buddha-work for sentient beings by means of
+the realms of objects of buddha-lands. All buddhas adorn and purify
+buddha-lands to do buddha-work for sentient beings. All buddhas do
+buddha-work for sentient beings silently, without words.
+"Buddhas have ten kinds of supreme qualities. What are they? All
+buddhas' great vows are firm and steadfast and cannot be broken; they
+do what they say without fail, and there is no duplicity in their words.
+All buddhas tirelessly practice the deeds of enlightening beings throughout all future ages, in order to perfect and fulfill all virtues. All buddhas will go to untold worlds in order to guide a single sentient being,
+and do the same for all sentient beings, endlessly. All buddhas universally
+regard both faithful and scornful beings with great compassion, i mpartially, without any discrimination. All buddhas, from their initial aspiration to their attainment ofbuddhahood, never lose the determination for
+perfect enlightenment. All buddhas accumulate immeasurable virtues
+and dedicate them all to omniscience, with never any attachment to the
+world or its creatures. All buddhas learn physical, verbal, and mental
+practices from buddhas, only carrying out buddha-practice, not the
+practice of the vehicles of individual liberation, all to be dedicated to
+omniscience, to attain unexcelled true enlightenment. All buddhas
+emanate great light, that light impartially illumining all places, and illuminating all the buddhas' teachings, enabling enlightening beings' minds
+to become purified and to fulfill universal knowledge. All buddhas give
+up worldly pleasures, without craving or attach ment, and wish that all
+worldlings would be free from suffering and attain bliss, and have no
+false ideas. All buddhas, out of compassion for sentient beings, undergo
+all kinds of hardship, preserving the seed of buddhahood, course in the
+sphere of buddhahood, leave birth and death, and arrive at the stage of
+the ten powers.
+"Buddhas remain unhindered in ten ways. What are they? All buddhas can travel to all worlds, remaining unhindered. All buddhas can
+walk, stand, sit, and recline in all worlds, remaining unhindered. All
+buddhas can abide in all worlds, remaining unhindered. All buddhas
+can expound the truth in all worlds, remaining unhindered. All buddhas can abide in the heaven of contentment in all worlds, remaining
+unhindered. All buddhas are able to enter all the pasts, presents, and
+futures of the cosmos, remaining unhindered. All buddhas are able to
+sit at all enlightenment sites in the cosmos, remaining unhindered. All
+buddhas are able to observe the mental patterns of all sentient beings
+in each moment of thought, and use their powers of diagnosis, prescription, and occult effects to teach and tune them, remaining unhindered.
+All buddhas are able to sojourn at the places of innumerable buddhas
+with one body, and in all places, benefiting living beings, remaining
+unhindered. All buddhas are able to expound true teachings spoken by
+infinite buddhas, remaining unhindered.
+"Buddhas have ten kinds of supreme adornment. What are they? A ll
+buddh as have all the marks and refinements of greatness-this is the
+first, buddhas' supreme physical adornment. All buddhas have sixty
+kinds of vocal sound, each with five hundred elements, each element
+with countless hundreds of thousands of pure, clear tones adorning it,
+and they are able, in the midst of all groups in the cosmos, without any
+qualms or fears, to roar the great lion's roar, expounding the meaning
+of the extremely profound teaching of the enlightened, so that all who
+hear are delighted and are edified according to their faculties and inclinations-this is the second, buddhas' supreme adornment of speech . All
+buddhas are endowed with the ten powers, the great concentrations, and
+the eighteen unique qualities, adorning their mental activity; in their
+sphere of operation, they comprehend and master all enlightening principles without obstruction, and all attain the adornments of the all inclusive cosmos of reality as their adornment; they are able to clearly
+perceive in a single instant the mental patterns, past, present, and future,
+each different, of the beings of the cosmos-this is the third, the supreme
+mental adorn ment of buddhas. All buddhas are able to emanate countless
+beams of light, each beam of light accompanied by untold webs of light,
+illumining all buddha-lands, destroying the darkness in all worlds, revealing the emergence of innumerable buddhas, their bodies equal, all
+pure, their buddha-works all effective, able to cause sentient beings to
+reach nonregression-this is the fourth, buddhas' supreme adornment
+of light. When the buddhas smile, zillions of rays of light radiate from
+their faces, each light having innumerable, inconceivably many hues
+of all kinds, lighting up all the worlds in the ten directions; among the
+masses they utter truthful words, giving innumerable, countless, inconceivably many sentient beings directions for supreme complete perfect
+enlightenment-this is the fifth, buddhas' supreme adornment of a smile,
+free from the delusion and confusion of the world. All buddhas have the
+reality-body, pure, unobstructed, with ultimate comprehension of all
+truths, abiding in the cosmos of reality, without bounds, though being
+in the world, not getting mixed up in the world, understanding the true
+nature of the world, acting on transmundane principles, beyond the
+power of speech, transcending the realms of matter and sense-this is
+the sixth, the buddhas' supreme adornment of the reality-body. All buddhas have infinite constant subtle lights with untold colors of all kinds
+adorning them, forming a treasury of light producing infinite orbs of
+light illuminating the ten directions without obstruction-this is the
+seventh , buddhas' supreme adornment of constant subtle light. All
+buddhas have boundless sublime forms, delightful sublime forms, pure
+sublime forms, sublime forms that appear in accordance with the mind,
+forms that outshine all in the realms of desire, form, and formlessness,
+unexcelled sublime forms arriving at the other shore-this is the eighth,
+buddhas' supreme adornment of sublime forms. All buddhas are born
+in the family of the buddhas of past, present, and future, accumulate
+myriad treasures of virtue, ultimately pure, without fault, i mpeccable,
+being adorned by the most pure, refined acts among all things, fully
+accomplishing total knowledge and character beyond reproach-this
+is the ninth, buddhas' supreme adornment of human character. All buddhas array themselves with the power of great compassion, ultimately
+pure, without any cravings, their physical actions forever at rest, their
+minds well liberated, so that none tire of seeing them, saving all worldly
+beings, the foremost fields of blessing, the most worthy recipients, mercifully helping all sentient beings to develop stores of unlimited virtue
+and knowledge-this is the tenth, buddhas' supreme adornment of the
+qualities of great kindness and compassion.
+"Buddhas have ten kinds of mastery. What are they? All buddhas
+have command of all the teachings, clearly comprehend all kinds of
+bodies of expression and nuance, and explain all things with unhindered intellect-this is the first mastery of buddhas. All buddhas teach sentient
+beings without ever missing the appropriate timing, endlessly explaining
+the right teaching to them in accord with their states of mind, causing
+them all to become receptive to truth-this is the second mastery of
+buddhas. All buddhas are able to cause all worlds throughout space,
+arrayed in countless different ways, to quake in six ways, causing those
+worlds to rise or fall, to expand or contract, to combine or dissolve,
+without ever harming a single living being, the creatures in those worlds
+being unaware, not cognizant of this happening, not even suspecting itthis is the third mastery of buddhas. All buddhas are able to beautify and
+purify all worlds by means of spiritual powers, in the space of an instant
+manifesting the adornments of all worlds, these adornments beyond
+recounting even in countless eons, all free from defilement, incomparably pure; all the adornments and purities of all buddha-fields they cause
+to equally enter one field-this is the fourth mastery of buddhas. All
+buddhas, seeing a single sentient being capable of being taught, extend
+their lives indefinitely for that being, sitting without fatigue of body or
+mind, concentrating single-mindedly on that being, without ever becoming heedless or forgetful, guiding that being by appropriate means,
+with appropriate timing, and also do the same for all living beings as
+they do for one-this is the fifth mastery of buddhas. All buddhas can
+go to all worlds, to the realms of action of all enlightened ones, without
+ever leaving behind any phenomenal realms, the ten directions each different, there being in each direction incalculable oceans of worlds, there
+being in each ocean of worlds incalculable world systems; by spiritual
+powers buddhas reach all of them in a single instant, and turn the wheel
+of the unobstructed pure Teaching-this is the sixth mastery of buddhas. All buddhas, in order to civilize all sentient beings, attain unexcelled
+complete perfect enlightenment in each mental instant, yet in regard to
+all elements of buddhahood, they have not already cognized them, do
+not cognize them, and are not yet to cognize them, and also do not dwell
+in the stage of learning, yet they know them all, see them all, mastering
+them without hindrance; with immeasurable knowledge and freedom
+they teach and tame all sentient beings-this is buddhas' seventh mastery. All buddhas can do the buddha-work of the ears with their eyes,
+can do the buddha-work of the nose with the ears, can do the buddhawork of the tongue with the nose, can do the buddha-work of the body
+with the tongue, can do the buddha-work of the mind with the body,
+and with the mind can sojourn in all kinds of realms, mundane and transcendental, in all worlds, able to perform immeasurable great buddhaworks in each realm-this is buddhas' eighth mastery. All buddhas can
+contain all sentient beings in each pore of their bodies, each sentient
+being's body equal to untold buddha-lands, yet there is no crowding;
+each sentient being can pass countless worlds with every step and go on
+for countless eons, seeing all the buddhas emerging in the world and
+edifying beings, turning the wheel of the pure Teaching, showing untold phenomena of past, future, and present, the embodiments of sentient
+beings in various realms of existence throughout space, their comings
+and goings and deportment, their needs all fully supplied, yet without
+any obstruction therein-this is buddhas' ninth mastery. All buddhas, in
+the space of an instant, manifest as many buddhas as atoms in all worlds,
+each buddha attaining enlightenment in all universes, sitting on a lotus
+lion throne in a world of vast arrays of exquisite lotus blossoms, showing
+the miraculous powers of buddhas, and as in the world of vast arrays of
+exquisite lotus blossoms, so in untold worlds in all universes, variously
+arrayed, with various realms of objects, various shapes and forms, various
+manifestations, various numbers of ages, and as in one instant so in each
+instant of immeasurable, boundless, incalculable eons, all appearing in
+one instant, with infinite abodes in one instant, yet without using the
+slightest power of expedient means-this is buddhas' tenth mastery.
+"Buddhas have ten kinds of measureless, inconceivable ways of fulfillment of buddhahood. What are they? The pure features of all buddhas
+each contain a hundred blessings. All buddhas accomplish all Buddha
+teachings. All buddhas perfect all roots of goodness. All buddhas perfect
+all virtuous qualities. All buddhas can teach all sentient beings. All buddhas can be leaders of sentient beings. All buddhas perfect pure buddhalands. All buddhas achieve omniscient knowledge. All buddhas develop
+the physical marks and refinements of greatness; all who see them benefit, this effort is not in vain. All buddhas are imbued with the impartial
+reality of enlightened ones. All buddhas, after having done their buddhawork, manifest entry into nirvana.
+"Buddhas have ten kinds of skill in means. What are they? All buddhas know all things are beyond idle philosophizing, yet can demonstrate the roots of goodness of all buddhas. All buddhas know all things
+have no vision and are unknown to each other, have no bondage or
+release, no reception or assembly, and no consummation, and independently ultimately reach the other shore; meanwhile they know the true
+reality of all things is unvarying, not different, and they attain freedom,
+selflessly, without grasping, not destroying ultimate truth; having already
+reached the state of great freedom, they always observe all realms of
+reality. All buddhas are forever aloof from all appearances; their minds
+do not dwell on anything, yet they know all appearances without confusion or error; while they know all appearances have no intrinsic nature
+of their own, yet they are able to perceive them all in accord with their
+essence and also manifest the infinite appearances of the various adornments of innumerable physical bodies and pure buddha-lands, gather
+lamps of knowledge and wisdom, and destroy the delusions of sentient
+beings. All buddhas abide in the realm of reality; they do not dwell in the
+past, future, or present, because in Thusness as such there are no marks of
+the three time frames of past, future, or present; yet they can speak about
+the emergence in the world of the innumerable buddhas of past, future,
+and present, causing those who hear to see the realms of all the buddhas. All buddhas, in their physical, verbal, and mental actions, do not create
+anything, have no coming or going, and no abiding; beyond all categories, they reach the other shore of all things, yet are treasuries of all
+truths, imbued with immeasurable knowledge, comprehending all kinds
+of mundane and transmundane things, their knowledge and wisdom
+unhindered, manifesting immeasurable autonomous spiritual powers,
+edifying the sentient beings of all realms. All buddhas know that all
+things cannot be seen, are neither one nor different, are neither finite nor
+infinite, are not coming or going, all being without inherent nature of
+their own, yet they do not contravene the phenomena of the world; the
+all-knowers see all things in the midst of nonexistence of own-being
+or inherent nature; being independent of things, they extensively explain
+things while always abiding steadily in the real nature of True Thusness.
+All buddhas know all times in one time; endowed with pure virtues,
+they enter the absolute state, yet without any attachment to it; in regard
+to time frames such as day, month, year, eon, becoming, and decomposition, they neither remain within them nor abandon them, yet they are
+able to show day or night, beginning, middle, and end, one day, one
+week, a fortnight, a month, a year, a century, an eon, many eons, inconceivable eons, inexpressible eons, as far as all the eons throughout the
+future, always turning the wheel of the sublime Teaching for the sake of
+sentient beings, without interruption, without retreating, without pause.
+All buddhas always remain in the realm of reality, develop the infinite
+fearlessness of the buddhas, as well as their countless, measureless, inexhaustible, ceaseless, boundless, unique, endless, and true intellectual
+powers, appropriately demonstrating explanation of all expressions and
+explanation of all principles, delivering untold millions of discourses
+using various doctrines adapted to faculties and natures, inclinations and
+understandings, all ultimately good in the beginning, the middle, and
+the end. All buddhas, abiding in the pure realm of reality, know all
+things originally h ave no names, there being no name of past, present,
+or future, no name of sentient beings, no name of inanimate beings, no
+name of country or land, no name of noncountry, no name of law or
+nonlaw, no name of virtue or nonvirtue, no name of enlightening
+being, no name of Buddha, no names of sets, no names of nonsets, no
+name of birth, no name of extinction, no name of existence, no name of
+nonexistence, no name of unity, no name of variety, because the essential
+nature of things is inexpressible-all things are without location or position, cannot be explained as assembling or dispersing, as one or as many,
+no verbalization can reach them, all words fail; though the buddhas
+speak in various ways according to conventional usage, they do not cling
+to anything as mental objects, do not make anything up, and avoid all
+false conceptual attachments: in this way they ultimately reach the other
+shore. All buddhas know the fundamental nature of all things is null:
+because it has no birth, it is not form; because it has no manifestation it is
+not sensation; because it has no names or categories it is not conception; because it has no action it is not conditioning; because it has no grasping
+it is not consciousness; because it has no access it is not sense mediums;
+because it apprehends nothing it is not sense elements-yet it does not
+destroy things, because the original nature has no origination, is like
+space. All phenomena are empty and quiescent; there is no action or
+effect, no cultivation, no accomplishment, no production. They are not
+in sets, yet not out of order; not existent or nonexistent; not born or
+annihilated, not defiled or pure; not entering or existing; not abiding,
+not transitory; not edifying, not unedifying; not beings, not not beings;
+not living, not lifeless; not caused, not causeless. While knowing this,
+the buddhas know all sentient beings, whether they are rightly stabilized,
+wrongly stabilized, or not stabilized, and teach them the subtle truth to
+enable them to reach the other shore, attain the ten powers and four fearlessnesses, be able to roar the lion's roar, be imbued with universal
+knowledge, and abide in the realm of buddhahood. These are the ten
+kinds of skill in means achieved by buddhas.
+"Buddhas have ten kinds of great buddha-work, immeasurable,
+boundless, inconceivable, unknowable to all celestial and human worldlings, unknowable even to the past, future, and present Buddhist disciples
+and self-enlightened ones, except by the spiritual power of the buddhas.
+What are they? All buddhas appear to be born in the heavens of contentment in all worlds throughout the cosmos, carry out enlightening practices, and perform great buddha-works in the spheres of operation of
+infinite forms, infinite powers, infinite lights, infinite sounds, infinite
+verbal expressions, infinite concentrations, and infinite knowledge,
+taking in all humans, celestials, demons, monks, priests, titans, and so on,
+their great kindness uninhibited, their great compassion ultimate, impartially aiding and benefiting all living beings, enabling them to be born in
+heaven or in the human realm, or purifying their senses, or tuning their
+minds, sometimes explaining three different vehicles of salvation for
+them, sometimes explaining the complete, full unitary vehicle for them,
+saving and liberating all, enabling them to get out of birth and deaththis is the first great buddha-work.
+"All buddhas descend spiritually from the heaven of contentment into
+the mother's womb; by means of ultimate concentration they observe
+the phenomenon of taking on life as like an illusion, like a phantom, like
+a reflection, like space, like a mirage, and they take on life however they
+wish, without bound, without hindrance. Entering the state of noncontention, they develop knowledge without attachment; free from desire,
+clear and pure, they develop a vast treasury of wondrous adornments,
+take on their final embodiment, live in a great jewel-adorned mansion
+and perform buddha-work. They may do buddha-work by spiritual
+powers, or by right recollection, or by showing miracles, or by manifesting the sun of knowledge, or by revealing the enormous spheres of
+buddhahood, or by showing the immeasurable lights of the buddhas, or
+by entering countless great concentrations, or by manifesting emergence from concentration. The buddhas, at that time, in the mother's womb,
+wishing to benefit all worldlings, show all kinds of appearances to do
+buddha-work . They may appear to be born, or appear as children, or
+appear as princes, or appear as leaving home, or they may show the
+appearance of atttaining true enlightenment, or show the appearance of
+turning the wheel of the Teaching, or show the appearance of entering
+final extinction. In this way all of them, by various means, perform
+buddha-work in all regions, all networks, all circles, all systems, in all
+worlds. This is the second great buddha-work.
+"All good works of all buddhas are already pure, and their knowledge
+of all life is clear and immaculate: so by birth they lead and guide the
+deluded, causing them to open up in understanding and practice all that
+is good . For the sake of sentient beings they appear to be born in a royal
+palace. All buddhas have already abandoned all materialistic desires for
+palaces and pleasure; they have no craving or obsession, and always
+reflect upon the emptiness and essencelessness of all existents, that all
+comforts and delights are not truly real. Keeping the pure precepts of
+buddhas, ultimately fulfilling them, observing the palace ladies and
+attendants, they develop great compassion; observing that all sentient
+beings are unreal, they develop great kindness; observing that there is
+nothing enjoyable in the world, they develop great joy; their minds
+gaining freedom in the midst of all things, they develop great relinquishment. Imbued with the qualities of buddhahood, they manifest birth in
+the phenomenal realm, their physical features perfect, their associates
+pure, yet they have no attachment to anything. With voices adapting to
+types, they explain the truth to the masses, causing them to become disillusioned with worldly things; they point out to them the results of
+what they are doing. Also they use expedient means to teach in accord
+with needs, causing the immature to develop maturity, causing the
+mature to attain liberation, doing buddha-work for them to cause them
+not to regress. Also, by virtue of a heart of universal love and compassion they continually explain all kinds of principles to sentient beings and
+also manifest the powers of diagnosis, prescription, and occult influence
+for them, to enable them to awaken and attain purity of mind. Though
+the buddhas be in the inner palace, seen by all the people, yet they are
+performing buddha-work in all worlds. By means of great knowledge
+and great energy they manifest the various spiritual powers of buddhas,
+unhindered, inexhaustible. They always continue three kinds of skillfull,
+expedient action-that is, their physical activity is ultimately pure, their
+verbal activity is always carried out in accord with knowledge, and their
+mental activity is exceedingly profound and has no blockage or inhibition; by these means they benefit living beings. This is the third great
+buddha-work.
+"All buddhas show analytic examination and disenchantment while
+living in a palace of all kinds of adornments, thereupon giving it up and
+leaving home, wishing to let sentient beings realize that things of the world are all illusions, impermanent, and perishable, and become deeply
+disillusioned, avoid creating attachments, forever cut off the affliction of
+worldly craving, cultivate purifying practices, and benefit living beings.
+When the buddhas leave home, they give up conventional manners,
+abide in noncontention, and fulfill the immeasurable virtues of their
+fundamental vow. By the light of great knowledge they destroy the
+darkness of delusion of the world and become unexcelled fields of blessings for all beings. They always extol the virtues of buddhas for the
+benefit of sentient beings, causing them to plant roots of goodness with
+the buddhas. They see truth with the eye of wisdom. They also extol
+renunciation for the benefit of sentient beings, its purity and blamelessness. They are eternally emancipated and are forever lofty paragons of
+wisdom for the world. This is the fourth great buddha-work.
+"All buddhas have o mniscience and already know and see infinite
+realities. Attaining perfect true enlightenment under the tree of enlightenment, vanquishing all demons, their majesty supreme, their bodies fill
+all worlds. Their deeds of spiritual power are boundless and inexhaustible. They attain mastery of all meanings in the sphere of omniscience.
+They have cultivated virtues to consum mation. Their seats of enlightenment are fully adorned and pervade all worlds in the ten directions; the
+buddhas sit on them and turn the wheel of the sublime Teaching, explaining all the undertakings of enlightening beings, revealing the infinite
+realms of the buddhas, causing the enlightening beings to awaken to and
+enter into them. They carry out all kinds of pure practices and are able to
+direct and guide all living beings, cause them to plant roots of goodness,
+be born in the ground of equality of the enlightened, continue in the
+boundless good practices of enlightening beings, and develop all the
+most excellent qualities. The buddhas know perfectly all worlds, all
+beings, all buddha-lands, all phenomena, all enlightening beings, all
+teachings, all pasts, presents, and futures, all disciplines, all mystic transformations, and the inclinations of all sentient beings' minds, and based
+on this knowledge perform buddha-work. This is the fifth great buddhawork.
+" All buddhas turn the irreversible wheel of the Teaching, to cause the
+enlightening beings not to backslide; they turn the i mmeasurable wheel
+of the Teaching, to cause all worldlings to know; they turn the wheel of
+Teaching, awakening all, because they can fearlessly roar the lion's roar;
+they turn the wheel of Teaching, which is a treasury of knowledge of all
+truths, to open the door of the treasury of truth and remove the obstacle
+of obscurity; they turn the unobstructed wheel of the Teaching, being
+equal to space; they turn the wheel of Teaching of nonattachment,
+because they see that all things are neither existent nor nonexistent; they
+turn the world-illuminating wheel of Teaching, to cause all sentient
+beings to purify their vision of reality; they turn the wheel of Teaching
+revealing all knowledge, pervading all things in all times; they turn the
+wheel of Teaching, which is the same one of all buddhas, because all Buddha teachings are not mutually opposed or contradictory. All buddhas, by means of measureless, countless hundreds of thousands of millions of billions of such wheels of Teaching, perform buddha-work
+inconceivably according to the differences in mental patterns of sentient
+beings. This is the sixth great buddha-work.
+"All buddhas enter into all capital cities and perform buddha-work
+for the beings. That is, they enter human capitals, celestial capitals, capitals of water spirits, monsters, cherubim, titans, birds, hobgoblins, serpents, goblins, demons, and so on. When they enter the gates of the city,
+the earth trembles, light shines everywhere, the blind gain vision, the
+deaf are able to hear, the insane regain their sanity, the naked are clothed,
+the troubled and suffering all gain peace and happiness; all musical instruments spontaneously play, all adornments, used or not, emit marvelous sounds that delight all hearers. The buddhas' physical forms are
+pure and clean, fully endowed with the marks and refinements of greatness, so that none ever tire of seeing them. They are able to do buddhawork for the benefit of sentient beings-whether looking, examining,
+moving, stretching, walking or standing still, sitting or reclining, silent
+or speaking, whether manifesting occult powers, or explaining principles,
+or giving instructions-in all these they are performing buddha-work
+for the benefit of sentient beings. All buddhas, in all the countless worlds,
+in the midst of the oceans of mental inclinations of all kinds of sentient
+beings, urge them to remembrance the buddhas, always diligently considering and planting roots of goodness, cultivating the practices of enlightening beings, lauding the subtlety and supremacy of the buddhas'
+appearance, which is hard for any living being to get to meet; if beings
+see buddhas and are inspired with faith, then they produce all the immeasurable good qualities and amass the virtues of buddhas, all pure.
+Thus, having extolled the virtues of buddhas, they multiply their bodies
+to go to all worlds in the ten directions to let the sentient beings behold
+them, meditate on them and contemplate them, attend and serve them,
+plant roots of goodness, gain the good graces of the buddhas, and increase
+the family of buddhas, all being certain to attain buddhahood. By these
+actions they perform buddha-work, sometimes manifesting physical
+bodies for sentient beings, sometimes making sublime utterances, sometimes j ust smil ing, causing them to believe, honor, praise, and behave
+courteously. A ll buddhas, by means of innumerable, untold, inconceivable such buddha-works of all kinds, in all worlds, according to the
+inclinations of sentient beings' minds, teach them expediently, by the
+power of their original vows, the power of great love and compassion ,
+and the power of omniscience, causing them all to be civilized . This is
+the seventh great buddha-work.
+"All buddhas may do buddha-work while dwelling in forest retreats,
+or in quiet places, or in desolate places, or in buddhas' dwelling places; or
+they may do buddha-work while in trance, or while alone in a grove, or
+while concealing themselves from view, or while abiding in knowledge of the ultimate profundity, or while dwelling in the incomparable realm
+of the buddhas; or they rna y do buddha-work while carrying on various
+imperceptible physical actions, adapting to sentient beings' mentalities,
+predilections, and understandings to teach them as is expedient, without
+cease. Or they may do buddha-work seeking omniscience in the form of
+celestial beings, or they may do buddha-work seeking omniscience in the
+form of water spirits, goblins, cherubim, titans, birds, serpents, humans,
+subhumans, and so on. They may also do buddha-work by seeking omniscience in the form of listeners, solitary illuminates, or enlightening
+beings. Sometimes they preach, sometimes they are silent in doing
+buddha-work. Sometimes they do buddha-work saying there is one
+Buddha, sometimes saying there are many buddhas. Sometimes they do
+buddha-work saying all practices and all vows of enlightening beings
+are one practice and vow; sometimes they do buddha-work saying one
+practice and one vow of enlightening beings are infinite practices and
+vows. Sometimes they do buddha-work saying the realm of buddhahood is the world, sometimes they do buddha-work saying the world is
+the realm of buddhahood. Sometimes they do buddha-work saying the
+realm of buddhahood is not the world. Sometimes they remain for a
+day, or a night, or a fortnight, or a month, or a year, up to untold eons,
+to do buddha-work for the benefit of sentient beings. This is the eighth
+great buddha-work.
+"All buddhas are mines that produce pure roots of goodness, causing
+sentient beings to engender pure faith and resolution in the buddhateachings, so their faculties are tamed and they forever detach from the
+world. They cause enlightening beings to be full of knowledge, wisdom,
+and clarity in regard to the way of enlightenment and not depend on
+another for understanding . Sometimes they do buddha-work manifesting nirvana, sometimes they do buddha-work showing the evanescence
+of all in the world, sometimes they do buddha-work explaining the
+buddha-bodies, sometimes they do buddha-work explaining the accomplishment of all that is to be done, sometimes they do buddha-work
+explaining the flawless fulfillment of virtuous qualities, sometimes they
+do buddha-work explaining the extirpation of the root of all existences.
+Sometimes they do buddha-work causing sentient beings to turn away
+from the world to follow the buddha-mind; sometimes they do buddhawork explaining the inevitable ending of life; sometimes they do buddhawork explaining that there is nothing enjoyable in the world. Sometimes
+they do buddha-work preaching the eternal service of buddhas; sometimes they do buddha-work explaining the buddhas' turning of the
+wheel of pure Teaching, causing the hearers to become very joyful.
+Sometimes they do buddha-work expounding the sphere of buddhahood, inspiring people to cultivate spiritual practices. Sometimes they
+do buddha-work expounding concentration on remembrance of Buddha, inspiring people to always delight in visions of Buddha. Sometimes
+they do buddha-work expounding the purification of the senses, diligent search for the Buddha Way with unflagging spirit. Sometimes they do
+buddha-work visiting all buddha-lands and observing the various causes
+and conditions of their environments. Sometimes they do buddha-work
+uniting all bodies of living beings into a buddha-body, causing all lazy
+and self-indul gent sentient beings to abide by the pure precepts of the enlightened. This is the ninth great buddha-work.
+"When buddhas enter extinction, countless sentient beings mourn and
+weep; looking at each other in great grief and distress, they say, 'The
+buddha had great sympathy and compassion, mercifully aiding all
+worldly beings, a savior and a refuge for all living creatures. The emergence of a buddha is difficult to encounter, an unexcelled field of blessings, and now the buddha has passed away forever. ' Thus they use this
+to cause sentient beings to mourn and miss the buddha, thereby doing
+buddha-work. Also, in order to transform and liberate all celestials,
+humans, spirits, goblins, titans, cherubim, and so on, according to their
+desires, they pulverize their own bodies to make countless relics, to cause
+sentient beings to develop faith, honor, respect, and j oyfully reverence
+them, and cultivate virtues to complete fulfillment. They also build
+monuments, variously adorned, in the abodes of all kinds of creatures,
+for religious services; their teeth, nails, and hair are all used to make
+monuments, to cause those who see them to remember the Buddha, the
+Teaching, and the Community, to believe with unswerving faith, sincerely respect and honor them, and make offerings to them wherever
+they are, and cultivate virtues, so that by this merit they may be born
+in heaven or among humans, of noble and prosperous families with
+ample property and pure retinues, not enter into evil ways, always get
+to see buddhas, fulfill pure ways, quickly attain emancipation from the
+three realms of existence, each attain the fruit of their own vehicle
+according to their aspiration, recognize and requite their debt to buddhas, and forever be a reliance for the world. Though the buddhas be
+extinct, they are still inconceivable pure fields of blessings for living
+beings, with inexhaustible virtues, supreme fields of blessings, causing
+sentient beings' roots of goodness to be complete and their virtue to be
+fully developed. This is the tenth great buddha-work.
+"These buddha-works are immeasurably great, inconceivable: no
+beings of the world, celestials or humans, and none of the listeners or
+individual illuminates of past, future, or present can know them, unless
+they are empowered by Buddha.
+"Buddhas have ten kinds of mastery of nondual action. What are
+they? All buddhas can speak words of prediction of enlightenment,
+definitively, without duality. All buddhas can satisfy sentient beings
+according to their wishes, definitely, without duality. All buddhas can
+manifestly be awake to all truths and expound their meanings, definitively, without duality. All buddhas have all the wisdom and knowledge
+of the buddhas of past, future, and present, definitive, without duality.
+All buddhas know that all instants, past, future, and present, are one instant, definitely, without duality. All buddhas know that all past,
+future, and present buddha-lands inhere in one buddha-land, definitely,
+without duality. All buddhas know the words of all buddhas of all times
+are the words of one buddha, definitely, without duality. All buddhas
+know that all buddhas of all times and all the beings they teach are
+essentially equal, definitely, without duality. All buddhas know that
+worldly phenomena and Buddhist principles are essentially not different,
+definitely, without duality. All buddhas know that the roots of goodness
+of all buddhas of all times are the same one root of goodness, definitely,
+without duality. These are the ten.
+"Buddhas have ten kinds of abode, abiding therein in all things. What
+are they? All buddhas abide in awareness of all realms of reality. All buddhas abide in compassionate speech. All buddhas abide in the fundamental great vow. All buddhas abide in persistence in civilizing sentient
+beings. All buddhas abide in the principle of absence of selfhood. All
+buddhas abide in impartial salvation. All buddhas abide in recollection
+of truth. All buddhas abide in the unobstructed mind. All buddhas abide
+in the constantly rightly concentrated mind. All buddhas abide in equal
+comprehension of all things without violating the character of ultim ate
+reality.
+"All buddhas have ten exhaustive knowledges. What are they? They
+know all things of the past exhaustively. They know all things of the
+future exhaustively. They know all things of the present exhaustively.
+They know all principles of language exhaustively. The know all sentient beings' minds exhaustively. They know all the various ranks, high,
+middling, and low, of the roots of goodness of enlightening beings.
+They know all buddhas' complete knowledge and virtues do not increase
+or decrease. They know all phenomena come from interdependent origination. They know all world systems exhaustively. They know all the
+different phenomena in all worlds, interrelated in Indra's net.
+"Buddhas have ten kinds of might with enormous power, supreme
+power, measureless power, grandiose, awesome power, power difficult
+to acquire, undiminishing power, stable power, indestructible power,
+power inconceivable to any worldlings, power that all living beings cannot shake . What are they? All buddhas have indestructible bodies and life
+that cannot be cut off-no worldly poisons can affect them; the floods,
+fires, and gales of all worlds cannot h arm the buddhas' body. Even if all
+demons, gods, sprites, goblins, angels, titans, and sundry other creatures
+were to rain thunderbolts as big as mountains with all their strength,
+hurling them down all at once throughout the universe, they could not
+cause the buddhas' mind to be startled or frightened and could not even
+move a single hair of the buddhas. Walking, standing still, sitting, or
+reclining, the buddhas never change. That rain cannot fall where the
+buddhas are unless they let it, and even if they do not prevent it, and let
+it rain, it does not harm them. If there are any beings sustained by the
+buddhas or in the service of the buddhas, that rain of thunderbolts can not even harm them, much less the buddhas. This is the buddhas' first
+mighty quality.
+"All buddhas put the mountains, oceans, forests, and buildings in all
+worlds in all universes into a single pore for all future ages, yet the sentient beings are not aware, do not know, unless they are empowered by
+the Buddha. Then the buddhas, holding all those worlds in a pore
+throughout the ages to come, whether walking, standing still, sitting,
+or reclining, do not conceive a single thought of fatigue. Just as space
+holds all the worlds in the cosmos without fatigue, so do all buddhas
+hold all worlds in a single pore. This is buddhas' second mighty quality.
+"All buddhas can take as many steps as atoms in untold worlds in a
+single moment, passing as many lands as atoms in untold buddha-lands
+with each step, and travel thus for as many eons as atoms in all worlds: if
+there were a great adamantine mountain equal in measure to all those
+buddha-lands, the buddhas could place as many such mountains as atoms
+in untold buddha-lands in a single pore; the pores on a buddha 's body
+being equal in number to all beings in the cosmos, they place the same
+number of great adamantine mountains in each pore, and, holding all
+those mountains, walk in the ten directions, entering all worlds in space,
+from the past throughout the future, through all ages, without restingyet the buddhas' bodies are not injured and they do not get tired; their
+minds are always in concentration, without distraction. This is the buddhas' third mighty quality.
+"Buddhas, after a meal, sit in the lotus posture through the untold
+eons of past and future, and enter the inconceivable bliss experienced by
+buddhas; their bodies remain stable, still and unmoving, yet they do
+not abandon the work of teaching sentient beings. Suppose someone
+measured each world throughout space one after another with a hairtip;
+the buddhas are able to sit cross-legged forever on a point the size of the
+hairtip, and likewise on all points. Suppose the size and weight of each
+being in all worlds in the ten directions were equal to those of worlds as
+numerous as atoms in untold buddha-lands; the buddhas could put all
+those beings on a fingertip forever and could do the same with all their
+fingertips, and enter each world in all of space carrying all those beings,
+exhausting the whole cosmos, yet the buddhas would never be weary in
+body or mind. This is buddhas' fourth mighty quality.
+"Buddhas can cause to appear on one body as many heads as atoms in
+untold buddha-lands, manifesting as many tongues in each head as atoms
+in untold buddha-lands, each tongue producing as many different voices
+as atoms in untold buddha-lands, which all beings in the cosmos hear,
+each voice delivering as many troves of discourses as atoms in untold
+buddha-lands, each trove of discourses expounding as many principles as
+atoms in untold buddha-lands, each principle having as many terms,
+statements, and meanings as atoms in untold buddha-lands. They preach
+this way for as many eons as atoms in untold buddha-lands, and when
+they finish these eons, they again p reach for as many eons as atoms in untold buddha-lands, going on like this successively until they exhaust
+eons as numerous as atoms in all worlds, as numerous as the thoughts of
+all living beings. The eons of the future may be exhausted, but the cycles
+of teaching operated by the emanated bodies of buddhas have no end.
+This means the cycle of teaching expounded by knowledge, the cycle of
+teaching cutting off doubts, the cycle of teaching illumining all things,
+the cycle of teaching opening the treasury of nonobstruction, the cycle
+of teaching causing sentient beings to be joyful and docile, the cycle of
+teaching revealing all the practices of enlightening beings, the cycle of
+teaching of the high-rising, perfectly round sun of knowledge, the cycle
+of teaching of the bright lamp of wisdom illumining all the world, the
+cycle of teaching of various adornments of intellectual powers and confidence: just as one buddha-body, by spiritual power, operates different
+cycles of teaching such as these, to which no comparison in the world
+may be drawn, in the same way throughout space, in every single point,
+there are as many worlds as atoms in untold buddha-lands, and in each
+world the buddhas manifest in each mental instant as many emanation
+bodies as atoms in untold buddha-lands, each emanation body also producing voices and teachings like these, each filling all realms, so all beings
+therein can understand-yet the voice of the buddhas does not change or
+die out; it is inexhaustible. This is the fifth mighty quality of buddhas.
+"All buddhas adorn their chests with the sign of virtue, indestructible
+as adamant, and sit at the foot of a tree of enlightenment: hordes of
+demons, boundless in number, with various forms so terrifying that all
+sentient beings who see them become crazed with fear, or even drop
+dead-such hordes of demons fill the sky, but when the buddhas see
+them, they are not frightened, they do not pale, not even one hair stands
+on end, they are not moved or disturbed, they do not think of anythingaloof from emotions, they are tranquil and clear, abiding in the abode of
+buddhas, imbued with the power of love and compassion, their senses
+under control, their hearts without fear, impossible for the hordes of
+demons to upset. In fact, it is they who can subdue the demons, cause
+them to change their minds and take refuge in the buddhas, after which
+the buddhas teach them by means of correct diagnosis, prescription, and
+mystic influence, so that all now develop the aspiration for unexcelled,
+complete perfect enlightenment, never to regress. This is the sixth
+mighty quality of buddhas.
+"All buddhas have unobstructed voices that pervade all worlds in the
+ten directions, and all sentient beings who hear them spontaneously become docile. The sounds of the voices of the buddhas cannot be blocked
+by any mountains, any habitations of any creatures, or any sounds of any
+world, no matter how loud. According to the ways in which they need
+to be influenced, all sentient beings hear articulated statements and doctrines and all attain understanding. This is the seventh mighty quality of
+buddhas.
+"All buddhas' minds are unobstructed, eternally pure; all buddhas of past, future, and present are of the same one essence, unpolluted, unblinkered, without egoism or possessiveness, either internally or externally; they realize objects are void, they do not conceive arbitrary ideas,
+do not depend on anything, do not fabricate anything, do not dwell on
+appearances, forever end false imaginings, give up all thoughts clinging
+to objects, are pure in their fundamental nature, are forever free from
+conflict while in the midst of all things, abiding in ultimate reality, free
+from desire, thoroughly pure; entering the cosmos of reality, their teaching is inexhaustible, beyond all illusory ideas of assessment and wrong
+assessment, totally beyond all talk of the compounded and the uncompounded. Having comprehended untold, boundless realms of objects,
+with unimpeded, inexhaustible knowledge and method they accomplish
+the ten powers, and their embellishments of all virtues are thoroughly
+pure. They expound innumerable various principles, all without contradicting the character of reality, impartial with respect to the phenomena
+of past, present, and future of the cosmos, without variance, ultimately
+free, entering into the supreme treasury of all truths, correctly remembering all facets of truth without confusion, abiding unperturbed in the
+fields of all buddhas in the ten directions. Attaining unbroken knowledge, they know all things ultimately, without exception; putting an end
+to contamination , their minds are liberated and their intellects are liberated. Abiding in ultimate reality, their perceptivity is unimpeded, and
+their minds are always correctly stabilized. In a single thought they
+comprehend the things of past, present, and future as well as the mental
+activities of all sentient beings, without any hindrance. This is the eighth
+mighty quality of buddhas.
+"All buddhas have the same one reality-body, a body of infinite
+range, a body of boundless qualities, a body with no limit in the world, a
+body undefiled by the realms of desire, form, or formlessness, a body
+manifested at will, an impartial , pure body that is neither real nor unreal,
+an indestructible body with no coming or going, no compounding,
+a body of the inherent essence of phenomena, of one form which is
+formless, an omnipresent body without position or location, a body of
+boundless forms produced by free psychic transformations, a body of all
+kinds of manifestations entering universally into everything, a body of
+skillful employment of subtle truth, a body of a treasury of knowledge
+illumining everywhere, a body showing the equality of phenomena, a
+body pervading the cosmos, a body of eternal purity without movement
+or discrimination, neither existent nor nonexistent, a body manifest in
+accord with the various interests and understandings of all beings capable
+of being edified, which is not an expedient yet not inexpedient, neither
+perishes nor does not perish, a body born of the treasury of all virtues,
+a body of True Thusness, containing all the teachings of the buddhas, a
+body free from obstruction, its fundamental nature absolutely still, a
+body in which all qualities of nonobstruction are developed, a body
+omnipresent in all realms of pure principle, a body omnipresent in all
+worlds in multiple forms, a body of universal comprehension, free from clinging to objects, free from regression, forever liberated, imbued with
+omniscience. This is the ninth mighty quality of buddhas .
+"All buddhas equally understand all the teachings of buddhas and
+equally cultivate all the practices of enlightening beings; whether undertakings or knowledge, they are purely impartial, like the great ocean, all
+reaching fulfillment. Their power of action is supreme, and they never
+shrink back. Abiding in the measureless realms of the various concentrations, they show all paths, encourage good, and warn against evil. Their
+power of knowledge is foremost; they expound the truth without fear
+and are able to answer any question well. Their knowledge, wisdom,
+and teaching are equally pure; their physical, verbal, and mental actions
+are all unalloyed . They abide in the abode of buddhahood, the family of
+buddhas, doing buddha-work by means of enlightened knowledge and
+wisdom. Abiding in omniscience, they explain innumerable things as
+having no basis and no boundaries. Their psychic powers and knowledge
+are inconceivable, incomprehensible to any worldlings. Their knowledge
+profoundly penetrating, they see all things. The subtle, far-reaching,
+measureless, boundless gates of truth of past, present, and future, they
+thoroughly comprehend. In all worlds they are able to awaken understanding by means of transmundane knowledge. In all worlds they perform untold buddha-works of all kinds, attain unregressing knowledge,
+and enter the ranks of the buddhas. Though they have already realized
+untold truths that are beyond verbal expression, yet they can explain all
+verbal expressions. By means of Universally Good knowledge, they
+accumulate good qualities. Achieving instantaneous subtle knowledge,
+they comprehend all things and give out teachings to beings in accord
+with whatever courses of action are appropriate for them as individuals.
+All things, all worlds, all sentient beings, all times in the cosmos, the
+range of these phenomena unlimited, they are able to know and see by
+means of unobstructed knowledge. All buddhas appear in the world in
+the time of a single thought, according to the possibilities for enlightening, abide in a pure land, attain true awakening, manifest spiritual
+powers, and open up and enlighten the mind, intellect, and consciousness
+of all sentient beings of past, present, and future, according to appropriate timing. Sentient beings are boundless, worlds are boundless, realms
+of natural la w are boundless, past, present, and future are boundless, and
+the supremacy of the buddhas is also boundless; they appear in the midst
+of them all, attain true awareness, and skillfully enlighten them by means
+of buddha-knowledge, never ceasing. All buddhas manifest the most
+wondrous incarnation by means of spiritual power, abide in boundlessness, with great compassion and skill in means, their minds without
+obstruction, at all times explaining the wondrous teaching for the benefit
+of all living beings. This is the tenth mighty quality of buddhas. These
+mighty qualities of all buddhas are infinite, boundless, inconceivable,
+incomprehensible to any sentient beings or followers of individual liberation in any time, unless spiritually empowered by Buddha.
+"All buddhas have ten definite principles. What are they? All buddhas definitely come down from the heaven of happiness to be born on earth.
+All buddhas definitely appear to be born, spending ten lunar months in
+the womb. All buddhas definitely tire of social convention and gladly
+seek to leave the world. All buddhas definitely sit at the foot of the tree
+of enlightenment, achieve true awakening, and realize all elements of
+enlightenment. All buddhas definitely realize all truths instantly and
+manifest spiritual power in all worlds. All buddhas definitely can teach in
+accord with the time. All buddhas definitely can teach people at the
+appropriate times in accordance with the bases of goodness they have
+developed, and give them directions for enlightenment. All buddhas
+definitely can do buddha-work in accord with the time. All buddhas
+definitely predict the enlightenment of all fully developed enlightening
+beings. All buddhas definitely can answer all sentient beings' questions in
+a single instant.
+"All buddhas have ten kinds of speed. What are they? Any who
+see any buddha are speedily able to avoid bad dispositions. Any who see
+any buddha are speedily able to fulfill superior virtues. Any who see any
+buddha are speedily able to develop extensive bases of goodness. Any
+who see any buddha speedily attain rebirth in an immaculate heaven.
+Any who see any buddha can speedily get rid of all doubts and confusion.
+Any who have already aroused the aspiration for enlightenment who see
+any buddha can soon develop immense resolve, never to turn back, and
+can be able to teach people according to their needs; if they have not yet
+aroused the aspiration for enlightenment, they will quickly be able to
+arouse the determination for unexcelled, complete perfect enlightenment. Any who see any buddha before having entered the absolute state
+will speedily enter the absolute state. Any who see any buddha will
+speedily be able to purify all roots of goodness, mundane and supramundane. Any who see any buddha will speedily manage to destroy all
+obstruction. Any who see any buddha will speedily be able to acquire
+fearless intellectual powers.
+"All buddhas have ten kinds of pure things that should always be
+remembered. What are they? All buddhas' past events should be always
+remembered by enlightening beings. All buddhas' pure superior actions
+should be always remembered by enlightening beings. All buddhas' fulfillment of the ways of transcendence should be always remembered by
+enlightening beings. All buddhas' accomplishment of great undertakings
+should always be remembered by enlightening beings. All buddhas'
+accumulation of virtues should always be remembered by enlightening
+beings. A ll buddhas' embodiment of spiritual practice should always be
+remembered by enlightening beings. All buddhas' actualization of true
+enlightenment should always be remembered by enlightening beings.
+The infinity of all buddhas' physical forms should always be remembered
+by enlightening beings. The infinity of all buddhas' spiritual powers
+should always be remembered by enlightening beings. All buddhas' ten
+powers and confidences should always be remembered by enlightening
+beings .
+
+"All buddhas have ten stations of omniscience. What are they? All
+buddhas instantly know the minds and mental patterns of all sentient
+beings of past, present, and future. All buddhas instantly know the acts
+and the resulting consequences of those acts amassed by all sentient
+beings in past, present, and future. All buddhas instantly know the needs
+of all sentient beings and teach and civilize them by means of correct
+diagnosis, prescription, and occult influence. All buddhas instantly know
+the mental characteristics of all sentient beings in the cosmos, manifest
+the emergence of Buddha in all places, and take those beings into their
+care by expedient means. All buddhas instantly manifest expositions of
+teaching according to the mental inclinations, desires, and understandings
+of all sentient beings in the cosmos, causing them to become civilized.
+All buddhas instantly know th e inclinations of the minds of all sentient
+beings in the cosmos and manifest spiritual powers for them. All buddhas
+instantly manifest appearance in all places according to all the sentient
+beings who may be taught, and explain to them that the embodiment of
+Buddha is not graspable . All buddhas instantly reach all places in the
+cosmos, all sentient beings, and their particular paths. All buddhas instantly go in response to any beings who think of them, wherever they
+may be. All buddhas instantly know the understandings and desires of
+all sentient beings and manifest immeasurable physical forms for their
+benefit.
+"All buddhas have ten kinds of immeasurable inconceivable buddhaconcentrations. What are they? All buddhas, while always in correct
+concentration, instantly reach all places to expound the sublime Teaching
+for sentient beings everywhere. All buddhas, while always in correct
+concentration, instantly reach all places to teach all sentient beings ultimate selflessness. All buddhas, while always in correct concentration, instantly enter the past, present, and future in all places. All buddhas, while
+always in correct concentration, instantly enter the immense buddhalands in the ten directions, pervading all places. All buddhas, while
+always in correct concentration, instantly manifest innumerable various
+buddha-bodies in all places. All buddhas, while always in correct concentration, instantly in all places manifest body, speech, and mind in
+accord with the various understandings of sentient beings. All buddhas,
+while always in correct concentration, instantly, in all places, explain the
+ultimate reality of all things, beyond desire. All buddhas, while always in
+correct concentration, instantly, in all places, expound the inherent nature
+of interdependent origination of everything . All buddhas, while always
+in correct concentration, instantly, in all places, manifest immeasurable
+worldly and transcendental great adornments, causing sentient beings
+always to get to see Buddha. All buddhas, while always in correct
+concentration, instantly, in all places, enable sentient beings to master all
+enlightened teachings, attain infinite liberation, and ultimately reach
+unsurpassed transcendence.
+"Buddhas have ten kinds of unimpeded liberation. What are they? All
+buddhas can cause the emergence in the world of untold buddhas in a single atom. All buddhas can cause untold buddhas actively teaching to
+appear in a single atom. All buddhas can cause untold sentient beings
+being taught and guided to appear in a single atom. All buddhas can
+cause untold buddha-lands to appear in a single atom. All buddhas can
+cause untold enlightening beings receiving predictions of buddhahood to
+appear in a single atom. All buddhas can cause all buddhas of past, future,
+and present to appear in a single atom. All buddhas can cause all past,
+present, and future miracles to appear in a single atom. All buddhas can
+cause all sentient beings of past, present, and future to appear in a single
+atom. All buddhas can cause all past, present, and future buddha-works
+to appear in a single atom." 
+
+
+
+
+
+
+`;
+const sutra_34=`
+THEN THE GREAT ENLIGHTENING BEING Universally Good said to the
+enlightening beings, "I now will tell you about the ocean of marks of the
+Buddha. On top of the Buddha's head there are thirty-two marks of
+great people, adorned with jewels. A mong them is a mark of greatness
+called light illumining all regions, radiating immeasurable webs of great
+beams of light. It is adorned by all exquisite jewels, covered with jewel
+hair, soft, dense, and fine, each hair radiating jewel lights filling all the
+boundless worlds, manifesting embodiments of Buddha in all, complete
+with all the marks of buddhahood. This is the first.
+"Next there is a mark of greatness called clouds of light of the Buddhaeye. It is variously arrayed with the finest gems, producing a golden light
+like the light emanating from the curl of hair between Buddha's eyebrows. That light illuminates all worlds. This is the second.
+"Next there is a mark of greatness called clouds filling the cosmos. It is
+arrayed with discs of the finest jewels and radiates the light of the lamp of
+virtue and knowledge of the enlightened, illumining the oceans of worlds
+in all universes, making all buddhas and enlightening beings visible. This
+is the third.
+"Next there is a mark of greatness called clouds manifesting universal
+illumination, variously adorned with gold and jewels. Those exquisite
+jewels all radiate light, illuminating inconceivable numbers of buddhalands, with all the buddhas appearing therein. This is the fourth.
+" Next there is a mark of greatness called radiating clusters of jewel
+lights, with pure arrays of diamonds and flowers of lapis lazuli, their
+light shining on all worlds in the ten directions, therein manifesting all
+kinds of mystical projections extolling the past practices, wisdom, and
+virtues of the enlightened. This is the fifth.
+"Next there is a mark of greatness called manifestation of clusters of
+great powers of Buddha pervading the cosmos, crowned by crystals of
+flames of jewels in the configurations of mystical projections of enlightening beings, ringed with wheels of light of flames of jewels containing the power of the Buddha enlightening all, those lights illuminating the
+worlds of the ten directions, making manifest therein all buddhas sitting
+on the site of enlightenment, clouds of all knowledge filling infinite
+worlds throughout space. This is the sixth.
+" Next there is a mark of greatness called multitudes of universal
+lamps of the enlightened, adorned by a sea of jewels of great power that
+can shake all lands in the cosmos, emanating pure light filling the cosmos,
+showing therein the oceans of virtues of the enlightening beings of the
+ten directions and the oceans of standards of knowledge of the buddhas
+of past, present, and future. This is the seventh.
+" Next there is a mark of greatness called immense cloud reflecting
+all buddhas, adorned with sapphires, wish-fulfilling jewels, and pearls,
+always radiating light of enlightening beings' flaming lamps, illumining
+all worlds in the ten directions, therein revealing all buddhas' ocean of
+physical forms, ocean of vocal sounds, and ocean of pure powers. This is
+the eighth .
+" Next there is a mark of greatness called cloud of light spheres,
+adorned by flowers of all kinds of j ewels, with great webs of flames
+unfolding from all the j ewels and filling all worlds in the ten directions,
+where all sentient beings see the Buddha sitting before them, praising the
+qualities of the reality-body of buddhas and enlightening beings, introducing them into the pure realm of the enlightened. This is the ninth.
+"Next there is a mark of greatness called clouds oflight illumining the
+treasury of practices of all enlightening beings, adorned by exquisite
+flowers made of all kinds of jewels, the lights of the jewels illumining
+innumerable worlds, the blaze of the jewels covering all lands, reaching
+all universes in the ten directions without impediment, causing the voice
+of B uddha to vibrate, telling the ocean of truths. This is the tenth.
+" Next there is a mark of greatness called clouds of radiant light
+shining, adorned with lapis lazuli, sapphires, and diamonds, the colors of
+the j ewel clusters clear, illuminating all oceans of worlds, producing
+wondrous sounds filling the cosmos, all emanating from the ocean of
+great virtues of knowledge of the Buddha. This is the eleventh.
+" Next there is a mark of greatness called cloud of true awakening,
+adorned with flowers of mixed j ewels, the jewel flowers all emitting
+light beams in all of which there are buddhas sitting on the site of
+enlightenment, filling boundless worlds, causing the worlds to be purified, putting an end to all deluded thoughts. This is the twelfth.
+" Next there is a mark of greatness called clouds of radiance of light,
+adorned by crystallizations of the sovereign faculty of mind from the
+oceanic treasury of jewel flames, radiating great beams of light in which
+appear countless enlightening beings and the deeds they carry out, the
+body of knowledge, the body of realities, and the ocean of physical
+forms of all buddhas, filling the cosmos. This is the thirteenth.
+" Next there is a mark of greatness called douds of adornments shining in all directions, arrayed with diamond flowers and lapis lazuli, radiating
+great beams of light in which there are great jewel lotus blossom thrones,
+fully adorned, covering the cosmos, spontaneously expounding the practices of enlightening beings, the sound pervading the ocean of all universes. This is the fourteenth.
+"Next there is a mark of greatness called manifestation of the clusters
+of practices of the ocean of concentration of buddhas, instantly revealing
+the infinite adornments ofBuddha, adorning the inconceivable oceans of
+worlds in all universes. This is the fifteenth.
+"Next there is a mark of greatness called clouds of universal illumination of the ocean of m ystic projections, adorned by mountainous lotus
+blossoms of exquisite jewels, the light of the jewels born from the vows
+of the Buddha, manifesting mystical projections without end. This is the
+sixteenth .
+"Next there is a mark of greatness called cloud of liberations of all
+buddhas, adorned by pure fine jewels, emanating great lights, adorning
+all buddhas' lion thrones, showing images of forms of all buddhas, as
+well as the infinite Buddha teachings and the ocean of buddha-lands.
+This is the seventeenth.
+" Next there is a mark of greatness called cloud of illumination of
+independent means, adorned by lapis lazuli flowers, gold lotus blossoms,
+crystal lamps, and multitudes of flames of sublime teachings, emanating
+pure light from dense clouds of j ewel flames of all buddhas, filling the
+cosmos, showing therein all the fine items of adornment. This is the
+eighteenth.
+"Next there is a mark of greatness called cloud of awareness of the
+lineage of buddhas, adorned by infinite jewel lights with a thousand
+spheres, thoroughly pure within and without, born of roots of goodness
+of the past, those lights illuminating the worlds of the ten directions,
+kindling the sun of knowledge, spreading the ocean of truths. This is the
+nineteenth.
+" Next there is a mark of greatness called cloud of manifestation of all
+buddhas' freedom of form, adorned by necklaces of all jewels and lapis
+lazuli flowers, unfolding great jewel flames, filling the cosmos, manifesting therein the measureless buddhas of past, future, and present, as
+many as atoms in all buddha-lands, bold and fearless as majestic lions,
+replete with all the marks and knowledge of buddhahood. This is the
+twentieth.
+" Next there is a mark of greatness called cloud illuminating the entire
+cosmos, adorned by the purity of the precious characteristics of the
+enlightened, radiating great lights illuminating the cosmos, revealing the
+sublime treasury of knowledge of all the infinite buddhas and enlightening beings. This is the twenty-first.
+"Next there is a mark of greatness called cluster of features of Vairocana
+Buddha, adorned by flowers of the finest jewels as well as pure moons of jewels, all radiating countless trillions of crystal lights, filling all space
+and the cosmos, therein manifesting countless buddha-lands with buddhas sitting in them. This is the twenty-second.
+" Next there is a mark of greatness called cloud of light revealing all
+buddhas, adorned with beautiful l amps of myriad jewels, emitting pure
+light illumining all worlds in the ten directions, showing all the buddhas
+teaching. This is the twenty-third .
+" Next there is a mark of greatness called cloud of manifestation of all
+adornments, embellished by all kinds of jewel flames, radiating pure
+light filling the cosmos, in every successive instant constantly manifesting
+all the untold, unspeakable numbers of buddhas and enlightening beings
+sitting at sites of enlightenment. This is the twenty-fourth.
+" Next there is a mark of greatness called cloud producing the sounds
+of all universes, adorned with oceans of jewels and finest sandalwood,
+emitting great webs of flames filling the cosmos, producing therein
+subtle sounds pointing out the ocean of all actions of sentient beings.
+This is the twenty-fifth.
+"Next there is a mark of greatness called cloud reflecting the spheres
+of mystical projections of all buddhas, adorned by the pure eyes of the
+enlightened, illuminating all worlds with light, in which appear all the
+adornments of the buddhas of past, future, and present, and producing
+sublime sounds expounding the inconceivably vast ocean of truth. This is
+the twenty-sixth .
+"Next there is a mark of greatness called cloud of light illumining the
+ocean of buddhas, that light illuminating all worlds in the cosmos without
+obstruction, with a buddha sitting in each. This is the twenty-seventh .
+" Next there is a mark of greatness called cluster of jewel lamps,
+emitting the far-reaching light of the enlightened, illuminating all universes in the ten directions, showing therein all buddhas, enlightening
+beings, and the ocean of inconceivable numbers of various beings. This is
+the twenty-eighth.
+" Next there is a mark of greatness called cloud of nondifferentiation
+of the realm of reality, radiating the light of great knowledge of the
+enlightened, illuminating all the buddha-lands of the ten directions, all
+the enlightening beings, the congregations at the sites of enlightenment,
+and the infinite ocean of teachings, manifesting therein all kinds of
+miraculous powers, and also emitting sublime voices explaining the
+undertakings of U ni versall y Good enlightening beings according to the
+inclinations of sentient beings, causing them to dedicate themselves to
+Universal Good. This is the twenty-ninth.
+"Next there is a mark of greatness called douds of radiant illumination
+abiding in the oceans of all worlds, emanating j ewel lights fil ling all
+universes in space, revealing therein immaculate sites of enlightenment as
+well as the physical forms of buddhas and enlightening beings, causing
+those who see to attain objectless vision. This is the thirtieth.
+" Next there is a mark of greatness called cloud of flames of pure light of all jewels, emitting the pure light of the exquisite jewels of the infinite
+buddhas and enlightening beings, illuminating all universes in the ten
+directions, revealing all the oceans of enlightening beings therein, all
+imbued with the spiritual power of the enlightened, forever traveling
+through the network of all lands in space. This is the thirty-first.
+"Next there is a mark of greatness called cloud of illumination of the
+arrays of all universes; it is right in the middle, at the crest of a gradual
+rise, adorned with a pure gold cosmic net, emanating clouds of pure
+light filling the cosmos, instant after instant constantly showing the
+buddhas, enlightening beings, and congregations at the sites of enlightenment in all worlds. This is the thirty-second .
+"The top of Buddha's head is embellished with these thirty-two marks
+of great people. Between the B uddha's eyebrows is a mark of great
+people called cloud of light permeating the cosmos, adorned with jewel
+flowers, emanating great beams of light containing the hues of all jewels,
+clear and pure as the light of the sun and moon, that light illumining the
+lands of the ten directions, revealing the bodies of all buddhas therein,
+and also emitting sublime sounds expressing the ocean of truths. This is
+the thirty-third mark.
+"Buddha's eyes have a mark of greatness called cloud of independent
+universal vision, adorned by many beautifuljewels, their crystalline light
+pure and clear, seeing all without any obstruction. This is the thirtyfourth.
+"Buddha's nose has a mark of greatness called cloud of knowledge of
+all spiritual powers, adorned by pure jewels, covered with lights the
+colors of all jewels, wherein appear infinite phantom buddhas sitting on
+jewel lotus blossoms, going to all worlds, expounding to all enlightening
+beings and all sentient beings the inconceivable ocean of all aspects of
+buddhahood. This is the thirty-fifth.
+"Buddha's tongue has a mark of greatness called cloud manifesting
+reflected i mages of sound, adorned by beautiful jewels of all colors,
+produced by the roots of goodness of former times; his tongue's length
+and breadth covers all oceans of worlds; whenever the Buddha smiles, he
+emits lights of all jewels that illumine all the universes in the ten directions, causing all minds to become clear and cool; all the buddhas of past,
+future, and present appear clearly in the lights, all uttering far-reaching,
+subtle sounds pervading all lands and remaining for infinite eons. This is
+the thirty-sixth.
+"The buddha's tongue has another mark of greatness called cloud of
+reality realms. It is perfectly flat, adorned with jewels, radiating exquisite
+jewel lights complete with colors and characteristics like the lights
+emanating from the hair between the Buddha's eyebrows. Those lights
+illumine all buddha-lands, showing them to be only made of atoms,
+having no intrinsic essence. In the lights there also appear countless
+buddhas, all uttering subtle messages explaining all truths. This is the
+thirty-seventh. "The tip of Buddha's tongue has a mark of greatness called cloud of
+light illuminating the cosmos, adorned with wish-fulfilling jewels, always
+spontaneously producing golden flames wherein appear reflections of
+the ocean of all buddhas. It also causes subtle sounds to resonate, filling
+all the boundless worlds, each sound containing all sounds, and explaining
+the sublime truth, to the joy of the hearers, who appreciate for measureless eons without forgetting. This is the thirty-eighth.
+"The tip of Buddha's tongue has another mark of greatness, called
+cloud lighting up the cosmos, adorned with diamonds, emanating subtle
+lights of myriad colors, filling infinite lands of the ten directions throughout the cosmos, all pure, all containing infinite buddhas and enlightening
+beings, such uttering all kinds of sublime messages, received in person by
+all enlightening beings. This is the thirty-ninth.
+"The Buddha's gums have a mark of greatness called cloud showing
+the inconceivable realm of reality, adorned with sapphires and lapis
+lazuli, emanating clouds of pure light from flames of fragrant lamps,
+filling the cosmos, showing all kinds of means of mystic powers, expounding the profound, inconceivable truth everywhere in all oceans of
+worlds. This is the fortieth.
+"The Buddha's lower right teeth have a mark of greatness called
+cluster of teeth of Buddha, adorned with jewels set in gammadion patterns, radiating great beams of light illuminating the cosmos, with all
+buddha-bodies appearing therein, circulating throughout the ten directions, enlightening sentient beings. This is the forty-first.
+"The Buddha's upper right teeth have a mark of greatness called
+clouds of high banks of jewel flames, adorned with treasuries of jewels,
+emitting pure light of indestructible fragrant flames, each light ray filling
+the cosmos, showing the spiritual powers of all buddhas, and also showing
+the pure sites of enlightenment in all worlds in the ten directions. This is
+the forty-second.
+"The Buddha's lower left teeth have a mark of greatness called clouds
+of radiant illumination from jewel lamps, adorned with all kinds of
+beautiful jewels emitting flowers and scents, emanating pure light from
+clouds of lamp fla mes, filling all oceans of worlds, revealing therein all
+buddhas sitting on lotus blossoms surrounded by enlightening beings.
+This is the forty-third .
+"The Buddha's upper left teeth have a mark of greatness called cloud
+reflecting the enlightened ones, adorned with gold of pure brilliance,
+nets and flowers of jewels, emanating great spheres of flames filling the
+cosmos, revealing therein all the buddhas using their spiritual powers in
+space to distribute the milk of the Teaching, the lamps of the Teaching,
+the treasure of the Teaching, to educate all groups of enlightening
+beings. This is the forty-fourth .
+"The Buddha's front teeth have a mark of greatness called cloud of
+omnipresent light; between each tooth are arrays of oceans of marks that
+all radiate light when the Buddha smiles, with crystal flames of the colors of all jewels, swirling to the right, circulating throughout the cosmos,
+uttering the voice of Buddha, explaining the practice ofUniversal Good.
+This is the forty-fifth.
+"The Buddha's lips have a mark of greatness called cloud reflecting
+lights of all jewels, radiating immense beams of light the color of rose
+gold, of lotuses, and the colors of all jewels, illumining the cosmos and
+completely purifying it. This is the forty-sixth.
+"The Buddha's neck has a mark of greatness called cloud shining on
+all worlds, adorned by diamonds. His neck is supple, soft, slender, and
+moist, and gives off radiant pure light filling all worlds in the ten directions, revealing all buddhas therein. This is the forty-seventh.
+"The Buddha's right shoulder has a mark of greatness called Buddha's
+immense cloud of all jewels, emanating lights of the colors of all jewels,
+gold, and lotus blossoms, forming a network of crystal flames, illuminating the cosmos, revealing all enlightening beings therein. This is the
+forty-eighth. The Buddha's right shoulder has another mark of greatness, called cloud of supreme jewels shining radiantly, pure as gold in
+color, emanating crystal light filling the cosmos, revealing all enlightening beings therein. This is the forty-ninth.
+"The Buddha's left shoulder has a mark of greatness called cloud of
+supreme light illuminating the cosmos, variously adorned like the marks
+on his crown and between his eyebrows, emitting golden, lotus-colored,
+and jewel-colored lights forming great networks of flames filling the
+cosmos, showing therein all occult powers. This is the fiftieth. The Buddha's left shoulder has another mark of greatness, called cloud of light
+shining everywhere, whirling to the right, adorned with gold and diamonds, radiating lights of fragrant flames of flowers of jewels, filling the
+cosmos, showing all buddhas and all purified lands therein. This is the
+fifty-first. The Buddha's left shoulder has another mark of greatness,
+called cloud of universal radiance, whirling to the right, with subtle
+mysterious adornments, emitting pure light from clouds of flames of
+buddhas' lamps, filling the cosmos, revealing the various adornments of
+all enlightening beings therein, all superbly beautiful. This is the fiftysecond.
+"The Buddha's chest has a mark of greatness shaped like a gammadion
+called oceanic cluster of auspicious signs, adorned with crystal jewel
+flowers emitting all kinds of orbs of light flames of the colors of all
+jewels, filling the cosmos, making it all pure, and also producing marvelous sounds expressing the ocean of the teachings. This is the fiftythird.
+"To the right of the mark of auspicious signs is a mark of greatness
+called cloud of revelation of light, adorned by the cosmic net of Indra,
+radiating a vast circle of light filling the cosmos, revealing therein infinite
+buddhas. This is the fifty-fourth.
+"There is another mark of greatness to the right of the mark of auspicious signs, called cloud manifesting the Buddha everywhere, adorned by the jewel crowns of enlightening beings, emanating great lights
+shining on all worlds in the ten directions. Purifying them all, showing
+therein the buddhas of past, future, and present sitting on the sites of
+enlightenment, manifesting spiritual powers, and widely expounding
+the ocean of teachings. This is the fifty-fifth.
+"There is another mark of greatness to the right of the mark of auspicious signs, called cloud of blooming flowers, adorned by crystal jewel
+flowers, radiating pure light rays from precious lamps of fragrant flames,
+shaped like lotus blossoms, filling the world. This is the fifty-sixth.
+"There is another mark of greatness to the right of the mark of auspicious signs, called cloud of pleasant golden color, adorned by diamonds
+from the Mind King treasury of all jewels, emanating pure light illuminating the cosmos, revealing therein immensely radiant jewel treasuries like the eyes of Buddha. This is the fifty-seventh.
+"There is another mark of greatness to the right of the mark of auspicious signs, called cluster of oceans of buddhas, adorned by gems, fragrant lamps, and flower garlands, emanating the pure light of great
+flames of fragrant lamps of diamond, filling space, pervading all lands,
+showing the assemblies at the sites of enlightenment there. This is the
+fifty-eighth.
+"To the left of the mark of auspicious signs there is a mark of greatness called clouds of light of revelation, adorned with countless enlightening beings sitting on jewel lotus blossoms, emanating j ewel-flame
+light beams, studded with diamonds, purifying all oceans of universes,
+revealing therein infinite buddhas and their sublime voices expounding
+all truths. This is the fifty-ninth .
+"There is another mark of greatness to the left of the mark of auspicious signs, called cloud of light appearing throughout the cosmos,
+adorned by an ocean ofjewels, emitting great light pervading all worlds,
+showing the enlightening beings therein. This is the sixtieth .
+"There is another mark of greatness to the left of the mark of auspicious signs, called cloud of universal eminence, adorned with garlands of
+jewel orbs made of diamonds that shine like the sun, emanating great
+flames of light filling all oceans of worlds in the cosmos, showing therein
+all worlds, all buddhas, and all sentient beings. This is the sixty-first.
+"There is another mark of greatness to the left of the mark of auspicious signs, called cloud of the sublime sound of the turning of the wheel
+of the Teaching, adorned by lamps of all truths and flowers of pure fragrance, emitting great beams of light filling the cosmos, revealing therein the ocean of marks and ocean of mind of all the buddhas. This is the
+sixty-second.
+"There is another mark of greatness to the left of the mark of auspicious signs, called cloud of adornments, adorned by the ocean of all buddhas of past, future, and present, radiating immaculate light purifying all
+buddha-lands, showing therein all the buddhas and enlightening beings
+as well as the deeds they carry out. This is the sixty-third. "The Buddha's right hand has a mark of greatness called cloud of
+oceanic illumination, adorned by myriad jewels, constantly emitting
+pure light like the aura of the moon , filling all worlds in space, emanating thunderous voices extolling all the practices of enlightening beings.
+This is the sixty-fourth .
+"Buddha's right hand has another mark of greatness, called cloud of
+reflected radiance, adorned with flowers of lapis lazuli and sapphires,
+shedding great light illuminating all the worlds in the ten directions
+where enlightening beings abide, their troves of lotus blossoms, jewels
+and so on, therein showing the infinite buddhas sitting at the enlightenment tree with the pure body of reality, causing all the lands of the ten
+directions to guake. This is the sixty-fifth.
+"Buddha's right hand has another mark of greatness, called cloud of
+lamp flame garlands adorning everywhere, arrayed with radiant jewels,
+emitting great beams of light forming networks of miraculous displays
+of mystical emanations, showing therein hosts of enlightening beings, all
+wearing jeweled crowns, expounding the ocean of enlightening practices. This is the sixty-sixth.
+"Buddha's right hand has another mark of greatness, called cloud
+revealing all jewels, adorned with lamps with lotuslike flames, emitting
+oceanic treasuries of light pervading the cosmos, showing therein infinite
+buddhas sitting on lotus thrones. This is the sixty-seventh.
+"Buddha's right hand has another mark of greatness, called cloud of
+light, adorned with oceans of crystal flames, emitting flames of all jewels
+and flames of flowers of fragrant fire, their pure light filling all networks
+of worlds, showing all buddhas' sites of enlightenment therein. This is
+the sixty-eighth.
+"Buddha's left hand has a mark of greatness called cloud of lamps of
+jewel-like purity, adorned with the colors of precious elements, radiating
+light of the golden hue of the Buddha, moment to moment constantly
+causing all the finest adornments to appear. This is the sixty-ninth.
+" Buddha's left hand has another mark of greatness, called cloud of
+voices of the lamp of knowledge of all lands, adorned with diamond
+flowers in a cosmic net, radiating pure golden light illumining all worlds
+in the ten directions. This is the seventieth .
+"Buddha's left hand has another mark of greatness, called cloud of
+light resting on a precious lotus, adorned with exquisite flowers of all
+precious substances, emanating great light, like a mountainous lamp,
+lighting all the worlds of the ten directions. This is the seventy-first.
+"Buddha's left hand has another mark of greatness, called cloud of
+universal illumination of the cosmos, adorned with a cosmic net of jewel
+garlands, jewel discs, and jewel vases, as well as myriad sublime appearances, emitting great light illumining all lands in the ten directions,
+showing therein all buddhas of all oceans of worlds in all universes, sitting on lotus blossoms. This is the seventy-second.
+" Buddha's right fingers have a mark of greatness called cloud showing the whirlpool of lands of all ages, adorned with flowers of all the
+finest jewels from treasuries of the glow of the moon reflected in the
+water, emanating great beams of light filling the cosmos, constantly producing therein subtle sound filling the lands of the ten directions. This is
+the seventy-third.
+"Buddha's left fingers have a mark of greatness called cloud resting
+on all jewels, adorned with sapphires and diamonds, radiating the lights
+of all jewels, filling the cosmos, showing therein all buddhas and enlightening beings. This is the seventy-fourth.
+"Buddha's right palm has a mark of greatness called cloud of radiance,
+adorned with a thousand-spoked diamond wheel, emanating jewel light
+whirling to the right filling the cosmos, showing therein all buddhas,
+each buddhas' body blazing with flames of light, teaching the truth and
+liberating people, purifying worlds. This is the seventy-fifth.
+"Buddha's left palm has a mark of greatness called cloud of flaming
+wheels, expanding and magically causing all the sites of enlightenment in
+the cosmos to appear, adorned with a thousand-spoked wheel of sunlike
+jewels, radiating great beams of light filling all oceans of worlds, revealing therein all enlightening beings, expounding the ocean of practices of
+Universal Good, entering into all buddh as' lands, each enlightening innumerable sentient beings. This is the seventy-sixth.
+"Buddha's genital organ has a mark of greatness called cloud emanating the voice of Buddha, adorned with all kinds of fine jewels, emitting
+flowery flame light from crystal lamps, the light refulgent, containing
+the colors of all jewels, illuminating all universes in space, showing therein all buddhas traveling, coming and going, reaching everywhere. This is
+the seventy-seventh.
+"Buddha's right buttock has a mark of greatness called cloud of radiant garlands ofjewel lamps, adorned with j ewels, emitting inconceivable
+jewel flame rays of light spreading throughout all universes in the ten
+directions, being of the same one appearance as the cosmos of space, yet
+able to produce all appearances, manifesting in each appearance the autonomous mystical projections of the buddhas. This is the seventy-eighth.
+"Buddha's left buttock has a mark of greatness called cloud of light
+covering the sky showing all oceans of universes like lotuses, adorned
+with pure jewels, emanating networks of light rays illumining all universes in the ten directions, revealing there clouds of all kinds of forms.
+This is the seventy-ninth.
+"Buddha's right thigh has a mark of greatness called cloud of ubiquitous manifestation, adorned with crystals of many colors. The thigh is
+proportionate to the calf; it radiates lights of the true Teaching, like
+jewel flames, able to instantly reveal the ocean of forms of the striding of
+the king of all treasures. This is the eightieth.
+"Buddha's left thigh has a mark of greatness called cloud showing the
+intlnite oceans of features of all buddhas, adorned with an ocean of all
+jewels resting on each one, traveling vast distances, emanating pure light shining on all sentient beings, causing them all to seek the supreme state
+of buddhahood. This is the eighty-first.
+"Buddha's deerlike right calf has a mark of greatness called cloud of
+all universes in space, adorned with sublime jewels of light. The calf is
+round and straight and walks well; it emanates pure golden light illuminating all buddhas' worlds and emits great sounds causing them all to
+quake. It also shows all buddha-lands stationed in space, arrayed with
+jewel-like flames, from which countless enlightening beings magically
+appear. This is the eighty-second.
+"Buddha's deerlike left calf has a mark of greatness called cloud of
+oceans of adornments. Golden-hued, it can walk through all buddhalands, emitting the pure light of all jewels, filling the cosmos, given to
+perform buddha-works. This is the eighty-third.
+"The jewel hair on the Buddha's lower legs has a mark of greatness
+called cloud of m anifestations of reflected images of the cosmos. The hair
+curls to the right, and each hairtip radiates jewel light filling all universes
+in the ten directions, showing all buddhas' spiritual powers. The hair
+pores all emit lights in which appear all buddha-lands. This is the eightyfourth.
+"The soles of Buddha's feet have a mark of greatness called cloud of
+arrangements of the ocean of all enlightening beings, diamond-colored,
+with pure lotus blossoms of gold, radiating jewel-like light illumining all
+oceans of worlds in the ten directions, with clouds of jewel-like fragrant
+flames reaching everywhere . When he lifts his foot to take a step, a fragrant air circulates, replete with the colors of all jewels, filling the cosmos. This is the eighty-fifth.
+"On Buddha's right instep is a mark of greatness called cloud of light
+shining on everything, adorned with all kinds of jewels, radiating great
+lights filling the cosmos, showing all buddhas and enlightening beings.
+This is the eighty-sixth .
+" On Buddha's left instep is a mark of greatness called cloud of manifestations of all buddhas, adorned with jewels, emanating jewel light
+moment to moment showing the miraculous displays of all buddhas, as
+well as their oceans of teachings, and the enlightenment sites they sit at,
+this continuing unbroken forever. This is the eighty-seventh.
+"Between Buddha's right toes is a mark of greatness called cloud of
+light illuminating all oceans of universes, variously adorned with diamonds like mountainous lamps and thousand-spoked wheels of flames,
+radiating great beams of light filling the oceans of worlds in all universes
+in the ten directions, showing therein the various forms of precious
+adornments of all buddhas. This is the eighty-eighth.
+"Between Buddha's left toes is a mark of greatness called cloud showing the ocean of all buddhas, adorned with jewel flowers, garlands of fragrant flaming lamps, and discs of all jewels, constantly emitting pure
+lights from an ocean of jewels, filling space, reaching all worlds in the ten
+directions, showing therein such features of all buddhas and enlightening beings as their universal voices and their mystic gammadion signs of
+felicity, benefiting all the infinite sentient beings. This is the eightyninth.
+"Buddha's right heel has a mark of greatness called cloud of independent radiance, adorned with powdered sapphires, always emanating the
+exquisite jewel light of the buddhas, the splendor of that light filling the
+cosmos, all the same one appearance, without any differences, therein
+showing all buddhas sitting at the site of enlightenment and expounding
+the sublime teaching. This is the ninetieth.
+"Buddha's left heel has a mark of greatness called cloud manifesting
+sublime voices expounding the ocean of truths, adorned with jewels
+from the ocean of mystic projections, jewels from flowers of a polar
+mountain in an ocean of fragrant flames, as well as cat's-eye gems, all
+radiating great beams of light filling the cosmos, showing therein the
+spiritual powers of the buddhas. This is the ninety-first.
+"Buddha's right ankle has a mark of greatness called cloud shining
+with the light of all adornments, with extremely fine adornments made
+of all kinds of precious substances, radiating pure golden light, illumining all universes in the ten directions, the light appearing as an enormous
+cloud covering the sites of enlightenment of all buddhas. This is the
+ninety-second.
+"Buddha's left ankle has a mark of greatness called cloud showing all
+colors, adorned with radiant jewels and sapphires containing the glow of
+all moons, moment to moment traveling through the ocean of universes,
+radiating crystal lamps' fragrant flames' light, that light pervading all
+universes. This is the ninety-third.
+"The circumference of Buddha's right foot has a mark of greatness
+called universal treasury cloud, adorned with emeralds and diamonds,
+emanating jewel light filling space, therein showing all buddhas sitting
+on crystal lion thrones at the sites of enlightenment. This is the ninetyfourth.
+"The circumference of Buddha's left foot has a m ark of greatness
+called cloud of light illumining the whole cosmos, adorned with jewel
+flowers, radiating great lights filling the cosmos, all equal and uniform,
+therein showing the mystic power of all the buddhas and enlightening
+beings, with great wondrous voices expounding the endless ways of
+entry into truth there are in the cosmos. This is the ninety-fifth .
+"The tips of Buddha's right toes have a mark of greatness called cloud
+showing adorn ments, arrayed with very pleasing pure gold, emanating
+great rays of light filling all universes in the ten directions, showing
+therein the boundless ocean of teachings, various virtues, and spiritual
+powers of all buddhas and enlightening beings. This is the ninety-sixth .
+"The tips of Buddha's left toes have a mark of greatness called cloud
+showing the mystic transformations of all buddhas, adorned with inconceivable buddhas' halos, moon glow, pervasive perfume, and wheels of
+jewel flames, emanating pure lights of the colors of all jewels, filling all oceans of worlds, showing therein all buddhas and enlightening beings
+expounding the ocean of all B uddha teachings. This is the ninetyseventh .
+" Vairocana Buddha has as many such marks of greatness as atoms in
+ten Flower Treasury oceans of worlds, each limb adorned with sublime
+marks of myriad jewels." 
+`;
+const sutra_35=`
+THEN THE WORLD HoNORED ONE said to the enlightening being Jewel
+Hand, " Offsp ring of Buddha, the perfectly enlightened one has an embellishment called the foremost sphere, from which emanates a great
+light called effulgence, with seven million infinities of light rays. When I
+was an enlightening being in the palace of Tushita heaven, I emanated a
+great light called lightbanner king, illuminating as many worlds as atoms
+in ten buddha-lands; the sentient beings in the hells of those worlds who
+were touched by this light gained respite from their torments, and they
+obtained ten kinds of pure eyes, ears, noses, tongues, bodies, and minds,
+and all danced for joy. When their lives ended they were reborn in Tushita heaven. In Tushita heaven is a drum called most delightful; when
+they had been born in heaven, this drum sounded, declaring to them, '0
+godlings, because your minds were not indulgent and you planted roots
+of goodness in the presence of buddhas, and because in the past you associated with the wise, and by the great spiritual power of Vairocana,
+you have been born in this heaven after the end of your life elsewhere.'
+"The thousand-spoked wheels on the soles of my feet as an enlightening being were called king of universal light. They had an embellishment, called the foremost sphere, always emanating forty kinds of light,
+among them a light called pure virtue, illumining as many worlds as
+atoms in a hundred trillion buddha-lands, causing all sentient beings to
+develop maturity according to their various actions and inclinations.
+Sentient beings in excruciating pain in uninterrupted hell, encountering
+this light, were born in Tushita heaven after their lives ended. When
+they were born in heaven, they heard the sound of the celestial drum
+declare to them, 'Very good ! Godlings, the enlightening being Vairocana has entered undefiled concentration; you should pay respects.' Then
+the godlings, hearing this exhortation from the sound of the celestial
+drum, thought, 'How wonderful-what is the cause of this subtle
+sound ?' Then the drum answered, 'The sound I make is produced by the
+power of roots of goodness. Godlings, just as I speak of m ysclf without attachment to self or to what is mine, so too do the buddhas say they are
+buddhas, yet have no attachment to "I" or "mine. " Just as my sound
+does not come from the east or from the west, the south, the north, or
+the intermediate directions or the zenith or nadir, in the same way the
+achievement of buddhahood as a consequence of actions does not come
+from any of the ten directions. It is as when you were in hell before: the
+hell and your bodies did not come from any of the ten directions; it was
+only due to your deluded evil deeds and bondage by folly that you were
+incarnated in hell-this has no basis, it does not come from anywhere.
+The enlightening being Vairocana, by spiritual power, emanated great
+light, yet this light did not come from any of the ten directions; in the
+same way, my sound does not come from any of the ten directions-it is
+just the power of good roots of concentration and by the spiritual power
+of transcendent wisdom that produces this pure sound and manifests
+these various abilities. Just as Sumeru, the polar mountain, has thirtythree celestial palaces of exalted splendor, with various appurtenances
+that do not come from any of the ten directions, likewise my sound does
+not come from any of the ten directions. Just as I teach as many sentient
+beings as there are atoms in a trillion worlds, each in accord with their
+inclinations, causing them great joy, yet do not get tired of them or
+shrink from them, and I do not become proud or heedless, so also does
+the enlightening being Vairocana do the same, while abiding in undefiled concentration. From one embellishment on his right palm he
+emanates one ray of light that manifests innumerable magical powers
+such as even individually liberated ones cannot know, much less sentient
+beings. You should go to that enlightening being and attend and serve
+him. Do not indulge in the pleasures of the senses anymore-attachment
+to sensual desires obstructs roots of goodness. Just as the world-ending
+holocaust completely burns away the polar mountain, so also does craving bind up the mind and prevent it from developing the will to remember Buddha. You should be grateful for your blessings and requite the
+favor you have received. Many ingrates meet untimely deaths and are
+rebo.rn in hell. You were formerly in hell, when your bodies were illumined with light and you left there and were reborn here. You should
+now quickly rededicate and increase your roots of goodness. Just as I, the
+heavenly drum, am not male or female, yet can produce measureless,
+boundless, inconceivable things, so too you gods and goddesses are not
+male or female yet are able to enjoy all kinds of sublime palaces and
+groves. Just as my heavenly drum is not born and does not perish, the
+same is true of material form, sensation, perception, action, and consciousness. If you can understand this, know that you will then enter the
+concentration defined by independence.'
+"The godlings, having heard this message, realized unprecedented
+wonder. Then they all magically produced myriad clouds of flowers,
+fragrances, music, banners, parasols, and eulogies, and went together to
+the palace where the enlightening being Vairocana was staying. Joining their palms in respect, they stood to one side and wished to behold him,
+but they could not see him. The godlings then said, 'The enlightening
+being Vairocana has already passed away from here and been born in the
+human world, in the house of K ing Shuddhodana. He has mounted the
+sandalwood bower and is in the womb of Lady Maya.' Then the godlings, by means of the celestial eye, saw the body of the enlightening
+being in the family of the king Shuddhodana in the human realm, being
+attended by gods of the Brahma heavens and heavens of desire. The
+godlings then thought, 'If we do not go to the enlightening being and
+pay our respects, and should give rise to even a single thought of attachment to these celestial palaces, that would not be right. '
+"Then each of the godlings, with a retinue of a hundred million, was
+going to go down to earth. At that point the celestial drum produced a
+voice telling them, 'The great enlightening being has not ended his life
+here and been reborn there: it is j ust that he has, by spiritual power,
+caused sentient beings to perceive him according to their psychological
+needs. Just as I now am not visible to the eye, yet can produce a voice, so
+also the great enlighening being, in undefiled concentration, is not visible
+to the eye, yet can appear to be born anywhere, without vain discrimination, free from conceit, without attachments. You should arouse the
+determination for unexcelled, complete perfect enlightenment, purify
+your minds, lead well-behaved lives, and repent of and get rid of all
+obstructions due to past actions, obstructions due to afflictions, obstructions due to retribution, and obstructions due to views; with bodies as
+many as beings in the cosmos, with tongues as many as beings in the cosmos, with good deeds of body, speech, and mind as many as beings in
+the cosmos, repent of and get rid of all obstructions and faults. '
+"The godlings, hearing this, attained unprecedented wonder and were
+very joyful. They asked, ' How does the great enlightening being repent
+of and get rid of all faults?' The celestial drum, by the power of roots of
+goodness of concentration of the enlightening being, said, 'The enlightening being knows that conditioning acts do not come from any particular location, yet they accumulate and dwell in the mind. They come only
+from delusion and have no abode. The enlightening being clearly sees
+this with certainty and has no doubt or confusion. Just as I, the celestial
+drum, speak of actions and consequences, of practice and discipline, of
+joy and peace, and of various concentrations, so do buddhas and enlightening beings speak of "I" and "mine," speak of sentient beings, of covetousness, wrath, and delusion and their various actions, yet there really is
+no self or possession-all actions performed, the resulting consequences
+of the six paths of transmigration, cannot be found wherever you may
+seek. Just as my voice is not born and does not perish, while the celestials
+who do evil do not hear my voice but the voice waking them up by
+means of hell, so also are all actions neither born nor perishing, while
+according to their practice and accumulation their consequences are experienced. My drum sound is eternally inexhaustible and uninterrupted, and neither coming nor going can be apprehended in it; if there were
+coming or going, there would be extinction and permanence-the
+buddhas never say there is extinction or permanence, except as an expedient to develop sentient beings. Just as my sound n1akes itself available to beings in infinite worlds according to their mentalities, so do all
+buddhas make themselves visible according to the mentalities of beings.
+Suppose there is a glass mirror called "reflector," clearly reflecting, equal
+in size to ten worlds, with the images of all the mountains and rivers, and
+all the sentient beings, including in the hells, the animals and ghosts, all
+reflected therein-what do you think, can you say those images enter
+and exit the mirror?' The godlings answered, ' No.' ' All actions are also
+like this; though they can produce resulting consequences, there is no
+place they come or go. Just as a magician deceives people's eyes by illusion, so do actions also do the same. If you know this, this is true repentance of all evils so that all are cleared.'
+"When this teaching was spoken, the Tushita godlings in worlds as
+numerous as atoms in ten quintillion buddha-lands attained acceptance
+of the nonorigination of all things; i mmeasurable, inconceivable infinities of godlings of the six heavens of the realm of desire were inspired
+to seek unexcelled, complete perfect enlightenment; all the goddesses of
+the heavens of the desire realm relinquished the female body and became
+determined to attain supreme enlightenment. Then the godlings, because
+of attaining the ten stages on hearing the tremendous dedication of Universal Good told, because of attaining concentration adorned by various
+powers, and because of repenting of and clearing away all serious hindrances by means of pure physical, verbal, and mental actions equal in
+number to living beings, thereupon saw lotus blossoms made of all precious substances, as many blossoms as atoms in ten quintillion buddhalands, with an enlightening being sitting on each blossom emanating
+great beams of light; in those beams of light were as many buddhas as
+there are living beings, sitting in the lotus posture expounding the teaching in accordance with the mentalities of sentient beings-yet still
+not even a little of the power of undefiled concentration was as yet
+m anifested.
+"Then the godlings, by means of the flowers and other things they
+had produced before, again magically produced in each pore of their
+bodies as many clouds of fine flowers and so on as there are living beings,
+to offer to the realized one Vairocana, and took them and scattered them
+on the Buddha; all of them hovered over the Buddha's body while the
+fragrant clouds rained over worlds as many as atoms in countless buddhalands. Any sentient beings who were enveloped in that fragrance became
+physically peaceful and blissful, like a mendicant who has entered the
+fourth stage of meditation, in whom all obstructions due to past actions
+vanish. Sentient beings have five hundred internal afflictions and five
+hundred external afflictions relating to form, sound, smell, flavor, and
+tactile feeling; those rife with covetousness have 2 1 ,000, those rife with anger have 21 ,000, those rife with delusion have 21 ,000, and those equally habituated to all three also have 21,000-but if they smell this fragrance, they realize that all these are unreal. Once they realize this, they
+develop pure roots of goodness with the light of mystic power, like
+clouds of fragrant banners.
+"Those who see the canopies produced by the enlightening beings
+plant the innumerable roots of goodness of universal monarchs of the
+pure gold net of the tenth stage of enlightening. When enlightening
+beings are in this status of universal monarch, they edify beings in worlds
+as numerous as atoms in ten quintillion buddha-lands. In the case of the
+buddha called Knowledge Like the Moon, of the world called Clear
+Mirror, there are always monks, nuns, laymen, laywomen, and others
+from countless worlds who project their bodies to come listen to the
+Teaching; that buddha, without a moment's pause, relates to them the
+events of former lives. Any sentient beings who hear the name of the
+buddha will surely be reborn in the land of the Buddha. That case of
+enlighening beings in the rank of universal monarch with the pure
+golden net is also like this: any who encounter their light will surely attain the tenth stage of enlightening beings, because of the power of roots
+of goodness previously cultivated. When one has attained the first meditation, though one's life has not yet ended, one can see the palaces in the
+Brahma heaven and can experience the bliss of the Brahma world; likewise those who attain the other stages of meditation. The great enlightening beings in the rank of universal monarch with the pure golden net
+radiate pure light such that any beings who are touched by it all gain the
+tenth stage of enlightening and attain immeasurable light of knowledge,
+acquire ten kinds of pure eyes, ten kinds of pure ears, noses, tongues,
+bodies, and ten kinds of pure intellects; they accomplish immeasurable
+profound concentrations and achieve such a pure physical eye.
+"Suppose someone took ten trillion buddha-lands and reduced them
+to atoms, and then reduced to atoms as many buddha-lands as those
+atoms, then put all those atoms in his left hand and carried them past an
+equal number of worlds to the east, and then put down one atom, and
+continued this way to the east until all the atoms were exhausted, and did
+the same in the other nine directions: if all the worlds in the ten directions, both those in which he had deposited an atom and those in which
+he had not, were all assembled to form a single buddha-land, do you
+think that the immeasurable vastness of this buddha-land would be conceivable or not?"
+Jewel Hand said, " It would not be conceivable. The enormous size of
+such a land would be immeasurable, extraordinary, inconceivable. If any
+sentient beings heard this comparison and believed and understood it,
+that would be even more extraordinary."
+The Buddha said, "This is so, Jewel Hand. It is as you say. If any good
+man or woman should hear this example and believe in it, I would give
+them the prediction that they will certainly attain unexcelled, complete perfect enlightenment and will acquire the unsurpassed knowledge of
+buddhas.
+" Suppose again, Jewel Hand, that someone reduced to atoms as many
+enormous buddha-lands of the magnitude described above as atoms in
+a hundred billion buddha-lands, and deposited each of these atoms, as
+in the foregoing example, and all of these worlds, those on which an
+atom was deposited as well as those in between, were united in a single
+buddha-land. Then again suppose this buddha-land were reduced to
+atoms, and so on, repeating this process eighty times: the enlightening
+being's pure physical eye, a consequence of action, can clearly see in a
+single instant every particle in all those immense buddha-lands, and also
+see buddhas as numerous as atoms in ten billion immense buddha-lands,
+just as the pure light of the crystal mirror reflects as many worlds as
+atoms in ten buddha-lands. Jewel Hand, all this is accomplished by the
+virtues of the most p rofound concentration of the universal monarch of
+the pure gold net. " 
+`;
+const sutra_36=`
+AT THAT TIME the great enlightening being Universal Good also said to
+the great congregation of enlightening beings, "Offspring of Buddha,
+what has been expounded up till now is just a brief exposition of a little
+bit of the realm of buddhas, adapted so as to be appropriate to the faculties and capacities of sentient beings. Why? The buddhas emerge in the
+world because sentient beings are ignorant and do what is bad, they conceive of self and possessions, they cling to the body, they are deluded and
+confused, they discriminate on the basis of false views and are always in
+bondage, following the flow of birth and death away from the path of
+enlightenment.
+"I do not see anything that is a bigger mistake than for enlightening
+beings to become angry at other enlightening beings. Why? Because if
+enlightening beings become angry at other enlightening beings, that
+creates a million obstacles. What are those million obstacles? They are
+the obstacle of not seeing enlightenment, the obstacle of not hearing the
+true Teaching, the obstacle of being born in an i mpure world, the obstacle of being born in miserable states, the obstacle of being born in places
+where it is difficult to become enlightened, the obstacle of sickliness, the
+obstacle of being the object of much slander, the obstacle of being born
+stupid, the obstacle of loss of right mindfulness and recollection, the
+obstacle of lack of intelligence, obstacles of eye, ear, nose, tongue, body,
+and mind, the obstacle of bad advisers, the obstacle of bad companions,
+the obstacle of inclination toward practice of individualistic liberation,
+the obstacle of inclination toward associating with the vulgar, the obstacle of not believing in people of great spiritual power, the obstacle of
+living with people who have strayed from correct perception, the obstacle of being born in a family of heretics, the obstacle of dwelling in the
+realm of demons, the obstacle of being estranged from the right Teaching of Buddha, the obstacle of not seeing good companions, the obstacle
+of blockage of roots of goodness, the obst1cle of increase of bad conditions, the obstacle of meanness, the obstacle of being born in a remote area, the obstacle of being born in a family of evil people, the obstacle of
+being born among evil spirits, evil ghosts, hobgoblins, demons, titans,
+vipers, and so on, the obstacle of not caring for the Buddha teachings,
+the obstacle of habituation to infantile behavior, the obstacle of clinging
+to the small vehicle of individual salvation, the obstacle of not liking the
+Great Vehicle of universal salvation, the obstacle of fearfulness, the obstacle of anxiety, the obstacle of clinging to mundane routines, the obstacle of not concentrating on the way to enlightenment, the obstacle of not
+liking to see or hear of the spiritual powers of Buddha, the obstacle of
+not acquiring the faculties of enlightening beings, the obstacle of not
+applying the purifying practices of enlightening beings, the obstacle of
+shrinking from the determination of enlightening beings, the obstacle of
+not making the great vow of enlightening beings, the obstacle of not
+developing the determination for omniscience, the obstacle of slacking
+off from the practice of enlightening beings, the obstacle of not being
+able to purify acts, the obstacle of not being able to incorporate great
+virtues, the obstacle of the power of knowledge not being clear and
+keen, the obstacle of shutting off great wisdom and knowledge, the obstacle of not preserving the practices of enlightening beings, the obstacle
+of inclination to repudiate all words of wisdom, the obstacle of estrangement from the enlightenment of the buddhas, the obstacle of inclination
+to abide in the realms of demons, the obstacle of not concentrating on
+cultivating the realm of buddhahood, the obstacle of not definitively
+making the universal commitment of enlightening beings, the obstacle
+of not liking to live with enlightening beings, the obstacle of not seeking
+the roots of goodness of enlightening beings, the obstacle of being opinionated and suspicious, the obstacle of the continual befuddlement of the
+mind, the obstacle of being unwilling to give because of inability to
+practice the impartial generosity of enlightening beings, the obstacle of
+transgression of precepts by being unable to maintain the precepts of the
+Buddha, the obstacle of foolish malevolence and anger due to inability to
+achieve tolerance and forbearance, the obstacle of the defilement of laziness due to inability to act with the great vigor of enlightening beings,
+the obstacle of distraction and confusion due to inability to attain concentration, the obstacle of misused intellect due to failure to cultivate
+transcendent wisdom, the obstacle of lack of familiarity with what is so
+and what is not so, the obstacle of having no means to liberate beings,
+the obstacle of inability to contemplate the knowlege of enlightening
+beings, the obstacle of not knowing enlightening beings' means of
+emancipation, the obstacle of failure to develop the ten great eyes of
+enlightening beings and therefore being as if blind, the obstacle of bt:ing
+dumb as an animal due to not hearing the teaching of nonobstruction,
+the obstacle of destruction of the nose due to not having the marks and
+embellishments of buddhahood, the obstacle of inability to understand
+speech and the consequent inability to speak, the obstacle of physical
+problems due to demeaning sentient beings, the obstacle of mental problems due to lack of control of mind , the obstacle of physical actions due
+to not keeping the precepts, the obstacle of verbal actions due to continually committing faults of speech, the obstacle of mental actions due
+to conceiving much covetousness, anger, and erroneous views, the obstacle of seeking the teaching with a thieving mind, the obstacle of cutting
+off the perspective of enlightening beings, the obstacle of shrinking from
+the effort of enlightening beings, the obstacle of laziness of mind on the
+enlightening beings' way to emancipation, the obstacle of the mind stopping at the entry of the light of knowledge of enlightening beings, the
+obstacle of becoming weak-minded and incapable of the recollective
+power of enlightening beings, the obstacle of being unable to retain the
+teachings of the buddhas, the obstacle of being unable to approach enlightening beings' path of detachment from birth, the obstacle of inability to cultivate the incorruptible path of enlightening beings, the obstacle
+of following the absolute state of one-sided detachment, the obstacle of
+estrangement from the family of the buddhas and enlightening beings of
+all times.
+"If an enlightening being conceives a single feeling of anger toward
+enlightening beings, that produces a million obstacles such as these.
+Why? I do not see anything that is as big a mistake as for enlightening
+beings to become angry at other enlightening beings. Therefore, if great
+enlightening beings want to quickly fulfill the practices of enlightening
+beings, they should diligently practice ten principles: in their minds they
+should not abandon sentient beings; they should think of enlightening
+beings as buddhas; they should never slander any teachings of the buddhas, they should know that there is no end to different lands; they
+should be profoundly devoted to enlightening practices; they should not
+give up the cosmic, spacelike, impartial mind of enlightenment; they
+should contemplate enlightenment and enter the power of buddhas; they
+should cultivate unobstructed intellectual and expository powers; they
+should teach and enlighten beings tirelessly; they should live in all worlds
+without attachment in their minds.
+"When great enlightening beings are living by these ten principles,
+they are able to embody ten kinds of purity. What are these ten? Purity
+of comprehension of the most profound truth; purity of association with
+good associates; purity of preserving the Buddha teachings; purity of
+comprehension of the realm of space; purity of profound penetration
+of the realm of reality; purity of observation of infinite minds; purity of
+having the same roots of goodness as all enlightening beings; purity of
+nonattachment to the various ages; purity of observation of past, present,
+and future; purity of practice of all en lightening teachings.
+"When great enlightening beings persist in these ten things, they become imbued with ten kinds of broad knowledge: that is, knowledge of
+all sentient beings' mental behavior; knowledge of the consequences
+of actions of all sentient beings; knowledge of all Buddha teachings;
+knowledge of the profound, occult import of all Buddha teachings; knowledge of all methods of concentration spells; knowledge of interpretation of all writings; knowledge of the language and speech of all
+sentient beings; knowledge of manifestation of their bodies in all worlds;
+knowledge of manifestation of their reflections in all assemblies; knowledge of embodying omniscience in all realms of being.
+"Once great enlightening beings are established in this knowledge,
+they realize ten kinds of universal entry: all worlds enter one point, one
+point enters all worlds; all beings' bodies enter one body, one body enters
+all beings' bodies; untold eons enter one instant, one instant enters untold
+eons; all Buddhist principles enter one principle, one principle enters all
+Buddhist principles; untold places enter one place, one place enters all
+places; untold faculties enter one faculty, one faculty enters untold faculties; all faculties enter nonfaculty, nonfaculty enters all faculties; all perceptions enter one perception, one perception enters all perceptions; one
+utterance enters all utterances, all utterances enter one utterance; all pasts,
+presents, and futures enter one time frame, one time frame enters all
+pasts, presents, and futures.
+"Once great enlightening beings have contemplated in this way, they
+abide in ten kinds of sublime mind : the sublime mind in which none of
+the perceptions and thoughts of sentient beings can abide; the sublime
+mind of the ultimate realm of space; the sublime mind of the boundless
+cosmos; the sublime mind of all the profound esoteric principles of buddhahood; the sublime mind of the extremely profound state of nondifferentiation; the sublime mind annihilating all doubt and confusion; the
+sublime mind of the nondifferentiated equality of all worlds; the sublime
+mind of the equality of all buddhas of past, present, and future; the sublime mind of the infinity of the power of all buddhas.
+"Once great enlightening beings abide in these ten kinds of sublime
+mind, they acquire ten kinds of technical know lege of the B uddha teachings: technical knowledge comprehending the most profound Buddha
+teaching; technical knowledge of the production of far-reaching Buddha teachings; technical knowledge of exposition of all kinds of Buddha
+teachings; technical knowledge of realizing the Buddha teaching of
+equality; technical knowledge of understanding the B uddha teaching
+of differentiation; technical knowledge of understanding the B uddha
+teaching of nondifferentiation; technical knowledge of profound penetration of the Buddha teaching of adornment; technical knowledge of
+penetrating the Buddha teachings by one means; technical knowledge
+of penetrating the Buddha teachings by innumerable means; technical
+knowledge of nondifference of the boundless Buddha teachings; technical knowledge of nonregression in the Buddha teachings by one's own
+mind and one's own power.
+" When great enlightening beings have heard this teaching, they
+should all be inspired and respectfully accept and hold it. Why? Great
+enlightening beings who hold this teaching quickly attain unexcelled,
+complete perfect enlightenment with a minimum of effort, and all are enabled to embody all qualities of buddhahood, equal to the qualities of
+the buddhas of all times. "
+Then, by the spiritual power of the Buddha as well as by natural law,
+in each of the ten directions as many worlds as atoms in ten unspeakable
+numbers of tens of quintillions of buddha-lands al1 quaked in six ways
+and rained showers from clouds of all flowers surpassing those of the
+heavens, as well as clouds of perfumes, incenses, robes, canopies, banners,
+pennants, jewels, and all kinds of decorations; there rained clouds of
+music, clouds of enlightening beings, clouds of physical forms of untold
+buddhas, clouds of infinite praises of the buddhas, clouds of voices of
+buddhas filling all universes, untold clouds of magically arrayed worlds,
+untold clouds developing enlightenment, untold clouds of light shining,
+and untold clouds of mystic manifestations expounding the Teaching.
+As in this world, at the site of enlightenment, under the tree of enlightenment, in the palace of the enlightening being, the Buddha, the
+Completely Enlightened One, was seen expounding this teaching, so it
+was in all worlds in the ten directions.
+Then , owing to the spiritual power of the Buddha as well as by natural
+law, there came to this land as many great enlightening beings as atoms
+in ten buddha-lands from each of the ten directions, from beyond as
+many worlds as atoms in ten infinities of buddha-lands. Filling the ten
+directions, they spoke these words to Universal Good: "It is very good,
+Offspring of Buddha, that you can explain this profound teaching of the
+giving of the prophecy of enlightenment, the greatest promise of the
+buddhas. We are all named Universal Good, the same as you, and each
+have come to this land from a world called Universal Excellence, from
+the company of buddhas called Freedom Representative of Universality.
+All, by the spiritual power of Buddha, expound this teaching, with such
+assemblies and such utterances, all equal, with neither increase nor decrease. We have all come to this enlightenment site by the B uddha's
+spiritual power to be witnesses for you. As we innumerable enlightening
+beings serve as witnesses at this site of enlightenment, the same is so in all
+worlds in the ten directions. "
+Then the great enlightening being Universal Good, by the spiritual
+power of the Buddha and by the power of his own roots of goodness,
+looked over the ten directions, throughout the cosmos; wishing to elucidate the practice of enlightening beings, to tell of the realm of enlightenment of the buddhas, to explain the realm of great vows, to explain the
+reckoning of ages of all worlds, to clarify the timely appearance of the
+buddhas, to explain how the buddhas develop beings according to their
+faculties, appearing to let them attend them, to make it clear that the
+effort of the buddhas' appearance in the world is not wasted, to make it
+clear that roots of goodness that are planted will surely bear fruit, and to
+clarify how enlightening beings of great spiritual power manifest forms
+for all sentient beings to teach and enlighten them, spoke these verses:
+
+You should rejoice,
+Get rid of all veils,
+And single-mindedly listen with respect
+To the vows and acts of enlightening beings.
+The enlightening beings of the past
+Were supreme lions of humanity;
+The practices they carried out
+I shall tell in order.
+I will also tell the numbers of ages
+The worlds and acts
+And the peerless honored ones
+Who emerged therein.
+As for those past buddhas
+Who appeared in the world by their vows,
+How did they destroy afflictions
+For all sentient beings?
+All the lions of philosophy
+Continue practice to fulfillment,
+Attaining the state of equality of buddhas,
+The realm of omniscience.
+Seeing all the human lions
+Of past ages
+Emanating great networks of lights
+Illumining the worlds of the ten directions,
+They reflected and made their vows:
+"I should be a lamp for the world
+Replete with the virtues of buddhahood,
+Their ten powers, their omniscience.
+All sentient beings
+Burn with greed, anger, and folly;
+I should save and free them,
+Have them extinguish the pains of the states of woe."
+They make such vows,
+Steadfast, unregressing,
+To cultivate all enlightening practices
+And gain the unimpeded ten powers.
+Having made such vows,
+They cultivate practice without shrinking back. 
+
+None of their actions are in vain,
+Thus they are called lions of philosophy.
+In one eon of virtue
+A thousand buddhas emerged in the world:
+Their universal eyes
+I will explain in order.
+As in one eon of virtue
+So too in measureless eons;
+Those future buddhas' practices
+I will explain distinctly.
+As in one type of buddha-land,
+So in numberless lands;
+The practices of future buddhas
+I will now explain.
+Buddhas' successive emergence in the world,
+What were their vows, what their names,
+What were the prophecies they received,
+What were their life spans,
+What were the true principles they practiced
+Solely seeking the unobstructed path,
+Who were the beings they taught,
+How long their right teaching remained in the world,
+What were the buddha-lands they purified,
+The sentient beings there and the cycles of teaching,
+Their explanation of proper and improper timing,
+Progressively purifying beings,
+What were the actions of the beings,
+Their patterns and inclinations,
+High, middling, low, not the same,
+How they influenced them to practicePenetrating such knowledge,
+The future buddhas cultivated the supreme practice,
+Always doing the work of Universal Good,
+Widely freeing the living.
+Physical actions unimpeded,
+Verbal actions all pure,
+Mental actions also thus,
+Always like this at all timesEnlightening beings acting thus
+Consummate the path of Universal Good, 
+Producing the sun of pure knowledge
+Illuminating the cosmos.
+The lands of future eons
+A re unspeakably many in number;
+They know them all in an instant
+Without discrimination among them.
+Those who practice can enter into
+Such a supreme state:
+Of these principles of enlightening beings
+I shall tell a little.
+Knowledge and wisdom boundless,
+They realize the scope of buddhahood;
+Entering completely therein,
+Their practice does not regress.
+Replete with Universally Good wisdom,
+They fulfill Universally Good vows
+And enter the peerless knowledge;
+I shall tell of their practice.
+In a single atom
+They see all worlds;
+If sentient beings should hear of this,
+They'd go mad in confusion.
+As in one atom,
+So in all atoms;
+All worlds enter thereinSo inconceivable is it.
+In every single atom
+A re all things of all places and times;
+The states and lands, innumerable,
+The enlightening discern and know.
+In every single atom
+Are countless kinds of buddha-lands,
+And each kind is also countless;
+They know all in one.
+All the various different features
+That there are in the cosmos,
+
+The types of beings, each different,
+They can discern and know.
+Deeply entering subtle knowledge,
+They distinguish the worlds;
+The becoming and decay of all ages
+They can clearly explain.
+They know the length and brevity of all ages,
+And that past, present, and future are one moment:
+The sameness and difference of myriad practices
+They all distinctly know.
+They penetrate all worlds,
+Vast and small,
+One body countless lands,
+One land, countless bodies.
+The innumerable features
+Of the worlds of different species
+In the ten directions
+They know entirely.
+Those of most profound knowledge
+Comprehend the becoming and decay
+Of the numberless lands
+Of past, present, and future.
+Of the worlds in the ten directions,
+Some are forming, some decaying:
+Infinite though they be,
+The virtuous comprehend them all.
+There are some lands
+With variously adorned ground,
+And the beings are also adornedThis is due to purity of action.
+Then again some lands
+Have countless kinds of pollution;
+This is due to beings experiencing everything
+According to their acts.
+Infinite, boundless worlds,
+The enlightening know are one land;
+
+Thus do they enter all lands,
+Whose number cannot be known .
+All worlds
+Enter one land:
+The worlds do not become one,
+Yet there is no mixup.
+Worlds are inverted and upright,
+Some high, some lowAll are the perceptions of beings:
+The enlightening discern them all.
+The wide worlds
+Are infinite, boundless;
+They know all kinds are one
+And know that one is various.
+The Universally Good offspring of Buddha
+Can, by Universally Good knowledge,
+Know the number of lands,
+Though the number is boundless.
+They know the projections of worlds,
+The projections of lands and beings,
+The projections of teachings and buddhasAll to the ultimate point.
+All worlds,
+Micro- and macrocosmic,
+Various different arraysAll arise from action.
+Infinite enlightening beings
+Learn to enter the reality realm;
+Their spiritual powers free,
+They reach everywhere in the ten directions.
+If the names of those worlds were spoken
+For eons as many as beings,
+They still could not be all toldOnly Buddha can reveal them.
+The various names
+Of the worlds and buddhas 
+
+Could not be fully told
+Even in countless eons.
+The most excellent wisdom,
+The teachings of buddhas of all times,
+Are born from the realm of reality
+And fill the state of enlightenment.
+With pure, unobstructed mindfulness,
+Boundless, unimpeded wisdom,
+They analyze the reality realm
+To reach the other shore.
+The worlds of the past,
+Great and small,
+The arrangements they have developed,
+Buddhas know in an instant.
+The human lions therein
+Cultivate the various practices of buddhas,
+Attain to true awakening,
+And manifest their freedoms.
+Enlightening beings know all
+Such buddhas of the future,
+The most noble of humans
+In boundless ages to come,
+All their undertakings,
+All their various states,
+How they strive in practice,
+And therein attain enlightenment.
+They know their congregations,
+Their life spans, and the beings they teach,
+By what means they teach,
+Turning the wheel of truth for the masses.
+Knowing this, enlightening beings
+Abide in the stage of Universally Good practice,
+Their knowledge and wisdom, thoroughly clear,
+Giving birth to all the buddhas.
+They enter deeply
+Into all the buddha-lands
+There are in the present
+And arrive at the reality realm. 
+
+All the present buddhas
+In all those worlds
+A re masters of teaching,
+Unhindered in discourse .
+They also know their congregations,
+Pure lands, and adaptive powers;
+For countless million eons
+They always ponder these things.
+The awesome psychic powers
+And endless stores of knowledge
+Of the noble Tamers of the World,
+The enlightening beings know all.
+Producing unobstructed eyes,
+Unobstructed ears, noses, bodies,
+And unobstructed universal tongues,
+They can gladden sentient beings.
+Their supreme, unobstructed minds
+A re broad and totally pure;
+Their knowledge pervading all,
+They know all things of all times.
+They study all projections,
+Projections of lands and beings,
+Of worlds and civilizations,
+A nd finally reach the other shore of projections.
+The various distinctions of all worlds
+All are there due to perceptions and thoughts;
+Entering buddhas' knowledge of means,
+They clearly understand all this.
+For each of untold groups
+They manifest embodiment
+Causing all to see the B uddha,
+A nd liberating boundless beings.
+The profound knowledge of buddhas
+Is like the sun coming out in the world,
+Ever appearing everywhere
+In all lands.
+They realize all worlds
+Are provisional names, without reality; 
+
+Sentient beings and worlds
+Are like dreams, like shadows.
+They do not produce false discriminatory views
+About the things of the world:
+Those free from false discrimination
+Do not even see false discriminations.
+Measureless, countless eons
+They understand are one moment;
+And they know a moment has no momentThus do they see the world.
+Innumerable lands
+They cross over in an instant,
+Yet through measureless eons
+They don't move from their original place.
+Untold eons
+Are the space of a moment;
+Not seeing long or short,
+They find ultimate instantaneousness.
+Mind is in the world,
+World is in the mindAbout this they do not wrongly create
+Discriminations of duality and nonduality.
+Beings, worlds, ages,
+Buddhas and Buddha teachingsAll are like illusory projections:
+In the reality realm all is equal.
+Throughout the lands of the ten directions
+They manifest infinite bodies;
+Knowing bodies arise from conditions,
+They have no attachments at all.
+Based on nondual knowledge
+They manifest the buddhas,
+Without attachment to nonduality,
+Knowing there is no duality or nonduality.
+They realize that all worlds
+Are like flames, like lights, 
+
+Like echoes, like dreams,
+Like illusions, like emanations.
+Thus they accordingly enter
+The sphere of action of the buddhas
+And achieve Universally Good knowledge
+Illumining all the profound realm of truth.
+Attachments to beings and lands
+They completely give up,
+Yet rouse minds of great compassion
+And purify all worlds.
+Enlightening beings always rightly remember
+The marvelous teachings of the buddhas,
+Pure and clear as space,
+Yet producing great expedient means.
+Seeing the world always deluded,
+They determine to save and liberate all:
+Their undertakings are all pure,
+Extending throughout all universes.
+Buddhas and enlightening beings,
+Buddhist principles and things of the worldIf you see their reality,
+All are no different from one another.
+Buddhas' reality-body matrix
+Is in all worlds,
+Yet while being in the world
+Has no attachment to the world.
+Just as in clear water
+Reflections have no coming or going,
+The reality-body's being in the world
+Is also like this.
+Thus freed from attachment,
+Body and world are both pure:
+Clear and still as space,
+There is no birth at all.
+Knowing the body has no end,
+No birth and no destruction, 
+
+
+Being neither eternal nor impermanent,
+They show it in all worlds.
+Destroying false views,
+They point out correct insight:
+The essence of things has no coming or going,
+Is uninvolved with self or possession.
+As when a skilled magician
+Causes various things to appear,
+Their coming is from nowhere
+And they go nowhere,
+The nature of illusions is not finite
+Nor is it infinite,
+But in the midst of the crowd
+He manifests the finite and infinite,
+Similarly by the mind in silent concentration
+Cultivating roots of goodness
+Produces all buddhas,
+Neither finite nor infinite:
+Finiteness and infinity
+Are deluded notionsComprehending all states of being,
+The enlightening do not cling to finiteness or infinity.
+The buddhas' most profound truth
+Is vast, deep, ultimate quiescence;
+Their profound, measureless knowledge
+Knows the deepest states.
+Enlightening beings are freed from delusion,
+Their purity of mind is continuous;
+By means of spiritual powers
+They skillfully liberate numberless beings.
+To those not at rest they bring rest,
+To those at peace they show the site of enlightenment.
+Thus do they go throughout the cosmos,
+Their minds without attachment.
+Not dwelling on ultimate reality
+And not entering nirvana,
+Thus they go throughout the worlds
+Enlightening living beings.
+The classes of phenomena and beings
+They know without being attached; 
+
+
+Everywhere showering the rain of truth,
+They fill and enrich all worlds.
+In all worlds
+They realize true awakening moment to moment
+Yet cultivate the practice of enlightening beings
+Without ever retreating.
+The various bodies in the world
+They know all completely;
+Thus knowing physical phenomena
+They realize the body of buddhas.
+They know all sentient beings,
+All ages and lands,
+Throughout the ten directions, boundless,
+Entering fully into the ocean of knowledge.
+Beings' forms are infinite;
+For each the buddhas manifest a body.
+The buddhas' bodies are boundlessThe wise observe them all.
+What they know in one moment
+Manifests the buddhas,
+Impossible to fully tell
+Even in measureless eons.
+The buddhas can manifest their bodies
+Passing finally away in any place;
+In an instant innumerable relics
+Are individually divided.
+Thus those of certain knowledge
+Know the infinite will for enlightenment
+Of the seekers of buddhahood
+In the ages to come.
+Ability to know in this way
+All the enlightened ones
+Of past, present, and future
+Is called maintaining the practice of Universal Good.
+Thus distinctly knowing
+Countless stages of practice,
+Entering the abode of wisdom,
+The cycle never rolls back.
+
+Subtle, extensive knowledge
+Entering deeply into the sphere of buddhahood
+And having entered, not regressing
+Is called Universally Good wisdom.
+All the supremely noble ones
+Enter the realm of buddhahood;
+Their practice never regressing,
+They attain unexcelled enlightenment.
+The different individual actions
+Of infinitely many minds
+All come from accumulations of conceptions:
+The equanimous know them all.
+Defiled or undefiled,
+Learners' minds, nonlearners' mindsUntold numbers of minds
+They know at every moment.
+They know they are not one or two,
+Not defiled and not pure,
+And also without mixtureAll arise from one's own notions.
+Thus they clearly see
+All living beings
+With minds and thoughts each different
+Creating various worlds.
+By such means
+Cultivating supreme practice
+And being reborn from the Teaching
+They can be called Universally Good.
+Sentient beings all wrongly produce
+The conceptions of the good and bad states;
+Because of this they may be born in heaven
+Or then again fall into hell.
+Enlightening beings see the worlds
+As produced by the action of false ideas;
+Because false ideas are boundless
+Infinite too are the worlds. 
+
+All lands are manifestations
+Of the network of conceptions;
+By the means of the net of illusion
+One can instantly enter them all.
+Eye, car, nose, tongue, body,
+And the intellect too are thusConceptions of the world are different;
+All can be equally contained therein.
+In each object of the eye
+There arc infinite eyes immanent,
+Their various natures different,
+M easureless, unspeakable.
+What is seen has no difference
+And also no mixup;
+Everyone, according to his own acts,
+Experiences the resulting consequences.
+The power of Universal Good is infinite,
+Knowing them all completely;
+In all objects of eyes
+There is great knowledge immanent.
+Thus enlightening beings know distinctly
+Every worldly realm
+And cultivate all enlightening practices
+Without ever turning back.
+Buddhas teach, beings teach,
+And lands teach too:
+Everything in all times teaches thusThe enlightening ones know every particular.
+The future is the past,
+The present is the future,
+The three times look to each other;
+The enlightening understand each.
+Thus in infinite ways
+They a waken the worlds:
+No boundaries can be found
+To the means of total knowledge. 
+
+
+`;
+const sutra_37=`
+THEN, from the circle of white hair between his brows, the Buddha
+emitted a great beam of light called manifestation of the realizer of
+Thusness, accompanied by countless trillions of light beams. That light
+illumined all the worlds in the whole cosmos, circling ten times to the
+right, revealing the immeasurable powers of the enlightened, awakening
+countless enlightening beings, shaking all worlds, extinguishing the
+suffering of all states of misery, eclipsing the abodes of all demons, and
+showing all buddhas sitting on the seat of enlightenment attaining perfect awakening, as well as all the assemblies at the sites of enlightenment.
+Having done all this, the light returned and circled the assembly of enlightening beings, then entered the head of the enlightening being Wondrous Qualities of Natural Origination of Buddha.
+Now the masses at this enlightenment site were elated, ecstatic; they
+thought, "How extraordinary! Now that the Buddha has radiated great
+light, surely he will expound a most profound great teaching." Then the
+enlightening being Wondrous Qualities of Natural Origination of Buddha, on a lotus blossom seat, bared his right shoulder, knelt on his right
+knee, joined his palms, turned toward the Buddha with total attention,
+and spoke these verses:
+The Truly Awake, the Virtuous, the Great Sage, emerges,
+Comprehending all objects, reaching the Other Shore,
+Equal to the buddhas of past, present, and future;
+Therefore I now pay reverent obeisance.
+Having risen to the shore of the signless realm
+And appeared in a body magnificently arrayed with wondrous
+marks,
+He radiates thousands of undefiled beams of light
+And destroys the hordes of demons entirely.
+All the worlds in the ten directions
+He causes to quake without exception, 
+Yet without frightening a single sentient beingSuch is the spiritual power of the Felicitous One.
+Equal in essence to space and the cosmos,
+He can remain as stable as they.
+All the living, without count or measure,
+He has destroyed evil and removed defilements.
+Working hard at austere practices for countless ages,
+He fully attained the highest enlightenment,
+His knowledge unhindered in the midst of all objects,
+Of the same nature as all the buddhas.
+The Guide radiates these great beams of light,
+Shaking the worlds in the ten directions;
+Displaying measureless mystic powers,
+They have returned and entered my body.
+Well able to learn the definitive teaching,
+Countless enlightening beings have assembled here
+And inspired me to ask about the Teaching,
+Wherefore I now petition the Sovereign Teacher.
+This assembly is now clear and serene,
+Able to liberate all in the world,
+Their wisdom boundless, without attachmentsSuch eminent sages have all gathered here.
+The benefactor of the world, the noble guide,
+With wisdom and energy beyond measure
+Now illumines the crowd with great light
+Causing me to ask about the unexcelled Teaching.
+Who can truly expound in full
+The profound realm of the great wizard?
+Who is the inheritor of the Buddha doctrine?
+Noble Guide of the World, please show us.
+971
+Then the Buddha emitted a great beam of light, called unimpeded
+confidence, from his mouth, accompanied by countless trillions of light
+beams, illumining all worlds in the cosmos, circling ten times to the
+right, showing the various controlling powers of the Buddha, awakening innumerable enlightening beings, shaking all the worlds of the ten
+directions, extinguishing the pains of all states of misery, eclipsing all
+abodes of demons, and showing all the buddhas on the seat of enlightenment attaining true awakening, as well as the assemblies at all those sites of enlightenment. Having done all this, the lights came back, circled the
+assembly of enlightening beings, and entered the mouth of the enlightening being Universally Good, after which the body and lion throne of
+Universally Good surpassed their former condition, and that of the other
+enlightening beings a hundredfold, surpassing all except the lion throne
+of the Buddha.
+Then the enlightening being Wondrous Qualities of N atural Origination of Buddha asked the great enlightening being Universally Good,
+"This vast miraculous display manifested by the Buddha, causing all the
+enlightening beings joy, is inconceivable, incomprehensible to the world
+-what is this auspicious sign?" Universally Good replied, " In the past
+when I saw buddhas show such tremendous mystic displays, they expounded the teaching of the manifestation of Buddha. I think that now
+since he has displayed this sign, he is going to expound this teaching.
+When this teaching is expounded, the whole earth quakes and immeasurable lights asking about the teaching are produced."
+Then the enlightening being Wondrous Qualities of Natural Origination of Buddha asked the enlightening being Universally Good, " How
+should great enlightening beings know the principle of the manifestation
+of the buddhas, those who realize Thusness, those who are truly awake?
+Please tell us; these countless trillions of enlightening beings have all cultivated purifying practice for a long time, their recollection and precise
+awareness is fully developed, they embody the dignity of all buddhas,
+they have reached the consummation of ultimate great adornment, they
+correctly remember all buddhas without forgetting, they observe all
+sentient beings with great compassion, they know with certainty the
+spheres of spiritual powers of great enlightening beings, they have
+already received the support of the spiritual power of buddhas, they
+are able to receive the sublime teachings of all buddhas: imbued with
+immeasurable such virtues, they have all come and gathered here. You
+have already attended and served countless quintillions of buddhas,
+accomplished the supreme practice of enlightening beings, have attained
+mastery of all modes of concentration, have penetrated the esoteric
+secrets of all buddhas, know all ways of enlightenment, have put an end
+to all doubt, are supported by the spiritual power of the buddhas, know
+the faculties of sentient beings and explain ways of genuine liberation to
+them according to their inclinations, follow the know ledge of Buddha,
+expound the Buddha teachings, and have reached the Other Shore. You
+have infinite such virtues, worthy of praise. Please explain the phenomena of the manifestation of the buddhas, those who realize Thusness,
+the truly awake-their physical forms, utterances, states of mind, practices, enlightenment, and preaching, until their manifestation of entry
+into ultimate extinction, and the roots of goodness generated by seeing,
+hearing, and associating with them. Please tell us about all these things."
+Then the enlightening being Wondrous Qualities of Natural Origin of
+Buddha, desiring to reiterate his point, spoke these verses to the enlightening being Universally Good: 
+
+Excellent sage of unimpeded wisdom,
+You are well aware of the boundless realm of equality.
+Please explain the practices of infinite buddhas;
+The enlightening beings will be happy to hear them.
+How can enlightening beings follow and comprehend
+The buddhas' emergence in the world?
+What are their spheres of body, speech, and mind?
+Tell us this, and their spheres of action too.
+How do buddhas attain true enlightenment?
+How do buddhas turn the wheel of the Teaching?
+How do the Blissful Ones pass away?
+The masses will be happy to hear.
+Of those who see the buddhas, great spiritual sovereigns,
+Attend them and develop roots of goodness,
+Please tell us the stores of virtue
+And what the beings who see them attain .
+If any hear of buddhas' names,
+W hether present in the world or extinct,
+And deeply believe in their treasury of merit,
+Tell us how they will benefit.
+These enlightening beings, all in an attitude of respect,
+Are gazing at the Buddha, and at you and me;
+Please tell them of the ocean of virtues
+Which purifies living beings.
+Please explain the meanings in the wondrous teaching
+With stories and examples;
+When beings hear, they will be greatly inspired,
+973
+Their doubts will end and their knowledge will be clear as space.
+Like the glorified bodies manifested
+By buddhas throughout all lands,
+By marvelous speech, stories, and examples
+Please show the enlightenment of buddhas like them.
+In millions of buddha-lanJs in the ten directions,
+In countless billions of eons,
+It is hard to see such enlightening beings
+As have gathered here now.
+These enlightening beings are all reverent,
+Eager for the subtle doctrine; 
+Please expound with pure mind
+The great phenomena of Buddha's manifestation.
+Then the enlightening being Universally Good said to the great congregation of enlightening beings, "This matter is inconceivable. The
+Buddha, the one who realizes Thusness, the worthy, the truly awake,
+becomes manifest by means of infinite phenomena. Why? It is not by
+one condition, by one phenomenon, that the manifestation of Buddha
+can be accomplished. It is accomplished by ten infinities of things. What
+are the ten? It is accomplished by the mind of enlightenment that took
+care of infinite sentient beings in the past. It is accomplished by the infinite supreme aspirations of the past. It is accomplished by great benevolence and compassion, which infinitely saved all sentient beings in the
+past. It is accomplished by infinite continuous commitments of the past.
+It is accomplished by infinite cultivation of virtues and knowledge tirelessly in the past. It is accomplished by infinite service of buddhas and
+education of sentient beings in the past. It is accomplished by infinite
+pure paths of wisdom and means in the past. It is accomplished by infinite
+pure virtues of the past. It is accomplished by infinite ways of adornment
+in the past. It is accomplished by infinite comprehensions of principles
+and meanings in the past. When these infinite, incalculable aspects of the
+Teaching are fulfilled, one becomes a buddha.
+"It is as a billion-world universe is not formed just by one condition,
+not by one phenomenon-it can be formed only by innumerable conditions, innumerable things. That is to say, the rising and spreading of
+great clouds and showering of great rain produce four kinds of atmosphere, continuously making a basis. What are those four? One is called
+the holder, because it can hold the great waters. Second is called the
+evaporator, because it can evaporate the great waters. Third is called
+structure, because it sets up all places. Fourth is called arrangement,
+because the arrangement and distribution are all functional. These are all
+produced by the joint actions of sentient beings and by the roots of
+goodness of enlightening beings, enabling all sentient beings to get the
+use of what they need. Innumerable such causes and conditions form the
+universe. It is such by the nature of things-there is no producer or
+maker, no knower or creator, yet the worlds come to be.
+"The manifestation of Buddha is also like this-it does not come
+about through just one condition or thing, but by innumerable causes
+and conditions, innumerable phenomena. That is, having heard, received, and held the clouds and rain of the great Teaching from past
+buddhas, by this can be produced the four kinds of atmosphere of great
+knowledge of the enlightened. What are these four? One is the atmosphere of great knowledge of mental command able to retain memory
+without forgetting, being able to hold the great clouds and rain of
+teachings of all buddhas. Second is the atmosphere of great knowledge
+producing tranquillity and insight, being able to evaporate all afflictions. 
+
+Third is the atmosphere of great knowledge of skillful dedication, being
+able to perfect all roots of goodness. Fourth is the atmosphere of great
+knowledge producing undefiled, variegated, magnificent arrays of
+adornments, causing the roots of goodness of all beings taught in the past
+to be purified, and consummating the power of the untainted roots of
+goodness of the enlightened. The buddhas' attainment of enlightenment
+in this way is thus by the nature of things-without production or creation, it nevertheless takes place. This is the first characteristic of the manifestation of the completely enlightened, the truly awake. Great enlightening beings should know it as such.
+"Furthermore, just as when a billion-world universe is about to form,
+the rain falling from the great clouds, called 'the deluge,' cannot be
+absorbed or held by any place except the universe when it is about to
+form, in the same way when the Buddha rouses the clouds of the great
+Teaching and showers the rain of the great Teaching, those of the two
+lesser vehicles, whose minds and wills are narrow and weak, cannot
+absorb or hold it-this is possible only for the great enlightening beings
+with the power of mental continuity. This is the second characteristic of
+the manifestation of Buddha-great enlightening beings should know it
+as such.
+"Furthermore, just as sentient beings, by the force of their acts, shower
+rain from great clouds, which do not come from anywhere or go anywhere, in the same way great enlightening beings, by the power of their
+roots of goodness, rouse the clouds of the great Teaching and shower the
+rain of the great Teaching, yet it comes from nowhere and goes nowhere. This is the third characteristic of the manifestation of Buddhagreat enlightening beings should know it as such.
+" Furthermore, just as no beings in the universe can count the drops of
+rain pouring from great clouds, and would go crazy if they tried, for
+only the overlord god of the universe, by the power of roots of goodness
+cultivated in the past, is aware of every single drop, in the same way the
+Buddha produces great clouds of teachings and showers great rain of
+teachings that all sentient beings, seekers of personal salvation, and selfenlightened ones cannot know, and they would surely go mad if they
+tried to assess them in thought; only the great enlightening beings, lords
+of all worlds, by the power of awareness and intellect cultivated in the
+past, comprehend every single expression and phrase, and how they
+enter beings' minds. This is the fourth characteristic of the manifestation
+of Buddha-great enlightening beings should know it as such .
+"Furthermore, it is as when great clouds shower rain, there is a great
+cloud raining called the extinguisher, because it can extinguish fires;
+there is a great cloud raining called producer, because it can produce
+floods; there is a great cloud raining called stopper, because it can stop
+floods; there is a great cloud raining called maker, because it can make all
+kinds ofjewels; there is a great cloud raining called distinguisher, because
+it can distinguish the billion worlds of the universe. The Buddha manifesting is also like this, producing great clouds of teaching, showering
+great rains of teaching: there is a great rain of teaching called extinguisher because it can extinguish all sentient beings' afflictions; there is
+a great rain of teaching called producer because it can produce all sentient beings' roots of goodness; there is a great rain of teaching called
+stopper because it can stop all sentient beings' delusions of views; there
+is a great rain of teaching called maker because it can make all jewels of
+wisdom; there is a great rain of teaching called distinguisher because it
+distinguishes the inclinations of all sentient beings. This is the fifth characteristic of the manifestation of Buddha-great enlightening beings
+should know it as such.
+"Furthermore, just as the great clouds rain water of one flavor, yet
+there are innumerable differences according to where it rains, in the same
+way Buddha appearing in the world rains water of teaching of one flavor
+of great compassion, yet his sermons according to the needs of the situation are infinitely variegated. This is the sixth characteristic of the manifestation of Buddha-great enlightening beings should know it as such.
+"Furthermore, as when a billion-world universe first forms, the abodes
+of the heavens in the realm of form are made first, then the abodes of the
+heavens in the realm of desire, and then the abodes of human and other
+beings, similarly Buddha appearing in the world first produces the
+knowledge of practices of enlightening beings, then the knowledge of
+practices of individual illuminates, then the knowledge of practices of listeners, then the knowledge of practices of the conditional roots of goodness of other sentient beings. Just as the great clouds rain water of one
+flavor while the abodes created are variously dissimilar according to the
+differences in roots of goodness of the sentient beings, Buddha's spiritual
+rain of the one flavor of corn passion has differences according to the vessels, or capacitites of sentient beings. This is the seventh characteristic of
+the manifestation of Buddha-great enlightening beings should know it
+as such.
+"Furthermore, when the worlds are beginning, there is a great flood
+filling the billion-world universe, producing enormous lotus flowers,
+called array of jewels of virtues of the manifestation of Buddha, which
+cover the surface of the waters, their radiance illumining all worlds in
+the ten directions. Then the overlord god, the gods of the pure abodes,
+and so on, seeing these flowers, know for certain that in this eon there
+will be that many buddhas appearing in the world. At that time there
+arises an atmosphere called highly purified light which makes the mansions of the heavens of the realm of form. There arises an atmosphere
+called array of pure lights which makes the mansions of the heavens of
+the world of desire. There arises an atmosphere called firm, dense, and
+indestructible, which makes the great and small peripheral mountains
+and the iron mountains. There arises an atmosphere called supremely
+high which makes the polar mountains. There arises an atmosphere called
+immovable which makes the ten great mountains. There arises an atmosphere called stabilization which makes the earth. There arises an atmosphere called adornment which makes the palaces of the earth and sky,
+of the water and sound spirits. There arises an atmosphere called inexhaustible treasury which makes all the oceans of the billion worlds.
+There arises an atmosphere called treasury of universal light which
+makes all the jewels of the billion worlds. There arises an atmosphere
+called steadfast root which makes all the wish-fulfilling trees of the billion worlds. The one-flavored water rained by the great clouds has no
+distinctions, but because the roots of goodness of sentient beings are not
+the same, the atmospheres are not the same, and because of the differences of the atmospheres, the worlds are different. The manifestation of
+Buddha is also like this, replete with the virtues of all roots of goodness,
+emitting the light of unexcelled great knowledge, called inconceivable
+knowledge perpetuating the lineage of buddhas, illumining all worlds in
+the ten directions, giving the enlightening beings the prediction that they
+will be coronated by all buddhas, attain true enlightenment, and appear
+in the world. The Buddha manifesting has another light of unexcelled
+great knowledge, called pure and undefiled, which makes the untainted
+inexhaustible knowledge of the enlightened. There is another light of
+unexcelled great knowledge, called universal illumination, which makes
+the Buddha's inconceivable knowledge universally penetrate the realm
+of reality. There is another light of unexcelled great knowledge, called
+sustaining the nature of buddhahood, which makes the insuperable
+power of Buddha. There is another light of unexcelled great knowledge,
+called outstanding and incorruptible, which makes Buddha's fearless and
+incorruptible knowledge. There is another light of unexcelled great
+knowledge, called all spiritual powers, which makes Buddha's unique
+qualities and omniscience. There is another light of unexcelled great
+knowledge, called producing mystic transformation, which makes Buddha's knowledge of how to cause the roots of goodness produced by
+seeing, hearing, and attending Buddha to not be lost or decay. There is
+another light of unexcelled great knowledge, called universal accord,
+which makes Buddha's body of endless virtue and knowledge, doing
+what is beneficial for all beings. There is another light of unexcelled
+great knowledge, called inexhaustible, which makes Buddha's extremely
+profound, subtle knowledge causing the lineage of the three treasures not
+to die out, according to those who are enlightened by it. There is another
+light of unexcelled great knowledge, called various adornments, which
+makes the glorified body of Buddha, gladdening all sentient beings.
+There is another light of unexcelled great knowledge, called indestructible, which makes the inexhaustible, supreme life span of Buddha equal
+to the cosmos and the realm of space. Buddha's water of the one flavor
+of compassion has no distinction, but because sentient beings' inclinations are not the same and their faculties and characters are different, it
+produces various atmospheres of great knowledge, enabling the sentient
+beings to accomplish the actual manifestation of buddhahood. All buddhas are one and the same in essence; from the sphere of great knowledge
+they produce various kinds of lights of knowledge. You should know
+that Buddha, from the single flavor of liberation, produces infinite, inconceivable qualities of various kinds, which sentient beings think are
+products of the Buddha's supernormal powers, but which actually are
+not created by the supernormal powers of Buddha. There is not a single
+enlightening being who can ever attain even a little bit of the knowledge
+and wisdom of buddhas without having planted roots of goodness in the
+company of buddhas. It is just that by the spiritual power of the buddhas
+sentient beings are enabled to embody the qualities of buddhahood; yet
+the buddhas have no discrimination . There is no creation, no destruction,
+no creator, and nothing created. This is the eighth characteristic of the
+manifestation of Buddha-great enlightening beings should know it as
+such.
+" Furthermore, it is like the arising of four atmospheres in space that
+can sustain the sphere of water. Of these four, one is called stability, the
+second permanence, the third ultimacy, and the fourth firmness. These
+four atmospheres can sustain the sphere of water; the sphere of water can
+sustain the earth and prevent it from falling apart-therefore it is said
+that the sphere of earth rests on the sphere of water, the sphere of water
+rests on the atmosphere, the atmosphere rests on space, and space does
+not rest on anything; but though space does not rest on anything, it enables the universe to abide. The manifestation of Buddha is also like this,
+producing Buddha's four kinds of atmosphere of great knowledge based
+on the unimpeded light of wisdom, able to sustain the roots of goodness
+of all sentient beings. What are those four? The atmosphere of great
+knowledge taking care of all sentient beings and inspiring joy in them;
+the atmosphere of great knowledge setting up right teaching and causing
+sentient beings to take to it; the atmosphere of great knowledge preserving all sentient beings' roots of goodness; the atmosphere of great knowledge containing all appropriate means, arriving at the realm where there
+are no taints or contaminations. The buddhas benevolently rescue all
+living beings, compassionately liberate all living beings, their great benevolence and compassion universally aiding all: however, great benevolence and great compassion rest on great skill in means; great skill in
+means rests on the manifestation of Buddha; the manifestation of Buddha rests on the light of unimpeded wisdom; the light of unimpeded
+wisdom does not rest on anything. This is the ninth characteristic of the
+manifestation of Buddha-great enlightening beings should know it as
+such.
+"Furthermore, once the billion-world universe has formed, it benefits
+countless various sentient beings-the water creatures receive the benefits of the water, the land creatures receive the benefit of the land, the sky
+creatures receive the benefit of the sky. In the same way the manifestation of Buddha variously benefits all kinds of beings-those who become joyful on seeing Buddha gain the benefit of joy, those who abide by the pure precepts gain the benefit of pure conduct, those who abide in
+the meditations, concentrations, and immeasurable minds gain the benefit of transmundane spiritual powers of saints, those who abide in the
+lights of the ways of entry into the Teaching gain the benefit of the nondissolution of cause and effect, those who abide in the light of nonexistence gain the benefit of nondissolution of all truths. Therefore we say
+the manifestation of Buddha benefits all sentient beings. This is the tenth
+characteristic of the manifestation of Buddha-great enlightening beings
+should know it as such.
+" When great enlightening beings know the manifestation of Buddha,
+they know it is infinite because they know it consummates infinite practices; then they know it is immensely vast because they know it pervades
+the ten directions; then they know it has no coming or going because
+they know it is apart from birth, subsistence, and extinction; then they
+know it has no action and nothing acted upon because they know it is
+beyond mind, intellect, and consciousness; then they know it is impartial
+because they know all sentient beings have no self; then they know it is
+endless because they know it pervades all lands without end; then they
+know it is unreceding because they know it will never be stopped in the
+future; then they know it has no decay because the Buddha's knowledge
+has no counterpart; then they know it is nondual because they know
+Buddha equally observes the conditional and the unconditional; then
+they know all sentient beings gain benefit because the dedication of Buddha's original vows are freely fulfilled."
+Then the great enlightening being Universally Good, wishing to restate his point, spoke these verses:
+The Ten-Powered Great Hero is supreme,
+Incomparable as space,
+With a sphere so vast it cannot be measured,
+Virtues most eminent, beyond the world.
+The virtues of the ten powers are boundless,
+Unreachable by thought:
+A single teaching of the human lion
+No sentient beings can know in a hundred million eons.
+If the lands of the ten directions were reduced to dust,
+Those motes of dust might be counted,
+But the virtues in a single hair of Buddha
+Could not be told in a trillion eons.
+If someone took a ruler to measure space
+And someone followed to keep the account,
+The bounds of space could not be foundSo it is with the realm of Buddha.
+
+If someone could know in an instant
+The minds of the beings of all times,
+Even over eons as many as beings,
+Such a one could know the essence of one thought of Buddha.
+Just as the reality realm pervades all
+Yet cannot be perceived as being all,
+So also is the realm of the Ten-Powered:
+It pervades all yet is not all.
+True Thusness, free of falsehood, is ever silent;
+Birthless, deathless, it is all-pervasive.
+The realm of the buddhas is also thus;
+Essentially equal, not increasing or decreasing.
+Just as ultimate reality has no limit.
+Is in all times yet is not therein,
+So is the realm of the Guide,
+Pervading all times without obstruction.
+The nature of things is uncreate, unchanging,
+Fundamentally pure, like space:
+So also is the purity of nature of buddhasTheir fundamental nature is not a nature, is beyond being and
+non being.
+The nature of things is not in discussion,
+It is speechless, beyond speech, eternally quiescent.
+The nature of the realm of the Ten-Powered is also thus;
+No words can explain it.
+Buddha knows the nature of things is null,
+Like birds flying through the sky without a trace;
+By the power of past vows he manifests a body,
+Showing the great spiritual transfiguration of Buddha.
+Any who wish to know the realm of Buddha
+Should make their minds clean as space,
+Getting rid of false notions and graspings,
+Making the mind unhindered wherever it turns.
+Therefore offspring of Buddha should listen well
+As I illustrate the realm of Buddha with a few examples;
+The virtues of the Ten-Powered cannot be measured,
+But to enlighten all beings I summarize them. 
+
+The vistas exposed by the Guide
+In acts of body, speech, and mind,
+Their teaching and final extinction,
+All roots of goodness I now will tell.
+Just as the establishment of worlds
+Cannot be achieved by one cause or condition,
+And countless appropriate causes and conditions
+Form this billion-world universe,
+The manifestation of Buddha is also like this,
+Only accomplished through infinite virtues;
+The atoms of lands and thoughts of minds may be known,
+But the productive causes of the Ten-Powered none can measure.
+Just as clouds pour rain at the start of one eon
+And create four great atmospheres,
+And the roots of goodness of sentient beings and the power of
+enlightening beings
+Establish the billion worlds securely,
+So do the clouds of teaching of the Ten-Powered
+Produce atmospheres of knowledge, pure minds,
+Guiding beings to which they were previously dedicated
+To fulfillment of the highest reward.
+Just as there is a great deluge
+Which no place can contain
+Except the great wind force in pure space
+At the beginning of the universe,
+So also is the Buddha's manifestation,
+Showering rain of truths filling the cosmos
+Which the weak-minded cannot bear,
+Only those of pure and broad minds.
+Just as the downpour of rain in the sky
+Comes from nowhere and goes nowhere,
+With no producer or receiver,
+Naturally filling all with moisture thus,
+The rain of teaching of Buddha is also thus,
+Without coming or going, uncreate;
+Based on past practice, with the power of enlightening beings,
+All the great-minded hear and accept it.
+As the clouds in the sky shower rain,
+And no one can count the drops,
+Except the lord of the universe 
+
+W hose power is able to comprehend them,
+So also· is the rain of teaching of the Felicitous;
+No sentient beings can measure it,
+Except people who are free in the world,
+Who see it as clearly as a jewel in the hand.
+Just as the rain pouring from the clouds in the sky
+Can extinguish, can produce, and can stop,
+Can make all jewels
+And distinguish all in the universe,
+The rain of Buddha's teaching is also thus,
+Extinguishing delusion, producing good, stopping views,
+Making all jewels of knowledge,
+Distinguishing beings' inclinations.
+The one fl. a vor of the rain in the sky
+Is different according to the places it rainsIt is not that the rain has any distinction,
+But it is naturally thus according to the differences in things.
+The rain of teaching of Buddha is not one or varied:
+Impartial, quiescent, it is free from discrimination,
+Yet according to the various differences of those taught
+It naturally has unlimited aspects.
+When the world is first formed,
+First are formed the palaces of the form-realm heavens,
+Then the desire heavens, then human abodes,
+And last the gandharva palaces;
+The manifestation of Buddha is also like this,
+First producing boundless enlightening beings' practices,
+Then teaching those aware of conditioning, who like tranquillity,
+Then the listeners, then finally sentient beings.
+When the gods first see the lotus blossom open
+They know buddhas will appear and are glad;
+Water, based on the power of wind, produces the world,
+Dwellings, mountains, and rivers arc all set up.
+The great light of the developed goodness of Buddha
+Skillfully distinguishes enlightening beings and gives them
+predictions;
+The spheres of knowledge, all pure,
+Can each reveal the ways to buddhahood .
+The forest exists dependent on the earth,
+The earth remains solid based on water,
+Water depends on wind, wind on space, 
+
+While space does not depend on anything.
+All Buddha teachings depend on compassion,
+And compassion is established depending on means;
+Means depend on knowledge, knowledge on wisdom,
+While the body of unimpeded wisdom does not depend on
+anything.
+Once the world comes to be,
+All beings receive its benefitsLiving on the earth, in the water, in the sky,
+Two-legged, four-legged, all receive benefit.
+The manifestation of the spiritual sovereign is also thusAll beings gain its benefits;
+If any see, hear, or associate with Buddha,
+It will cause all confusions and afflictions to be removed.
+The elements of Buddha's manifestation are boundless;
+The deluded of the world cannot know them.
+Out of desire to enlighten all conscious beings
+Similes are told where there is no comparison.
+983
+"How should great enlightening beings see the body of Buddha?
+They should see the body of Buddha in infinite places. Why? They
+should not see Buddha in just one thing, one phenomenon, one body,
+one land, one being-they should see Buddha everywhere. Just as space
+is omnipresent, in all places, material or immaterial, yet without either
+arriving or not arriving there, because space is incorporeal, in the same
+way Buddha is omnipresent, in all places, in all beings, in all things, in all
+lands, yet neither arriving nor not arriving there, because Buddha's body
+is incorporeal, manifesting a body for the sake of sentient beings. This is
+the first characteristic of the body of Buddha; great enlightening beings
+should see it thus.
+"Furthermore, just as space is wide open, is not a form yet can reveal
+all forms, yet space is without discrimination or false description, so also
+is the body of Buddha like this, causing all beings' mundane and transmundane good works to be accomplished by illumining all with the
+light of knowledge, yet without discrimination or false descriptions,
+having originally terminated all attachments and false descriptions. This
+is the second characteristic of the body of Buddha-great enlightening
+beings should see it this way.
+"When the sun comes out, infinite living beings all receive its benefits
+-it disperses the darkness and gives light, dries up moisture, causes
+plants and trees to grow, matures crops, permeates the sky, causes lotuses
+to bloom, allows travelers to see the road, allows people to do their work
+-because the orb of the sun radiates infinite beams of light everywhere.
+The sun of knowledge of Buddha is also like this, benefiting sentient 
+
+beings everywhere by infinite works-destroying evil and producing
+good, breaking down ignorance and creating knowledge, benevolently
+saving, compassionately liberating, causing growth of faculties, powers,
+and elements of enlightenment, causing beings to develop profound
+faith, enabling them to see inevitable cause and effect, fostering in them
+the celestial eye to see where beings die and are born, causing their minds
+to be unimpeded and not destroy roots of goodness, causing them to
+cultivate illumination by knowledge and open the flower of awakening,
+causing them to determine to fulfill their fundamental task. Why? Because Buddha's immense sun-body of knowledge and wisdom radiates
+infinite light, illumining everywhere. This is the third characteristic of
+the body of Buddha; great enlightening beings should see it thus.
+"When the sun rises, first it lights up the highest mountains, then the
+lower mountains, then the high plateaus, and finally the whole land; but
+the sun does not think, 'First I will illumine here, afterward I will illumine there ' -it is just because of difference in height of the mountains
+and land that there is a succession in illumination. The Buddha, similarly,
+having developed the boundless orb of knowledge of the realm of reality, always radiating the light of unimpeded knowledge, first of all illumines the high mountains, which are the great enlightening beings, then
+illumines those who are awakened by understanding of conditioning,
+then illumines those who listen to the message, then illumines sentient
+beings whose foundations of goodness are sure and stable, revealing vast
+knowledge according to beings' mental capacities, finally illumining all
+sentient beings, even reaching those who are fixated on error, to be a
+beneficial cause for the future, that they may develop to maturity. But
+the light of the sun of great knowledge of Buddha does not think, 'I will
+first illumine the great deeds of enlightening beings and at the very last
+shine on the sentient beings who are fixated on error' -it just radiates
+the light, shining equally on all, without obstruction or impediment,
+without discrimination. Just as the sun and moon appear in their time
+and impersonally shine on the mountains and valleys, so also does the
+knowledge of Buddha shine on all without discrimination, while the
+light of knowledge has various differences according to the differences in
+faculties and inclinations of sentient beings. This is the fourth characteristic of the body of Buddha; great enlightening beings should see it thus.
+"When the sun comes out, those born blind cannot see it, because
+they have no faculty of vision; yet even though they do not see it, they
+are benefited by the light of the sun. Why? By this it is possible to know
+the times of day and night and to have access to food and clothing to
+comfort the body and free it from distress. The sun of knowledge of
+Buddha is also like this; the blind without faith or understanding, immoral and heedless, sustaining themselves by wrong means of livelihood,
+do not see the orb of the sun of knowledge of the Buddhas because they
+have no eye of faith, but even though they do not see it, they are still
+benefited by the sun ofknowledge. Why? Because by the power of Buddha it makes the causes of future suffering of those beings-physical
+pains and psychological afflictions-all vanish.
+"Buddha has a light called accumulating all virtues, a light called total
+universal illumination, a light called pure, free illumination, a light called
+producing great wondrous sound, a light called understanding all languages and gladdening others, a light called the realm of freedom showing
+the eternal cancellation of all doubts, a light called independent universal
+illumination of nondwelling knowledge, a light called free knowledge
+forever terminating all false descriptions, a light called producing marvelous sayings according to need, a light called producing free utterances
+adorning lands and maturing sentient beings. Each pore of the Buddha
+emits a thousand kinds of light like these: five hundred lights beam
+downward, five hundred lights beam upward, illumining the congregations of enlightening beings at the various places of the buddhas in the
+various lands; when the enlightening beings see these lights, all at once
+they realize the realm of buddhahood, with ten heads, ten eyes, ten ears,
+ten noses, ten tongues, ten bodies, ten hands, ten feet, ten stages, and ten
+knowledges, all thoroughly pure. The states and stages previously accomplished by those enlightening beings become more pure upon seeing
+these lights; their roots of goodness mature, and they proceed toward
+omniscience. Those in the two lesser vehicles have all their defilements
+removed. Some other beings, who are blind, their bodies blissful, also
+become purified in mind, gentle and docile, able to cultivate mindfulness and knowledge. The sentient beings in the realms of hells, hungry
+ghosts, and animals all become blissful and are freed from pains, and
+when their lives end are reborn in heaven or the human world. Those
+sentient beings are not aware, do not know by what cause, by what
+spiritual power, they came to be born there. Those blind ones think, ' We
+are Brahma gods, we are emanations of Brahma.' Then Buddha, in the
+concentration of universal freedom, says to them, 'You are not Brahma
+gods, not emanations of Brahma, nor were you created by the king-god
+Indra or the world-guardian gods: all this is the spiritual power of Buddha. ' Having heard this, those sentient beings, by the spiritual power of
+Buddha, all know their past life and become very happy. Because their
+hearts are joyful, they naturally produce clouds of udumbara flowers,
+clouds of fragrances, music, cloth, parasols, banners, pennants, aromatic
+powders, jewels, towers adorned with lion banners and crescents, clouds
+of songs of praise, clouds of all kinds of adornments, and respectfully
+offer them to the Buddha. Why? Because these sentient beings have
+gained clear eyes, and therefore the Buddha gives them the prophecy of
+unexcelled, complete perfect enlightenment. In this way Buddha's sun
+of knowledge benefits sentient beings born blind, fostering the full development of basic goodness. This is the fifth characteristic of the body
+of Buddha; great enlightening beings should see it this way.
+"Furthermore, it is like the moon, with four special extraordinary
+qualities: first, it outshines all the stars; second, as time passes it shows waning and waxing; third, its reflection appears in all clear waters;
+fourth, all who see it see it right before them, yet the moon has no
+discrimination and no arbitrary conceptions. The moon of the body of
+Buddha similarly has four special extraordinary qualities: it outshines
+all hearers and individual illuminates, whether they are in the stage of
+learning or beyond learning; according to the needs of the situation, it
+manifests different life spans, yet without increase or decrease in the
+Buddha-body; its reflection appears in all vessels of enlightenment, sentient beings with pure minds, in all worlds; all sentient beings who behold it think the Buddha is in their presence alone. According to their
+inclinations, Buddha teaches them, liberating them according to their
+states, causing them to perceive the Buddha-body according to their
+needs and potentials for edification, yet the Buddha-body has no discrimination, no arbitrary conceptions; all benefits it renders reach the
+ultimate end. This is the sixth characteristic of the body of Buddha; great
+enlightening beings should see it thus.
+"Furthermore, just as the supreme Brahma god of a billion-world
+universe simply manifests its body in the billion worlds, and all beings
+see Brahma before them, yet Brahma does not divide its body and does
+not have multiple bodies, in the same way the buddhas have no discrimination, no false representations, and do not divide their bodies or have
+multiple bodies, yet they manifest their bodies in accord with the inclinations of all sentient beings, without thinking that they manifest so many
+bodies. This is the seventh characteristic of the body of Buddha; great
+enlightening beings should see it this way.
+"A master physician is well versed in all medications and the science
+of hypnosis, fully uses all the medicines in the land, and, also because of
+the power of the physician's past roots of goodness, and because of using
+hypnotic spells as an expedient, all those who see the physician recover
+from illness. That master physician, sensing impending death, thinks,
+'After I die, sentient beings will have no one to rely on; I should manifest
+an expedient for them.' Then the master physician compounds drugs,
+which he smears on his body, and supports his body by spell power, so
+that it will not decay or shrivel after death, so its bearing, seeing, and
+hearing will be no different from before, and all cures will be effected.
+The Buddha, the Truly Enlightened One, the unexcelled master physician, is also like this, having developed and perfected the medicines of
+the Teaching over countless eons, having cultivated and learned all skills
+in application of means and fully consummated the power of illuminating spells, is able to quell all sentient beings' afflictions. Buddha's life
+spans measureless eons, the body pure, without any cogitation, without
+activity, never ceasing the works of buddhas; the afflictions of all sentient
+beings who see Buddha dissolve away. This is the eighth characteristic
+of the body of Buddha; great enlightening beings should see it in this
+way.
+" In the ocean there is a great jewel called radiant repository, in which are assembled all lights: if any sentient beings touch its light, they become
+assimilated to its color; if any see it, their eyes are purified; whenever the
+light shines it rains jewels called felicity that soothe and comfort beings.
+The body of Buddha is also like this, being a treasury of knowledge in
+which arc collected all virtues: if any sentient beings come in contact
+with the light of precious knowledge of the body of Buddha, they become the same as Buddha in appearance; if any see it their eye of reality
+is purified; wherever that light shines, it frees sentient beings from the
+miseries of poverty and ultimately imbues them with the bliss of enlightenment. The body of Buddha has no discrimination and no false conceptions, but can perform great buddha-works for all sentient beings. This is
+the ninth characteristic of the body of Buddha; great enlightening beings
+should see it in this way.
+" In the ocean is a great wish-fulfilling jewel called treasury of adornments of all worlds, fully endowed with a million qualities, eliminating
+calamities and fulfilling wishes of beings wherever it is. However, this
+jewel cannot be seen by beings of little merit. The supreme wish-fulfilling
+jewel of the body of Buddha is also like this; called able to gladden all
+beings, if any sentient beings see the body of Buddha, hear the name, and
+praise the virtues, they will all be enabled to escape forever the pains and
+ills of birth and death. Even if all beings in all worlds focus their minds all
+at once on the desire to see Buddha, they will all be enabled to see and
+their wish will be fulfilled. The Buddha-body cannot be seen by sentient
+beings of little merit unless they can be tamed by the spiritual power of
+Buddha; if sentient beings, because of seeing the body of Buddha, plant
+roots of goodness and develop them, they are enabled to see the body of
+Buddha for their development. This is the tenth characteristic of the
+body of Buddha; great enlightening beings should see it thus, because
+their minds are measureless, pervading the ten directions, because their
+actions are as unhindered as space, because they penetrate everywhere in
+the realm of reality, because they abide in absolute truth, because they
+have no birth or death, because they remain equal throughout past, present, and future, because they arc forever rid of all false discrim inations,
+because they continue their eternal vows, because they purify all worlds,
+because they adorn each buddha-body."
+Then the great enlightening being Universally Good, in order to
+again clarify what he meant, said in verse,
+Just as space pervades the ten directions,
+Like form but not a form, existent but not existent,
+Omnipresent, without bounds,
+In beings' bodies and lands, in all times,
+So does the true body of buddhas
+Pervade all phenomena,
+Invisible, ungraspable,
+Yet manifesting bodies to teach beings.
+
+Just as space cannot be grasped
+Yet lets all beings do their work
+Without thinking what it does,
+How it does it, or for whom,
+The physical action of buddhas is also thus,
+Causing beings to practice good ways,
+Yet the buddha never has any notion
+Of acting on them variously.
+When the sun comes up over the land
+It completely removes the darkness.
+Mountains, trees, lakes, flowers, earth, and all beings,
+All the various species receive benefit.
+The sun of Buddha emerging too is thus,
+Causing human and celestial good actions to grow,
+Obliterating the darkness of ignorance so they gain the light of
+knowledge
+And always experience all glorious bliss.
+When the sun first comes up
+It shines first on the high mountains, then the others,
+Then shines on the high plains, then the whole land,
+Yet the sun never has any discrimination.
+The light of Buddha is also thus,
+First illumining the enlightening beings, then the self-enlightened,
+Then last the listeners and all sentient beings,
+Yet the Buddha basically has no stirring thoughts.
+Just as the blind cannot see the sun,
+Yet sunlight still benefits them,
+Enabling them to know time and season and receive food and
+drink,
+To be freed from troubles and gain physical ease,
+In the same way faithless beings do not see B uddha,
+Yet Buddha benefits them as well;
+By hearing Buddha's name or being touched by Buddha's light
+They can even reach enlightenment.
+Just as the moon in the sky
+Outshines the stars and appears to wax and wane,
+Shows its reflection in all waters,
+And appears face to face with those who behold it,
+The clear moon of Buddha is also thus,
+Outshining other vehicles, showing length and brevity,
+Appearing in the clear mind-water of humans and gods,
+Seeming to be present to everyone. 
+
+Just as the god Brahma, while in its own palace,
+Appears in all the Brahma abodes in the universe
+So all humans and celestials can see it,
+Yet does not actually divide its body to go to them,
+Likewise does the Buddha's manifestation of bodies
+Pervade everywhere in the ten directions,
+Those bodies countless, incalculable in number,
+Yet without dividing bodies, without discrimination.
+Like a physician skilled in his arts,
+Seeing whom all are cured,
+And though his life is ended he embalms his body
+So that it will work as before,
+So also does the Supreme Healer
+Have all knowledge of techniques,
+Manifesting embodiment as Buddha by excellent practices of
+yore,
+So the afflictions of all who see are destroyed.
+In the ocean is a superb jewel
+W hich radiates countless beams of light;
+Those who come in contact with it become the same color,
+And the eyes of those who see it are purified:
+The Supreme Jewel is also thus;
+Those whom its light touches become the same in appearance,
+In those who get to see it the five eyes open;
+They break through the darkness of the senses and dwell in
+buddhahood.
+The wish-fulfilling jewel
+Satisfies all desires;
+Those of little virtue cannot see it,
+Though this is not by the jewel's discrimination:
+The jewel of Buddha is also thus,
+Fulfilling all desires;
+Faithless beings cannot see it,
+But not because Buddha abandons them.
+989
+"How should great enlightening beings know the voice of Buddha?
+They should know Buddha's voice is omnipresent, because it pervades
+all sounds. They should know Buddha's voice pleases all according to
+their mentalities, because its explanation of truth is clear and comprehensive. They should know Buddha's voice gladdens all according to their
+resolve, because their minds gain clarity and coolness. They should know
+Buddha's voice teaches without error in timing, because all who need
+and are able to hear it do. They should know Buddha's voice has no birth or death, because it is like the echo of a call. They should know Buddha's
+voice has no owner, because it is produced by cultivation of all appropriate practices. They should know Buddha's voice is extremely profound, because it cannot be measured. They should know Buddha's
+voice has no falsehood or deviousness, because it is born of the realm of
+truth . They should know Buddha's voice has no end, because it permeates the cosmos. They should know Buddha's voice has no change,
+because it reaches the ultimate.
+"Great enlightening beings should know that Buddha's voice is neither
+quantified nor unquantified, neither has a master nor lacks a master,
+neither communicates nor does not communicate. Why? It is as when
+the world is about to disintegrate, there is no master, no maker, yet it
+spontaneously emits four voices. One says, ' You all should know that
+the well-being of the first meditation stage, free from the ills of desire,
+surpasses the realm of desire.' The sentient beings hearing this are naturally able to accomplish the first meditation stage, relinquish the body of
+the realm of desire and be born in Brahma heaven. The second voice
+says, 'You should know that the well-being of the second meditation
+stage, without reflection and rumination, surpasses the Brahma heaven.'
+The sentient beings hearing this naturally manage to accomplish the
+second meditation stage, relinquish the body of Brahma heaven, and are
+born in the light-sound heaven. The third voice says, 'You should know
+that the well-being of the third meditation stage has no flaws and surpasses the light-sound heaven.' Hearing this, the sentient beings are
+naturally able to achieve the third meditation stage, relinquish the body
+of the light-sound heaven, and are born in the heaven of universal purity.
+The fourth voice says, 'You should know that the tranquillity of the
+fourth meditation stage surpasses the heaven of universal purity.' Hearing this, the sentient beings are naturally able to achieve the fourth meditation stage, relinquish the body of the heaven of universal purity, and
+are born in the heaven of vast results. These voices have no master or
+maker-they are just produced by the power of good practices of sentient beings.
+"The voice of Buddha is also like this, without master or maker,
+without discrimination, not entering, not emerging, yet producing four
+great voices from the power of the virtuous qualities of Buddha. One
+voice says, 'You all should know that all conditioned states are miserable.
+There is the misery of hells, the misery of animality, the misery of hungry
+ghosthood, the misery of lack of virtue, the misery of clinging to self and
+possessions, the misery of evildoing. If you want to be born human or
+divine, you should plant roots of goodness. Born in the human world
+or in a heaven, you will leave all situations in which enlightenment is
+difficult.' Sentient beings, having heard this, give up error and perversity, practice good actions, leave all difficulties behind, and are born in
+the human world or in heaven. The second voice says, 'You should
+know that the myriad pains of all conditioned states are as searing as balls of hot iron. Conditioned states are impermanent and pass away. Nirvana
+is tranquil, unfabricated well-being, beyond all burning, extinguishing
+all inflaming afflictions.' Having heard this, sentient beings diligently
+practice good principles, and in the vehicle of listeners to Buddha's voice
+attain the tolerance of conformity to the message. The third voice says,
+'You should know that those in the vehicle of listeners follow the words
+of another to understand; their knowledge and wisdom is narrow and
+inferior. There is a higher vehicle called the vehicle of the individually
+awakened, whose enlightenment does not depend on a teacher. You
+should learn it. ' Those inclined to a superior path, having heard this
+voice, give up the path of listeners and cultivate the vehicle of the individually awakened. The fourth voice says, 'You should know that there is
+an even higher path beyond the ranks of these two vehicles, which is
+called the great vehicle, practiced by enlightening beings, following the
+six transcendent ways, not stopping enlightening practice, not relinquishing the determination for enlightenment, being in the midst of
+infinite birth and death without getting sick of it. Going beyond the two
+vehicles of individual liberation, it is called the Great Vehicle, the foremost vehicle, the preeminent vehicle, the supreme vehicle, the highest
+vehicle, the unexcelled vehicle, the vehicle of benefiting all sentient
+beings. ' If there are any sentient beings whose resolve is very great,
+whose faculties are strong and keen, who have planted roots of goodness
+in the past, who are spiritually empowered by the buddhas, who have
+superior inclinations and seek buddhahood, once they have heard this
+voice they arouse the determination for enlightenment. B uddha's voice
+does not come from the body or from the mind, yet it can benefit infinite sentient beings. This is the first characteristic of Buddha's voice;
+great enlightening beings should know it thus.
+"Furthermore, just as an echo arises due to mountains, valley, and
+sound, and has no form, cannot be seen, and though it has no discrimination can follow all words, so also is the voice of Buddha-it has no form,
+cannot be seen, has no direction or location yet is not without direction
+and location; it just emerges according to the conditions of sentient
+beings' inclinations and understandings. Its nature ultimately has no
+words, no information, and cannot be explained. This is the second characteristic of the voice of Buddha; great enlightening beings should know
+it thus.
+"Furthermore, it is like the heavens' great drum of law, called awakener: when the celestials act without restraint, the drum produces a voice
+in the sky saying, 'You should know that all pleasures are impermanent,
+unreal, illusory, changing and disintegrating in a moment. They only
+fool the ignorant, causing attachment. Don't be indulgent, for the unrestrained fall into bad ways, and it is of no use to regret afterward.' The
+indulgent celestials, having heard this voice, are greatly distressed and
+frightened; they leave the pleasures in their own abodes, go to the king
+of gods, seek the truth and practice the way. The sound of that drum has no master, no maker, no origin, no destruction, yet it can benefit infinite
+sentient beings. Know that Buddha likewise utters the voice of infinite
+sublime truths in order to awaken indulgent beings: the voice of nonattachment, the voice of nonindulgence, the voice of impermanence, the
+voice of suffering, the voice of selflessness, the voice of impurity, the
+voice of annulment, the voice of nirvana, the voice of measureless spontaneous knowledge, the voice of incorruptible enlightening practices, the
+voice of all-pervasive effortless knowledge of buddhas. These voices pervade the cosmos, awakening the beings therein; countless sentient beings,
+having heard them, all become joyful and diligently cultivate good
+ways, each seeking emancipation by their respective vehicles of emancipation-that is, some practice the vehicle of listeners, some practice the
+vehicle of individual awakening, and some practice the unsurpassed
+Great Vehicle of enlightening beings. Yet the voice of Buddha does not
+remain in any place; it has no speech. This is the third characteristic of the
+voice of Buddha; great enlightening beings should know it thus.
+"Again, it is like the case of the celestial concubine of the great lord
+god, named Beautiful Mouth, whose voice corresponds to a hundred
+thousand kinds of music, within each of which are also a hundred thousand different tones. Just as that goddess Beautiful Mouth produces
+countless sounds in one utterance, in the same way Buddha produces innumerable voices in one utterance, according to the differences in mentalities of sentient beings, reaching them all and enabling them to gain
+understanding. This is the fourth characteristic of the voice of Buddha;
+great enlightening beings should know it thus.
+"Also it is like the case of the great god Brahma, abiding in the Brahma palace, uttering the voice of Brahma, which all the B rahma masses
+hear, while the sound of the voice does not go outside that group; the
+Brahma divinities all think B rahma is speaking to them alone. The sublime voice of Buddha is also like this; all in the congregation at the site of
+enlightenment hear it, while the sound does not go outside that group.
+Why? Because those whose faculties are not yet mature cannot hear it.
+Those who hear the voice each think Buddha is talking to them alone.
+The voice of Buddha neither emerges nor remains, yet can accomplish
+all works. This is the fifth characteristic of the voice of Buddha; great
+enlightening beings should know it thus.
+"Also, just as waters are all of one flavor, but according to the difference of the vessel water has distinctions, yet the water has no thought or
+discrimination, similarly the speech of Buddha is of one flavor only, the
+flavor of liberation, but has innumerable distinctions according to the
+differences in mental vessels of sentient beings, yet without thought or
+discrimination. This is the sixth characteristic of the voice of Buddha;
+great enlightening beings should know it thus.
+"Also, it is like the case of the water spirit Heatless producing great
+dense clouds covering the continent, showering sweet rain all over, so all
+the crops can grow and all the rivers, streams, springs, and lakes are full; this great rainwater does not come from the water spirit's body or mind,
+yet can benefit sentient beings in various ways. Similarly, Buddha produces the cloud of great compassion covering all worlds in the ten directions, showering the rain of immortal truth, causing all sentient beings to
+become joyful, increase in goodness, and fulfill all vehicles of liberation.
+The voice of Buddha does not come from without and does not emerge
+from within, yet can benefit all sentient beings. This is the seventh characteristic of the voice of Buddha; great enlightening beings should
+know it thus.
+"Also it is like when the water spirit Thoughtful is going to shower
+rain, it does not do so immediately but first produces great clouds covering the sky, remaining still for seven days waiting for people to finish
+their work, because that water spirit is benevolent and compassionate
+and does not want to trouble them; after seven days it showers a fine
+rain, moistening the earth. Similarly, when Buddha is going to shower
+the rain of truth, he does not do so at once, but first produces great
+clouds of teaching in order to mature sentient beings so they will not be
+startled or frightened; after they are mature he showers on all the rain of
+immortal truth, expounding the most profound, subtle good teaching,
+gradually filling them with the flavor of the unexcelled teaching of
+omniscience of buddhas. This is the eighth characteristic of the voice of
+Buddha; great enlightening beings should know it thus.
+" In the ocean is a great water spirit called Magnificent Array; when it
+showers rain on the ocean, it may shower rain in ten kinds of arrays, or a
+hundred, or a thousand, or rain in a hundred thousand kinds of arrays.
+The water has no discrimination; it is just the inconceivable power of the
+water spirit that causes its arrays to be infinitely different. Similarly,
+when Buddha teaches truth, it may be expressed in ten different tones, or
+a hundred, or a thousand, or a hundred thousand, or eighty-four thousand tones explaining eighty-four thousand practices, up to countless
+hundreds of thousands of millions of tones, each explaining the truth in
+particular ways to gladden all who hear. The voice of Buddha makes no
+discrimination; it is just that buddhas, complete and pure in the profound
+realm of truth, are able to make various utterances in accord with the
+needs of sentient beings, making them happy. This is the ninth characteristic of the voice of Buddha; great enlightening beings should know it
+thus.
+"When the water spirit Ocean wants to manifest the controlling
+power of the water spirit for the benefit of sentient beings to make them
+happy, it raises a great network of clouds from the earth to the heaven
+of control of others' emanations, covering all over: those clouds are of
+infinite different colors-some are the color of golden light, some are
+the color of lapis lazuli light, some are the color of silver light, some
+are the color of crystal light, some are the color of emerald light, some are
+the color of agate light, some are the color of red pearl light, some are the
+color of light of infinite fragrances, some are the color of light of spotless cloth, some are the color of light of pure water, some are the color of
+light of various ornaments. This network of clouds, having spread all
+over, emits lightning of various colors: the golden clouds emit lapis lazuli
+lightning; the lapis lazuli clouds emit golden lightning; the silver clouds
+emit crystal lightning; the crystal clouds emit silver lightning; the emerald
+clouds emit agate lightning; the agate clouds emit emerald lightning; the
+infinite-fragrance-colored clouds emit spotless-cloth-colored lightning;
+the spotless-cloth-colored clouds emit infinite-fragrance-colored lightning; the pure-water-colored clouds emit various-ornament-colored
+lightning; the various-ornament-colored clouds emit pure-watercolored lightning; multicolored clouds emit one-colored lightning; onecolored clouds emit multicolored lightning. There also issue from the
+clouds various sounds of thunder, according to the minds of sentient
+beings, making them all happy-sounds like goddesses singing, like
+celestial musicians playing, like water nymphs singing, like gandharva
+girls singing, like kinnara girls singing, like earthquakes, like the waves
+and tide of the ocean, like the king of beasts howling, like beautiful birds
+calling, as well as innumerable other kinds of sounds. W hen the thunder
+has sounded, there arises a cool breeze, delighting the mind of sentient
+beings. Finally it rains, various kinds of rain, benefiting and comforting
+infinite beings. In all places from the heavens to earth the rain is different:
+on the ocean it rains clear, cool water called endless; in the heaven of
+control of others' emanations it rains various music such as pipes and
+flutes, named beautiful; in the heaven of enjoyment of emanation it rains
+jewels called radiating great light; in the heaven of happiness it rains
+great ornaments, called hanging crests; in the heaven of timely portion it
+rains large, beautiful flowers, called various adornments; in the thirtythree-fold heaven it rains many sublime fragrances, called pleasing; in the
+heaven of the four world guardians it rains precious celestial robes, called
+covering; in the palace of water spirits it rains red pearls, called flowing
+light; in the palace of the titans it rains weapons, called conquering en�­
+mies; in the northern region of earth it rains various flowers, called
+blooming; in the other regions of earth it also rains differently according
+to the place. Though the mind of the water spirit is impartial, without
+discrimination, simply because the roots of goodness of sentient beings
+are different, the rain has distinctions. Similarly, when Buddha, the truly
+enlightened, the supreme spiritual sovereign, wants to edify sentient
+beings with right teaching, first he spreads clouds of embodiments over
+the cosmos, appearing differently according to inclinations of beings. For
+some beings he manifests clouds of mortal bodies; for some, clouds of
+emanated bodies; for some, clouds of power�bodies; for some, clouds
+of form-bodies; for some, clouds of glorified bodies; for some, clouds of
+virtue-bodies; for some, clouds of knowledge-bodies; for some, clouds
+of bodies whose powers do not deteriorate; for some, clouds of bodies of
+fearlessness; for some, clouds of cosmic bodies. Buddha covers all worlds
+with infinite such body-clouds and manifests various kinds of lightning in accord with the individual differences in inclinations of sentient
+beings: for some beings he manifests lightning called reaching everywhere; for some, lightning called boundless light; for some, li�htning
+called penetrating the secret teaching of Buddha; for some, ligkning
+called reflected light; for some, lightning called illumination; for some,
+lightning called entering the door of endless mental command; for some,
+lightning called right mindfulness undisturbed; for some, lightning called
+ultimately incorruptible; for some, lightning called adaptively entering
+all states of being; for some, lightning called fulfilling all wishes and
+making everyone happy. Having manifested lightnings of infinite such
+lights, Buddha then produces infinite thunders of concentration, according to the inclinations of sentient beings: the thunder of the concentration of well-aware knowledge; the thunder of the concentration of the
+refulgent, undefiled ocean; the thunder of the concentration of mastery
+of all the teachings; the thunder of the adamantine wheel concentration;
+the thunder of the concentration symbolized by the polar mountain; the
+thunder of the ocean-seal concentration; the thunder of the solar lamp
+concentration; the thunder of the inexhaustible treasury concentration;
+the thunder of the concentration of the indestructible power of liberation. After the thunder of infinite different concentrations such as these
+have emerged from the clouds of embodiments of Buddha, when about
+to shower the rain of truth, first he manifests an auspicious sign to awaken
+sentient beings: from the mind of unhindered compassion he manifests
+the atmosphere of great knowledge of Buddha, called able to cause all
+sentient beings to develop inconceivable happiness and well-being. Once
+this sign has appeared, the bodies and minds of all enlightening beings
+and sentient beings become clear and cool. After that, from the cloud of
+the great reality-body of Buddha, the cloud of great compassion, the
+cloud of great inconceivability, showers the inconceivable, far-flung rain
+of teaching, causing all beings' bodies and minds to be pure: for enlightening beings sitting at the site of enlightenment there showers a great
+rain of teaching called nondifferentiation of the realm of reality; for enlightening beings in their final embodiment there showers a great rain of
+teaching called enlightening beings' easy mastery of the esoteric teaching
+of Buddha; for enlightening beings to become fully enlightened in the
+next life there showers a great rain of teaching called pure universal light;
+for corona ted enlightening beings there showers a great rain of teaching
+called adornment by the embellishments of buddhahood; for enlightening beings who have attained tolerance there showers a great rain of
+teaching called flowers of knowledge with jewels of virtue blooming,
+not ceasing the compassionate practices of enlightening beings; for enlightening beings in progress there showers a great rain of teaching called
+entering the profound method of manifestation of occult transformations and carrying on enlightening practice without stopping or wearying; for newly inspired enlightening beings there showers a great rain of
+teaching called producing the practice of great love and compassion of buddhas to save sentient beings; for those who seek the vehicle of individual enlightenment there showers a great rain of teaching called deeply
+knowing the principles of conditional origination, avoiding extremes,
+and attaining the nondeca ying fruit of liberation; for those who seek the
+vehicle of listeners there showers a great rain of teaching called cutting
+down all obstructing afflictions with the sword of great knowledge and
+wisdom; for stabilized and unstabilized sentient beings who accumulate
+roots of goodness there showers a great rain of teaching called facilitating
+the accomplishment of various ways into the teaching, producing great
+happiness. The Buddha showers great rains of teaching like these in
+accordance with the mentalities of sentient beings, filling all worlds.
+A buddha, perfectly enlightened, is impartial in mind and does not
+begrudge the teaching; simply because the faculties and inclinations of
+sentient beings are not the same, the rains of teaching appear differently.
+This is the tenth characteristic of the voice of Buddha; great enlightening
+beings should know it thus.
+"The voice of Buddha has ten kinds of infinity: it is as infinite as the
+realm of space because it extends to all places; it is as infinite as the cosmos because it pervades everywhere; it is as infinite as the realm of sentient beings because it gladdens all hearts; it is as infinite as all acts because
+it explains their results and consequences; it is as infinite as afflictions
+because it removes them all; it is as infinite as the speech of sentient
+beings because it enables them to hear according to their understanding;
+it is as infinite as the inclinations and understandings of sentient beings
+because it observes them all to rescue and liberate them; it is as infinite as
+past, present, and future because it has no boundaries; it is as infinite as
+knowledge because it distinguishes everything; it is as infinite as the
+realm of buddhahood because it enters the cosmos of reality of buddhahood. The voice of Buddha, the completely enlightened, comprises incalculable infinities such as these; great enlightening beings should know
+it thus. "
+Then the enlightening being Universally Good, to again clarify what
+he meant, spoke these verses:
+When a billion-world universe is about to dissolve,
+The power of beings' virtue announces that
+The four meditations are peaceful and painless,
+Causing them to leave desire when they have heard.
+Ten-Powered Buddha, also like this,
+Produces a sublime voice pervading the cosmos,
+Explaining that conditioned states are painful and impermanent,
+So beings may cross for good the sea of birth and death.
+Just as a canyon deep in the mountains
+Echoes any sound,
+And though it accords with others' voices The echo has no discrimination,
+So also is the speech of Buddha
+Revealed according to the maturity of faculties,
+Causing them to be controlled and happy,
+Yet without self-consciousness of preaching .
+As the celestial drum called awakener
+Vibrates with the sound of the law in the sky,
+Admonishing the self-indulgent celestials,
+Causing them to give up attachments when they hear,
+So too is the drum of Buddha's teaching like this,
+Producing various wonderful sounds,
+A wakening all living beings
+So they all realize enlightenment.
+The lord god has a precious concubine
+Who voices all kinds of music
+Producing a hundred thousand sounds in one voice
+With a hundred thousand tones in each sound.
+The voice of Buddha is also like this,
+Producing all tones in one voice,
+Different according to beings' characters and inclinations,
+Causing each to end afflictions when they hear.
+Just as king Brahma utters a sound
+Which makes all Brahmas happy,
+The voice reaching only Brahmas, no one else,
+Each thinking he alone hears it,
+So also does the Buddha utter a word
+Which fills the cosmos,
+Yet only reaches the faithful
+Because the faithless cannot receive it.
+Just as all waters are of one and the same essence,
+With no difference in flavor,
+But the land they are on and the vessels they are in are not the
+same,
+So that causes them to be variously different,
+The voice of Omniscience is similar to this;
+The essence of truth has one flavor, undifferentiated,
+Yet according to beings' actions, which are not the same,
+It causes them to hear in various different ways.
+When the water spirit Heatless
+Showers rain to moisten the land
+Causing plants and trees to grow, The rain does not come from its body or mind.
+Likewise the wondrous voice of buddhas
+Rains throughout the cosmos, filling all,
+Fostering good and extinguishing evil,
+But not coming from inside or outside.
+Just as the water spirit Thoughtful
+Raises clouds for seven days before raining,
+Waiting for all people to finish their work
+And then showering rain for their benefit,
+The teaching of Buddha is likewise,
+First civilizing beings and developing them,
+And afterward expounding the profound truth,
+So the hearers will not be frightened.
+The water spirit Great Adornment in the ocean
+Showers ten arrays of rain,
+Or a hundred, a thousand, a hundred thousand;
+Though the water is one flavor, the arrays are different.
+The ultimate teacher likewise
+Explains ten or twenty teachings,
+Or a hundred, a thousand, up to infinity,
+Without any notion of difference.
+The supreme water spirit Ocean
+Covers the earth with clouds;
+The rain in each place is different,
+But the spirit has no thought of distinction.
+Likewise Buddha, sovereign of truth,
+Extends clouds of great compassion in all directions,
+Raining differently for each practitioner,
+Yet without discriminating among them.
+"How should great enlightening beings know the mind of Buddha,
+the truly awake? The mind, intellect, and consciousness of Buddha are
+ungraspable. One can know the mind of Buddha only in terms of the
+infinity of knowledge. Just as space is the resting place of all things, while
+space has no resting place, so also is the knowledge ofBuddha the resting
+place of all mundane and transcendental knowledge, while the knowledge of Buddha has no resting place. This is the first characteristic of the
+mind of Buddha; great enlightening beings should know it thus.
+"Just as the realm of truth always produces the liberations of Buddhist
+followers, individual illuminates, and enlightening beings, while the
+realm of truth has no increase or decrease, in the same way the knowledge of Buddha always produces all kinds of worldly and ttansmundane
+knowledge without itself increasing or decreasing. This is the second characteristic of the mind of Buddha; great enlightening beings should
+know it thus.
+"Just as the ocean water flows under the continents and islands, so that
+all who drill for water find it, yet the ocean does not form any notion of
+itself giving out water, in the same way the water of the ocean of knowledge of Buddha flows into the minds of all sentient beings, so that if they
+examine things and practice ways of entering truth they will find knowledge, pure and clear, with lucid understanding-yet the knowledge of
+Buddha is equal, nondual, without discrimination; but according to the
+differences in sentient beings' mental patterns, the knowledge they obtain
+is not the same. This is the third characteristic of the mind of Buddha;
+great enlightening beings should know it thus.
+" In the ocean there are four jewels imbued with infinite qualities that
+produce all the precious jewels in the ocean; if these jewels were not in
+the ocean, it would be impossible to find even one jewel. What are these
+four? One is called accumulation of treasures; another is called inexhaustible treasury; another is called removal of burning heat; the other is called
+replete with adornments. These jewels cannot be seen by any ordinary
+people or sea creatures. Why? The king water spirit Ocean, because the
+jewels are magnificent with perfect lines and proportions, keeps them in
+a deeply hidden place within the palace.
+"The great ocean of knowledge of B uddha similarly has four great
+jewels of knowledge, with infinite qualities of knowledge and virtue,
+whereby are produced all the jewels of knowledge of the stages of learning and beyond learning of ordinary people, Buddhist followers, and
+individual illuminates, and of enlightening beings. What are the four?
+They are the jewel of great knowledge of unattached skill in means; the
+jewel of great knowledge of skillfully distinguishing the conditioned and
+the unconditioned; the jewel of great knowledge analytically explaining
+countless things without violating the essential nature of things; and the
+jewel of great knowledge knowing appropriate and inappropriate timing without ever a miss. If these four jewels were not in the Buddha's
+ocean of knowledge, not a single being would ever be able to enter the
+Great Vehicle of liberation. These four jewels of knowledge cannot be
+seen by unworthy beings. Why? Because they are kept in the deeply
+secret treasury of Buddha. These four jewels of knowledge are even,
+symmetrical, straight and true, immaculately beautiful, and able to universally benefit all enlightening beings, enabling them to attain the light
+of knowledge. This is the fourth characteristic of the mind of Buddha;
+great enlightening beings should know it thus.
+" Also, the ocean has four jewels of blazing light spread on its floor,
+which by nature are extremely, fiercely hot; they are able to drink up
+and shrink the immeasurable quantities of water poured in by all the
+rivers, so that the ocean neither increases nor decreases. What are these
+four? One is called solar matrix; the second is called removing moisture;
+the third is called flame light; the fourth is called thorough exhaustion. If these four jewels were not in the ocean, the whole world, up to the highest heaven of material existence, would all be flooded. The light of this
+great jewel solar matrix, when it shines on seawater, turns it to milk; the
+light of the great jewel removing moisture, when it shines on the milk,
+turns it to cream; the light of the great jewel flame light, when it shines
+on the cream, turns it to butter; the light of the great jewel thorough
+exhaustion, when it shines on the butter, turns it to ghee, blazing like
+fire, consuming it without remainder.
+"Buddha's ocean of great knowledge similarly has four kinds of
+jewels of great knowledge, with light of immeasurable power; when the
+light of these jewels of know ledge touches enlightening beings, it ultimately causes them to attain the great knowledge of Buddha. What arc
+the four? They are the jewel of great knowledge stopping all the waves
+of scattered goodness; the jewel of great knowledge eliminating all emotional attachment to the teachings; the jewel of great knowledge of the
+universal illumination of the light of intelligence; the jewel of great
+knowledge of boundless effortlessness equal to Buddha.
+"When enlightening beings practice the methods of fostering enlightenment, they rouse innumerable waves of scattered goodness, which all
+worldly beings, celestials, humans, or titans cannot destroy; when Buddha touches those enlightening beings with the light of the jewel of great
+knowledge of stopping all the waves of scattered good, it causes them to
+leave behind the waves of scattered good, keep their minds on one point,
+and dwell in concentration. Then, touching the enlightening beings with
+the light of the jewel of great knowledge, removing all emotional attachment to the teachings, causes them to give up clinging to the taste of
+concentration and awaken great spiritual powers. Then, touching the
+enlightening beings with the light of the jewel of great knowledge of the
+universal intelligence causes them to relinquish the occult powers they
+exercise and to engage in the active employment of great science. Then,
+touching the enlightening beings with the light of the jewel of great
+knowledge of boundless effortlessness equal to Buddha causes them to
+relinquish the active exercise of great science they have been engaged in
+so that they finally reach the equanimity of Buddhas and cease all effort
+completely. Without the contact of the great light of these four jewels of
+knowledge of Buddha it would be impossible for a single enlightening
+being to attain buddhahood. This is the fifth characteristic of the mind of
+Buddha; great enlightening beings should know it thus.
+"The million lands from the sphere of water up to the heaven of
+neither perception nor nonperception, the abodes of sentient beings in
+the realm of desire, the realm of form, and the formless realm, all arise
+from space and rest in space. Why? Because space is everywhere. But
+though space contains all the realms of desire, form, and formlessness,
+yet it has no discrimination. The knowledge of Buddha is also like this:
+the knowledge of listeners, the knowledge of individual illuminates,
+the knowledge of enlightening beings, the knowledge of formulated practices, and the knowledge of unformulated practices, all arise from
+the knowledge of Buddha and rest in the knowledge of Buddha, because
+the knowledge of Buddha pervades all; though it contains innumerable
+knowledges, it has no discrimination. This is the sixth characteristic of
+the knowledge of Buddha; great enlightening beings should know it
+thus.
+"Atop the Snowy mountains there is an excellent medicinal tree
+called inexhaustible roots; the roots of that medicinal tree grow from
+1 68,000 leagues, all the way down to the adamantine ground and the
+sphere of water. When that medicinal tree grows roots, it causes the
+roots of all trees on the continent to grow; when the medicinal tree
+grows a stem, it causes the stems of all trees on the continent to grow.
+The same is true of the branches, leaves, flowers, and fruits. The roots of
+the medicinal tree can grow stems, and the stems can grow roots-the
+roots are inexhaustible, so it is called inexhaustible roots. That medicinal
+tree can foster growth everywhere, except for two places where it cannot perform the beneficial action of promotion of growth-that is, in
+the pits of hells and in the sphere of water; yet it has no aversion to them.
+The great tree of the supreme medicine of the knowledge of Buddha,
+likewise, by past development, fully perfects all good qualities of knowledge, shades all realms of sentient beings, and destroys all the miseries of
+bad states. Universal compassion and commitment form its roots; it is
+born from the seed of true knowledge of all buddhas. It is steadfast and
+immovable; skill in means is its trunk, the transcendent perfections of
+cosmic knowledge are its branches; meditations, liberations, and the
+great concentrations are its leaves; mental command, intellectual skills,
+and the elements of enlightenment are its flowers, and the ultimate
+unchanging liberation of buddhas is its frmt. Why may the medicinal
+tree of knowledge of Buddha be called 'inexhaustible roots'? Because of
+ultimately never ceasing, because of not stopping enlightening activity.
+The practice of enlightening beings is the nature of Buddha, the nature
+of Buddha is the practice of enlightening beings. Therefore it can be
+called inexhaustible roots. When the roots of the medicinal tree of
+buddha-knowledge grow, it causes enlightening beings to grow the root
+of great
+'
+love and compassion, which does not abandon sentient beings.
+When its trunk grows, it causes all sentient beings to grow the trunk of
+profound determination with steadfast vigor. When its branches grow, it
+causes all enlightening beings to grow the branches of all transcendent
+ways. When its leaves grow, it causes enlightening beings to grow the
+leaves of pure conduct, austerity, virtue, paucity of desire, and contentment. When its flowers grow, it causes all enlightening beings to be
+replete with the flowers of magnificent arrays of the marks and embellishments of virtues. When its fruit grows, it causes all enlightening
+beings to gain the fruits of acceptance of non origination up to acceptance
+of coronation by all buddhas. The supreme medicine tree of knowledge
+of Buddha cannot perform its beneficial growth-fostering function in two places only: in those in the two vehicles of individual salvation who
+have fallen into the abyss of nondoing, and in unsuitable sentient beings
+with rotten roots of goodness who are sunk in the floodwaters of erroneous views and craving-yet Buddha never has rejected these people.
+The knowledge of Buddha has no increase or decrease, because its roots
+are stable and grow ceaselessly. This is the seventh characteristic of the
+mind of Buddha; great enlightening beings should know it thus.
+"When the eonic holocaust starts in the universe, it burns up all the
+plants and trees, and even the mountains, consuming all without leaving
+anything. Suppose someone picked up some dry straw and threw it in
+that fire-do you think it could do aught but burn?"
+"No."
+"It is more possible for that straw not to burn than for Buddha's
+knowledge, analyzing all sentient beings, all lands, all ages, and all phenomena of all times, not to know something. Why? Because that knowledge impartially comprehends all clearly. This is the eighth characteristic
+of the mind of Buddha; great enlightening beings should know it thus.
+"When a gale destroys the worlds, a great wind called destruction
+arises, able to pulverize the billion worlds of the universe, their iron
+mountains and so on, to smithereens. There is another wind, called
+blocker, circling the billion-world universe, blocking the gale of destruction so that it cannot reach the worlds in other places. Without this
+blocking wind, all the worlds in the ten directions would be completely
+destroyed. Buddha similarly has a great wind of knowledge, called extinguisher, which can extinguish the afflictions and habit energies of all
+great enlightening beings; and a great wind of knowledge called skillful
+sustaining, which skillfully sustains the enlightening beings whose faculties are not yet mature, not letting the extinguishing whirlwind totally
+eliminate all their afflictions and habit energies. Without Buddha's skillfully sustaining wind of knowledge, countless enlightening beings would
+fall into the states of those content with individual salvation. By this
+knowl edge enlightening beings are enabled to transcend the stages of the
+two lesser vehicles of individual salvation and abide in the ultimate rank
+of B uddha. This is the ninth characteristic of the mind of Buddha; great
+enlightening beings should know it thus.
+"There is nowhere the knowledge of Buddha does not reach. Why?
+There is not a single sentient being who is not fully endowed with the
+knowledge of Buddha; it is just that because of deluded notions, erroneous thinking, and attachments, they are unable to realize it. If they
+would get rid of deluded notions, then universal knowledge, spontaneous
+knowledge, and unobstructed knowledge would become manifest. It is
+as if there were a great scripture, equal in extent to a billion-world
+universe, in which are written all the things of the universe-there are
+written the things of the iron peripheral mountains, to an extent equal to
+those mountains; there are written the things on the land, to an extent
+equal to the land; there are written the things in the million-world galaxies, to an extent equal to the galaxies; there are written the things in
+the thousand-world systems, to an extent equal to the systems; there are
+written the things in the continents, to an extent equal to the continents;
+and so on; the things of the oceans, the polar mountains, the abodes of
+earth and sky, the celestial abodes in the sky of the desire realm, the
+abodes in the form realm, the abodes in the formless realm, are each
+written down to an equivalent extent. Though this scripture is equal in
+measure to a billion-world universe, yet it entirely rests in a single atom;
+and as this is so of one atom, it is also true of all atoms. Then suppose
+someone with clear and comprehensive knowledge, who has fully developed the celestial eye, sees these scriptures inside atoms, not benefiting
+sentient beings in the least, and, with this thought-'I should, by energetic power, break open those atoms and release those scriptures so that
+they can benefit all sentient beings' -then employs appropriate means to
+break open the atoms and release the great scriptures, to enable all
+sentient beings to benefit greatly. Similarly, the knowledge of Buddha,
+infinite and unobstructed, universally able to benefit all, is fully inherent
+in the bodies of sentient beings; but the ignorant, because of clinging to
+deluded notions, do not know of it, are not aware of it, and so do not
+benefit from it. Then the Buddha, with the unimpeded, pure, clear eye
+ofknowledge, observes all sentient beings in the cosmos and says, 'How
+strange-how is it that these sentient beings have the knowledge of
+Buddha but in their folly and confusion do not know it or perceive it? I
+should teach them the way of sages and cause them forever to shed
+deluded notions and attachments, so they can see in their own bodies the
+vast knowledge of buddhas, no different from the buddhas.' Then Buddha
+teaches them to practice the way of sages, so they get rid of deluded
+notions, after which they realize the infinite knowledge of Buddha and
+aid and comfort all living beings. This is the tenth characteristic of the
+mind of Buddha; great enlightening beings should know it thus.
+"Great enlightening beings should know the mind of Buddha, who
+has realized Thusness and is completely awake, in terms of such infinite,
+unimpeded, inconceivably great characteristics."
+Then the great enlightening being Universally Good, in order to
+explain again what he meant, spoke in verse:
+If you want to know the mind of buddhas,
+Observe the buddhas' knowledge.
+Buddhas' knowledge has no resting place,
+Just as space rests on nothing.
+Sentient beings' various inclinations,
+And know ledge of expedients,
+All rest on buddhas knowledge,
+While buddha's knowledge rests on nothing. The liberations of buddhas,
+Disciples, and the self-enlightened,
+All depend on the reality realm,
+W hile reality has no increase or decrease.
+Buddha's knowledge, similarly,
+Produces all knowledges,
+Without increase or decrease,
+Without beginning or end.
+Just as water flows under the ground
+So those who seek it find it,
+Without thought, without end,
+Its effective power all-pervasive,
+Buddha knowledge is also like this,
+Being in all creatures' minds;
+If any work on it with diligence,
+They will soon find the light of knowledge.
+Just as the water spirit has four jewels
+Which produce all gems,
+Hidden in a secret place
+Where ordinary people cannot see,
+So too do Buddha's four knowledges
+Produce all knowledge,
+While no one can see them
+Except great enlightening beings.
+As in the ocean are four jewels
+Which can drink up all waters
+So that the ocean does not overflow
+And does not increase or decrease,
+Likewise does Buddha's knowledge
+Stop waves and remove attachment to teachings;
+Boundlessly great and vast,
+It produces enlightening beings and buddhas.
+From the nadir to the summit of being,
+The desire, form, and formless realms,
+All rest in space,
+While space does not discriminate:
+The knowledge of enlightening beings,
+Of disciples and the self-enlightened,
+All rest in the knowledge of Buddha,
+While buddha-knowledge has no discrimination.
+On the Snowy mountains is a medicine
+Called inexhaustible roots 
+
+Which can make all trees growTheir roots, trunks, leaves, flowers, and fruits.
+Buddha's knowledge too is like this,
+Grown from the seed of enlightenment;
+Once enlightenment is attained,
+It also produces the practices of enlightening beings.
+If someone puts a handful of straw
+In the conic fire,
+Where even diamond blazes,
+The straw could not but be burned:
+The ages and lands of all times
+And the sentient beings therein
+Buddha completely knows
+More surely than the burning of that straw.
+There is a wind called destruction
+Which can pulverize a universe;
+If not stopped by another wind,
+Destruction would reach infinite worlds.
+The great wind of knowledge is also like this,
+Extinguishing the delusions of enlightening beings;
+There is another wind of skillfulness,
+Enabling them to live, in the land of buddhahood.
+It is as there is a great scripture
+Equal in extent to a universe
+Existing inside one atom,
+And in all atoms as well;
+Someone with intelligence and wisdom
+Sees all clearly with pure eyes
+And breaks the atoms, releasing the scriptures
+For the benefit of all beings.
+Buddha-knowledge, likewise,
+Is in all beings' minds;
+Wrapped up in deluded thoughts,
+They are unaware, unknowing;
+The buddhas' great compassion
+Causes them to get rid of deluded ideas
+So knowledge can appear
+And benefit enlightening beings.
+1005
+"How should great enlightening beings know the sphere of Buddha,
+who has realized Thusness and is completely awake? Knowing the spheres
+of all worlds by means of unobstructed, unimpeded knowledge is the
+sphere of Buddha. Knowing the spheres of all times, all lands, all things,
+and all beings, the undifferentiated sphere of True Thusness, the unobstructed sphere of the reality realm, the boundless sphere of absolute
+truth, the unquantified sphere of space, and the objectless sphere, is the
+sphere of Buddha. Just as the spheres of all times, and so on, up to the
+objectless sphere, are all infinite, so is the sphere of Buddha infinite. Just
+as the objectless sphere has no existence in all places, so also does the
+sphere of Buddha have no existence in all places.
+"Great enlightening beings should know the sphere of mind is the
+sphere of Buddha; j ust as the sphere of mind is measureless and boundless, without bondage or liberation, so too is the sphere of Buddha
+measureless and boundless, without bondage or liberation. Why? Because
+by such and such thoughts there are infinite such and such manifestations.
+It is like when the great water spirit showers rain according to will, the
+rain does not come from inside or outside; the sphere of Buddha is also
+like this-according to such and such thoughts, there are infinite such
+and such manifestations, yet they do not come from anywhere in the ten
+directions. Just as the water of the ocean all comes from the mental
+power of the king water spirit, so too does the water of the ocean of
+omniscience of all buddhas all come from the buddhas' past vows.
+"The ocean of omniscience is infinite, boundless, inconceivable, and
+inexpressible, but I will tell something of it by way of simile, so please
+listen carefully. The southern continent has 2,500 rivers, which flow into
+the ocean; the western continent has 5,000 rivers, which flow into the
+ocean; the eastern continent has 7,500 rivers, which flow into the ocean;
+the northern continent has 1 0,000 rivers, which flow into the ocean.
+These four continents thus have 25 ,000 rivers, which continuously flow
+into the ocean. What do you think-is that a lot of water?"
+"Yes indeed."
+"There is also a water spirit Ten Light Beams, which rains even more
+water than that into the ocean; the water spirit Hundred Light Beams
+rains even more water than that into the ocean; the water spirits Magnificent Arrays, Thoughtful, Thundering, Joy, Infinite Light, Continuous
+Shower, Great Victory, Great Surge, and eight billion more such water
+spirits each rain more and more into the ocean; the son of the water spirit
+Ocean, named Rose Apple B anner, rains even more than that. The
+water in the abode of the water spirit Ten Light Beams flows into the
+ocean, even more than the aforementioned; the water in the palace of the
+water spirit Hundred Light Beams flows into the ocean, even more; the
+water of the palaces of each of the water spirits, each with more and
+more water, flows into the ocean, and the water in the palace of the
+water spirit Rose Apple B anner, son of the water spirit Ocean, which is
+yet more, also flows into the ocean. The water in the palace of the water
+spirit Ocean, which is even more, surges forth into the ocean; the water
+it produces is violet, and it surges forth at regular times, so the tide of the
+ocean is regular. Thus the ocean's water is infinite, its treasures are
+infinite, its creatures are infinite, and the earth it rests on is infinite too.
+Do you think that the ocean is infinite or not?" 
+"It is truly infinite, incomparably so."
+"The infinity of this ocean does not come up to the smallest fraction
+of the infinity of the ocean of buddha-knowledge. Similes are made for
+beings according to their mentalities, but the sphere of Buddha is beyond
+similitude. Great enlightening beings should know that the ocean of
+knowledge of Buddha is infinite, because of ceaseless cultivation of all
+enlightening practices from the very first determination for enlightenment. They should know that the collection of treasures therein is infinite,
+because all elements of enlightenment, the seeds of the three treasures,
+continue unending. They should know the sentient beings in which it
+dwells are infinite, because it is used by all listeners and self-illuminates,
+those still learning and those beyond learning. They should know the
+ground it rests on is infinite, because it is the abode of all enlightening
+beings, from the first stage of Joy to the ultimate stage of Nonobstruction. Great enlightening beings, in order to enter infinite knowledge and
+benefit all sentient beings, should know the sphere of Buddha in this
+way."
+Then U niversally Good uttered these verses to again explain his
+meamng:
+As the sphere of mind is infinite,
+So is the sphere of buddhas.
+As the sphere of mind is born from intellect,
+So should the sphere of Buddha be seen.
+The water spirits, without leaving their places,
+Shower rain by the power of mind;
+Though the rain does not come from or go anywhere,
+Yet it falls everywhere according to the minds of the spirits:
+The Ten-Powered Sage, in like manner,
+Does not come from anywhere or go anywhere,
+To those with pure minds appearing physically,
+Vast as the cosmos, yet fitting in a pore.
+The treasures of the ocean are infinite,
+So are its creatures and ground;
+The nature of the water is one flavor, equal, without distinction,
+While those born therein each receive benefit.
+The ocean of buddha-knowledge is also thus;
+All it contains is infinite;
+Those in the stages of learning and no learning
+All gain benefit therein.
+"How should great enlightening beings know the conduct of Buddha?
+Great enlightening beings should know unobstructed action is the conduct of Buddha; they should know the conduct of true thusness is the
+conduct of Buddha. Just as True Thusness is not born in the past, does
+not move into the future, and does not arise in the present, likewise the
+conduct of Buddha is not born, does not move, and does not arise. Just as
+the realm of reality is not quantified or unquantified, because it has no
+form, likewise the conduct of Buddha is not quantified or unquantified,
+because it has no form. It is as if a bird flew through the sky for a
+hundred years, the places it passed and those it had not passed would
+both be immeasurable, because the realm of space has no boundaries:
+in the same way, if someone spent trillions of eons expounding the
+particulars of the conduct of Buddha, what was explained and what was
+not yet explained would both be immeasurable, because the action of
+Buddha Q.as no bounds.
+"Buddha, completely enlightened, engaged in unobstructed action,
+has no dwelling place, yet can show what he does to all beings and
+enables them to go beyond all obstructed paths once they have seen this.
+It is as when the golden-winged king of birds flies in the sky, it circles
+and hovers, observing the dragon palaces in the ocean with its clear eyes;
+exerting its forceful strength, it churns the ocean waters with its wings,
+causing the waters to part, and snatches dragons, male or female, whose
+life it knows is about to end. The 'golden-winged bird king' Buddha, in
+like manner, engaged in unimpeded action, observes all sentient beings
+in all abodes in the cosmos with the clear Buddha-eye; if any have
+planted roots of goodness that have developed to maturity, the Buddha
+exerts the forceful ten powers and with the two wings of tranquillity and
+insight churns the waters of emotion of the ocean of birth and death,
+causing the water to part, then snatches those beings, places them in the
+Buddha teaching, and causes them to stop all deluded notions and false
+descriptions and abide in the nondiscriminatory unobstructed action of
+the enlightened.
+"just as the sun and moon travel alone through the sky conferring
+benefit on sentient beings, with no notion of where they come from or
+where they are going, likewise the buddhas, by nature fundamentally
+silent and extinct, without discrimination, appear to course all universes,
+performing buddha-work to benefit sentient beings without cease, yet
+not producing false notions of coming from so mew here or going somewhere. Great enlightening beings should see and know the actions conducted by Buddha in terms of infinite such means, infinite natures and
+characteristics. "
+Then U niversally Good, to recapitulate, uttered these verses:
+Just as True Thusness is not born, does not perish,
+Has no location, and cannot be seen,
+Likewise the action of the Great Benefactor
+Transcends in the triple world and cannot be measured. 
+
+The reality realm is not the reality realm, yet not not the reality
+realm;
+It is not quantified and not unquantified.
+The action of the Great Worthy is also thus,
+Neither quantified nor unquantified, because there is no body.
+If a bird flies for billions of years,
+The sky behind and ahead are equal, no different;
+When Buddha's conduct is expounded for eons,
+The told and the untold cannot be measured.
+The golden bird in the sky watches the sea,
+Parts the waters and snatches dragons;
+The Ten-Powered can pull out virtuous people,
+Remove them from the sea of existence, and rid them of delusion.
+Like sun and moon traversing the sky
+Shining on all without distinction,
+The World-Honored traverses the cosmos
+Teaching beings without stirring a thought.
+" How should great enlightening beings know the attainment of enlightenment of Buddha? They should know that Buddha's attainment of
+enlightenment has no view of any phenomena, is impartial toward
+things, has no doubts, no duality, no signs, no activity, no cessation, no
+measure, no boundaries; avoiding extremes, abiding in the middle way,
+it is beyond all verbal explanation. Buddha knows the thoughts and
+mental patterns of all sentient beings, their faculties, dispositions, inclinations, afflictions, obsessions, and habits; in sum, Buddha instantly
+knows all things in all times.
+" It is as the ocean can reflect the physical forms of all sentient beings
+on earth, and therefore is called the ocean: the enlightenment of the
+buddhas is also like this, reflecting the thoughts, faculties, dispositions,
+and inclinations of all sentient beings, yet without reflecting anythingtherefore it is called the enlightenment of the buddhas.
+"The enlightenment of buddhas cannot be expressed in writing, cannot be reached by any verbal expression, cannot be explained in any
+language; but it is expediently elucidated according to need.
+"When buddhas attain true awakening, they acquire a body equal in
+extent to all sentient beings, a body equal in extent to all phenomena, a
+body equal in extent to all lands, a body equal in extent to all times, a
+body equal in extent to all buddhas, a body equal in extent to all
+languages, a body equal in extent to True Thusness, a body equal in
+extent to the cosmos, a body equal in extent to space, a body eqcal in
+extent to the realm where there is no obstruction, a body equal in extent
+to all vows, a body equal in extent to all practices, and a body equal in
+extent to the ultimately calm realm of nirvana. As are the bodies they acquire, so is their speech and mind; they attain measureless, countless
+such pure spheres of body, speech, and mind.
+"Upon attaining true awakening, buddhas see within their body all
+sentient beings attaining true awakening, and see all sentient beings enter
+nirvana, all of the same nature, which is no nature. No nature of what
+kind? That is, no nature of appearances, no nature of exhaustion, no
+nature of birth, no nature of destruction, no nature of self, no nature
+of nonself, no nature of living being, no nature of nonliving being, no
+nature of enlightenment, no nature of the cosmos, no nature of space,
+and also no nature of attaining true awakening. By knowing all things
+are naturclcss, a buddha attains omniscience, and by great compassion
+continues to save sentient beings.
+"Just as space never increases or decreases whether all worlds become
+or disintegrate, because space has no birth, similarly the enlightenment
+of buddhas has no increase or decrease whether there is attainment of
+enlightenment or not, because enlightenment has no signs or countersigns, no unity and no variety.
+" Suppose someone were able magically to produce as m�my minds
+as grains of sand in the Ganges River, and each mind also produced as
+many buddhas as grains of sand in the Ganges River, all featureless,
+formless, and signless, and continued to do so incessantly throughout
+as many eons as there are grains of sand in the Ganges River-how
+many buddhas do you think would be magically produced by that
+person's magically produced minds?"
+The enlightening being Wondrous Qualities of Natural Origination
+of Buddha said, "As I understand your meaning, magical production
+and nonproduction are equal and have no distinction-how can you
+ask how many there would be?"
+The enlightening being Universally Good said, "Very good-it is as
+you say. Even if all sentient beings were to instantly attain enlightenment, that would be equal to not attaining enlightenment, no different.
+Why? Because enlightenment is signless. If it has no signs, it has no
+increase or decrease.
+"Great enlightening beings should thus know that attainment of true
+awakening, the same as enlightenment, is uniformly formless. A buddha,
+attaining true awakening, by the means of unity, enters the concentration of thoroughly aware knowledge and, having entered it, manifests,
+in one vast body attaining true awakening, as many bodies as there are
+sentient beings dwelling in that body. As this is so of one vast body
+attaining true awakening, so it is of all vast bodies attaining true
+awakening.
+"Buddha has infinite such doors of attainment of true awakening;
+therefore you should know that the bodies Buddha manifests arc infinite,
+and because they are infinite we say the body of Buddha is infinite
+realms, equal to the realms of living beings. 
+" Great enlightening beings should know that in one pore of Buddha's
+body arc buddha-bodies as numerous as all sentient beings. Why?
+Because the body of the Buddha's attainment of true awakening ultimately has no birth or destruction . And as this is so of one pore, so is it
+of every point in the entire cosmos. Know that there is not a bit of space
+where there is no buddha-body. Why? Because Buddha's attainment of
+true awakening reaches everywhere. According to capability and power,
+on the lion seat under the enlightenment tree at the site of enlightenment, with various bodies, Buddha attains true awakening.
+" Great enlightening beings should know that in each moment of
+thought of their own minds there are always buddhas attaining true
+awakening. Why? Because the buddhas do not attain true awakening
+apart from this mind. As this is true of one's own mind, so is it also true
+of the minds of all sentient beings-in all are buddhas attaining true
+awakening, all-pervasive, existing everywhere, without separation or
+annihilation, without cease, entering the inconceivable doors or means
+of enlightenment. Great enlightening beings should know Buddha's
+attainment of enlightenment this way."
+Then, to recapitulate, the enlightening being Universally Good spoke
+these verses:
+The truly awake know all things
+Are nondual, beyond duality, all equal,
+Inherently pure as space,
+Not distinguishing self and nonself.
+As the ocean reflects beings' bodies
+And is therefore called the ocean,
+Enlightenment reflects all mental patterns
+And hence is called true awareness.
+Just as worlds have formation and decay
+While space does not increase or diminish,
+While all buddhas appear in the world,
+The one form of enlightenment is ever formless.
+When someone emanates minds emanating buddhas,
+Emanation and nonemanation are no different in essence;
+Though all sentient beings attain enlightenment,
+There is no increase or decrease, enlightenment or no.
+Buddha has a concentration called well aware;
+Entering this concentration under the enlightenment tree,
+Buddha emits light beams as many as beings,
+A wakening all kinds, like lotuses blooming. 
+
+As many thoughts, faculties, and desires
+As are in beings in lands of all times,
+That many bodies appearHence true awareness is called infinite.
+"How should great enlightening beings know Buddha's turning of
+the wheel of teaching? They should know it thus: Buddha, by the free
+power of mind, turns the wheel of teaching without arising or turning,
+because of knowing that all things forever have no arising. Buddha turns
+the wheel of teaching by three kinds of turning, the cycles of the path of
+insight, the path of practice, and the path beyond learning, and stops
+what should be stopped, because of knowing that all things are apart
+from extremes of annihilation and eternity. Buddha turns the wheel of
+teaching apart from the realm of desire and the realm of negation,
+because of penetrating the spacelike limit of all things. Buddha turns the
+wheel of teaching without verbal explanation, because of knowing that
+all things are inexpressible. Buddha turns the wheel of teaching ultimately quiescent! y, because of knowing that all things are of the essence
+of nirvana. Buddha turns the wheel of teaching with all means of literature and language, because the voice of Buddha reaches everywhere.
+Buddha turns the wheel of teaching knowing that the voice is like an
+echo, because of comprehending the true nature of all things. Buddha
+turns the wheel of teaching producing all messages in one message,
+because there is ultimately no center. Buddha turns the wheel of teaching
+without omission or exhaustion, because of absence of clinging inside
+or outside.
+"Just as all writing and speech cannot be exhaustively told of, the
+same is true of Buddha's turning the wheel of teaching-all letters are
+arranged to express it, without cease, without ever exhausting it. The
+wheel of teaching of Buddha enters into all speech and writing, yet has
+no dwelling place. Just as writing enters into all business, all words, all
+calculations, all mundane and transmundane subjects, yet dwells nowhere, so also does the voice of Buddha enter into all points, all beings,
+all phenomena and principles, all works, and all consequences, yet does
+not dwell anywhere. All the various languages of all sentient beings are
+not apart from the wheel of teaching of Buddha, because the real aspect
+of speech and sound is identical to the wheel of teaching. Great enlightening beings should know the turning of the wheel of teaching of
+Buddha thus.
+" Also, if great enlightening beings want to know the wheel of teaching that Buddha turns, they should know where Buddha's wheel of
+teaching comes from. What is the provenance of the Buddha's wheel
+of teaching? Buddha makes so many utterances, turning the wheel of
+teaching according to the innumerable differences in mental patterns
+and inclinations of all sentient beings. Buddhas, truly awake, have a concentration called ultimately unimpeded and fearless; having entered this concentration, with each mouth of each body of attainment of true
+enlightenment they produce as m any utterances as there are sentient
+beings, each utterance containing all sounds, each different, turning the
+wheel of teaching, to make all sentient beings happy. Those who know
+the turning of the wheel of teaching thus are considered to be following
+all Buddha teachings. Those who do not know this are not following
+them. Great enlightening beings should know Buddha's turning the
+wheel of teaching thus, because it universally enters the infinite realms
+of 1i ving beings."
+Then, to recapitulate, Universally Good said in verse,
+Buddhas' wheel of teaching has no turning;
+It has no arising and no attainment at any time.
+Just as writing is never exhausted,
+So is the teaching-wheel of the Ten-Powered.
+Just as writing enters everywhere, yet with no arrival,
+Such is the teaching-wheel of the Enlightened,
+Entering all speech without entering aught,
+Able to make all beings rejoice.
+Buddhas have a concentration called ultimate;
+They preach after entering this concentration,
+Speaking to enlighten all beings,
+Boundless though they be.
+In each utterance they also utter
+Countless sayings, each different,
+Free in the world, without discrimination,
+Causing all to hear according to inclination.
+Words do not come from inside or outside,
+Are neither lost nor accumulate;
+Yet for sentient beings buddhas turn the teaching-wheelThis freedom is most extraordinary.
+"How should great enlightening beings know Buddha's ultimate
+nirvana? If great enlightening beings want to know the greate nirvana
+of buddhas, they should know its fundamental essence. As is the nirvana
+of ultimate reality, so is the nirvana of Buddha; as is the nirvana of space,
+so is the nirvana of Buddha; as is the nirvana of the nature of things, so is
+the nirvana of Buddha; as is the nirvana of detachment from desire, so is
+the nirvana of Buddha; as is the nirvana of formlessness, so is the nirvana
+of Buddha; as is the nirvana of selfhood, so is the nirvana of Buddha; as
+is the nirvana of the ultimate essence of all things, so is the nirvana of
+Buddha; as is the nirvana of ultimate True Thusness, so is the nirvana of 
+Buddha. Why? Because nirvana has no birth and no emergence; if something has no birth and no emergence, then it has no extinction.
+"Buddha does not tell enlightening beings about the ultimate nirvana
+of buddhas and does not show it to them. Why? Because Buddha wants
+to cause them to see all buddhas always present before them, to see in
+one moment all the buddhas of past and future, in their full splendor,
+just as if they were actually present, yet without entertaining any notions
+of duality or nonduality. Why? Because great enlightening beings permanently abandon all conceptual clinging.
+"Buddhas appear in the world in order to provoke inspiration in sentient beings and manifest nirvana in order to provoke longing in sentient
+beings: in reality the buddhas have no appearance in the world and no
+nirvana either. Why? Buddha always abides in the pure realm of reality,
+manifesting nirvana according to the minds of sentient beings.
+"For example, when the sun comes out and illumines the world, its
+image is reflected in all clean vessels of water, being in all places without
+coming or going. If one vessel breaks, then the reflection of the sun does
+not appear in it. Do you think it is the fault of the sun that its reflection
+does not appear there?"
+"No-it is just because the vessel is broken; it's no fault of the sun."
+"The knowledge of realization of Thusness, buddna-knowledge, is
+also like this, appearing throughout the cosmos, without before or after:
+Buddha appears in the clean mind-vessels of all sentient beings. If the
+mind-vessel is always clean, the embodiment of Buddha is always seen;
+if the mind is polluted, the vessel breaks and the Buddha cannot be seen.
+"If there are any sentient beings who can be liberated by nirvana,
+Buddha then manifests nirvana for them; but really Buddha has no birth,
+no death, no crossing over into extinction.
+"It is like, for example, the element fire, which can make fires in all
+worlds. Sometimes in one place the fire will go out, but do you think
+the fire in all worlds is extinguished?"
+"No."
+" Similarly Buddha performs the tasks of buddhahood in all worlds;
+if what can be done in one world is finished, a buddha m anifests entry
+into nirvana, but the buddhas in all worlds do not all pass away into
+extinction. Great enlightening beings should know the great nirvana of
+the truly enlightened thus.
+" Again, suppose, for example, a m agician well versed in m agical arts,
+by the power of the techniques of illusion, m anifests phantom bodies in
+all cities, towns, and villages in all lands in a billion-world universe, and
+sustains them there by magical power for an eon, while in other places,
+the magic performance being finished, the bodies disappear. Do you
+think that when that great magician disappears in one place, he disappears in all places?"
+"No. ''
+"In a similar way Buddha, the Truly Enlightened, knowing the
+various magical arts of infinite wisdom and means, manifests in all universes, sustaining that permanently, throughout the future. If in one
+place, according to the minds of beings, what is to be done is finished,
+Buddha manifests nirvana; but can you say because Buddha has appeared
+to enter nirvana in one place that Buddha becomes extinct everywhere?
+Great enlightening beings should know the great ultimate nirvana of
+Buddha in this way.
+" Furthermore, Buddha, when manifesting nirvana, enters immovable concentration, and having entered this concentration, emanates
+from each body infinite trillions of great light beams, each light beam
+producing countless lotus blossoms, each lotus blossom having untold
+petals of exquisite jewels, with a lion throne on each petal and a buddha
+sitting cross-legged on each throne. The number of those buddhas is
+exactly equal to the number of sentient beings; all are fully adorned
+with the most sublime virtues, produced by the power of past vows. If
+there are any sentient beings with mature roots of goodness who see the
+buddha-incarnations, they will all receive the teaching; those buddhabodies remain forever, teaching and liberating sentient beings according
+to the situation , without losing an opportunity. The bodies of buddhas
+have no locus, are not real or unreal; only by the power of the past vows
+of the buddhas, and the capacity of sentient beings to be liberated, do
+they appear. Great enlightening beings should know the great nirvana
+of Buddha in this way. Buddha abides in the infinite, unobstructed, ultimate realm of reality, in the realm of space, in the essence of True Thusness, without birth or death, and in ultimate truth, appearing to sentient
+beings according to the time, sustained by past vows, without ever
+ceasing, not abandoning all beings, all lands, all phenomena. "
+Then, to recapitulate, Universally Good said in verse,
+While the sun sheds light illumining the world,
+When a vessel breaks and water leaks out, the reflection
+disappears;
+So it is with the sun of supreme knowledge;
+Those without faith see it as extinct.
+Fire makes fires in the world,
+While in one city it goes out sometime:
+Likewise the Buddha pervades the cosmos
+And appears to pass away where the work of teaching is done.
+A magician makes bodies appear in all lands,
+Which disappear when their function is done:
+So does Buddha disappear when the teaching is done,
+While always seen in other lands. 
+
+Buddha has a concentration, called unmoving,
+Which is entered after teaching beings:
+Instantly Buddha's body emanates infinite lights,
+The lights produce lotuses, on which are buddhas:
+The buddha-bodies are countless as phenomena,
+Visible to those with virtue;
+Each of these countless bodies
+Has a full span of life and array of adornments.
+Like birthlessness is the emergence of Buddha,
+Like deathlessness the nirvana of Buddha:
+All words and similes endAll purposes are achieved, beyond compare.
+" How should great enlightening beings know the roots of goodness
+planted by seeing, hearing, and attending Buddha? They should know
+these roots of goodness are not fruitless, because they produce endless
+awareness, because they remove all obstacles, because they certainly
+reach the ultimate end, because they are free from falsehood, because
+all vows are fulfilled, because they do not end creative action while
+according with knowledge of the uncreate, because they generate the
+knowledge of buddhas, because they go on throughout the future,
+because they accomplish all kinds of excellent practices, and because
+they reach the stage of effortless knowledge.
+"For example, if a man eats a little bit of diamond, it will never be
+digested, but must pass through the body. W hy? Because diamond is
+incompatible with the impurities of the physical body. In the same way,
+planting a little bit of roots of goodness with Buddha must pass through
+the body of afflictions of all conditioning and reach the abode of unconditioned ultimate knowledge. Why? Because this little bit of root
+of goodness is incompatible with the afflictions of conditioning.
+"Even if one piled up dry straw as high as a mountain, if one tossed
+an ember of fire the size of a seed into it, it would all burn up for sure.
+Why? Because fire burns straw. Like this, planting a little bit of roots of
+goodness with Buddha surely can burn up all afflictions and ultimately
+enable one to attain nirvana without remainder, because the essence of
+this little bit of root of goodness is ultimate.
+"For example, in the Snowy mountains there is a tree of the finest
+medicine called good sight: if any see it, their eyes are purified; if any
+hear of it, their ears are purified; if any smell it, their noses are purified; if
+any taste it, their tongues are purified; if any touch it, their bodies are
+purified; if any take the earth it grows in, that can also perform the beneficial function of removing disease. The supreme medicine of Buddha
+similarly can perform all benefits for sentient beings. If any see the
+physical body of Buddha, their eyes are purified; if any hear the name
+of Buddha, their ears are purified; if any smell the fragrance of the morality of Buddha, their noses are purified; if any taste the flavor of
+the teaching of Buddha, their tongues are purified, they gain the universal tongue and understand the principles of language; if any come in
+contact with the light of Buddha, their bodies are purified and they ultimately attain the supreme body of reality; if any think of Buddha, they
+attain purity of B uddha-remembrance concentration. If any sentient
+beings honor the ground Buddha has crossed, or a tomb or shrine, they
+too will be endowed with roots of goodness, annihilate all afflictions,
+and attain the felicity of sages. I tell you, even if there are sentient beings
+who see and hear Buddha, but because of being veiled by obstructions
+due to their deeds do not become believers, if they still plant roots of
+goodness, none will be in vain-they will reach the ultimate end and
+enter nirvana. Great enlightening beings should thus know that the roots
+of goodness planted by seeing, hearing, and attending Buddha are free
+from all evil and imbued with good.
+" Buddha uses all kinds of similes to explain all kinds of things, but
+there is no simile that can explain this principle. Why? Because the road
+of intellectual knowledge ends, because it is inconceivable. The buddhas
+and enlightening beings just tell sentient beings similes according to their
+mentalities in order to gladden them, but this is not the ultimate. This
+gate of the teaching is called the secret point of the buddhas; it is called
+that which cannot be known by any worldlings; it is called entry into
+the seal of B uddha; it is called opening the door of great knowledge; it is
+called revealing the essence of Buddha; it is called perfecting all enlightening beings; it is called that which all worldlings cannot destroy; it is
+called wholly conforming to the realm of buddhas; it is called able to
+purify all realms of sentient beings; it is called expounding the ultimate
+inconceivable teaching of the real nature of Buddha. Buddha does not
+expound this teaching to anyone but enlightening beings intent on the
+Great Vehicle, only expounding it to enlightening beings riding the
+inconceivable vehicle of enlightenment. This gate of teaching does not
+come into the hands of anyone but great enlightening beings.
+"It is like, for example, the seven treasures of a universal ruler, by
+which universal rulership is shown; these treasures do not come into the
+hands of anyone but the crown prince born of the first wife who h as
+developed the characteristics of a sage ruler. If the universal ruler does
+not have a son with m any virtues, after the ruler's life ends the treasures
+will disperse and perish in seven days. The treasure of this scripture is
+also like this: it does not come into the hands of anyone but the true offspring of the sovereign Buddha, born in the house of Buddha, who plant
+the roots of goodness characteristic of buddhas. If there a rc no true offspring of Buddha, this teaching will perish before long. Why? Because
+those in the two lesser vehicles of individual salvation do not hear this
+scripture , much less absorb and hold it, read, recite, or copy it, or analyze
+and explain it-only the great enlightening beings can do these things.
+"Therefore, great enlightening beings, hearing this teaching, shall reJOICe and receive it with respect. Why? Because great enlightening
+beings appreciating this scripture will quickly attain unexcelled, complete perfect enlightenment. Even if enlightening beings spend countless
+eons practicing the six ways of transcendence and cultivating the various
+elements of enlightenment, as long as they have not heard this teaching
+of the inconceivable great power of Buddha, or if they have heard it and
+do not believe or understand it, do not follow it, enter it, or attain it,
+they cannot be called true enlightening beings, because they cannot be
+born in the house of Buddha. If they get to hear this teaching of the
+immeasurable, inconceivable, unobstructed, unhindered knowledge of
+Buddha, and having heard it, take it to heart, follow it, and awaken to
+it, these people will be born in the house of Buddha, accord with the
+sphere of all buddhas, be endowed with all qualities of enlightening
+beings, detach from all mundane things, develop the conduct of all
+buddhas, realize the true nature of all enlightening beings, have no
+doubts about the power of Buddha, abide in the teacherless truth, and
+plunge deeply into the unimpeded realm of buddhahood.
+"After great enlightening beings have heard this teaching, then they
+can know infinite things by knowledge of equality; then they can part
+with arbitrary discriminations by means of a straightforward, honest
+mind; then they can see the buddhas before them by means of supreme
+devotion; then they can enter the impartial realm of space by means of
+the power of attention; then they can travel the boundless cosmos by
+means of free thought; then they can acquire all virtues by means of the
+power of knowledge and wisdom; then they can shed all worldly defilements by means of spontaneous knowledge; then they can enter the network of all ten directions by means of the will for enlightenment; then
+they can know the buddhas of all times are of one and the same essence,
+by means of great observation; then they can enter this teaching by the
+knowledge of dedication of roots of goodness, entering without entering, not clinging to a single thing, always observing things through one
+universal principle. Great enlightening beings, perfecting these accomplishments, attain teacherless, spontaneous knowledge with a minimum
+of effort. "
+Then Universally Good, to recapitulate, spoke these verses:
+Immeasurable are the virtues attained
+By seeing, hearing, and honoring buddhas;
+Ultimately endless in action,
+Needed to destroy afflictions and remove misery.
+As when a man ingests a little diamond
+It is not digested but must pass through,
+The virtues of honoring budd has
+Destroy illusion and lead to adamantine knowledge. 
+
+Just as straw piled high as a mountain
+A tiny ember of fire will burn up,
+The small virtue of honoring buddhas
+Will end affliction and lead to nirvana.
+In the Snowy mountains is an herb called good to see
+Which relieves all sickness when seen, heard of, smelled, or
+touched;
+If any see or hear of buddhas,
+They will gain excellent virtues and reach buddha-knowledge.
+Then, by the spiritual power of Buddha, and by natural law, untold
+hundreds of quintillions of worlds in each of the ten directions quaked in
+six ways: surging up in the east, sinking in the west; surging up in the
+west, sinking in the east; surging up in the south, sinking in the north;
+surging up in the north, sinking in the south; surging up on the periphery, sinking in the middle; surging up in the middle, sinking on the
+periphery-moving in eighteen ways: trembling, trembling all over,
+trembling equally all over; rising, rising all over, rising equally all over;
+surging, surging all over, surging equally all over; quaking, quaking all
+over, quaking equally all over; roaring, roaring all over, roaring equally
+all over; crashing, crashing all over, crashing equally all over. There
+rained clouds of all kinds of flowers, parasols, banners, pennants, fragrances, garlands, perfumes, ornaments, and radiant jewels, all surpassing
+those of the heavens, as well as clouds of enlightening beings singing
+eulogies, clouds of different bodies of untold enlightening beings, clouds
+of true awakening, clouds of purifying inconceivable worlds, clouds
+raining the sounds of the words of the buddhas, filling boundless universes. As on this earth the power of Buddha manifested in this way,
+causing all enlightening beings to rejoice greatly, so did this transpire in
+all worlds throughout the ten directions.
+At that time, in each of the ten directions, past as many worlds as atoms
+in eighty unspeakable numbers of hundreds of septillions of buddhalands, there were eighty unspeakable numbers of hundreds of septillions
+of buddhas, alike named Universally Good, who all appeared to the enlightening beings and said, " Bravo, Offspring of B uddha! You are able,
+imbued with the power of the enlightened, conforming to the nature of
+reality, to expound the teaching of the manifestation of Buddha. We
+buddhas of the same name, eighty unspeakable numbers of hundreds of
+septillions of us in each of the ten directions, all expound this teaching.
+And what we expound, so do all Buddhas in all worlds in the ten directions. In this assembly as many great enlightening beings as atoms in
+a hundred thousand buddha-lands have attained the concentration of
+spiritual powers of all enlightening beings; we give them the prediction
+that they will attain unexcelled, complete perfect enlightenment in one lifetime. As many sentient beings as atoms in a buddha-land have roused
+the determination for unexcelled, complete perfect enlightenment; we
+also give them a prediction, that in the future, after as many eons as
+atoms in unspeakable buddha-lands, they will all become buddhas, all
+with the same name, Supreme Realm of the Enlightened. In order to
+enable the enlightening beings of the future to hear this teaching, we all
+preserve it together. As the sentient beings arc liberated in this world, so
+arc the sentient beings liberated in all worlds in the cosmos."
+Then, owing to the spiritual power of the buddhas of the ten directions, owing to the power of the original vows ofVairocana, because the
+natural order is so, because of the power of roots of goodness, because
+the buddhas activate know ledge in an instant, because budd has respond
+to conditions without missing the time, because they awaken enlightening beings at appropriate times, because their past deeds have no loss or
+decay, because they foster the attainment of the great practice of Universal Good, and because they manifest the mastery of omniscience, in each
+of the ten directions, past as many worlds as atoms in ten unspeakable
+numbers of tens of quadrillions of buddha-lands, there were as many enlightening beings as atoms in ten unspeakable numbers of tens of quadrillions of buddha-lands who came here, filling all universes in the ten
+directions, showing the vast magnificent adornments of enlightening
+beings, emitting networks of great beams of light, shaking all worlds in
+the ten directions, demolishing the palaces of all demons, extinguishing
+the pains of the states of ill, revealing the power of all enlightened ones,
+singing praises of the infinite different virtuous qualities of the enlightened, showering all kinds of rains, manifesting infinite different bodies,
+receiving the teachings of infinite buddhas. By the spiritual power of
+Buddha, they each said, "Bravo, offspring of Buddha: you are able to
+explain this indestructible teaching of buddhas. We arc all named Universally Good, and we each have come here from the presence of a
+buddha called Freedom Marked by Universality, from worlds called
+Universal Light. In those worlds we also expound this teaching, with
+the same expressions, the same principles, the same explanations, the
+same certitude, without increase or decrease. We have all come here,
+by the spiritual power of Buddha, and by having attained the Buddhas'
+teaching, to be witnesses for you. And as we come here, the same is
+true of all worlds in the whole cosmos, throughout space, in all ten
+directions. "
+Then the enlightening being Universally Good-with the spiritual
+power of Buddha, looking over all the great congregations of enlightening beings, wishing to recapitulate the immense power of the manifestation of Buddha, the indestructibility of the true teaching of the
+enlightened, how infinite roots of goodness are not in vain, how the
+emergence of buddhas in the world always comprises all supreme qualities, the ability to observe skillfully the minds of all sentient beings and
+teach them the truth according to their needs, without missing the right time, producing the infinite light of truth of enlightening beings; the
+adornments of freedom of all buddhas, and how all enlightened ones are
+one body, no different, produced by great practices of the past-said
+1n verse:
+The actions of all buddhas
+Are beyond mundane similitudes;
+In order to enlighten sentient beings,
+They make similes of nonsimiles for illustration.
+This subtle, mysterious, profound teaching
+Is hard to get to hear in a billion ages;
+Those with vigor, wisdom, and self-control
+Can get to hear this mystery.
+Any who hear this teaching and rejoice
+Have served countless buddhas;
+Being absorbed into the power of Buddha,
+Gods and humans honor and praise them.
+This is the foremost wealth transcending the world:
+This can liberate all living beings,
+This can produce the pure PathYou should keep it attentively. 
+
+`;
+const sutra_38=`
+
+`;
+const sutra_39=`
+
+`;
 
 
 
@@ -17228,7 +23053,7 @@ const sutra_all = [{
   id:21,
   title_cn:"十行(1.2)",
   title_en:"Ten Practices.1",
-  content:sutra_21_1
+  content:sutra_21
 },{
   id:22,
   title_cn:"十无尽藏",
