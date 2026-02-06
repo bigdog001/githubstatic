@@ -32,12 +32,68 @@
 </style>
 
 <script type="text/javascript">
-    function buildContent(targetChapter){
-        //console.log(`chapter_a size:$chapter_a`)
+
+    function BuildDictionaryItem(content){
+        var dictionary_text = "";
+        const words = (content.match(/\b[\w']+\b/g) || []);
+        // console.log(words.map((w,i)=>`${i+1}. ${w}\n`).join(''));
+        dictionary_text = words.map((w,i)=>` &nbsp;<a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a> &nbsp;`).join('');
+        //console.log(`dictionary_text:${dictionary_text}`);
+        return dictionary_text;
+    }
+
+    function showDictionary(itemId){
+        console.log(itemId);
+       let x = document.getElementById(itemId+"_dic");
+        console.log(`showCommentById:${x.style.display}`);
+        if(x.style.display === 'block'){
+            x.style.display = 'none';
+        }else{
+            x.style.display = 'block';
+        }
+    }
+
+    function buildContent(content_array ,targetChapter) {
+         
+        const selected_chapter_sentences = content_array[targetChapter ].content.split(/\r?\n/);
+        const size_selected_chapter_sentences = selected_chapter_sentences.length;
+        let display_content = "";
+        for (let k = 0; k < size_selected_chapter_sentences; k++) {
+            const item_id =`content_item_${targetChapter}_${k}`;
+            if(selected_chapter_sentences[k].length == 0){
+                display_content+="<br/>";
+            }else {
+                display_content += `<span id="${item_id}" class="content_item" onclick="showDictionary('${item_id}')">${selected_chapter_sentences[k]} </span> <p style="display:none;" id="${item_id}_dic" class="content_item_dictionary">${BuildDictionaryItem(selected_chapter_sentences[k])}</p>`;
+            }
+
+        }
+        document.getElementById("contents").innerHTML = display_content;
+    }
+
+    let targetContentArray ;
+    function selectChapter(){
+        const index = document.getElementById("chapterSelect").value
+        document.getElementById("chapter_title").innerHTML = targetContentArray[index].title_en;
+        buildContent(targetContentArray, index);
+    }
+
+    function buildChapterList(content_array){
+        const subChapterSelect = document.getElementById("chapterSelect");
+        if(!subChapterSelect.value){
+            for(let i = 0; i < content_array.length; i++){
+                const option = document.createElement("option");
+                option.value = i;
+                const title = content_array[i].title_en;
+                option.textContent = `Chapter ${i+1} - ${title}`;
+                subChapterSelect.appendChild(option);
+            }
+        }
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-        //buildContent( 1);
+         targetContentArray = chapter_a;
+        buildChapterList(targetContentArray);
+        buildContent(targetContentArray, 0);
     });
 </script>
 <body>
@@ -46,7 +102,8 @@
 
 
 <main class="container">
-    <h2 style="text-align: center;" id="sutra_title"> </h2>
+    <select id="chapterSelect" onchange="selectChapter()"></select>
+    <h2 style="text-align: center;" id="chapter_title"> </h2>
     <div id="contents"></div>
 </main>
 <div id="pageFooter"></div>
