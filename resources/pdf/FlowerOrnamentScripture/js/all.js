@@ -23074,8 +23074,8 @@ const sutra_all = [{
 },
 {
   id:25,
-  title_cn:"Ten Dedications",
-  title_en:"十回向",
+  title_cn:"十回向",
+  title_en:"Ten Dedications",
   content:sutra_25
 },
 {
@@ -23099,57 +23099,57 @@ const sutra_all = [{
 {
   id:29,
   title_cn:"十忍",
-  title_en:" ",
+  title_en:"The Ten Acceptances",
   content:sutra_29
 },
 {
   id:30,
   title_cn:"阿僧祇",
-  title_en:" ",
+  title_en:"The Incalculable",
   content:sutra_30
 },
 {
   id:31,
   title_cn:"寿量",
-  title_en:" ",
+  title_en:"Life Span",
   content:sutra_31
 },
 {
   id:32,
   title_cn:"诸菩萨住处",
-  title_en:" ",
+  title_en:"Dwelling Places of Enlightening Beings",
   content:sutra_32
 },
 {
   id:33,
   title_cn:"佛不思议法",
-  title_en:" ",
+  title_en:"Inconceivable Qualities of Buddhas",
   content:sutra_33
 },
 {
   id:34,
   title_cn:"如来十身相海",
-  title_en:" ",
+  title_en:"The Ocean of Physical Marks of the Ten Bodies of Buddha",
   content:sutra_34
 }, {
   id:35,
   title_cn:"如来随好光明功德",
-  title_en:" ",
+  title_en:"The Qualities of the Buddha) s Embellishments and Lights",
   content:sutra_35
 }, {
   id:36,
   title_cn:"普贤行",
-  title_en:" ",
+  title_en:"The Practice of Universal Good",
   content:sutra_36
 }, {
   id:37,
   title_cn:"如来出现",
-  title_en:" ",
+  title_en:"Manifestation of Buddha",
   content:sutra_37
 }, {
   id:38,
   title_cn:"离世间",
-  title_en:" ",
+  title_en:"Detachment from the World ",
   content:sutra_38
 }, {
   id:39,
