@@ -24293,7 +24293,7 @@ const chapter_b = [
         title_cn:" ",
         title_en:"The State",
         content:chapter_b_2
-    }
+    },
     {
         id:3,
         title_cn:" ",
