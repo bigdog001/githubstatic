@@ -1134,7 +1134,7 @@ of a mosaic should fit into the general world picture in its proper
 place, and thus help to form this picture in the mind of the reader.
 Otherwise there arises a confused muddle of memorized facts which not only are worthless, but also make their unto fortunate
 possessor conceited. For such a reader now believes himself in
-all seriousness to be educated,' to understand something of life,
+all seriousness to be {educated,' to understand something of life,
 to have knowledge, while in reality, with every new acquisition
 of this kind of 'education,' he is growing more and more removed
 from the world until, not infrequently, he ends up in a sanitarium
@@ -11676,7 +11676,7 @@ responsibility on his shoulders. Members of the movement are
 free to call him to account before the forum of a new election, to
 divest him of his office in so far as he has infringed on the
 principles  of  the   movement  or  served   its interests  badly.  His
-place is then taken by an abler, new man, enjoying, however the
+place is then taken by an abler, new man, enjoying, however} the
 same authority and the same responsibility.
 It  is  one of the  highest  tasks  of  the movement  to make  this
 principle determining, not only within its own ranks, but for the
@@ -11921,7 +11921,7 @@ they hate worst is our best friend.
 Anyone who picks up a Jewish newspaper in the morning and
 does not see himself slandered in it has not made profitable use
 of   the   previous   day;   for   if   he   had,   he   would   be   persecuted,
-reviled,   slandered,  abused  befouled.  And  only  the  man  who
+reviled,   slandered,  abused}  befouled.  And  only  the  man  who
 combats   this   mortal   enemy   of   our   nation   and   of   all   Aryan
 humanity and  culture  most  effectively  may  expect  to  see  the
 slanders  of  this  race   and  the  struggle  of  this  people  directed
@@ -24293,8 +24293,7 @@ const chapter_b = [
         title_cn:" ",
         title_en:"The State",
         content:chapter_b_2
-    },
-    {
+    }, {
         id:3,
         title_cn:" ",
         title_en:"Subjects and Citizens",
