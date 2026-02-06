@@ -3,6 +3,7 @@ Braunau on the Inn as my birthplace. For this little town lies on
 the   boundary   between   two   German   states   which   we   of   the
 younger generation at least have made it our life work to reunite
 by every means at our disposal.
+
 German-Austria must return to the great German mother country,
 and not because of any economic considerations. No, and again
 no: even if such a union were unimportant from an economic
@@ -31,6 +32,7 @@ Leo Schlageter. And like him, he was denounced to the French
 by a representative of his government An Augsburg police chief
 won this unenviable fame, thus furnishing an example for our
 modern German officials in Herr Severing's Reich.
+
 In this little town on the  Inn, gilded by the rays of German
 martyrdom, Bavarian by blood, technically Austrian, lived my
 parents in the late eighties of the past century; my father a dutiful
@@ -40,6 +42,7 @@ remains in my memory of this period, for after a few years my
 father had to leave the little border city he had learned to love,
 moving down the Inn to take a new position in Passau, that is, in
 Germany proper.
+
 In those days constant moving was the lot of an Austrian customs
 official. A short time later, my father was sent to Linz, and there
 he was finally pensioned. Yet, indeed, this was not to mean "res"'
@@ -68,6 +71,7 @@ that he would not return to his beloved native village until he had made somethi
 His goal was achieved; but no one in the village could remember
 the little boy of former days, and to him the village had grown
 strange.
+
 When finally, at the age of fifty­six, he went into retirement, he
 could not bear to spend a single day of his leisure in idleness.
 Near the Upper Austrian market village of Lambach he bought a
@@ -96,6 +100,7 @@ or to draw from them any favorable conclusions regarding the
 future of his offspring, he could, it goes without saying, achieve
 no   understanding   for   such   youthful   ideas.   With   concern   he
 observed this conflict of nature.
+
 As it happened, my temporary aspiration for this profession was
 in any case soon to vanish, making place for hopes more stated to
 my temperament. Rummaging through my father's library, I had
@@ -134,8 +139,10 @@ should   enhance   his   subsequent   achievement   in   his   eyes,
 particularly since it resulted exclusively from his own energy and
 iron diligence. It was the pride of the self­made man which made
 him want his son to rise to the same position in life, orJ of
-course,   even   higher   if   possible,   especially   since,   by   his   own industrious life, he thought he would be able to facilitate his
+course,   even   higher   if   possible,   especially   since,   
+by   his   own industrious life, he thought he would be able to facilitate his
 child's development so greatly.
+
 It was simply inconceivable to him that I might reject what had
 become the content of his whole life. Consequently, my father s
 decision was simple, definite, and clear; in his own eyes I mean,
@@ -147,13 +154,16 @@ responsibility. Moreover, this would have seemed a sinful and
 reprehensible  weakness  in  the  exercise   of  his  proper  parental
 authority and responsibility for the future life of his child, and as
 such, absolutely incompatible with his concept of duty.
+
 And yet things were to turn out differently.
+
 Then barely eleven years old, I was forced into opposition for the
 first time in my life. Hard and determined as my father might be
 in putting through plans and purposes once conceived his son
 was just as persistent and recalcitrant in rejecting an idea which
 appealed to him not at all, or in any case very little.
 I did not want to become a civil servant.
+
 Neither persuasion nor 'serious' arguments made any impression
 on my resistance. I did not want to be a civil servant no, and
 again no. All attempts on my father's part to inspire me with love
@@ -163,12 +173,14 @@ stomach at the thought of sitting in an office, deprived of my
 liberty;   ceasing   to   be   master   of   my   own   time   and   being
 compelled to force the content of a whole life into blanks that
 had to be filled out.
+
 And what thoughts could this prospect arouse in a boy who in
 reality was really anything but 'good' in the usual sense of the
 word?
 School work was ridiculously easy, leaving me so much free
 time that the sun saw more of me than my room. When today my
-political   opponents   direct   their   loving   attention   to   the examination of my life, following it back to those childhood days
+political   opponents   direct   their   loving   attention   to  
+ the examination of my life, following it back to those childhood days
 and discover at last to their relief what intolerable pranks this
 "Hitler" played even in his youth, I thank Heaven that a portion
 of   the   memories   of   those   happy   days   still   remains   with   me.
@@ -176,6 +188,7 @@ Woods and meadows were then the battlefields on which the
 'conflicts' which exist everywhere in life were decided.
 In   this   respect   my   attendance   at   the   Realschule,   which   now
 commenced, made little difference.
+
 But now, to be sure, there was a new conflict to be fought out.
 As long as my fathers intention of making me a civil servant
 encountered only my theoretical distaste for the profession, the
@@ -196,6 +209,7 @@ time, after once again rejecting my father's favorite notion, I was
 asked what I myself wanted to be, and I rather abruptly blurted
 out   the   decision   I   had   meanwhile   made,   my   father   for   the
 moment was struck speechless.
+
 ' Painter? Artist? '
 He doubted my sanity, or perhaps he thought he had heard wrong
 or misunderstood me. But when he was clear on the subject, and
@@ -203,7 +217,9 @@ particularly   after   he   felt­the   seriousness   of   my   intention,   he
 opposed it with all the determination of his nature. His decision
 was extremely simple, for any consideration of w at abilities I
 might really have was simply out of the question.
-'Artist, no, never as long as I live!' But since his son, among various   other   qualities,   had   apparently   inherited   his   father'   s
+
+'Artist, no, never as long as I live!' But since his son, among various   other   qualities,  
+ had   apparently   inherited   his   father's
 stubbornness, the same answer came back at him. Except, of
 course, that it was in the opposite sense.
 And thus the situation remained on both sides. My father did not
@@ -219,6 +235,7 @@ therefore, I was silent, but transformed my threat into reality. I
 thought that once my father saw how little progress I was making
 at the Realschule, he would let me devote myself to my dream,
 whether he liked it or not.
+
 I   do   not   know   whether   this   calculation   was   correct.   For   the
 moment only one thing was certain: my obvious lack of success
 at school. What gave me pleasure I learned, especially everything
@@ -233,8 +250,8 @@ These were my favorite subjects, in which I led the; class.
 If now, after so many years, I examine the results of this period, I
 regard   two   outstanding   facts   as   particularly   significant:
 First:   I   became   a   nationalist
-Second:   I   learned   to   understand   and   grasp   the   meaning   of
-history.
+Second:   I   learned   to   understand   and   grasp   the   meaning   of history.
+
 Old Austria was a 'state of nationalities.'
 By and large, a subject of the German Reich, at that time at least,
 was absolutely unable to grasp the significance of this fact for the life of the individual in such a state. After the great victorious
@@ -266,6 +283,7 @@ East, and finally carried on an exhausting guerrilla warfare to
 maintain the German language frontier, at a time when the Reich
 was highly interested in colonies, but not in its own flesh and
 blood at its very doorstep.
+
 As everywhere and always, in every struggle, there were, in this
 fight for the language in old Austria, three strata:
 The fighters, the lukewarm and the traitors.
@@ -288,6 +306,7 @@ insignia of their own nationality and are happy to be punished or
 even beaten for it. Thus, on a small scale they are a faithful
 reflection of the adults, except that often their convictions are
 better and more honest.
+
 I, too, while still comparatively young, had an opportunity to
 take   part   in   the   struggle   of   nationalities   in   old   Austria.
 Collections   were   taken   for   the   Sudmark   I   and   the   school
@@ -300,10 +319,12 @@ than its language. It goes without saying that even then I was not
 among the lukewarm. In a short time I had become a fanatical
 'German Nationalist,' though the term was not identical with our
 present party concept.
+
 This development in me made rapid progress; by the time I was
 fifteen I understood the difference between dynastic ' patriotism'
 and folkish "nationalism'; and even then I was interested only in
 the latter.
+
 For anyone who has never taken the trouble to study the inner
 conditions of the Habsburg monarchy, such a process may not be
 entirely understandable. In this country the instruction in world history had to provide the germ for this development, since to all
@@ -314,9 +335,11 @@ separation of history into German and Austrian does not seem
 conceivable. Indeed, when at length Germany began to divide
 into two spheres of power, this division itself became German
 history.
+
 The insignia of former imperial glory, preserved in Vienna, still
 seem to cast a magic spell; they stand as a pledge that these
 twofold destinies are eternally one.
+
 The elemental cry of the German­Austrian people for union with
 the German mother country, that arose in the days when the
 Habsburg state was collapsing, was the result of a longing that
@@ -338,8 +361,10 @@ forefathers. No, by the living God, this is very unimportant.
 To 'learn' history means to seek and find the forces which are the
 causes leading to those effects which we subsequently perceive
 as historical events.
+
 The art of reading as of learning is this: to retain the essential to
 forget the non­essential.
+
 Perhaps it affected my whole later life that good fortune sent me
 a history teacher who was one of the few to observe this principle in teaching and examining. Dr. Leopold Potsch, my professor at
 the Realschule in Linz, embodied this requirement to an ideal
@@ -352,6 +377,7 @@ enchantment, carried us into past times and, out of the millennial
 veils of mist, molded dry historical memories into living reality.
 On such occasions we sat there, often aflame with enthusiasm,
 and sometimes even moved to tears.
+
 What made our good fortune all the greater was that this teacher
 knew how to illuminate the past by examples from the present,
 and how from the past to draw inferences for the present. As a
@@ -361,9 +387,12 @@ budding   nationalistic   fanaticism   as   a   means   of   educating   use
 frequently appealing to our sense of national honor. By this alone
 he was able to discipline us little ruffians more easily than would
 have been possible by any other means.
+
 This teacher made history my favorite subject.
+
 And indeed, though he had no such intention, it was then that I
 became a little revolutionary.
+
 For who could have studied German history under such a teacher
 without becoming an enemy of the state which, through its ruling
 house, exerted so disastrous an influence on the destinies of the
@@ -394,12 +423,14 @@ hypocrisy,   which   enabled   the   Austrian   rulers   to   create   the
 outward appearance that Austria was a German state, raised the
 hatred toward this house to flaming indignation and at the same
 time ­contempt.
+
 Only in the Reich itself, the men who even then were called to
 power saw nothing of all this. As though stricken with blindness,
 they lived by the side of a corpse, and in the symptoms of rottenness saw only the signs of 'new' life.
 The unholy alliance of the young Reich and the Austrian sham
 state contained the germ of the subsequent World War and of the
 collapse as well.
+
 In the course of this book I shall have occasion to take up this
 problem   at   length.   Here   it   suffices   to   state   that   even   in   my
 earliest youth I came to the basic insight which never left me, but
@@ -416,6 +447,7 @@ extent world history became for me an inexhaustible source of
 understanding for the historical events of the present, in other
 words, for politics. I do not want to 'learn' it, I want it to in
 instruct me.
+
 Thus, at an early age, I had become a political ' revolutionary,'
 and I became an artistic revolutionary at an equally early age.
 The provincial capital of Upper Austria had at that time a theater
@@ -427,6 +459,7 @@ the master of Bayreuth knew no bounds. Again and again I was
 drawn to his works, and it still seems to me especially fortunate
 that   the   modest   provincial   performance   left   me   open   to   an
 intensified experience later on.
+
 All this, particularly after I had outgrown my adolescence (which
 in my case was an especially painful process), reinforced my
 profound distaste for the profession which my father had chosen
@@ -434,18 +467,24 @@ for me. My conviction grew stronger and stronger that I would
 never be happy as a civil servant. The fact that by this time my
 gift for drawing had been recognized at the Realschule made my
 determination all the firmer.
+
 Neither pleas nor threats could change it one bit.
+
 I wanted to become a painter and no power in the world could
 make me a civil servant.
+
 Yet, strange as it may seem, with the passing years I became
 more and more interested in architecture.
+
 At that time I regarded this as a natural complement to my gift as
 a painter, and only rejoiced  inwardly at the  extension of my
 artistic scope.
+
 I did not suspect that things would turn out differently . 
 
 The question of my profession was to be decided more quickly
 than I had previously expected.
+
 In my thirteenth year I suddenly lost my father. A stroke of
 apoplexy felled the old gentleman who was otherwise so hale,
 thus painlessly ending his earthly pilgrimage, plunging us all into
@@ -454,6 +493,7 @@ son forge his career, thus preserving him from his own bitter
 experience. In this, to all appearances, he had not succeeded. But,
 though unwittingly, he had sown the seed for a future which at
 that time neither he nor I would have comprehended.
+
 For the moment there was no outward change.
 My mother, to be sure, felt obliged to continue my education in
 accordance with my father's wish; in other words, to have me
@@ -469,6 +509,7 @@ the Realschule had furthermore to be interrupted for at least a
 year. The goal for which I had so long silently yearned, for which
 I had always fought, had through this event suddenly become
 reality almost of its own accord.
+
 Concerned over my illness, my mother finally consented to take
 me out of the Realschule and let­ me attend the Academy.
 These were the happiest days of my life and seemed to me almost
@@ -478,11 +519,13 @@ It was the conclusion of a long and painful illness which from the
 beginning left little hope of recovery. Yet it was a dreadful blow,
 particularly for me. I had honored my father, but my mother I
 had loved.
+
 Poverty   and   hard   reality   now   compelled   me   to   take   a   quick decision.   What   little   my   father   had   left   had   been   largely
 exhausted by my mother's grave illness; the orphan's pension to
 which I was entitled was not enough for me even to live on, and
 so I was faced with the problem of somehow making my own
 living.
+
 In my hand a suitcase full of clothes and underwear; in my heart
 an indomitable will, I journeyed to Vienna. I, too, hoped to wrest
 from Fate what my father had accomplished fifty years before; I,
@@ -499,6 +542,7 @@ the examination. At the Realschule I had been by far the best in
 my class at drawing, and since then my ability had developed
 amazingly; my own satisfaction caused me to take a joyful pride
 in hoping for the best.
+
 Yet sometimes a drop of bitterness put in its appearance: my
 talent   for   painting   seemed   to   be   excelled   by   my   talent   for
 drawing, especially in almost all fields of architecture. At the
@@ -531,8 +575,10 @@ myself. For what I had just heard about my abilities seemed like
 a lightning flash, suddenly revealing a conflict with which I had
 long been afflicted, although until then I had no clear conception
 of its why and wherefore.
+
 In a few days I myself knew that I should some day become an
 architect.
+
 To be sure, it was an incredibly hard road; for the studies I had
 neglected out of spite at the Realschule were sorely needed. One
 could   not   attend   the   Academy's   architectural   school   without
@@ -552,6 +598,7 @@ hence my possibilities in the struggle were easier, and what then
 seemed to be the harshness of Fate, I praise today as wisdom and Providence. While the Goddess of Suffering took me in her arms,
 often threatening to crush me, my will to resistance grew, and in
 the end this will was victorious.
+
 I owe it to that period that I grew hard and am still capable of
 being hard. And even more, I exalt it for tearing me away from
 the   hollowness   of   comfortable   life;   for   drawing   the   mother's
@@ -559,14 +606,17 @@ darling out of his soft downy bed and giving him 'Dame Care' for
 a new mother; for hurling me, despite all resistance, into a world
 of misery and poverty, thus making me acquainted with those for
 whom I was later to fight.
+
 In this period my eyes were opened to two menaces of which I
 had previously scarcely known the names, and whose terrible
 importance for the existence of the German people I certainly did
 not understand: Marxism and Jewry.
+
 To me Vienna, the city which, to so many, is the epitome of
 innocent   pleasure,   a   festive   playground   for   merrymakers,
 represents, I am sorry to say, merely the living memory of the
 saddest period of my life.
+
 Even   today   this   city   can   arouse   in   me   nothing   but   the   most
 dismal   thoughts.   For   me   the   name   of   this   Phaeacian   city   I
 represents five years of hardship and misery. Five years in which
@@ -580,6 +630,7 @@ a continuous struggle with this pitiless friend. And yet during this
 time I studied as never before. Aside from my architecture and
 my rare visits to the Opera, paid­for in hunger, I had but one
 pleasure: my books.
+
 At that time I read enormously and thoroughly. All the free time
 my work left me was employed in my studies. In this way I
 forged in a few years' time the foundations of a knowledge from
@@ -590,6 +641,7 @@ In this period there took shape within me a world picture and a
 philosophy which became the granite foundation of all my acts.
 In addition to what I then created, I have had to learn little; and I
 have had to alter nothing.
+
 On the contrary.
 Today I am firmly convinced that basically and on the whole all
 creative ideas appear in our youth, in so far as any such are
@@ -658,7 +710,9 @@ In hardly any German city could the social question have been
 studied   better   than   in   Vienna.   But   make   no   mistake.   This
 'studying' cannot be done from lofty heights. No one who has not
 been seized in the jaws of this murderous viper can know its
-poison fangs. Otherwise nothing results but superficial chatter and false sentimentality. Both are harmful. The former because it
+poison fangs. Otherwise nothing results but superficial chatter and false sentimentality.
+ 
+Both are harmful. The former because it
 can never penetrate to the core of the problem, the latter because
 it passes it by. I do not know which is more terrible: inattention
 to social misery such as we see every day among the majority of
@@ -671,24 +725,29 @@ of realizing. Consequently, and much to their own amazement,
 the result of their social 'efforts' is always nil, frequently, in fact,
 an indignant rebuff, though this, of course, is passed off as a
 proof of the people's ingratitude.
+
 Such minds are most reluctant to realize that social endeavor has
 nothing in common with this sort of thing; that above all it can
 raise no claim to gratitude, since its function is not to distribute
 favors but to restore rights.
+
 I was preserved from studying the social question in such a way.
 By drawing me within its sphere of suffering, it did not seem to
 invite me to 'study,' but to experience it in my own skin. It was
 none of its doing that the guinea pig came through the operation
 safe and sound.
+
 An attempt to enumerate the sentiments I experienced in that
 period   could   never   be   even   approximately   complete;   I   shall
 describe here only the most essential impressions, those which
 often   moved   me   most   deeply,   and   the   few   lessons   which   I
 derived from them at the time.
+
 The actual business of finding work was, as a rule, not hard for
 me, since I was not a skilled craftsman, but was obliged to seek
 my daily bread as a so­called helper and sometimes as a casual
 laborer.
+
 I adopted the attitude of all those who shake the dust of Europe
 from their feet with the irrevocable intention of founding a new
 existence   in   the   New   World   and   conquering   a   new   home.
@@ -698,16 +757,19 @@ progressing step by step to the realization that honest labor, no
 matter of what sort, disgraces no one. I, too, was determined to
 leap   into   this   new   world,   with   both   feet,   and   fight   my   way
 through.
+
 I soon learned that there was always some kind of work to be
 had, but equally soon I found out how easy it was to lose it.
 The uncertainty of earning my daily bread soon seemed to me
 one of the darkest sides of my new life.
+
 The ' skilled' worker does not find himself out on the street as
 frequently as the unskilled; but he is not entirely immune to this
 fate either. And in his case the loss of livelihood owing to lack of
 work is replaced by the lock­out, or by going on strike himself.
 In   this   respect   the   entire   economy   suffers   bitterly   from   the
 individual's insecurity in earning his daily bread.
+
 The peasant boy who goes to the big city, attracted by the easier
 nature of the work (real or imaginary), by shorter hours, but most
 of all by the dazzling light emanating from the metropolis, is
@@ -742,6 +804,7 @@ is repeated. The same thing happens a second time, the third time
 perhaps it is even worse, and little by little he learns to bear the
 eternal insecurity with greater and greater indifference. At last
 the repetition becomes a habit.
+
 And so this man, who was formerly so hard­working, grows lax
 in his whole view of life and gradually becomes the instrument
 of those who use him only for their own base advantage. He has
@@ -751,12 +814,15 @@ longer   to   fight   for   economic   rights,   but   to   destroy   political,
 social,  or culturaL  values in general.  He  may not  be exactly
 enthusiastic   about   strikes,   but   at   any   rate   he   has   become
 indifferent.
+
 With open eyes I was able to follow this process in a thousand
 examples. The more I witnessed it, the greater grew my revulsion
 for the big city which first avidly sucked men in and then so
 cruelly crushed them.
+
 When they arrived, they belonged to their people; after remaining
 for a few years, they were lost to it.
+
 I, too, had been tossed around by life in the metropolis­ in my
 own skin I could feel the effects of this fate and taste them with
 my soul. One more thing I saw: the rapid change from work to
@@ -788,8 +854,10 @@ the week. At noon they all sit together before their meager and
 sometimes empty bowls, waiting for the next payday, speaking
 of   it,   making   plans,   and,   in   their   hunger,   dreaming   of   the
 happiness to come.
+
 And so the little children, in their earliest beginnings, are made
 familiar with this misery.
+
 It   ends   badly   if   the   man   goes   his   own   way   from   the   very
 beginning and the woman, for the children's sake, opposes him.
 Then there is fighting and quarreling, and, as the man grows
@@ -805,10 +873,12 @@ or even outraged, but later I understood the whole tragedy of this
 misery and its deeper causes. These people are the unfortunate
 victims of bad conditions!
 Even more dismal in those days were the housing conditions.
+
 The misery in which the Viennese day laborer lived was frightful
 to behold. Even today it fills me with horror when I think of
 these wretched caverns, the lodging houses and tenements, sordid
 scenes of garbage, repulsive filth, and worse.
+
 What   was­and   still   is­bound   to   happen   some   day,   when   the
 stream of unleashed slaves pours forth from these miserable dens
 to   avenge   themselves   on   their   thoughtless   fellow   men   F   For
@@ -817,9 +887,11 @@ Thoughtlessly they let things slide along, and with their utter lack
 of intuition fail even to suspect that sooner or later Fate must
 bring retribution, unless men conciliate Fate while there is still
 time.
+
 How thankful I am today to the Providence which sent me to that
 school! In it I could no longer sabotage the subjects I did not like.
 It educated me quickly and thoroughly.
+
 If  I  did  not  wish   to  despair  of  the  men  who  constituted  my
 environment at that time, I had to learn to distinguish between
 their external characters and lives and the foundations of their
@@ -830,47 +902,57 @@ emerged, but the deplorable results of deplorable laws; and the
 hardship of my own life, no easier than the others, preserved me
 from   capitulating   in   tearful   sentimentality   to   the   degenerate
 products of this process of development.
+
 No, this is not the way to understand all these things!
 Even then I saw that only a twofold road could lead to the goal of
 improving these conditions:
 The  deepest  sense   of  social   responsibility  for  the   creation  of better   foundations   for   our   development,   coupled   with   brutal
 determination on breaking down incurable tenors.
+
 Just   as   Nature   does   not   concentrate   her   greatest   attention   in
 preserving what exists, but in breeding offspring to carry on the
 species, likewise, in human life, it is less important artificially to
 alleviate existing evil, which, in view of human nature, is ninetynine per cent impossible, than to ensure from the start healthier
 channels for a future development.
+
 During my struggle for existence in Vienna, it had become clear
 to   me   that   Social   activity   must   never   and   on   no   account   be
 directed toward philanthropic flim­flam, but rather toward the
 elimination of the basic deficiencies in the organization of our
 economic and cultural life that must­or at all events can­lead to
 the degeneration of the individual .
+
 The difficulty of applying the most extreme and brutal methods
 against the criminals who endanger the state lies not least in the
 uncertainty of our judgment of the inner motives or causes of
 such contemporary phenomena.
+
 This uncertainty is only too well founded in our own sense of
 guilt regarding such tragedies of degeneration; be that as it may,
 it   paralyzes   any   serious   and   firm   decision   and   is   thus   partly
 responsible   for   the   weak   and   half­hearted,   because   hesitant,
 execution   of   even   the   most   necessary   measures   of
 selfpreservation.
+
 Only when an epoch ceases to be haunted by the shadow of its
 own consciousness of guilt will it achieve the inner calm and
 outward strength brutally and ruthlessly to prune off the wild
 shoots and tear out the weeds.
+
 Since the Austrian state had practically no social legislation or
 jurisprudence, its weakness in combating even malignant tumors
 was glaring.
+
 I do not know what horrified me most at that time: the economic
 misery of my companions, their moral and ethical coarseness, or
 the low level of their intellectual development.
+
 How often does our bourgeoisie rise in high moral indignation when they hear some miserable tramp declare that it is all the
 same to him whether he is a German or not, that he feels equally
 happy wherever he is, as long as he has enough to live on!
 This lack of 'national pride' is most profoundly deplored, and
 horror at such an attitude is expressed in no uncertain terms.
+
 How   many   people   have   asked   themselves   what   was   the   real
 reason for the superiority of their own sentiments?
 How   many   are   aware   of   the   infinite   number   of   separate
@@ -894,6 +976,7 @@ young   Frenchman   is   not   brought   up   to   be   objective,   but   is
 instilled with the most subjective conceivable view, in so far as
 the   importance   of   the   political   or   cultural   greatness   of   his
 fatherland is concerned.
+
 This education will always have to be limited to general and
 extremely broad values which, if necessary, must be engraved in
 the memory and feeling of the people by eternal repetition.
@@ -902,6 +985,7 @@ positive destruction of the little which the individual has the good
 fortune to learn in school. The rats that politically poison our
 nation gnaw even this little from the heart and memory of the broad   masses,   in   so   far   as   this   has   not   been   previously
 accomplished by poverty and suffering.
+
 Imagine, for instance, the following scene:
 In a basement apartment, consisting of two stuffy rooms, dwells
 a worker's family of seven. Among the five children there is a
@@ -950,12 +1034,13 @@ combined with an immorality, even at this age, which would
 make   your   hair   stand   on   end   What   position   can   this   man­to
 whom even now hardly anything is holy, who, just as he has
 encountered no greatness conversely suspects and knows all the
-sordidness   of   life­   occupy   in   the   life   into   which   he   is   now
+sordidness   of   life occupy   in   the   life   into   which   he   is   now
 preparing to emerge?
-The three­year­old child has become a fifteen­year­old despiser
+The three-year-old child has become a fifteen­year­old despiser
 of all authority. Thus far, aside from dirt and filth, this young
 man has seen nothing which might inspire him to any higher
 enthusiasm.
+
 But only now does he enter the real university of this existence.
 Now he begins the same life which all along his childhood years
 he has seen his father living. He hangs around the street corners
@@ -964,6 +1049,7 @@ and then he beats the broken­down being which was once his
 mother, curses God and the world, and at length is convicted of
 some particular offense and sent to a house of correction.
 There he receives his last polish.
+
 And his dear bourgeois fellow men are utterly amazed at the lack
 of 'national enthusiasm' in this young 'citizen.'
 Day   by   day,   in   the   theater   and   in   the   movies,   in   backstairs
@@ -986,9 +1072,11 @@ their own fatherland can and unit achieve the inner pride in the
 privilege of being a member of such a people. And I can fight
 only for something that I love, love only what I respect, and
 respect only what I at least know.
+
 Once my interest in the social question was aroused, I began to
 study   it   with   all   thoroughness.   It   was   a   new   and   hitherto
 unknown world which opened before me.
+
 In   the   years   1909   and   1910,   my   own   situation   had   changed
 somewhat in so far as I no longer had to earn my daily bread as a
 common laborer. By this time I was working independently as a
@@ -1006,6 +1094,7 @@ books I was able to obtain regarding this whole field, and for the
 rest immersed myself in my own thoughts.
 I believe that those who knew me in those days took me for an
 eccentric.
+
 Amid   all   this,   as   was   only   natural,   I   served   my   love   of architecture with ardent zeal. Along with music, it seemed to me
 the queen of the arts: under such circumstances my concern with
 it was not 'work.' but the greatest pleasure. I could read and draw
@@ -1014,11 +1103,13 @@ that my beautiful dream for the future would become reality after
 all,   even   though   this   might   require   long   years.   I   was   firmly
 convinced that I should some day make a name for myself as an
 architect.
+
 In addition, I had the greatest interest in everything connected
 with politics, but this did not seem to me very significant. On the
 contrary:   in   my   eyes   this  was   the   self­evident   duty   of   every
 thinking man. Anyone who failed to understand this lost the right
 to any criticism or complaint.
+
 In this field, too, I read and studied much.
 By 'reading,' to be sure, I mean perhaps something different than
 the average member of our so­called 'intelligentsia.'
@@ -1048,6 +1139,7 @@ to have knowledge, while in reality, with every new acquisition
 of this kind of 'education,' he is growing more and more removed
 from the world until, not infrequently, he ends up in a sanitarium
 or in parliament.
+
 Never will such a mind succeed in culling from the confusion of
 his ' knowledge ' anything that suits the demands of the hour, for
 his intellectual ballast is not organized along the lines of life, but
@@ -1060,10 +1152,12 @@ correct place. But since Fate does not do this, these bright boys in
 any critical situation come into the most terrible embarrassment,
 cast   about  convulsively  for  analogous  cases,   and  with  mortal
 certainty naturally find the wrong formulas.
+
 If this were not true, it would be impossible for us to understand
 the   political   behavior   of   our   learned   and   highly   placed
 government   heroes,   unless   we   decided   to   assume   outright
 villainy instead of pathological propensities.
+
 On the other hand, a man who possesses the art of correct reading
 will, in studying any book, magazine, or pamphlet, instinctively
 and   immediately   perceive   everything   which   in   his  opinion   is
@@ -1079,6 +1173,7 @@ is observed, will immediately take the existing picture as a norm,
 and from it will derive all the individual items regarding these
 questions, assembled in the course of decades, submit them to the mind for examination and reconsideration, until the question is
 clarified or answered.
+
 Only this kind of reading has meaning and purpose.
 An   orator,   for   example,   who   does   not   thus   provide   his
 intelligence  with  the  necessary  foundation will  never be  in a
@@ -1091,6 +1186,7 @@ speaker,   it   is   only   a   question   of   making   a   fool   of   himself
 personally,   it   may   not   be   so   bad,   but   not   so   when   Fate
 predestines such a know­it­all incompetent to be the leader of a
 state.
+
 Since my earliest youth I have endeavored to read in the correct
 way, and in this endeavor I have been most happily supported by
 my memory and intelligence. Viewed in this light, my Vienna
@@ -1100,14 +1196,17 @@ the most varied problems. Thus at last I was in a position to
 bolster up reality by theory and test theory by reality, and was
 preserved from being stifled by theory or growing banal through
 reality.
+
 In this period the experience of daily life directed and stimulated
 me to the most thorough theoretical study of two questions in
 addition to the social question.
+
 Who knows when I would have immersed myself in the doctrines
 and essence of Marxism if that period had not literally thrust my
 nose into the problem!
 What I knew of Social Democracy in my youth was exceedingly
 little and very inaccurate.
+
 I was profoundly pleased that it should carry on the struggle for
 universal   suffrage   and   the   secret   ballot.   For   even   then   my
 intelligence told me that this must help to weaken the Habsburg
@@ -1124,6 +1223,7 @@ inevitable hour of the disintegration of this Babylonian Empire,
 and with it the hour of freedom for my German­Austrian people.
 Only   in   this   way   could   the   Anschluss   with   the   old   mother
 country be restored.
+
 Consequently,   this   activity   of   the   Social   Democracy   was  not
 displeasing to me. And the fact that it strove to improve the
 living conditions of the worker, as, in my innocence, I was still
@@ -1161,6 +1261,7 @@ Perhaps I would not have concerned myself at all with my new
 environment if on the third or fourth day an event had not taken
 place which forced me at once to take a position. I was asked to
 join the organization.
+
 My   knowledge   of   trade­union   organization   was   at   that   time
 practically   non­existent.   I   could   not   have   proved   that   its
 existence was either beneficial or harmful. When I was told that I
@@ -1175,6 +1276,7 @@ came to know the men around me more closely, and no power in
 the world could have moved me to join an organization whose
 members had meanwhile come to appear to me in so unfavorable
 a light.
+
 During the first days I was irritable.
 At noon some of the workers went to the near­by taverns while
 others remained at the building site and ate a lunch which, as a
@@ -1183,6 +1285,7 @@ wives   brought   them   their   noonday   soup   in   pathetic   bowls.
 Toward the end of the week their number always increased, why
 I did not understand until later. On these occasions politics was
 discussed.
+
 I drank my bottle of milk and ate my piece of bread somewhere
 off to one side, and cautiously studied my new associates or reflected on my miserable lot. Nevertheless, I heard more than
 enough; and often it seemed to me that they purposely moved
@@ -1213,6 +1316,7 @@ forced me either to leave the building at once or be thrown off
 the   scaffolding.   Since   I   was   alone   and   resistance   seemed
 hopeless,  I preferred, richer by one experience, to follow the
 former counsel.
+
 I went away filled with disgust, but at the same time so agitated
 that it would have been utterly impossible for me to turn my back
 on the whole business. No, after the first surge of indignation, my
@@ -1222,6 +1326,7 @@ decision I was reinforced by Poverty which, a few weeks later,
 after I had spent what little I had saved from my wages. enfolded
 me in her heartless arms. I had to go back whether I wanted to or not. The same old story began anew and ended very much the
 same as the first time.
+
 I   wrestled   with   my   innermost   soul:   are   these   people   human,
 worthy to belong to a great nation?
 A painful question; for if it is answered in the affirmative, the
@@ -1233,6 +1338,7 @@ On   such   days   of   reflection   and   cogitation,   I   pondered   with
 anxious concern on the masses of those no longer belonging to
 their   people   and   saw   them   swelling   to   the   proportions   of   a
 menacing army.
+
 With what changed feeling I now gazed at the endless columns
 of a mass demonstration of Viennese workers that took place one
 day as they marched past four abreast! For neatly two hours I
@@ -1248,9 +1354,11 @@ vitriol. Depressed by the demonstration, I was driven on by an
 inner voice to buy the sheet and read it carefully. That evening I
 did so, fighting down the fury that rose up in me from time to
 time at this concentrated solution of lies.
+
 More   than   any   theoretical   literature,   my  daily   reading  of  the
 Social Democratic press enabled me to study the inner nature of
 these thought­processes.
+
 For   what   a   difference   between   the   glittering   phrases   about
 freedom,   beauty,   and   dignity   in   the   theoretical   literature,   the
 delusive   welter   of   words   seemingly   expressing   the   most
@@ -1261,20 +1369,24 @@ virtuosity that would bend iron beams, all in the name of this
 gospel of a new humanity. The one is addressed to the simpletons
 of the middle, not to mention the upper, educated, 'classes,' the
 other to the masses.
+
 For me immersion in the literature and press of this doctrine and
 organization meant finding my way back to my own people.
 What had seemed to me an unbridgable gulf became the source
 of a greater love than ever before.
+
 Only a fool can behold the work of this villainous poisoner and
 still condemn the victim. The more independent I made myself in
 the next few years the clearer grew my perspective, hence my
 insight into the inner causes of the Social Democratic successes.
+
 I now understood the significance of the brutal demand that I
 read only Red papers, attend only Red meetings, read only Red
 books,   etc.   With   plastic   clarity   I   saw   before   my   eyes   the
 inevitable result of this doctrine of intolerance.
 The psyche of the great masses is not receptive to anything that is
 half­hearted and weak.
+
 Like   the   woman,   whose   psychic   state   is   determined   less   by
 grounds   of   abstract   reason   than   by   an   indefinable   emotional
 longing for a force which will complement her nature, and who,
@@ -1289,6 +1401,7 @@ hideous abuse of their human freedom, for they absolutely fail to
 suspect the inner insanity of the whole doctrine. All they see is
 the ruthless force and brutality of its calculated manifestations, to
 which they always submit in the end.
+
 If Social Democracy is opposed by a doctrine of greater truth, but
 equal brutality of methods, the latter will conquer, though this may require the bitterest struggle.
 Before two years had passed, the theory as well as the technical
@@ -1300,19 +1413,23 @@ veritable barrage of lies and slanders against whatever adversary
 seems most dangerous, until the nerves of the attacked persons
 break down and, just to have peace again, they sacrifice the hated
 individual.
+
 However, the fools obtain no peace.
 The game begins again and is repeated over and over until fear of
 the mad dog results in suggestive paralysis.
+
 Since the Social Democrats best know the value of force from
 their own experience, they most violently attack those in whose
 nature   they   detect   any   of   this   substance   which   is   so   rare.
 Conversely, they praise every weakling on the opposing side,
 sometimes cautiously, sometimes loudly, depending on the real
 or supposed quality of his intelligence.
+
 They   fear   an   irnpotent,   spineless   genius   less   than   a   forceful
 nature of moderate intelligence.
 But with the greatest enthusiasm they commend weaklings in
 both mind and force.
+
 They know how to create the illusion that this is the only way of
 preserving the peace, and at the same time, stealthily but steadily,
 they   conquer   one   position   after   another,   sometimes   by   silent
@@ -1327,13 +1444,16 @@ poison gas with poison gas.
 
 It is our duty to inform all weaklings that this is a question of to
 be or not to be.
+
 I achieved an equal understanding of the importance of physical
 terror toward the individual and the masses.
 Here,   too,   the   psychological   effect   can   be   calculated   with
 precision.
+
 Terror at the place of employment, in the factory, in the meeting
 hall, and on the occasion of mass demonstrations will always be
 successful unless opposed by equal terror.
+
 In this case, to be sure, the party will cry bloody murder; though
 it has long despised all state authority, it will set up a howling cry
 for that same authority and in most cases will actually attain its
@@ -1341,6 +1461,7 @@ goal amid the general confusion: it will find some idiot of a
 higher  official  who,  in  the  imbecilic  hope  of  propitiating  the
 feared   adversary   for   later   eventualities,   will   help   this   world
 plague to break its opponent.
+
 The impression made by such a success on the minds of the great
 masses of supporters as well as opponents can only be measured
 by those who know the soul of a people, not from books, but
@@ -1348,12 +1469,15 @@ from life. For while in the ranks of their supporters the victory
 achieved seems a triumph of the justice of their own cause, the
 defeated adversary in most cases despairs of the success of any
 further resistance.
+
 The more familiar I became, principally with the methods of
 physical   terror,   the   more   indulgent   I   grew   toward   all   the
 hundreds of thousands who succumbed to it.
+
 What makes me most indebted to that period of suffering is that
 it alone gave back to me my people, taught me to distinguish the
 victims from their seducers.
+
 The results of this seduction can be designated only as victims.
 For if I attempted to draw a few pictures from life, depicting the
 essence   of   these   'lowest'   classes,   my   picture   would   not   be
@@ -1396,21 +1520,27 @@ social abuses, they sowed hatred and seemed to justify even the
 assertions of the mortal enemies of the entire nation, to the effect
 that only the Social Democratic Party represented the interests of
 the working people Thus, to begin with, they created the moral
-basis for the actual existence of the trade unions, the organization which has always been the most effective pander to the political
+basis for the actual existence of the trade unions, 
+the organization which has always been the most effective pander to the political
 party.
 In my Viennese years I was forced, whether I liked it or not, to
 take a position on the trade unions.
+
 Since I regarded them as an inseparable ingredient of the Social
 Democratic Party as such, my decision was instantaneous andmistaken.
+
 I flatly rejected them without thinking.
+
 And in this infinite]y important question, as in so many others,
 Fate itself became my instructor.
+
 The result was a reversal of my first judgment.
 By my twentieth year I had learned to distinguish between a
 union as a means of defending the general social rights of the
 wage­earner, and obtaining better living conditions for him as an
 individual, and the trade union as an instrument of the party in
 the political class struggle.
+
 The   fact   that   Social   Democracy   understood   the   enormous
 importance   of   the   trade­union   movement   assured   it   of   this
 instrument and hence of success; the fact that the bourgeoisie
@@ -1439,6 +1569,7 @@ against   the   greed   and   unreason   of   the   individual;   for   the
 preservation of loyalty and faith in z social group is just as much
 to the interest of a nation as the preservation of the people's
 health.
+
 Both of these are seriously menaced by unworthy employers who
 do not feel themselves to be members of the national community
 as   a   whole.   From   the   disastrous   effects   of   their   greed   or
@@ -1472,10 +1603,12 @@ Thus, trade­union organization can lead to a strengthening of the
 social idea in its practical effects on daily life, and thereby to an
 elimination   of   irritants   which   are   constantly   giving   cause   for
 dissatisfaction and complaints.
+
 If this is not the case, it is to a great extent the fault of those who
 have   been   able   to   place   obstacles   in   the   path   of   any   legal
 regulation   of   social   evils   or   thwart   them   by   means   of   their
 political influence.
+
 Proportionately as the political bourgeoisie did not understand, or
 rather did not want to understand, the importance of trade­union
 organization,   and   resisted   it,   the   Social   Democrats   took
@@ -1504,15 +1637,16 @@ economic edifice by persistent blows, thus, the more easily, after
 removing its economic foundations, to prepare the same lot for
 the edifice of state. Less and less attention was paid to defending
 the   real   needs   of   the   working   class,   and   finally   political
-
 expediency  made  it  seem  undesirable  to  relieve  the  social  or
 cultural miseries of the broad masses at all, for otherwise there
 was a risk that these masses, satisfied in their desires could no
 longer be used forever as docile shock troops.
+
 The leaders of the class struggle looked on this development with
 such dark foreboding and dread that in the end they rejected any
 really   beneficial   social   betterment   out   of   hand,   and   actually
 attacked it with the greatest determination.
+
 And they were never at a loss for an explanation of a line of
 behavior which seemed so inexplicable.
 By screwing the demands higher and higher, they made their
@@ -1524,6 +1658,7 @@ cheapest   way,   by   such   a   ridiculous   satisfaction   of   the   most
 elementary rights. In view of the great masses' small capacity for
 thought,   we   need   not   be   surprised   at   the   success   of   these
 methods.
+
 The bourgeois camp was indignant at this obvious insincerity of
 Social Democratic tactics, but did not draw from it the slightest
 inference   with   regard   to   their   own   conduct.   The   Social
@@ -1532,6 +1667,7 @@ depths of their cultural and social misery should have inspired
 the   greatest   exertions   in   this   very   direction,   thus   gradually
 wrestling the weapon from the hands of the advocates of the
 class struggle.
+
 This, however, was not done.
 Instead   of   attacking   and   seizing   the   enemy's   position,   the
 bourgeoisie preferred to let themselves be pressed to the wall and
@@ -1547,6 +1683,7 @@ individual.
 It was one of the most frightful instruments of terror against the
 security and independence of the national economy, the solidity
 of the state, and personal freedom.
+
 And chiefly this was what made the concept of democracy a
 sordid   and   ridiculous   phrase,   and   held   up   brotherhood   to
 everlasting scorn in the words: 'And if our comrade you won't be,
@@ -1554,9 +1691,11 @@ we'll bash your head in­one, two, three ! '
 And   that   was   how   I   became   acquainted   with   this   friend   of
 humanity. In the course of the years my view was broadened and
 deepened, but I have had no need to change it.
+
 The   greater   insight   I   gathered   into   the   external   character   of
 Social   Democracy,   the   greater   became   my   longing   to
 comprehend the inner core of this doctrine.
+
 The official party literature was not much use for this purpose. In
 so far as it deals with economic questions, its assertions and
 proofs are false; in so far as it treats of political aims, it lies.
@@ -1584,10 +1723,12 @@ up to that time, I had known next to nothing.
 Only a knowledge of the Jews provides the key with which to
 comprehend   the   inner,   and   consequently   real,   aims   of   Social
 Democracy.
+
 The erroneous conceptions of the aim and meaning of this party
 fall from our eyes like veils, once we come to know this people,
 and from the fog and mist of social phrases rises the leering
 grimace of Marxism.
+
 Today it is difficult, if not impossible, for me to say when the
 word 'Jew' first gave me ground for special thoughts. At home I
 do   not   remember   having   heard   the   word   during   my   father's
@@ -1598,11 +1739,13 @@ views  which,   despite   his  pronounced   national   sentiments,   not
 only remained intact, but also affected me to some extent.
 Likewise at school I found no occasion which could have led me
 to change this inherited picture.
+
 At the Realschule, to be sure, I did meet one Jewish boy who was
 treated   by   all   of   us   with   caution,   but   only   because   various
 experiences had led us to doubt his discretion and we did not
 particularly   trust   him;   but   neither   I   nor   the   others   had   any
 thoughts on the matter.
+
 Not until my fourteenth or fifteenth year did I begin to come
 across the word 'Jew,' with any frequency, partly in connection
 with political discussions. This filled me with a mild distaste, and
@@ -1616,9 +1759,11 @@ absurdity of this idea did not dawn on me because I saw no distinguishing featur
 had, as I believed, been persecuted on this account sometimes
 almost turned my distaste at unfavorable remarks about them into
 horror.
+
 Thus   far   I   did   not   so   much   as   suspect   the   existence   of   an
 organized opposition to the Jews.
 Then I came to Vienna.
+
 Preoccupied   by   the   abundance   of   my   impressions   in   the
 architectural field, oppressed by the hardship of my own lot, I
 gained at first no insight into the inner stratification of the people
@@ -1630,6 +1775,7 @@ ideas. Not until calm gradually returned and the agitated picture
 began to clear did I look around me more carefully in my new
 world, and then among other things I encountered the Jewish
 question.
+
 I cannot maintain that the way in which I became acquainted
 with them struck me as particularly pleasant. For the Jew was
 still   characterized   for   me   by   nothing   but   his   religion,   and
@@ -1644,6 +1790,7 @@ enjoy an outstanding reputation (the reason for this, at that time, I
 myself did not precisely know), I regarded them more as the
 products   of   anger   and   envy   than   the   results   of   4   principled
 though perhaps mistaken, point of view.
+
 I was reinforced in this opinion by what seemed to me the far
 more dignified form in which the really big papers answered all
 these attacks, or, what seemed to me even more praiseworthy,
@@ -1655,6 +1802,7 @@ respected the exalted tone, though the flamboyance of the style
 sometimes caused me inner dissatisfaction, or even struck me
 unpleasantly. Yet this may have been due to the rhythm of life in
 the whole metropolis.
+
 Since in those days I saw Vienna in that light, I thought myself
 justified in accepting this explanation of mine as a valid excuse.
 But what sometimes repelled me was the undignified fashion in
@@ -1664,12 +1812,14 @@ either with raptures of enthusiasm or plaintive emotion, and all
 this to­do, particularly when it dealt with the 'wisest monarch' of
 all time, almost reminded me of the mating cry of a mountain
 cock.
+
 To me the whole thing seemed artificial.
 In my eyes it was a blemish upon liberal democracy.
 To curry favor with this Court and in such indecent forms was to
 sacrifice the dignity of the nation.
 This was the first shadow to darken my intellectual relationship
 with the ' big' Viennese press.
+
 As I had always done before, I continued in Vienna to follow
 events in Germany with ardent zeal, quite regardless whether
 they   were   political   or   cultural.   With   pride   and   admiration,   I
@@ -1685,11 +1835,13 @@ by the Reichstag angered me greatly because they emanated from a source which in
 since in a single session these parliamentarian imbeciles gabbled
 more nonsense than a whole dynasty of emperors, including its
 very weakest numbers, could ever have done in centuries.
+
 I was outraged that in a state where every idiot not only claimed
 the right to criticize, but was given a seat in the Reichstag and let
 loose upon the nation as a 'lawgiver,' the man who bore the
 imperial   crown   had   to   take   'reprimands'   from   the   greatest
 babblers' club of all time.
+
 But I was even more indignant that the same Viennese press
 which made the most obsequious bows to every rickety horse in
 the Court, and flew into convulsions of joy if he accidentally
@@ -1702,12 +1854,14 @@ fulfilling the duty imposed by the spirit of the mutual alliance,
 and, conversely, fulfilling the requirements of journalistic truth,
 etc. And now it was poking this finger around in the wound to its
 heart's content.
+
 In such cases the blood rose to my head.
 It was this which caused me little by little to view the big papers
 with greater caution.
 And on one such occasion I was forced to recognize that one of
 the anti­Semitic papers, the Deutsches Volksblatt, behaved more
 decently.
+
 Another thing that got on my nerves was the loathsome cult for
 France which the big press, even then, carried on. A man couldn't
 help   feeling   ashamed   to   be   a   German   when   he   saw   these
@@ -1718,16 +1872,19 @@ occasions I sometimes picked up the Volksblatt, which, to be
 sure, seemed to me much smaller, but in these matters somewhat
 more   appetizing.   I   was   not   in   agreement   with   the   sharp antiSemitic tone, but from time to time I read arguments which
 gave me some food for thought.
+
 At all events, these occasions slowly made me acquainted with
 the man and the movement, which in those days guided Vienna's
 destinies: Dr. Karl Lueger I and the Christian Social Party.
 When I arrived in Vienna, I was hostile to both of them.
+
 The man and the movement seemed 'reactionary' in my eyes.
 My common sense of justice, however, forced me to change this
 judgment in proportion as I had occasion to become acquainted
 with the man and his work; and slowly my fair judgment turned
 to unconcealed admiration. Today, more than ever, I regard this
 man as the greatest German mayor of all times.
+
 How many of my basic principles were upset by this change in
 my attitude toward the Christian Social movement!
 My views with regard to anti­Semitism thus succumbed to the
@@ -1737,15 +1894,18 @@ of battle between my reason and my sentiments did my reason
 begin to emerge victorious. Two years later, my sentiment had
 followed my reason, and from then on became its most loyal
 guardian and sentinel.
+
 At the time of this bitter struggle between spiritual education and
 cold   reason,   the   visual   instruction   of   the   Vienna   streets   had
 performed invaluable services. There came a time when I no
 longer, as in the first days, wandered blindly through the mighty
 city; now with open eyes I saw not only the buildings but also the
 people.
+
 Once,   as   I   was   strolling   through   the   Inner   City,   I   suddenly
 encountered an apparition in a black caftan and black hair locks.
 Is this a Jew? was my first thought.
+
 For, to be sure, they had not looked like that in Linz. I observed
 the man furtively and cautiously, but the longer I stared at this
 foreign face, scrutinizing feature for feature, the more my first
@@ -1758,10 +1918,12 @@ the Jewish question to a certain degree. Besides, the tone for the
 most part was such that doubts again arose in me, due in part to
 the   dull   and   amazingly   unscientific   arguments   favoring   the
 thesis.
+
 I relapsed for weeks at a time, once even for months.
 The whole thing seemed to me so monstrous, the accusations so
 boundless, that, tormented by the fear of doing injustice, I again
 became anxious and uncertain.
+
 Yet I could no longer very well doubt that the objects of my
 study were not Germans of a special religion, but a people in
 themselves; for since I had begun to concern myself with this
@@ -1772,11 +1934,13 @@ distinguished in my eyes from the rest of humanity. Particularly
 the   Inner   City   and   the   districts   north   of   the   Danube   Canal
 swarmed   with   a   people   which   even   outwardly   had   lost   all
 resemblance to Germans.
+
 And whatever doubts I may still have nourished were finally
 dispelled by the attitude of a portion of the Jews themselves.
 Among them there was a great movement, quite extensive in
 Vienna, which came out sharply in confirmation of the national
 character of the Jews: this was the Zionists.
+
 It looked to be sure, as though only a part of the Jews approved
 this viewpoint, while the great majority condemned and inwardly
 rejected such a formulation. But when examined more closely,
@@ -1784,10 +1948,12 @@ this   appearance   dissolved   itself   into   an   unsavory   vapor   of
 pretexts advanced for mere reasons of expedience, not to say lies.
 For the so­called liberal Jews did not reject the Zionists as nonJews,   but   only   as   Jews   with   an   impractical,   perhaps   even dangerous, way of publicly avowing their Jewishness.
 Intrinsically they remained unalterably of one piece.
+
 In   a   short   time   this   apparent   struggle   between   Zionistic   and
 liberal Jews disgusted me; for it was false through and through,
 founded on lies and scarcely in keeping with the moral elevation
 and purity always claimed by this people.
+
 The cleanliness of this people, moral and otherwise, I must say,
 is a point in itself. By their very exterior you could tell that these
 were no lovers of water, and, to your distress, you often knew it
@@ -1798,9 +1964,11 @@ All this could scarcely be called very attractive; but it became
 positively   repulsive   when,   in   addition   to   their   physical
 uncleanliness, you discovered the moral stains on this 'chosen
 people.'
+
 In a short time I was made more thoughtful than ever by my
 slowly rising insight into the type of activity carried on by the
 Jews in certain fields.
+
 Was there any form of filth or profligacy, particularly in cultural
 life, without at least one Jew involved in it?
 If you cut even cautiously into such an abscess, you found, like a
@@ -1821,21 +1989,25 @@ their number; bear in mind that for one Goethe Nature easily can
 foist on the world ten thousand of these scribblers who poison
 men's souls like germ­carriers of the worse sort, on their fellow
 men.
+
 It was terrible, but not to be overlooked, that precisely the Jew, in
 tremendous numbers, seemed chosen by Nature for this shameful
 calling.
+
 Is this why the Jews are called the 'chosen people'?
 I now began to examine carefully the names of all the creators of
 unclean products in public artistic life. The result was less and
 less   favorable   for   my   previous   attitude   toward   the   Jews.
 Regardless   how   my   sentiment   might   resists   my   reason   was
 forced to draw its conclusions.
+
 The fact that nine tenths of all literary filth, artistic trash, and
 theatrical   idiocy   can   be   set   to   the   account   of   a   people,
 constituting hardly one hundredth of all the country's inhabitants,
 could simply not be tanked away; it was the plain truth.
 And I now began to examine my beloved 'world press' from this
 point of view.
+
 And  the   deeper   I  probed,   the  more   the  object   of   my  former
 admiration   shriveled.   The   style   became   more   and   more
 unbearable; I could not help rejecting the content as inwardly
@@ -1844,6 +2016,7 @@ me more akin to lies than honest truth; and the writers wereJews.
 A thousand things which I had hardly seen before now struck my
 notice,   and   others,   which   had   previously   given   me   food   for
 thought, I now learned to grasp and understand.
+
 I now saw the liberal attitude of this press in a different light; the
 lofty tone in which it answered attacks and its method of I killing
 them with silence now revealed itself to me as a trick as clever as
@@ -1856,6 +2029,7 @@ to me | as outright indecency, and in the language I detected the
 accents 0 of a foreign people; the sense of the whole thing was so
 obviously hostile to Germanism that this could only have been
 intentional.
+
 But who had an interest in this?
 Was all this a mere accident?
 Gradually I became uncertain.
@@ -1864,8 +2038,10 @@ a number of other matters. I am referring to the general view of
 1. ethics and morals which was quite openly exhibited by a large
 part of the Jews, and the practical application of which could be
 seen.
+
 Here again the streets provided an object lesson of a sort which
 was sometimes positively evil.
+
 The relation of the Jews to prostitution and, even more, to the
 white­slave traffic, could be studied in Vienna as perhaps in no
 other city of Western Europe, with the possible exception of the
@@ -1875,9 +2051,11 @@ proceedings which remained concealed from the majority of the
 German people until the War gave the soldiers on the eastern
 front occasion to see similar things, or, better expressed, forced
 them to see them.
+
 When thus for the first time I recognized the Jew as the coldhearted, shameless, and calculating director of this revolting vice
 traffic in the scum of the big city, a cold shudder ran down my
 back.
+
 But   then   a   flame   flared   up   within   me.   I   no   longer   avoided
 discussion of the Jewish question; no, now I sought it. And when
 I learned to look for the Jew  in all branches of cultural and
@@ -1886,6 +2064,7 @@ encountered him in a place where I would least have expected to find him.
 When   I   recognized   the   Jew   as   the   leader   of   the   Social
 Democracy,   the   scales   dropped   from   my   eyes.   A   long   soul
 struggle had reached its conclusion.
+
 Even in my daily relations with my fellow workers, I observed
 the   amazing   adaptability   with   which   they   adopted   different
 positions on the same question, sometimes within an interval of a
@@ -1899,6 +2078,7 @@ was beginning to rejoice at my success, on the next day to my
 disgust I had to begin all over again; it had all been in vain. Like
 an eternal pendulum their opinions seemed to swing back again
 and again to the old madness.
+
 All this I could understand: that they were dissatisfied with their
 lot and cursed the Fate which often struck them so harshly; that
 they   hated   the   employers   who   seemed   to   them   the   heartless
@@ -1910,12 +2090,15 @@ inevitably remained incomprehensible was the boundless hatred
 they heaped upon their own nationality, despising its greatness,
 besmirching   its   history,   and   dragging   its   great   men   into   the
 gutter.
+
 This struggle against their own species, their own clan, their own
 homeland, was as senseless as it was incomprehensible. It was
 unnatural.
+
 It was possible to cure them temporarily of this vice, but only for
 days or at most weeks. If later you met the man you thought you
 had converted, he was just the same as before.
+
 His old unnatural state had regained full possession of him. 
 
 I gradually became aware that the Social Democratic press was
@@ -1925,11 +2108,13 @@ exactly   the   same   in   the   other   papers.   Yet   one   fact   seemed
 conspicuous: there was not one paper with Jews working on it
 which could have been regarded as truly national according to
 my education and way of thinking.
+
 I swallowed my disgust and tried to read this type of Marxist
 press production, but my revulsion became so unlimited in so
 doing that I endeavored to become more closely acquainted with
 the men who manufactured these compendiums of knavery.
 From the publisher down, they were all Jews.
+
 I took all the Social Democratic pamphlets I could lay hands on
 and sought the names of their authors: Jews. I noted the names of
 the leaders; by far the greatest part were likewise members of the
@@ -1945,6 +2130,7 @@ for, to my deep and joyful satisfaction, I had at last come to the
 conclusion that the Jew was no German.
 Only now did I become thoroughly acquainted with the seducer
 of our people.
+
 A single year of my sojourn in Vienna had sufficed to imbue me
 with the conviction that no worker could be so stubborn that he
 would not in the end succumb to better knowledge and better
@@ -1962,6 +2148,7 @@ was; but what I accomplished was often the opposite. It seemed
 as though their increased understanding of the destructive effects
 of Social Democratic theories and their results only reinforced
 their determination.
+
 The more I argued with them, the better I came to know their
 dialectic. First they counted on the stupidity of their adversary,
 and then, when there was no other way out, they themselves
@@ -1982,10 +2169,12 @@ same old nonsense as though nothing at all had happened, and, if
 indignantly   challenged,   affected   amazement;   he   couldn't
 remember a thing, except that he had proved the correctness of
 his assertions the previous day.
+
 Sometimes I stood there thunderstruck.
 I didn't know what to be more amazed at: the agility of their
 tongues or their virtuosity at lying.
 Gradually I began to hate them.
+
 All this had but one good side: that in proportion as the real leaders or at least the disseminators of Social Democracy came
 within my vision, my love for my people inevitably grew. For
 who, in view of the diabolical craftiness of these seducers, could
@@ -1995,6 +2184,7 @@ such success in dealing with people who twist the truth in your
 mouth who without so much as a blush disavow the word they
 have just spoken, and in the very next minute take credit for it
 after all.
+
 No.   The   better   acquainted   I   became   with   the   Jew,   the   more
 forgiving I inevitably became toward the worker. In my eyes the
 gravest fault was no longer with him, but with all those who did
@@ -2036,8 +2226,10 @@ veil their thoughts; their real aim is not therefore to be found in
 the lines themselves, but slumbers well concealed between them.
 For or me this was the time of the greatest spiritual upheaval I
 have ever had to go through.
+
 I had ceased to be a weak­kneed cosmopolitan and become an
 anti­Semite.
+
 Just   once   more­and   this   was   the   last   time­fearful,   oppressive
 thoughts came to me in profound anguish.
 When   over   long   periods   of   human   history   I   scrutinized   the
@@ -2068,6 +2260,7 @@ wreath of humanity and this planet will, as it did thousands l of
 years ago, move through the ether devoid of men.
 Eternal   Nature   inexorably   avenges   the   infringement   of   her
 commands.
+
 Hence today I believe that I am acting in accordance with the
 will of the Almighty Creator: by defending myself against the
 Jew, I am fighting for the work of the Lord.
@@ -2087,6 +2280,7 @@ philosophy, and the resultant firmness of outlook on the special
 problems of the day, is he, inwardly at least, mature enough to be
 justified in partaking in the political leadership of the general
 public.
+
 Otherwise he runs the risk of either having to change his former
 position   on   essential   questions,   or,   contrary   to   his   better
 knowledge   and   understanding,   of   clinging   to   a   view   which
@@ -14658,6 +14852,7 @@ never   be   capable   of   contributing   in   the   least   to   the   general
 progress   of   mankind.   Knowledge   that   is   merely   drilled   into
 people   can   at   best   qualify   them   to   fill   government   positions
 under our present regime.
+
 It goes without saying that, among the sum total of individuals
 who make up a nation, gifted people are always to be found in
 every sphere of life. It is also quite natural that the value of
@@ -14665,6 +14860,7 @@ knowledge will be all the greater the more vitally the dead mass
 of learning is animated by the innate talent of the individual who
 possesses it. Creative work in this field can be done only through
 the marriage of knowledge and talent.
+
 One example will suffice to show how much our contemporary
 world is at fault in this matter. From time to time our illustrated
 papers publish, for the edification of the German philistine, the
@@ -14692,6 +14888,7 @@ technique, just as in the case of the performing dog. If the same
 amount of care and effort were applied among intelligent races
 each individual would become a thousand times more capable in
 such matters.
+
 This state of affairs would become intolerable if a day should
 arrive  when  it  no  longer  refers  to  exceptional   cases.  But   the
 situation is already intolerable where talent and natural gifts are
@@ -14707,11 +14904,13 @@ considerably in recent years one of the reasons is that the number
 of gifted persons belonging to the lowest social classes who were
 given a higher education in that country is proportionately much
 larger than in Europe.
+
 A stock of knowledge packed into the brain will not suffice for
 the   making   of   discoveries.   What   counts   here   is   only   that
 knowledge which is illuminated by natural talent. But with us at
 the present time no value is placed on such gifts. Only good
 school reports count.
+
 Here is another educative work that is waiting for the People's
 State to do. It will not be its task to assure a dominant influence
 to a certain social class already existing, but it will be its duty to
@@ -14725,6 +14924,7 @@ sort, no matter in what social class it may appear. This is an
 imperative necessity; for thus alone will it be possible to develop
 a talented body of public leaders from the class which represents
 learning that in itself is only a dead mass.
+
 There is still another reason why the State should provide for this
 situation. Our intellectual class, particularly in Germany, is so
 shut up in itself and fossilized that it lacks living contact with the
@@ -14758,6 +14958,7 @@ who  carried  out  the  November  revolution.  These  intellectuals
 safeguarded the national wealth in a miserly fashion, instead of
 launching it forth and risking it, and thus they set the conditions
 on which the others won success.
+
 Here   the   Catholic   Church   presents   an   instructive   example.
 Clerical celibacy forces the Church to recruit its priests not from
 their own ranks but progressively from the masses of the people.
@@ -14772,6 +14973,7 @@ able to draw upon that fund of energy which is present in this
 form   only   among   the   popular   masses.   Hence   the   surprising
 youthfulness of that gigantic organism, its mental flexibility and
 its iron will­power.
+
 It   will   be   the   task   of   the   Peoples'   State   so   to   organize   and
 administer its educational system that the existing intellectual
 class will be constantly furnished with a supply of fresh blood
@@ -14812,6 +15014,7 @@ exists. If necessary, it will have to organize a persistent system of
 teaching   which   will   aim   at   abolishing   the   present­day   stupid
 habit of looking down on physical labour as an occupation to be
 ashamed of.
+
 The individual will have to be valued, not by the class of work he
 does but by the way in which he does it and by its usefulness to
 the community. This statement may sound monstrous in an epoch
@@ -14844,6 +15047,7 @@ become equal the moment each strives to do his best in his own
 field, no matter what that field may be. It is on this that a man's
 value must be estimated, and not on the amount of recompense
 received.
+
 In   a   reasonably   directed   State   care   must   be   taken   that   each
 individual is given the kind of work which corresponds to his
 capabilities.   In   other   words,   people   will   be   trained   for   the
@@ -14880,9 +15084,11 @@ wasting   God's   day   and   filching   daily   bread   from   an   honest
 public. Then it will be looked upon as quite natural that positions
 should  not be  given to  persons who  of  their  very nature are
 incapable of filling them.
+
 Furthermore, this personal efficiency will be the sole criterion of
 the right to take part on an equal juridical footing in general civil
 affairs.
+
 The present epoch is working out its own ruin. It introduces
 universal suffrage, chatters about equal rights but can find no
 foundation for this equality. It considers the material wage as the
@@ -14893,6 +15099,7 @@ in which each one does the particular work allotted to him. Thus
 alone will mere natural chance be set aside in determining the
 work of a man and thus only does the individual become the
 artificer of his own social worth.
+
 At the present time, when whole groups of people estimate each
 other's   value   only   by   the   size   of   the   salaries   which   they
 respectively receive, there will be no understanding of all this.
@@ -14917,6 +15124,7 @@ fact that, on account of the small income, the cultural level of
 manual labourers must naturally be low, and that this in turn is a
 justification for the lower estimation in which manual labour is
 generally held.
+
 There is quite a good deal of truth in all this. But that is the very
 reason why we ought to see that in the future there should not be
 such a wide difference in the scale of remuneration. Don't say
@@ -14936,6 +15144,7 @@ today. Yet a time will come when men will again bow to higher
 gods. Much that we have today owes its existence to the desire
 for money and property; but there is very little among all this
 which would leave the world poorer by its lack.
+
 It is also one of the aims before our movement to hold out the
 prospect of a time when the individual will be given what he
 needs for the purposes of his life and it will be a time in which,
@@ -14947,6 +15156,7 @@ duties conscientiously, to live an honourable and decent life both
 as a man and as a citizen. Let it not be said that this is merely a
 visionary ideal, that this world would never tolerate it in practice
 and that of itself it is impossible to attain.
+
 Even we are not so simple as to believe that there will ever be an
 age   in   which   there   will   be   no   drawbacks.   But   that   does   not
 release us from the obligation to fight for the removal of the
@@ -14959,6 +15169,7 @@ to renounce his intentions, just as we cannot spurn the sway of
 justice because mistakes creep into the administration of the law,
 and just as we cannot despise medical science because, in spite of
 it, there will always be diseases.
+
 Man should take care not to have too low an estimate of the
 power of an ideal. If there are some who may feel disheartened
 over the present conditions, and if they happen to have served as
@@ -14973,6 +15184,7 @@ offered by the Revolution, only after they threw away their arms
 to take up the rucksack, only then – instead of entering an earthly
 paradise – did they sink into the purgatory of universal contempt
 and at the same time universal want.
+
 That   is   why   we   must   face   the   calculators   of   the   materialist
 Republic with faith in an idealist Reich.
 
@@ -14980,19 +15192,9094 @@ Republic with faith in an idealist Reich.
 
 
 `;
-const chapter_b_3 = ``;
-const chapter_b_4 = ``;
-const chapter_b_5 = ``;
-const chapter_b_6 = ``;
-const chapter_b_7 = ``;
-const chapter_b_8 = ``;
-const chapter_b_9 = ``;
-const chapter_b_10 = ``;
-const chapter_b_11 = ``;
-const chapter_b_12 = ``;
-const chapter_b_13 = ``;
-const chapter_b_14 = ``;
-const chapter_b_15 = ``;
+const chapter_b_3 = `The institution that is now erroneously called the State generally
+classifies   people   only   into   two   groups:   citizens   and   aliens.
+Citizens are all those who possess full civic rights, either by
+reason of their birth or by an act of naturalization. Aliens are
+those who enjoy the same rights in some other State. Between
+these two categories there are certain beings who resemble a sort
+of   meteoric   phenomena.   They   are   people   who   have   no
+citizenship   in   any   State   and   consequently   no   civic   rights
+anywhere.
+
+In most cases nowadays a person acquires civic rights by being
+born within the frontiers of a State. The race or nationality to
+which he may belong plays no role whatsoever. The child of a
+Negro who once lived in one of the German protectorates and
+now takes up his residence in Germany automatically becomes a
+'German Citizen' in the eyes of the world. In the same way the
+child   of   any   Jew,   Pole,   African   or   Asian   may   automatically
+become a German Citizen.
+
+Besides naturalization that is acquired through the fact of having
+been born within the confines of a State there exists another kind
+of naturalization which can be acquired later. This process is
+subject to various preliminary requirements. For example one
+condition is that, if possible, the applicant must not be a burglar
+or a common street thug. It is required of him that his political
+attitude is not such as to give cause for uneasiness; in other
+words he must be a harmless simpleton in politics. It is required
+that he shall not be a burden to the State of which he wishes to
+become a citizen. In this realistic epoch of ours this last condition
+naturally only means that he must not be a financial burden. If
+the affairs of the candidate are such that it appears likely he will
+turn   out   to   be   a   good   taxpayer,   that   is   a   very   important
+consideration and will help him to obtain civic rights all the more
+rapidly.
+
+The question of race plays no part at all.
+The whole process of acquiring civic rights is not very different
+from that of being admitted to membership of an automobile
+club, for instance. A person files his application. It is examined.
+It is sanctioned. And one day the man receives a card which
+informs him that he has become a citizen. The information is
+given in an amusing way. An applicant who has hitherto been a
+Zulu or Kaffir is told: "By these presents you are now become a
+German Citizen." The President of the State can perform this
+piece of magic. What God Himself could not do is achieved by
+some Theophrastus Paracelsus of a civil servant through a mere
+twirl   of   the   hand.   Nothing   but   a   stroke   of   the   pen,   and   a
+Mongolian slave is forthwith turned into a real German. Not only
+is no question asked regarding the race to which the new citizen
+belongs; even the matter of his physical health is not inquired
+into. His flesh may be corrupted with syphilis; but he will still be
+welcome in the State as it exists today so long as he may not
+become a financial burden or a political danger.
+
+In this way, year after year, those organisms which we call States
+take up poisonous matter which they can hardly ever overcome.
+Another point of distinction between a citizen and an alien is that
+the former is admitted to all public offices, that he may possibly
+have to do military service and that in return he is permitted to
+take a passive or active part at public elections. Those are his
+chief privileges. For in regard to personal rights and personal
+liberty the alien enjoys the same amount of protection as the
+citizen,   and   frequently   even   more.   Anyhow   that   is   how   it
+happens in our present German Republic.
+
+I realize fully that nobody likes to hear these things. But it would
+be difficult to find anything more illogical or more insane than
+our contemporary laws in regard to State citizenship.
+
+At present there exists one State which manifests at least some
+modest attempts that show a better appreciation of how things
+ought to be done in this matter. It is not, however, in our model
+German   Republic   but   in   the   U.S.A.   that   efforts   are   made   to
+conform   at   least   partly   to   the   counsels   of   commonsense.   By
+refusing immigrants to enter there if they are in a bad state of
+health, and by excluding certain races from the right to become
+naturalized as citizens, they have begun to introduce principles
+similar to those on which we wish to ground the People's State.
+The People's State will classify its population in three groups:
+Citizens, subjects of the State, and aliens.
+
+The principle is that birth within the confines of the State gives
+only the status of a subject. It does not carry with it the right to
+fill any position under the State or to participate in political life,
+such as taking an active or passive part in elections. Another
+principle is that the race and nationality of every subject of the
+State will have to be proved. A subject is at any time free to
+cease being a subject and to become a citizen of that country to
+which he belongs in virtue of his nationality. The only difference
+between an alien and a subject of the State is that the former is a
+citizen of another country.
+
+The young boy or girl who is of German nationality and is a
+subject of the German State is bound to complete the period of
+school education which is obligatory for every German. Thereby
+he   submits   to   the   system   of   training   which   will   make   him
+conscious of his race and a member of the folk-community. Then
+he has to fulfil all those requirements laid down by the State in
+regard to physical training after he has left school; and finally he
+enters the army. The training in the army is of a general kind. It
+must be given to each individual German and will render him
+competent   to   fulfil   the   physical   and   mental   requirements   of
+military service. The rights of citizenship shall be conferred on
+every young man whose health and character have been certified
+as good, after having completed his period of military service.
+
+This   act   of   inauguration   in   citizenship   shall   be   a   solemn
+ceremony. And the diploma conferring the rights of citizenship
+will   be   preserved   by   the   young   man   as   the   most   precious
+testimonial of his whole life. It entitles him to exercise all the
+rights of a citizen and to enjoy all the privileges attached thereto.
+For the State must draw a sharp line of distinction between those
+who,   as   members   of   the   nation,   are   the   foundation   and   the
+support   of   its   existence   and   greatness,   and   those   who   are
+domiciled in the State simply as earners of their livelihood there.
+On the occasion of conferring a diploma of citizenship the new
+citizen   must   take   a   solemn   oath   of   loyalty   to   the   national
+community and the State. This diploma must be a bond which
+unites together all the various classes and sections of the nation.
+It shall be a greater honour to be a citizen of this Reich, even as a
+street­sweeper, than to be the King of a foreign State.
+
+The citizen has privileges which are not accorded to the alien. He
+is the master in the Reich. But this high honour has also its
+obligations.   Those   who   show   themselves   without   personal
+honour   or   character,   or   common   criminals,   or   traitors   to   the
+fatherland,   can   at   any   time   be   deprived   of   the   rights   of
+citizenship. Therewith they become merely subjects of the State.
+The German girl is a subject of the State but will become a
+citizen when she marries. At the same time those women who
+earn   their   livelihood   independently   have   the   right   to   acquire
+citizenship if they are German subjects.
+
+`;
+const chapter_b_4 = `If the principal duty of the National Socialist People's State be to
+educate and promote the existence of those who are the material
+out of which the State is formed, it will not be sufficient to
+promote those racial elements as such, educate them and finally
+train them for practical life, but the State must also adapt its own
+organization to meet the demands of this task.
+It would be absurd to appraise a man's worth by the race to which
+he belongs and at the same time to make war against the Marxist
+principle, that all men are equal, without being determined to
+pursue  our own principle to its ultimate  consequences.  If we
+admit the significance of blood, that is to say, if we recognize the
+race as the fundamental element on which all life is based, we
+shall have to apply to the individual the logical consequences of
+this principle. In general I must estimate the worth of nations
+differently, on the basis of the different races from which they
+spring, and I must also differentiate in estimating the worth of the
+individual within his own race. The principle, that one people is
+not the same as another, applies also to the individual members
+of a national community. No one brain, for instance, is equal to
+another; because the constituent elements belonging to the same
+blood   vary   in   a   thousand   subtle   details,   though   they   are
+fundamentally of the same quality.
+The first consequence of this fact is comparatively simple. It
+demands that those elements within the folk­community which
+show the best racial qualities ought to be encouraged more than
+the others and especially they should be encouraged to increase
+and multiply.
+This task is comparatively simple because it can be recognized
+and carried out almost mechanically. It is much more difficult to
+select from among a whole multitude of people all those who
+actually   possess   the   highest   intellectual   and   spiritual
+characteristics and assign them to that sphere of influence which
+not only corresponds to their outstanding talents but in which
+their activities will above all things be of benefit to the nation.
+This selection according to capacity and efficiency cannot be
+effected   in   a   mechanical   way.   It   is   a   work   which   can   be
+accomplished only through the permanent struggle of everyday
+life itself.
+A philosophy of life which repudiates the democratic principle of
+the rule of the masses and aims at giving this world to the best
+people – that is, to the highest quality of mankind – must also
+apply that same aristocratic postulate to the individuals within
+the   folk­community.   It   must   take   care   that   the   positions   of
+leadership and highest influence are given to the best men. Hence
+it   is   not   based   on   the   idea   of   the   majority,   but   on   that   of
+personality.
+Anyone who believes that the People's National Socialist State
+should distinguish itself from the other States only mechanically,
+as it were, through the better construction of its economic life –
+thanks to a better equilibrium between poverty and riches, or to
+the extension to broader masses of the power to determine the
+economic process, or to a fairer wage, or to the elimination of
+vast differences in the scale of salaries – anyone who thinks this
+understands only the superficial features of our movement and
+has not the least idea of what we mean when we speak of our
+Weltanschhauung. All these features just mentioned could not in
+the least guarantee us a lasting existence and certainly would be
+no warranty of greatness. A nation that could content itself with
+external reforms would not have the slightest chance of success
+in the general struggle for life among the nations of the world. A
+movement that would confine its mission to such adjustments,
+which   are   certainly   right   and   equitable,   would   effect   no   far
+reaching or profound reform in the existing order. The whole
+effect   of   such   measures   would   be   limited   to   externals.   They
+would not furnish the nation with that moral armament which
+alone will enable it effectively to overcome the weaknesses from
+which we are suffering today.
+In order to elucidate this point of view it may be worth while to
+glance once again at the real origins and causes of the cultural
+evolution of mankind.
+The  first  step  which  visibly brought mankind  away  from the
+animal   world   was   that   which   led   to   the   first   invention.   The
+invention itself owes its origin to the ruses and stratagems which
+man employed to assist him in the struggle with other creatures
+for his existence and often to provide him with the only means he
+could adopt to achieve success in the struggle. Those first very
+crude inventions cannot be attributed to the individual; for the
+subsequent   observer,   that   is   to   say   the   modern   observer,
+recognizes them only as collective phenomena. Certain tricks and
+skilful tactics which can be observed in use among the animals
+strike the eye of the observer as established facts which may be
+seen everywhere; and man is no longer in a position to discover
+or explain their primary cause and so he contents himself with
+calling such phenomena 'instinctive.'
+In our case this term has no meaning. Because everyone who
+believes in the higher evolution of living organisms must admit
+that every manifestation of the vital urge and struggle to live
+must have had a definite beginning in time and that one subject
+alone must have  manifested  it for the first  time.  It was then
+repeated again and again; and the practice of it spread over a
+widening area, until finally it passed into the subconscience of
+every   member   of   the   species,   where   it   manifested   itself   as
+'instinct.'
+This is more easily understood and more easy to believe in the
+case of man. His first skilled tactics in the struggle with the rest
+of   the   animals   undoubtedly   originated   in   his   management   of
+creatures which possessed special capabilities.
+There can be no doubt that personality was then the sole factor in
+all   decisions   and   achievements,   which   were   afterwards   taken
+over by the whole of humanity as a matter of course. An exact
+exemplification   of   this   may   be   found   in   those   fundamental
+military   principles   which   have   now   become   the   basis   of   all
+strategy in war. Originally they sprang from the brain of a single
+individual   and   in   the   course   of   many   years,   maybe   even
+thousands of years, they were accepted all round as a matter of
+course and this gained universal validity.
+Man completed his first discovery by making a second. Among
+other things he learned how to master other living beings and
+make them serve him in his struggle for existence. And thus
+began the real inventive activity of mankind, as it is now visible
+before our eyes. Those material inventions, beginning with the
+use of stones as weapons,  which led to the domestication  of
+animals, the production of fire by artificial means, down to the
+marvellous inventions of our own days, show  clearly that an
+individual was the originator in each case. The nearer we come to
+our   own   time   and   the   more   important   and   revolutionary   the
+inventions become, the more clearly do we recognize the truth of
+that statement. All the material inventions which we see around
+us have been produced by the creative powers and capabilities of
+individuals. And all these inventions help man to raise himself
+higher and higher above the animal world and to separate himself
+from that world in an absolutely definite way. Hence they serve
+to   elevate   the   human   species   and   continually   to   promote   its
+progress. And what the most primitive artifice once did for man
+in his struggle for existence,  as he went hunting through the
+primeval   forest,   that   same   sort   of   assistance   is  rendered   him
+today in the form of marvellous scientific inventions which help
+him in the present day struggle for life and to forge weapons for
+future struggles. In their final consequences all human thought
+and invention help man in his life­struggle on this planet, even
+though the so­called practical utility of an invention, a discovery
+or a profound scientific theory, may not be evident at first sight.
+Everything contributes to raise man higher and higher above the
+level   of   all   the   other   creatures   that   surround   him,   thereby
+strengthening and consolidating his position; so that he develops
+more and more in every direction as the ruling being on this
+earth.
+Hence all inventions are the result of the creative faculty of the
+individual. And all such individuals, whether they have willed it
+or not, are the benefactors of mankind, both great and small.
+Through their work millions and indeed billions of human beings
+have been provided with means and resources which facilitate
+their struggle for existence.
+Thus at the origin of the material civilization which flourishes
+today we always see individual persons. They supplement one
+another and one of them bases his work on that of the other. The
+same   is   true   in   regard   to   the   practical   application   of   those
+inventions   and   discoveries.   For   all   the   various   methods   of
+production   are  in   their   turn   inventions  also   and  consequently
+dependent on the creative faculty of the individual. Even the
+purely theoretical work, which cannot be measured by a definite
+rule and is preliminary to all subsequent technical discoveries, is
+exclusively the product of the individual brain. The broad masses
+do not invent, nor does the majority organize or think; but always
+and in every case the individual man, the person.
+Accordingly a human community is well organized only when it
+facilitates   to   the   highest   possible   degree   individual   creative
+forces and utilizes their work for the benefit of the community.
+The most valuable factor of an invention, whether it be in the
+world of material realities or in the world of abstract ideas, is the
+personality of the inventor himself. The first and supreme duty of
+an   organized   folk   community   is   to   place   the   inventor   in   a
+position where he can be of the greatest benefit to all. Indeed the
+very  purpose   of  the  organization  is  to  put  this  principle   into
+practice.   Only   by   so   doing   can   it   ward   off   the   curse   of
+mechanization   and   remain   a   living   thing.   In   itself   it   must
+personify the effort to place men of brains above the multitude
+and to make the latter obey the former.
+Therefore   not   only   does   the   organization   possess   no   right   to
+prevent men of brains from rising above the multitude but, on the
+contrary, it must use its organizing powers to enable and promote
+that ascension as far as it possibly can. It must start out from the
+principle  that  the   blessings  of  mankind  never  came  from  the
+masses   but   from   the   creative   brains   of   individuals,   who   are
+therefore the real benefactors of humanity. It is in the interest of
+all to  assure  men  of  creative brains a  decisive  influence  and
+facilitate their work. This common interest is surely not served
+by allowing the multitude to rule, for they are not capable of
+thinking nor are they efficient and in no case whatsoever can they
+be said to be gifted. Only those should rule who have the natural
+temperament and gifts of leadership.
+Such men of brains are selected mainly, as I have already said,
+through the hard struggle for existence itself. In this struggle
+there are many who break down and collapse and thereby show
+that they are not called by Destiny to fill the highest positions;
+and only very few are left who can be classed among the elect. In
+the realm of thought and of artistic creation, and even in the
+economic   field,   this   same   process   of   selection   takes   place,
+although – especially in the economic field – its operation is
+heavily handicapped. This same principle of selection rules in the
+administration   of   the   State   and   in   that   department   of   power
+which personifies the organized military defence of the nation.
+The idea of personality rules everywhere, the authority of the
+individual   over   his   subordinates   and   the   responsibility   of   the
+individual towards the persons who are placed over him. It is
+only in political life that this very natural principle has been
+completely excluded. Though all human civilization has resulted
+exclusively   from   the   creative   activity   of   the   individual,   the
+principle that it is the mass which counts – through the decision
+of the majority – makes its appearance only in the administration
+of the national community especially in the higher grades; and
+from   there   downwards   the   poison   gradually   filters   into   all
+branches of national life, thus causing a veritable decomposition.
+The destructive workings of Judaism in different parts of the
+national body can be ascribed fundamentally to the persistent
+Jewish   efforts   at   undermining   the   importance   of   personality
+among   the   nations   that   are   their   hosts   and,   in   place   of
+personality,   substituting   the   domination   of   the   masses.   The
+constructive principle of Aryan humanity is thus displaced by the
+destructive principle of the Jews, They become the 'ferment of
+decomposition' among nations and races and, in a broad sense,
+the wreckers of human civilization.
+Marxism   represents   the   most   striking   phase   of   the   Jewish
+endeavour to eliminate the dominant significance of personality
+in every sphere of human life and replace it by the numerical
+power   of   the   masses.   In   politics   the   parliamentary   form   of
+government is the expression of this effort. We can observe the
+fatal effects of it everywhere, from the smallest parish council
+upwards to the highest governing circles of the nation. In the
+field of economics we see the trade union movement, which does
+not serve the real interests of the employees but the destructive
+aims of international Jewry. Just to the same degree in which the
+principle of personality is excluded from the economic life of the
+nation, and the influence and activities of the masses substituted
+in its stead, national economy, which should be for the service
+and   benefit   of   the   community   as   a   whole,   will   gradually
+deteriorate in its creative capacity. The shop committees which,
+instead of caring for the interests of the employees, strive to
+influence the process of production, serve the same destructive
+purpose.   They   damage   the   general   productive   system   and
+consequently injure the individual engaged in industry. For in the
+long run it is impossible to satisfy popular demands merely by
+high­sounding theoretical phrases. These can be satisfied only by
+supplying goods to meet the individual needs of daily life and by
+so   doing   create   the   conviction   that,   through   the   productive
+collaboration   of   its   members,   the   folk   community   serves   the
+interests of the individual.
+Even if, on the basis of its mass­theory, Marxism should prove
+itself   capable   of   taking   over   and   developing   the   present
+economic system, that would not signify anything. The question
+as to whether the Marxist doctrine be right or wrong cannot be
+decided by any test which would show that it can administer for
+the future what already exists today, but only by asking whether
+it   has   the   creative   power   to   build   up   according   to   its   own
+principles a civilization which would be a counterpart of what
+already exists. Even if Marxism were a thousandfold capable of
+taking over the economic life as we now have it and maintaining
+it   in   operation   under   Marxist   direction,   such   an   achievement
+would prove nothing; because, on the basis of its own principles,
+Marxism would never be able to create something which could
+supplant what exists today.
+And Marxism itself has furnished the proof that it cannot do this.
+Not only has it been unable anywhere to create a cultural or
+economic system of its own; but it was not even able to develop,
+according to its own principles, the civilization and economic
+system it found ready at hand. It has had to make compromises,
+by way of a return to the principle of personality, just as it cannot
+dispense with that principle in its own organization.
+The folkish philosophy is fundamentally distinguished from the
+Marxist   by   reason   of   the   fact   that   the   former   recognizes   the
+significance of race and therefore also personal worth and has
+made   these   the   pillars   of   its   structure.   These   are   the   most
+important factors of its view of life.
+If the National Socialist Movement should fail to understand the
+fundamental importance of this essential principle, if it should
+merely varnish the external appearance of the present State and
+adopt the majority principle, it would really do nothing more
+than compete with Marxism on its own ground. For that reason it
+would not have the right to call itself a philosophy of life. If the
+social   programme   of   the   movement   consisted   in   eliminating
+personality and putting the multitude in its place, then National
+Socialism would be corrupted with the poison of Marxism, just
+as our national­bourgeois parties are.
+The People's State must  assure the  welfare of its citizens by
+recognizing   the   importance   of   personal   values   under   all
+circumstances and by preparing the way for the maximum of
+productive efficiency in all the various branches of economic
+life, thus securing to the individual the highest possible share in
+the general output.
+Hence the People's State must mercilessly expurgate from all the
+leading   circles   in   the   government   of   the   country   the
+parliamentarian   principle,   according   to   which   decisive   power
+through the majority vote is invested in the multitude. Personal
+responsibility must be substituted in its stead.
+From this the following conclusion results:
+The best constitution and the best form of government is that
+which   makes   it   quite   natural   for   the   best   brains   to   reach   a
+position   of   dominant   importance   and   influence   in   the
+community.
+Just   as   in   the   field   of   economics   men   of   outstanding   ability
+cannot   be   designated   from   above   but   must   come   forward   in
+virtue of their own efforts, and just as there is an unceasing
+educative process that leads from the smallest shop to the largest
+undertaking, and just as life itself is the school in which those
+lessons are taught, so in the political field it is not possible to
+'discover'   political   talent   all   in   a   moment.   Genius   of   an
+extraordinary  stamp  is  not  to  be  judged  by  normal  standards
+whereby we judge other men.
+In its organization the State must be established on the principle
+of personality, starting from the smallest cell and ascending up to
+the supreme government of the country.
+There are no decisions made by the majority vote, but only by
+responsible persons. And the word 'council' is once more restored
+to its original meaning. Every man in a position of responsibility
+will have councillors at his side, but the decision is made by that
+individual person alone.
+The   principle   which   made   the   former   Prussian   Army   an
+admirable instrument of the German nation will have to become
+the basis of our statal constitution, that is to say, full authority
+over his subordinates must be invested in each leader and he
+must be responsible to those above him.
+Even then we shall not be able to do without those corporations
+which   at   present   we   call   parliaments.   But   they   will   be   real
+councils, in the sense that they will have to give advice. The
+responsibility can and must be borne by one individual, who
+alone will be vested with authority and the right to command.
+
+Parliaments as such are necessary because they alone furnish the
+opportunity for leaders to rise gradually who will be entrusted
+subsequently with positions of special responsibility.
+The following is an outline of the picture which the organization
+will present:
+From the municipal administration up to the government of the
+Reich,   the   People's   State   will   not   have   any   body   of
+representatives which makes its decisions through the majority
+vote. It will have only advisory bodies to assist the chosen leader
+for the time being and he will distribute among them the various
+duties   they   are   to   perform.   In   certain   fields   they   may,   if
+necessary, have to assume full responsibility, such as the leader
+or president of each corporation possesses on a larger scale.
+In principle the People's State must forbid the custom of taking
+advice on certain political problems – economics, for instance –
+from persons who are entirely incompetent because they lack
+special   training   and   practical   experience   in   such   matters.
+Consequently the State must divide its representative bodies into
+a political chamber and a corporative chamber that represents the
+respective trades and professions.
+To assure an effective co­operation between those two bodies, a
+selected body will be placed over them. This will be a special
+senate.
+No vote will be taken in the chambers or senate. They are to be
+organizations for work and not voting machines. The individual
+members will have consultive votes but no right of decision will
+be attached thereto. The right of decision belongs exclusively to
+the president, who must be entirely responsible for the matter
+under discussion.
+This   principle   of   combining   absolute   authority   with   absolute
+responsibility will gradually cause a selected group of leaders to
+emerge; which is not even thinkable in our present epoch of
+irresponsible parliamentarianism.
+The political construction of the nation will thereby be brought
+into harmony with those laws to which the nation already owes
+its greatness in the economic and cultural spheres.
+Regarding the possibility of putting these principles into practice,
+I should like to call attention to the fact that the principle of
+parliamentarian   democracy,   whereby   decisions   are   enacted
+through the majority vote, has not always ruled the world. On the
+contrary,   we   find   it   prevalent   only   during   short   periods   of
+history, and those have always been periods of decline in nations
+and States.
+One must not believe, however, that such a radical change could
+be   effected   by   measures   of   a   purely   theoretical   character,
+operating from above downwards; for the change I have been
+describing could not be limited to transforming the constitution
+of   a   State   but   would   have   to   include   the   various   fields   of
+legislation and civic existence as a whole. Such a revolution can
+be brought about only by means of a movement which is itself
+organized under the inspiration of these principles and thus bears
+the germ of the future State in its own organism.
+Therefore it is well for the National Socialist Movement to make
+itself completely familiar with those principles today and actually
+to put them into practice within its own organization, so that not
+only will it be in a position to serve as a guide for the future State
+but will have its own organization such that it can subsequently
+be placed at the disposal of the State itself.
+
+
+`;
+const chapter_b_5 = `The   People's   State,   which   I   have   tried   to   sketch   in   general
+outline, will not become a reality in virtue of the simple fact that
+we know the indispensable conditions of its existence. It does not
+suffice to know what aspect such a State would present. The
+problem   of   its   foundation   is   far   more   important.   The   parties
+which exist at present and which draw their profits from the State
+as it now is cannot be expected to bring about a radical change in
+the regime or to change their attitude on their own initiative. This
+is rendered all the more impossible because the forces which now
+have the direction of affairs in their hands are Jews here and Jews
+there and Jews everywhere. The trend of development which we
+are now experiencing would, if allowed to go on unhampered,
+lead to the realization of the Pan­Jewish prophecy that the Jews
+will one day devour the other nations and become lords of the
+earth.
+In   contrast   to   the   millions   of   'bourgeois'   and   'proletarian'
+Germans,   who   are   stumbling   to   their   ruin,   mostly   through
+timidity,   indolence   and   stupidity,   the   Jew   pursues   his   way
+persistently and keeps his eye always fixed on his future goal.
+Any party that is led by him can fight for no other interests than
+his, and his interests certainly have  nothing in common with
+those of the Aryan nations.
+If we would transform our ideal picture of the People's State into
+a reality we shall have to keep independent of the forces that now
+control public life and seek for new forces that will be ready and
+capable of taking up the fight for such an ideal. For a fight it will
+have to be, since the first objective will not be to build up the
+idea of the People's State but rather to wipe out the Jewish State
+which is now in existence. As so often happens in the course of
+history, the main difficulty is not to establish a new order of
+things but to clear the ground for its establishment. Prejudices
+and egotistic interests join together in forming a common front
+against the new idea and in trying by every means to prevent its
+triumph, because  it is disagreeable  to them or threatens their
+existence.
+That is why the protagonist of the new idea is unfortunately, in
+spite of his desire for constructive work, compelled to wage a
+destructive battle first, in order to abolish the existing state of
+affairs.
+A doctrine whose principles are radically new and of essential
+importance   must   adopt   the   sharp   probe   of   criticism   as   its
+weapon,   though   this   may   show   itself   disagreeable   to   the
+individual followers.
+It   is   evidence   of   a   very   superficial   insight   into   historical
+developments if the so­called folkists emphasize again and again
+that   they   will   adopt   the   use   of   negative   criticism   under   no
+circumstances but will engage only in constructive work. That is
+nothing but puerile chatter and is typical of the whole lot of
+folkists. It is another proof that the history of our own times has
+made no impression on these minds. Marxism too has had its
+aims to pursue and it also recognizes constructive work, though
+by this it understands only the establishment of despotic rule in
+the   hands   of   international   Jewish   finance.   Nevertheless   for
+seventy   years   its   principal   work   still   remains   in   the   field   of
+criticism. And what disruptive and destructive criticism it has
+been! Criticism repeated again and again, until the corrosive acid
+ate into the old State so thoroughly that it finally crumbled to
+pieces. Only then did the so­called 'constructive' critical work of
+Marxism   begin.   And   that   was   natural,   right   and   logical.   An
+existing order of things is not abolished by merely proclaiming
+and insisting on a new one. It must not be hoped that those who
+are the partisans of the existing order and have their interests
+bound up with it will be converted and won over to the new
+movement   simply   by   being   shown   that   something   new   is
+necessary. On the contrary, what may easily happen is that two
+different situations  will  exist  side  by side   and that  the­called
+philosophy is transformed into a party, above which level it will
+not   be   able   to   raise   itself   afterwards.   For   the   philosophy   is
+intolerant and cannot permit another to exist side by side with it.
+It   imperiously   demands   its   own   recognition   as   unique   and
+exclusive and a complete transformation in accordance with its
+views throughout all the branches of public life. It can never
+allow the previous state of affairs to continue in existence by its
+side.
+And the same holds true of religions.
+Christianity was not content with erecting an altar of its own. It
+had first to destroy the pagan altars. It was only in virtue of this
+passionate intolerance that an apodictic faith could grow up. And
+intolerance is an indispensable condition for the growth of such a
+faith.
+It may be objected here that in these phenomena which we find
+throughout the history of the world we have to recognize mostly
+a specifically Jewish mode of thought and that such fanaticism
+and intolerance are typical symptoms of Jewish mentality. That
+may be a thousandfold true; and it is a fact deeply to be regretted.
+The appearance of intolerance and fanaticism in the history of
+mankind may be deeply regrettable, and it may be looked upon
+as   foreign   to   human   nature,   but   the   fact   does   not   change
+conditions as they exist today. The men who wish to liberate our
+German nation from the conditions in which it now exists cannot
+cudgel their brains with thinking how excellent it would be if this
+or   that  had   never  arisen.   They  must   strive   to  find  ways   and
+means of abolishing what actually exists. A philosophy of life
+which is inspired by an infernal spirit of intolerance can only be
+set aside by a doctrine that is advanced in an equally ardent spirit
+and fought for with as determined a will and which is itself a new
+idea, pure and absolutely true.
+Each  one of us today may regret the  fact that the advent  of
+Christianity was the first occasion on which spiritual terror was
+introduced into the much freer ancient world, but the fact cannot
+be   denied   that   ever   since   then   the   world   is   pervaded   and
+dominated by this kind of coercion and that violence is broken
+only by violence and terror by terror. Only then can a new regime
+be created by means of constructive work. Political parties are
+prone to enter compromises; but a philosophy never does this. A
+political party is inclined to adjust its teachings with a view to
+meeting those of its opponents, but a philosophy proclaims its
+own infallibility.
+In the beginning, political parties have also and nearly always the
+intention of securing an exclusive and despotic domination for
+themselves.   They   always   show   a   slight   tendency   to   become
+philosophical. But the limited nature of their programme is in
+itself enough to rob them of that heroic spirit which a philosophy
+demands.  The spirit of conciliation which animates their will
+attracts those petty and chicken­hearted people who are not fit to
+be   protagonists   in   any   crusade.   That   is   the   reason   why   they
+mostly become struck in their miserable pettiness very early on
+the march. They give up fighting for their ideology and, by way
+of what they call 'positive collaboration,' they try as quickly as
+possible to wedge themselves into some tiny place at the trough
+of the existent regime and to stick there as long as possible. Their
+whole effort ends at that. And if they should get shouldered away
+from   the   common   manger   by   a   competition   of   more   brutal
+manners then their only idea is to force themselves in again, by
+force or chicanery, among the herd of all the others who have
+similar appetites, in order to get back into the front row, and
+finally – even at the expense of their most sacred convictions –
+participate   anew   in   that   beloved   spot   where   they   find   their
+fodder. They are the jackals of politics.
+But a general philosophy of life will never share its place with
+something else. Therefore it can never agree to collaborate in any
+order of things that it condemns. On the contrary it feels obliged
+to employ every means in fighting against the old order and the
+whole world of ideas belonging to that order and prepare the way
+for its destruction.
+These purely destructive tactics, the danger of which is so readily
+perceived by the enemy that he forms a united front against them
+for his common defence, and also the constructive tactics, which
+must be aggressive in order to carry the new world of ideas to
+success – both these phases of the struggle call for a body of
+resolute fighters. Any new philosophy of life will bring its ideas
+to victory only if the most courageous and active elements of its
+epoch and its people are enrolled under its standards and grouped
+firmly together in a powerful fighting organization. To achieve
+this purpose it is absolutely necessary to select from the general
+system of doctrine a certain number of ideas which will appeal to
+such individuals and which, once they are expressed in a precise
+and   clear­cut   form,   will   serve   as   articles   of   faith   for   a   new
+association   of   men.   While   the   programme   of   the   ordinary
+political party is nothing but the recipe for cooking up favourable
+results out of the next general elections, the programme of a
+philosophy represents a declaration of war against an existing
+order of things, against present conditions, in short, against the
+established view of life in general.
+It is not necessary, however, that every individual fighter for
+such a new doctrine need have a full grasp of the ultimate ideas
+and plans of those who are the leaders of the movement. It is
+only   necessary   that   each   should   have   a   clear   notion   of   the
+fundamental ideas and that he should thoroughly assimilate a few
+of the most fundamental principles, so that he will be convinced
+of the necessity of carrying the movement and its doctrines to
+success. The individual soldier is not initiated in the knowledge
+of high strategical plans. But he is trained to submit to a rigid
+discipline, to be passionately convinced of the justice and inner
+worth of his cause and that he must devote himself to it without
+reserve. So, too, the individual follower of a movement must be
+made acquainted with its far­reaching purpose, how it is inspired
+by a powerful will and has a great future before it.
+Supposing that each soldier in an army were a general, and had
+the training and capacity for generalship, that army would not be
+an efficient fighting instrument. Similarly a political movement
+would not be very efficient in fighting for a philosophy if it were
+made up exclusively of intellectuals. No, we need the simple
+soldier also. Without him no discipline can be established.
+By its very nature, an organization can exist only if leaders of
+high intellectual ability are served by a large mass of men who
+are emotionally devoted to the cause. To maintain discipline in a
+company of two hundred men who are equally intelligent and
+capable would turn out more difficult in the long run than in a
+company of one hundred and ninety less gifted men and ten who
+have had a higher education.
+The Social­Democrats have profited very much by recognizing
+this truth. They took the broad masses of our people who had just
+completed military service and learned to submit to discipline,
+and they subjected this mass of men to the discipline of the
+Social­Democratic organization, which was no less rigid than the
+discipline   through   which   the   young   men   had   passed   in   their
+military training. The Social­Democratic organization consisted
+of an army divided into officers and men. The German worker
+who had passed through his military service became the private
+soldier in that army, and the Jewish intellectual was the officer.
+The German trade union functionaries may be compared to the
+non­commissioned officers. The fact, which was always looked
+upon with indifference by our middle­classes, that only the socalled uneducated classes joined Marxism was the very ground
+on which this party achieved its success. For while the bourgeois
+parties, because they mostly consisted of intellectuals, were only
+a feckless band of undisciplined individuals, out of much less
+intelligent human material the Marxist leaders formed an army of
+party combatants who obey their Jewish masters just as blindly
+as   they   formerly   obeyed   their   German   officers.   The   German
+middle­classes,   who   never;   bothered   their   heads   about
+psychological problems because they felt themselves superior to
+such matters, did not think it necessary to reflect on the profound
+significance of this fact and the secret danger involved in it.
+Indeed they believed. that a political movement which draws its
+followers exclusively from intellectual circles must, for that very
+reason, be of greater importance and have better grounds. for its
+chances of success, and even a greater probability of taking over
+the   government   of   the   country   than   a   party   made   up   of   the
+ignorant masses. They completely failed to realize the fact that
+the strength of a political party never consists in the intelligence
+and independent spirit of the rank­and­file of its members but
+rather in the spirit of willing obedience with which they follow
+their intellectual leaders. What is of decisive importance is the
+leadership   itself.   When   two   bodies   of   troops   are   arrayed   in
+mutual combat victory will not fall to that side in which every
+soldier has an expert knowledge of the rules of strategy, but
+rather to that side which has the best leaders and at the same time
+the   best   disciplined,   most   blindly   obedient   and   best   drilled
+troops.
+That is a fundamental piece of knowledge which we must always
+bear in mind when we examine the possibility of transforming a
+philosophy into a practical reality.
+If we agree that in order to carry a philosophy into practical
+effect it must be incorporated in a fighting movement, then the
+logical consequence is that the programme of such a movement
+must take account of the human material at its disposal. Just as
+the ultimate aims and fundamental principles must be absolutely
+definite and unmistakable, so the propagandist programme must
+be well drawn up and must be inspired by a keen sense of its
+psychological appeals to the minds of those without whose help
+the noblest ideas will be doomed to remain in the eternal, realm
+of ideas.
+If the idea of the People's State, which is at present an obscure
+wish, is one day to attain a clear and definite success, from its
+vague and vast mass of thought it will have to put forward certain
+definite principles which of their very nature and content are
+calculated to attract a broad mass of adherents; in other words,
+such a group of people as can guarantee that these principles will
+be fought for. That group of people are the German workers.
+That is why the programme of the new movement was condensed
+into a few fundamental postulates, twenty­five in all. They are
+meant first of all to give the ordinary man a rough sketch of what
+the movement is aiming at. They are, so to say, a profession of
+faith which on the one hand is meant to win adherents to the
+movement   and,   on   the   other,   they   are   meant   to   unite   such
+adherents together in a covenant to which all have subscribed.
+
+In these matters we must never lose sight of the following: What
+we call the programme of the movement is absolutely right as far
+as its ultimate aims are concerned, but as regards the manner in
+which   that   programme   is   formulated   certain   psychologica1
+considerations had to be taken into account. Hence, in the course
+of time, the opinion may well arise that certain principles should
+be expressed differently and might be better formulated. But any
+attempt at a different formulation has a fatal effect in most cases.
+For something that ought to be fixed and unshakable thereby
+becomes the subject of discussion. As soon as one point alone is
+removed from the sphere of dogmatic certainty, the discussion
+will not simply result in a new and better formulation which will
+have greater consistency but may easily lead to endless debates
+and general confusion. In such cases the question must always be
+carefully considered as to whether a new and more adequate
+formulation is to be preferred, though it may cause a controversy
+within the movement, or whether it may not be better to retain
+the old formula which, though probably not the best, represents
+an organism enclosed in itself, solid and internally homogeneous.
+All  experience  shows  that  the  second  of  these  alternatives  is
+preferable. For since in these changes one is dealing only with
+external forms such corrections will always appear desirable and
+possible. But in the last analysis the generality of people think
+superficially and therefore the great danger is that in what is
+merely an external formulation of the programme people will see
+an essential aim of the movement. In that way the will and the
+combative force at the service of the ideas are weakened and the
+energies that ought to be directed towards the outer world are
+dissipated in programmatic discussions within the ranks of the
+movement.
+For a doctrine that is actually right in its main features it is less
+dangerous to retain a formulation which may no longer be quite
+adequate instead of trying to improve it and thereby allowing a
+fundamental principle of the movement, which had hitherto been
+considered as solid as granite, to become the subject of a general
+discussion which may have unfortunate consequences. This is
+particularly to be avoided as long as a movement is still fighting
+for victory. For would it be possible to inspire people with blind
+faith   in   the   truth   of   a   doctrine   if   doubt   and   uncertainty   are
+encouraged by continual alterations in its external formulation?
+The  essentials  of  a  teaching  must   never  be  looked  for  in  its
+external   formulas,   but   always   in   its  inner   meaning.   And   this
+meaning is unchangeable. And in its interest one can only wish
+that a movement should exclude everything that tends towards
+disintegration and uncertainty in order to preserve the unified
+force that is necessary for its triumph.
+Here again the Catholic Church has a lesson to teach us. Though
+sometimes, and often quite unnecessarily, its dogmatic system is
+in conflict with the exact sciences and with scientific discoveries,
+it is not disposed to sacrifice a syllable of its teachings. It has
+rightly   recognized   that   its   powers   of   resistance   would   be
+weakened by introducing greater or less doctrinal adaptations to
+meet the temporary conclusions of science, which in reality are
+always   vacillating.   And   thus   it   holds   fast   to   its   fixed   and
+established dogmas which alone can give to the whole system the
+character of a faith. And that is the reason why it stands firmer
+today than ever before. We may prophesy that, as a fixed pole
+amid fleeting phenomena, it will continue to attract increasing
+numbers of people who will be blindly attached to it the more
+rapid the rhythm of changing phenomena around it.
+Therefore whoever really and seriously desires that the idea of
+the People's State should triumph must realize that this triumph
+can be assured only through a militant movement and that this
+movement must ground its strength only on the granite firmness
+of an impregnable and firmly coherent programme. In regard to
+its formulas it must never make concessions to the spirit of the
+time but must maintain the form that has once and for all been
+decided   upon   as   the   right   one;   in   any   case   until   victory   has
+crowned   its   efforts.   Before   this   goal   has   been   reached   any
+attempt to open a discussion on the opportuneness of this or that
+point in the programme might tend to disintegrate the solidity
+and fighting strength of the movement, according to the measures
+in which its followers might take part in such an internal dispute.
+Some 'improvements' introduced today might be subjected to a
+critical   examination   to­morrow,   in   order   to   substitute   it   with
+something better the day after. Once the barrier has been taken
+down the road is opened and we know only the beginning, but
+we do not know to what shoreless sea it may lead.
+This important principle had to be acknowledged in practice by
+the   members   of   the   National   Socialist   Movement   at   its   very
+beginning. In its programme of twenty­five points the National
+Socialist German Labour Party has been furnished with a basis
+that must remain unshakable. The members of the movement,
+both present and future, must never feel themselves called upon
+to undertake a critical revision of these leading postulates, but
+rather feel themselves obliged to put them into practice as they
+stand. Otherwise the next generation would, in its turn and with
+equal right, expend its energy in such purely formal work within
+the party, instead of winning new adherents to the movement and
+thus adding to its power. For the majority of our followers the
+essence of the movement will consist not so much in the letter of
+our theses but in the meaning that we attribute to them.
+The new movement owes its name to these considerations, and
+later on its programme was drawn up in conformity with them.
+They are the basis of our propaganda. In order to carry the idea
+of   the   People's   State   to   victory,   a   popular   party   had   to   be
+founded, a party that did not consist of intellectual leaders only
+but also of manual labourers. Any attempt to carry these theories
+into effect without the aid of a militant organization would be
+doomed to failure today, as it has failed in the past and must fail
+in the future. That is why the movement is not only justified but
+it   is   also   obliged   to   consider   itself   as   the   champion   and
+representative of these ideas. Just as the fundamental principles
+of the National Socialist Movement are based on the folk idea,
+folk ideas are National Socialist. If National Socialism would
+triumph it will have to hold firm to this fact unreservedly, and
+here again it has not only the right but also the duty to emphasize
+most rigidly that any attempt to represent the folk idea outside of
+the National Socialist German Labour Party is futile and in most
+cases fraudulent.
+If the reproach should be launched against our movement that it
+has 'monopolized' the folk idea, there is only one answer to give.
+Not only have we monopolized the folk idea but, to all practical
+intents and purposes, we have created it.
+For what hitherto existed under this name was not in the least
+capable of influencing the destiny of our people, since all those
+ideas lacked a political and coherent formulation. In most cases
+they are nothing but isolated and incoherent notions which are
+more   or   less   right.   Quite   frequently   these   were   in   open
+contradiction to one another and in no case was there any internal
+cohesion among them. And even if this internal cohesion existed
+it would have been much too weak to form the basis of any
+movement.
+Only   the   National   Socialist   Movement   proved   capable   of
+fulfilling this task.
+All kinds of associations and groups, big as well as little, now
+claim the title völkisch. This is one result of the work which
+National Socialism has done. Without this work, not one of all
+these parties would have thought of adopting the word völkisch
+at all. That expression would have meant nothing to them and
+especially their directors would never have had anything to do
+with such an idea. Not until the work of the German National
+Socialist Labour Party had given this idea a pregnant meaning
+did it appear in the mouths of all kinds of people. Our party
+above all, by the success of its propaganda, has shown the force
+of the folk idea; so much so that the others, in an effort to gain
+proselytes, find themselves forced to copy our example, at least
+in words.
+Just as heretofore they exploited everything to serve their petty
+electoral purposes, today they use the word völkisch only as an
+external   and   hollow­sounding   phrase   for   the   purpose   of
+counteracting  the   force   of   the   impression   which  the   National
+Socialist Party makes on the members of those other parties.
+Only the desire to maintain their existence and the fear that our
+movement may prevail, because it is based on a philosophy that
+is   of   universal   importance,   and   because   they   feel   that   the
+exclusive character of our movement betokens danger for them –
+only for these reasons do they use words which they repudiated
+eight years ago, derided seven years ago, branded as stupid six
+years ago, combated five years ago, hated four years ago, and
+finally, two years ago, annexed and incorporated them in their
+present political vocabulary, employing them as war slogans in
+their struggle.
+And so it is necessary even now not to cease calling attention to
+the fact that not one of those parties has the slightest idea of what
+the   German   nation   needs.   The   most   striking   proof   of   this   is
+represented by the superficial way in which they use the word
+völkisch.
+Not   less   dangerous  are   those   who   run   about   as  semi­folkists
+formulating fantastic schemes which are mostly based on nothing
+else than a fixed idea which in itself might be right but which,
+because it is an isolated notion, is of no use whatsoever for the
+formation of a great homogeneous fighting association and could
+by no means serve as the basis of its organization. Those people
+who concoct a programme which consists partly of their own
+ideas and partly of ideas taken from others, about which they
+have   read   somewhere,   are   often   more   dangerous   than   the
+outspoken enemies of the völkisch idea. At best they are sterile
+theorists but more frequently they are mischievous agitators of
+the   public   mind.   They   believe   that   they   can   mask   their
+intellectual vanity, the futility of their efforts, and their lack of
+stability, by sporting flowing beards and indulging in ancient
+German gestures.
+In face of all those futile attempts, it is therefore worth while to
+recall the time when the new National Socialist Movement began
+its fight.
+
+
+
+
+`;
+const chapter_b_6 = `The echoes of our first great meeting, in the banquet hall of the
+Hofbräuhaus on  February  24th, 1920,  had not  yet died  away
+when we began preparations for our next meeting. Up to that
+time we had to consider carefully the venture of holding a small
+meeting every month or at most every fortnight in a city like
+Munich; but now it was decided that we should hold a mass
+meeting every week. I need not say that we anxiously asked
+ourselves  on  each  occasion  again  and again:  Will  the  people
+come and will they listen? Personally I was firmly convinced that
+if once they came they would remain and listen.
+During   that   period   the   hall   of   the   Hofbrau   Haus   in   Munich
+acquired for us, National Socialists, a sort of mystic significance.
+Every week there was a meeting, almost always in that hall, and
+each time the hall was better filled than on the former occasion,
+and our public more attentive.
+Starting   with   the   theme,   'Responsibility   for   the   War,'   which
+nobody at that time cared about, and passing on to the discussion
+of the peace treaties, we dealt with almost everything that served
+to stimulate the minds of our audience and make them interested
+in our ideas. We drew attention to the peace treaties. What the
+new movement prophesied again and again before those great
+masses of people has been fulfilled almost in every detail. Today it is easy to talk and write about these things. But in those
+days a public mass meeting which was attended not by the small
+bourgeoisie   but   by   proletarians   who   had   been   aroused   by
+agitators, to criticize the Peace Treaty of Versailles meant an
+attack on the Republic and an evidence of reaction, if not of
+monarchist   tendencies.   The   moment   one   uttered   the   first
+criticism of the Versailles Treaty one could expect an immediate
+reply, which became almost stereotyped: 'And Brest­Litowsk?'
+'Brest­Litowsk!'   And   then   the   crowd   would   murmur   and   the
+murmur   would   gradually   swell   into   a   roar,   until   the   speaker
+would have to give up his attempt to persuade them. It would be
+like knocking one's head against a wall, so desperate were these
+people. They would not listen nor understand that Versailles was
+a scandal and a disgrace and that the dictate signified an act of
+highway robbery against our people. The disruptive work done
+by the Marxists and the poisonous propaganda of the external
+enemy had robbed these people of their reason. And one had no
+right to complain. For the guilt on this side was enormous. What
+had the German bourgeoisie done to call a halt to this terrible
+campaign of disintegration, to oppose it and open a way to a
+recognition of the truth by giving a better and more thorough
+explanation of the situation than that of the Marxists? Nothing,
+nothing. At that time I never saw those who are now the great
+apostles of the people. Perhaps they spoke to select groups, at tea
+parties of their own little coteries; but there where they should
+have been, where the wolves were at work, they never risked
+their appearance, unless it gave them the opportunity of yelling
+in concert with the wolves.
+As for myself, I then saw clearly that for the small group which
+first composed our movement the question of war guilt had to be
+cleared   up,   and   cleared   up   in   the   light   of   historical   truth.   A
+preliminary condition for the future success of our movement
+was that it should bring knowledge of the meaning of the peace
+treaties to the minds of the popular masses. In the opinion of the
+masses, the peace treaties then signified a democratic success.
+Therefore, it was necessary to take the opposite side and dig
+ourselves into the minds of the people as the enemies of the
+peace  treaties;   so  that  later  on,  when  the  naked   truth  of  this
+despicable swindle would be disclosed in all its hideousness, the
+people would recall the position which we then took and would
+give us their confidence.
+Already   at   that   time   I  took   up   my   stand   on   those   important
+fundamental questions where public opinion had gone wrong as a
+whole. I opposed these wrong notions without regard either for
+popularity or for hatred, and I was ready to face the fight. The
+National   Socialist   German   Labour   Party   ought   not   to   be   the
+beadle but rather the master of public opinion. It must not serve
+the masses but rather dominate them.
+In the case of every movement, especially during its struggling
+stages, there is naturally a temptation to conform to the tactics of
+an opponent and use the same battle­cries, when his tactics have
+succeeded in leading the people to crazy conclusions or to adopt
+mistaken attitudes towards the questions at issue. This temptation
+is particularly strong when motives can be found, though they are
+entirely illusory, that seem to point towards the same ends which
+the young movement is aiming at. Human poltroonery will then
+all   the   more   readily   adopt   those   arguments   which   give   it   a
+semblance   of   justification,   'from   its   own   point   of   view,'   in
+participating   in   the   criminal   policy   which   the   adversary   is
+following.
+On several occasions I have experienced such cases, in which the
+greatest energy had to be employed to prevent the ship of our
+movement from being drawn into a general current which had
+been started artificially, and indeed from sailing with it. The last
+occasion   was   when   our   German   Press,   the   Hecuba   of   the
+existence   of   the   German   nation,   succeeded   in   bringing   the
+question of South Tyrol into a position of importance which was
+seriously   damaging   to   the   interests   of   the   German   people.
+Without considering what interests they were serving, several socalled 'national' men, parties and leagues, joined in the general
+cry, simply for fear of public opinion which had been excited by
+the Jews, and foolishly contributed to help in the struggle against
+a system which we Germans ought, particularly in those days, to
+consider as the one ray of light in this distracted world. While the
+international World­Jew is slowly but surely strangling us, our
+so­called patriots vociferate against a man and his system which
+have had the courage to liberate themselves from the shackles of
+Jewish Freemasonry at least in one quarter of the globe and to set
+the forces of national resistance against the international worldpoison.   But   weak   characters   were   tempted   to   set   their   sails
+according to the direction of the wind and capitulate before the
+shout of public opinion. For it was veritably a capitulation. They
+are so much in the habit of lying and so morally base that men
+may not admit this even to themselves, but the truth remains that
+only cowardice and fear of the public feeling aroused by the Jews
+induced certain people to join in the hue and cry. All the other
+reasons   put   forward   were   only   miserable   excuses   of   paltry
+culprits who were conscious of their own crime.
+There it was necessary to grasp the rudder with an iron hand and
+turn the movement about, so as to save it from a course that
+would   have   led   it   on   the   rocks.   Certainly   to   attempt   such   a
+change  of  course  was  not  a  popular  manoeuvre  at  that  time,
+because all the leading forces of public opinion had been active
+and   a   great   flame   of   public   feeling   illuminated   only   one
+direction.  Such  a   decision  almost   always  brings  disfavour  on
+those who dare to take it. In the course of history not a few men
+have been stoned for an act for which posterity has afterwards
+thanked them on its knees.
+But a movement must count on posterity and not on the plaudits
+of the movement. It may well be that at such moments certain
+individuals have to endure hours of anguish; but they should not
+forget   that   the   moment   of   liberation   will   come   and   that   a
+movement which purposes to reshape the world must serve the
+future and not the passing hour.
+On   this   point   it   may   be   asserted   that   the   greatest   and   most
+enduring successes in history are mostly those which were least
+understood at the beginning, because they were in strong contrast
+to public opinion and the views and wishes of the time.
+We had experience of this when we made our own first public
+appearance. In all truth it can be said that we did not court public
+favour but made an onslaught on the follies of our people. In
+those days the following happened almost always: I presented
+myself before an assembly of men who believed the opposite of
+what I wished to say and who wanted the opposite of what I
+believed in. Then I had to spend a couple of hours in persuading
+two or three thousand people to give up the opinions they had
+first held, in destroying the foundations of their views with one
+blow after another and finally in leading them over to take their
+stand on the grounds of our own convictions and our philosophy
+of life.
+I learned something that was important at that time, namely, to
+snatch from the hands of the enemy the weapons which he was
+using in his reply. I soon noticed that our adversaries, especially
+in the persons of those who led the discussion against us, were
+furnished with a definite repertoire of arguments out of which
+they took points against our claims which were being constantly
+repeated.   The   uniform   character   of   this   mode   of   procedure
+pointed to a systematic and unified training. And so we were able
+to   recognize   the   incredible   way   in   which   the   enemy's
+propagandists had been disciplined, and I am proud today that I
+discovered   a   means   not   only   of   making   this   propaganda
+ineffective but of beating the artificers of it at their own work.
+Two years later I was master of that art.
+In every speech which I made it was important to get a clear idea
+beforehand   of   the   probable   form   and   matter   of   the   counterarguments we had to expect in the discussion,  so that in the
+course of my own speech these could be dealt with and refuted.
+To   this   end   it   was   necessary   to   mention   all   the   possible
+objections and show their inconsistency; it was all the easier to
+win over an honest listener by expunging from his memory the
+arguments   which   had   been   impressed   upon   it,   so   that   we
+anticipated our replies. What he had learned was refuted without
+having been mentioned by him and that made him all the more
+attentive to what I had to say.
+That was the reason why, after my first lecture on the 'Peace
+Treaty of Versailles,' which I delivered to the troops while I was
+still a political instructor in my regiment, I made an alteration in
+the title and subject and henceforth spoke on 'The Treaties of
+Brest­Litowsk   and   Versailles.'   For   after   the   discussion   which
+followed  my first  lecture  I  quickly ascertained   that in  reality
+people knew nothing about the Treaty of Brest­Litowsk and that
+able party propaganda had succeeded in presenting that Treaty as
+one of the most scandalous acts of violence in the history of the
+world.
+As a result of the persistency  with which this falsehood was
+repeated   again   and   again   before   the   masses   of   the   people,
+millions   of   Germans   saw   in   the   Treaty   of   Versailles   a   just
+castigation for the crime we had committed at Brest­Litowsk.
+Thus they considered all opposition to Versailles as unjust and in
+many   cases   there   was   an   honest   moral   dislike   to   such   a
+proceeding. And this was also the reason why the shameless and
+monstrous   word   'Reparations'   came   into   common   use   in
+Germany. This hypocritical falsehood appeared to millions of our
+exasperated   fellow   countrymen   as   the   fulfilment   of   a   higher
+justice. It is a terrible thought, but the fact was so. The best proof
+of this was the propaganda which I initiated against Versailles by
+explaining   the   Treaty   of   Brest­Litowsk.   I   compared   the   two
+treaties with one another, point by point, and showed how in
+truth the one treaty was immensely humane, in contradistinction
+to   the   inhuman   barbarity   of   the   other.   The   effect   was   very
+striking. Then I spoke on this theme before an assembly of two
+thousand persons, during which I often saw three thousand six
+hundred hostile eyes fixed on me. And three hours later I had in
+front of me a swaying mass of righteous indignation and fury. A
+great lie had been uprooted from the hearts and brains of a crowd
+composed   of   thousands   of   individuals   and   a   truth   had   been
+implanted in its place.
+The two lectures – that 'On the Causes of the World War' and 'On
+the Peace Treaties of Brest­Litowsk and Versailles' respectively –
+I   then   considered   as   the   most   important   of   all.   Therefore   I
+repeated   them   dozens   of   times,   always   giving   them   a   new
+intonation; until at least on those points a definitely clear and
+unanimous   opinion   reigned   among   those   from   whom   our
+movement recruited its first members.
+Furthermore, these gatherings brought me the advantage that I
+slowly became a platform orator at mass meetings, and gave me
+practice in the pathos and gesture required in large halls that held
+thousands of people.
+Outside of the small circles which I have mentioned, at that time
+I found no party engaged in explaining things to the people in
+this way. Not one of these parties was then active which talk
+today as if it was they who had brought about the change in
+public opinion. If a political leader, calling himself a nationalist,
+pronounced a discourse somewhere or other on this theme it was
+only before circles which for the most part were already of his
+own conviction and among whom the most that was done was to
+confirm   them   in   their   opinions.   But   that   was   not   what   was
+needed   then.   What   was   needed   was   to   win   over   through
+propaganda and explanation those whose opinions and mental
+attitudes held them bound to the enemy's camp.
+The one­page circular was also adopted by us to help in this
+propaganda. While still a soldier I had written a circular in which
+I contrasted the Treaty of Brest­Litowsk with that of Versailles.
+That circular was printed and distributed in large numbers. Later
+on I used it for the party, and also with good success. Our first
+meetings were distinguished by the fact that there were tables
+covered with leaflets, papers, and pamphlets of every kind. But
+we relied principally on the spoken word. And, in fact, this is the
+only means capable of producing really great revolutions, which
+can be explained on general psychological grounds.
+In the first volume I have already stated that all the formidable
+events which have changed the aspect of the world were carried
+through, not by the written but by the spoken word. On that point
+there was a long discussion in a certain section of the Press
+during the course of which our shrewd bourgeois people strongly
+opposed my thesis. But the reason for this attitude confounded
+the   sceptics.   The   bourgeois   intellectuals   protested   against   my
+attitude simply because they themselves did not have the force or
+ability to influence the masses through the spoken word; for they
+always relied exclusively on the help of writers and did not enter
+the arena themselves as orators for the purpose of arousing the
+people.   The   development   of   events   necessarily   led   to   that
+condition of affairs which  is  characteristic  of  the bourgeoisie
+today, namely, the loss of the psychological instinct to act upon
+and influence the masses.
+An orator receives continuous guidance from the people before
+whom he speaks. This helps him to correct the direction of his
+speech; for he can always gauge, by the faces of his hearers, how
+far they follow and understand him, and whether his words are
+producing the desired effect. But the writer does not know his
+reader  at   all.  Therefore,  from  the  outset   he  does  not  address
+himself to a definite human group of persons which he has before
+his eyes but must write in a general way. Hence, up to a certain
+extent   he   must   fail   in   psychological   finesse   and   flexibility.
+Therefore, in general it may be said that a brilliant orator writes
+better   than   a   brilliant   writer   can   speak,   unless   the   latter   has
+continual practice in public speaking. One must also remember
+that   of   itself   the   multitude   is   mentally   inert,   that   it   remains
+attached to its old habits and that it is not naturally prone to read
+something which does not conform with its own pre­established
+beliefs when such writing does not contain what the multitude
+hopes to find there. Therefore, some piece of writing which has a
+particular tendency is for the most part read only by those who
+are in sympathy with it. Only a leaflet or a placard, on account of
+its brevity, can hope to arouse a momentary interest in those
+whose   opinions   differ   from   it.   The   picture,   in   all   its   forms,
+including the film, has better prospects. Here there is less need of
+elaborating the appeal to the intelligence. It is sufficient if one be
+careful to have quite short texts, because many people are more
+ready to accept a pictorial presentation than to read a long written
+description. In a much shorter time, at one stroke I might say,
+people   will   understand   a   pictorial   presentation   of   something
+which it would take them a long and laborious effort of reading
+to understand.
+The most important consideration, however, is that one never
+knows into what hands a piece of written material comes and yet
+the form in which its subject is presented must remain the same.
+In   general   the   effect   is   greater   when   the   form   of   treatment
+corresponds to the mental level of the reader and suits his nature.
+Therefore, a book which is meant for the broad masses of the
+people must try from the very start to gain its effects through a
+style and level of ideas which would be quite different from a
+book intended to be read by the higher intellectual classes.
+Only through his capacity for adaptability does the force of the
+written word approach that of oral speech. The orator may deal
+with the same subject as a book deals with; but if he has the
+genius of a great and popular orator he will scarcely ever repeat
+the same argument or the same material in the same form on two
+consecutive occasions.  He will always follow the lead of the
+great mass in such a way that from the living emotion of his
+hearers the apt word which he needs will be suggested to him and
+in its turn this will go straight to the hearts of his hearers. Should
+he make even a slight mistake he has the living correction before
+him. As I have already said, he can read the play of expression on
+the faces of his hearers, first to see if they understand what he
+says, secondly to see if they take in the whole of his argument,
+and, thirdly, in how far they are convinced of the justice of what
+has been placed before them. Should he observe, first, that his
+hearers do not understand him he will make his explanation so
+elementary and clear that they will be able to grasp it, even to the
+last individual. Secondly, if he feels that they are not capable of
+following him he will make one idea follow another carefully
+and   slowly   until   the   most   slow­witted   hearer   no   longer   lags
+behind. Thirdly, as soon as he has the feeling that they do not
+seem convinced that he is right in the way he has put things to
+them he will repeat his argument over and over again, always
+giving fresh illustrations, and he himself will state their unspoken
+objection. He will repeat these objections, dissecting them and
+refuting them, until the last group of the opposition show him by
+their behaviour and play of expression that they have capitulated
+before his exposition of the case.
+Not infrequently it is a case of overcoming ingrained prejudices
+which are mostly unconscious and are supported by sentiment
+rather   than   reason.   It   is   a   thousand   times   more   difficult   to
+overcome this barrier of instinctive aversion, emotional hatred
+and   preventive   dissent   than   to   correct   opinions   which   are
+founded on defective or erroneous knowledge. False ideas and
+ignorance   may   be   set   aside   by   means   of   instruction,   but
+emotional resistance never can. Nothing but an appeal to these
+hidden forces will be effective here. And that appeal can be made
+by scarcely any writer. Only the orator can hope to make it.
+A very striking proof of this is found in the fact that, though we
+had a bourgeois Press which in many cases was well written and
+produced and had a circulation of millions among the people, it
+could   not   prevent   the   broad   masses   from   becoming   the
+implacable enemies of the bourgeois class. The deluge of papers
+and books published by the intellectual circles year after year
+passed over the millions of the lower social strata like water over
+glazed leather. This proves that one of two things must be true:
+either   that   the   matter   offered   in   the   bourgeois   Press   was
+worthless or that it is impossible to reach the hearts of the broad
+masses by means of the written word alone. Of course, the latter
+would be specially true where the written material shows such
+little psychological insight as has hitherto been the case.
+It   is   useless   to   object   here,   as   certain   big   Berlin   papers   of
+German­National   tendencies   have   attempted   to   do,   that   this
+statement is refuted by the fact that the Marxists have exercised
+their   greatest   influence   through   their   writings,   and   especially
+through their principal book, published by Karl Marx. Seldom
+has   a   more   superficial   argument   been   based   on   a   false
+assumption. What gave Marxism its amazing influence over the
+broad masses was not that formal printed work which sets forth
+the Jewish system of ideas, but the tremendous oral propaganda
+carried   on   for   years   among   the   masses.   Out   of   one   hundred
+thousand German workers scarcely one hundred know of Marx's
+book. It has been studied much more in intellectual circles and
+especially   by   the   Jews   than   by   the   genuine   followers   of   the
+movement who come from the lower classes. That work was not
+written for the masses, but exclusively for the intellectual leaders
+of the Jewish machine for conquering the world. The engine was
+heated with quite different stuff: namely, the journalistic Press.
+What differentiates the bourgeois Press from the Marxist Press is
+that the latter is written by agitators, whereas the bourgeois Press
+would like to carry on agitation by means of professional writers.
+The   Social­Democrat   sub­editor,   who   almost   always   came
+directly from the meeting to the editorial offices of his paper, felt
+his job on his finger­tips. But the bourgeois writer who left his
+desk to appear before the masses already felt ill when he smelled
+the very odour of the crowd and found that what he had written
+was useless to him.
+What won over millions of workpeople to the Marxist cause was
+not   the   ex   cathedra   style   of   the   Marxist   writers   but   the
+formidable   propagandist   work   done   by   tens   of   thousands   of
+indefatigable   agitators,   commencing   with   the   leading   fiery
+agitator down to the smallest official in the syndicate, the trusted
+delegate and the platform orator. Furthermore, there were the
+hundreds of thousands of meetings where these orators, standing
+on tables in smoky taverns, hammered their ideas into the heads
+of   the   masses,   thus   acquiring   an   admirable   psychological
+knowledge of the human material they had to deal with. And in
+this way they were enabled to select the best weapons for their
+assault on the citadel of public opinion. In addition to all this
+there were the gigantic mass­demonstrations with processions in
+which a hundred thousand men took part. All this was calculated
+to impress on the petty­hearted individual the proud conviction
+that, though a small worm, he was at the same time a cell of the
+great dragon before whose devastating breath the hated bourgeois
+world would one day be consumed in fire and flame, and the
+dictatorship   of   the   proletariat   would   celebrate   its   conclusive
+victory.
+This kind of propaganda influenced men in such a way as to give
+them a taste for reading the Social Democratic Press and prepare
+their minds for its teaching. That Press, in its turn, was a vehicle
+of the spoken word rather than of the written word. Whereas in
+the bourgeois camp professors and learned writers, theorists and
+authors of all kinds, made attempts at talking, in the Marxist
+camp real speakers often made attempts at writing. And it was
+precisely the Jew who was most prominent here. In general and
+because of his shrewd dialectical skill and his knack of twisting
+the truth to suit his own purposes, he was an effective writer but
+in reality his métier was that of a revolutionary orator rather than
+a writer.
+
+For this reason the journalistic bourgeois world, setting aside the
+fact that here also the Jew held the whip hand and that therefore
+this press did not really interest itself in the instructtion of the
+broad masses, was not able to exercise even the least influence
+over the opinions held by the great masses of our people.
+It is difficult to remove emotional prejudices, psychological bias,
+feelings, etc., and to put others in their place. Success depends
+here on imponderable conditions and influences. Only the orator
+who is gifted with the most sensitive insight can estimate all this.
+Even the time of day at which the speech is delivered has a
+decisive influence on its results. The same speech, made by the
+same orator and on the same theme, will have very different
+results according as it is delivered at ten o'clock in the forenoon,
+at three in the afternoon, or in the evening. When I first engaged
+in public speaking I arranged for meetings to take place in the
+forenoon and I remember particularly a demonstration that we
+held   in   the   Munich   Kindl   Keller   'Against   the   Oppression   of
+German Districts.' That was the biggest hall then in Munich and
+the audacity of our undertaking was great. In order to make the
+hour   of   the   meeting   attractive   for   all   the   members   of   our
+movement and the other people who might come, I fixed it for
+ten o'clock on a Sunday morning. The result was depressing. But
+it was very instructive. The hall was filled. The impression was
+profound, but the general feeling was cold as ice. Nobody got
+warmed up, and I myself, as the speaker of the occasion, felt
+profoundly unhappy at the thought that I could not establish the
+slightest contact with my audience. I do not think I spoke worse
+than before, but the effect seemed absolutely negative. I left the
+hall very discontented, but also feeling that I had gained a new
+experience. Later on I tried the same kind of experiment, but
+always with the same results.
+That was nothing to be wondered at. If one goes to a theatre to
+see   a   matinée   performance   and   then   attends   an   evening
+performance of the same play one is astounded at the difference
+in   the   impressions   created.   A   sensitive   person   recognizes   for
+himself the  fact that  these  two states  of mind  caused  by  the
+matinee   and   the   evening   performance   respectively   are   quite
+different in themselves. The same is true of cinema productions.
+This latter point is important; for one may say of the theatre that
+perhaps in the afternoon the actor does not make the same effort
+as in the evening. But surely it cannot be said that the cinema is
+different in the afternoon from what it is at nine o'clock in the
+evening. No, here the time exercises a distinct influence, just as a
+room exercises a distinct influence on a person. There are rooms
+which leave one cold, for reasons which are difficult to explain.
+There are rooms which refuse steadfastly to allow any favourable
+atmosphere to be created in them. Moreover, certain memories
+and traditions which are present as pictures in the human mind
+may have a determining influence on the impression produced.
+Thus, a representation of Parsifal at Bayreuth will have an effect
+quite different from that which the same opera produces in any
+other part of the world. The mysterious charm of the House on
+the 'Festival Heights' in the old city of The Margrave cannot be
+equalled or substituted anywhere else.
+In all these cases one deals with the problem of influencing the
+freedom   of   the   human   will.   And   that   is   true   especially   of
+meetings where there are men whose wills are opposed to the
+speaker   and   who   must   be   brought   around   to   a   new   way   of
+thinking. In the morning and during the day it seems that the
+power of the human will rebels with its strongest energy against
+any attempt to impose upon it the will or opinion of another. On
+the   other   hand,   in   the   evening   it   easily   succumbs   to   the
+domination of a stronger will. Because really in such assemblies
+there   is   a   contest   between   two   opposite   forces.   The   superior
+oratorical art of a man who has the compelling character of an
+apostle will succeed better in bringing around to a new way of
+thinking those who have naturally been subjected to a weakening
+of their forces of resistance rather than in converting those who
+are in full possession of their volitional and intellectual energies.
+The mysterious artificial dimness of the Catholic churches also
+serves this purpose, the burning candles, the incense, the thurible,
+etc.
+In this struggle between the orator and the opponent whom he
+must convert to his cause this marvellous sensibility towards the
+psychological   influences   of   propaganda   can   hardly   ever   be
+availed of by an author. Generally speaking, the effect of the
+writer's work helps rather to conserve, reinforce and deepen the
+foundations   of   a   mentality   already   existing.   All   really   great
+historical revolutions were not produced by the written word. At
+most, they were accompanied by it.
+It is out of the question to think that the French Revolution could
+have been carried into effect by philosophizing theories if they
+had not found an army of agitators led by demagogues of the
+grand style. These demagogues inflamed popular passion that
+had  been  already  aroused,   until  that  volcanic   eruption  finally
+broke out and convulsed the whole of Europe. And the same
+happened in the case of the gigantic Bolshevik revolution which
+recently took place in Russia. It was not due to the writers on
+Lenin's side but to the oratorical activities of those who preached
+the doctrine of hatred and that of the innumerable small and great
+orators who took part in the agitation.
+The masses of illiterate Russians were not fired to Communist
+revolutionary enthusiasm by reading the theories of Karl Marx
+but by the promises of paradise made to the people by thousands
+of agitators in the service of an idea.
+It was always so, and it will always be so.
+It is just typical of our pig­headed intellectuals, who live apart
+from the practical world, to think that a writer must of necessity
+be superior to an orator in intelligence. This point of view was
+once exquisitely illustrated by a critique, published in a certain
+National paper which I have already mentioned, where it was
+stated that one is often disillusioned by reading the speech of an
+acknowledged great orator in print. That reminded me of another
+article which came into my hands during the War. It dealt with
+the   speeches   of   Lloyd   George,   who   was   then   Minister   of
+Munitions, and examined them in a painstaking way under the
+microscope of criticism. The writer made the brilliant statement
+that these speeches showed inferior intelligence and learning and
+that, moreover, they were banal and commonplace productions. I
+myself procured some of these speeches, published in pamphlet
+form, and had to laugh at the fact that a normal German quilldriver   did   not   in   the   least   understand   these   psychological
+masterpieces   in   the   art   of   influencing   the   masses.   This   man
+criticized these speeches exclusively according to the impression
+they made on his own blasé  mind, whereas the great British
+Demagogue had produced an immense effect on his audience
+through them, and in the widest sense on the whole of the British
+populace. Looked at from this point of view, that Englishman's
+speeches were most wonderful achievements, precisely because
+they showed an astounding knowledge of the soul of the broad
+masses   of  the   people.  For  that   reason   their   effect   was  really
+penetrating.   Compare   with   them   the   futile   stammerings   of   a
+Bethmann­Hollweg.   On   the   surface   his   speeches   were
+undoubtedly more intellectual, but they just proved this man's
+inability to speak to the people, which he really could not do.
+Nevertheless, to the average stupid brain of the German writer,
+who is, of course, endowed with a lot of scientific learning, it
+came quite natural to judge the speeches of the English Minister
+– which were made for the purpose of influencing the masses –
+by the impression which they made on his own mind, fossilized
+in   its   abstract   learning.   And   it   was   more   natural   for   him   to
+compare them in the light of that impression with the brilliant but
+futile talk of the German statesman, which of course appealed to
+the   writer's   mind   much   more   favourably.   That   the   genius   of
+Lloyd George was not only equal but a thousandfold superior to
+that of a Bethmann­Hollweg is proved by the fact that he found
+for   his   speeches   that   form   and   expression   which   opened   the
+hearts of his people to him and made these people carry out his
+will absolutely. The primitive quality itself of those speeches, the
+originality   of   his  expressions,   his  choice   of  clear   and   simple
+illustration,   are   examples   which   prove   the   superior   political
+capacity   of   this   Englishman.   For   one   must   never   judge   the
+speech of a statesman to his people by the impression which it
+leaves on the mind of a university professor but by the effect it
+produces on the people.  And this is the sole  criterion of the
+orator's genius.
+The   astonishing   development   of   our   movement,   which   was
+created from nothing a few years ago and is today singled out for
+persecution by all the internal and external enemies of our nation,
+must   be   attributed   to   the   constant   recognition   and   practical
+application of those principles.
+Written matter also played an important part in our movement;
+but at the stage of which I am writing it served to give an equal
+and uniform education to the directors of the movement, in the
+upper as well as in the lower grades, rather than to convert the
+masses of our adversaries. It was only in very rare cases that a
+convinced   and   devoted   Social   Democrat   or   Communist   was
+induced to acquire an understanding of our conception of life or
+to study a criticism of his own by procuring and reading one of
+our pamphlets or even one of our books. Even a newspaper is
+rarely read if it does not bear the stamp of a party affiliation.
+Moreover, the reading of newspapers helps little; because the
+general picture given by a single number of a newspaper is so
+confused   and  produces  such   a   fragmentary   impression   that  it
+really does not influence the occasional reader. And where a man
+has to count his pennies it cannot be assumed that, exclusively
+for the purpose of being objectively informed, he will become a
+regular reader or subscriber to a paper which opposes his views.
+Only one who has already joined a movement will regularly read
+the party organ of that movement, and especially for the purpose
+of   keeping   himself   informed   of   what   is   happening   in   the
+movement.
+It is quite different with the 'spoken' leaflet. Especially if it be
+distributed gratis it will be taken up by one person or another, all
+the more willingly if its display title refers to a question about
+which everybody is talking at the moment. Perhaps the reader,
+after having read through such a leaflet more or less thoughtfully,
+will have new viewpoints and mental attitudes and may give his
+attention to a new movement. But with these, even in the best of
+cases,   only   a   small   impulse   will   be   given,   but   no   definite
+conviction will be created; because the leaflet can do nothing
+more than draw attention to something and can become effective
+only by bringing the reader subsequently into a situation where
+he   is   more   fundamentally   informed   and   instructed.   Such
+instruction must always be given at the mass assembly.
+Mass   assemblies   are   also   necessary   for   the   reason   that,   in
+attending them, the individual who felt himself formerly only on
+the   point   of   joining   the   new   movement,   now   begins   to   feel
+isolated and in fear of being left alone as he acquires for the first
+time the picture of a great community which has a strengthening
+and encouraging effect on most people. Brigaded in a company
+or battalion, surrounded by his companions, he will march with a
+lighter heart to the attack than if he had to march alone. In the
+crowd he feels himself in some way thus sheltered, though in
+reality there are a thousand arguments against such a feeling.
+Mass demonstrations on the grand scale not only reinforce the
+will   of   the   individual   but   they   draw   him   still   closer   to   the
+movement and help to create an esprit de corps. The man who
+appears first as the representative of a new doctrine in his place
+of business or in his factory is bound to feel himself embarrassed
+and   has   need   of   that   reinforcement   which   comes   from   the
+consciousness that he is a member of a great community. And
+only a mass demonstration can impress upon him the greatness of
+this community. If, on leaving the shop or mammoth factory, in
+which he feels very small indeed, he should enter a vast assembly
+for the first time and see around him thousands and thousands of
+men who hold the same opinions; if, while still seeking his way,
+he is gripped by the force of mass­suggestion which comes from
+the excitement and enthusiasm of three or four thousand other
+men in whose midst he finds himself; if the manifest success and
+the concensus of thousands confirm the truth and justice of the
+new teaching and for the first time raise doubt in his mind as to
+the truth of the opinions held by himself up to now – then he
+submits   himself   to   the   fascination   of   what   we   call   masssuggestion. The will, the yearning and indeed the strength of
+thousands of people are in each individual. A man who enters
+such   a   meeting   in   doubt   and   hesitation   leaves   it   inwardly
+fortified; he has become a member of a community.
+The National Socialist Movement should never forget this, and it
+should never allow itself to be influenced by these bourgeois
+duffers who think they know everything but who have foolishly
+gambled away a great State, together with their own existence
+and the supremacy of their own class. They are overflowing with
+ability; they can do everything, and they know everything. But
+there is one thing they have not known how to do, and that is
+how to save the German people from falling into the arms of
+Marxism. In that they have shown themselves most pitiably and
+miserably impotent. So that the present  opinion they have of
+themselves   is   only   equal   to   their   conceit.   Their   pride   and
+stupidity are fruits of the same tree.
+If these people try to disparage the importance of the spoken
+word today, they do it only because they realize – God be praised
+and thanked – how futile all their own speechifying has been.
+
+
+
+
+
+`;
+const chapter_b_7 = `In 1919­20 and also in 1921 I attended some of the bourgeois
+meetings. Invariably I had the  same feeling towards these  as
+towards the compulsory dose of castor oil in my boyhood days. It
+just had to be taken because it was good for one: but it certainly
+tasted   unpleasant.   If   it   were   possible   to   tie   ropes   round   the
+German   people   and   forcibly   drag   them   to   these   bourgeois
+meetings, keeping them there behind barred doors and allowing
+nobody to escape until the meeting closed, then this procedure
+might prove successful in the course of a few hundred years. For
+my   own   part,   I   must   frankly   admit   that,   under   such
+circumstances, I could not find life worth living; and indeed I
+should no longer wish to be a German. But, thank God, all this is
+impossible. And so it is not surprising that the sane and unspoilt
+masses shun these 'bourgeois mass meetings' as the devil shuns
+holy water.
+I came to know the prophets of the bourgeois philosophy, and I
+was not surprised at what I learned, as I knew that they attached
+little importance to the spoken word. At that time I attended
+meetings of the Democrats, the German Nationalists, the German
+People's Party and the Bavarian People's Party (the Centre Party
+of   Bavaria).   What   struck   me   at   once   was   the   homogeneous
+uniformity of the audiences. Nearly always they were made up
+exclusively of party members. The whole affair was more like a
+yawning card party than an assembly of people who had just
+passed   through   a   great   revolution.   The   speakers   did   all   they
+could to maintain this tranquil atmosphere. They declaimed, or
+rather   read   out,   their   speeches   in   the   style   of   an   intellectual
+newspaper   article   or   a   learned   treatise,   avoiding   all   striking
+expressions. Here and there a feeble professorial joke would be
+introduced, whereupon the people sitting at the speaker's table
+felt themselves obliged to laugh – not loudly but encouragingly
+and with well­bred reserve.
+And there were always those people at the speaker's table. I once
+attended   a   meeting   in   the   Wagner   Hall   in   Munich.   It   was  a
+demonstration   to   celebrate   the   anniversary   of   the   Battle   of
+Leipzig.   The   speech   was   delivered   or   rather   read   out   by   a
+venerable old professor from one or other of the universities. The
+committee sat on the platform: one monocle on the right, another
+monocle   on   the   left,   and   in   the   centre   a   gentleman   with   no
+monocle. All three of them were punctiliously attired in morning
+coats, and I had the impression of being present before a judge's
+bench just as the death sentence was about to be pronounced or at
+a christening or some more solemn religious ceremony. The socalled speech, which in printed form may have read quite well,
+had   a   disastrous   effect.   After   three   quarters   of   an   hour   the
+audience fell into a sort of hypnotic trance, which was interrupted
+only when some man or woman left the hall, or by the clatter
+which   the   waitresses   made,   or   by   the   increasing   yawns   of
+slumbering   individuals.   I   had   posted   myself   behind   three
+workmen who were present either out of curiosity or because
+they were sent there by their parties. From time to time they
+glanced at one another with an ill­concealed grin, nudged one
+another with the elbow, and then silently left the hall. One could
+see  that  they had  no intention  whatsoever  of  interrupting the
+proceedings, nor indeed was it necessary to interrupt them. At
+long last the celebration showed signs of drawing to a close.
+After the professor, whose voice had meanwhile become more
+and   more   inaudible,   finally   ended   his   speech,   the   gentleman
+without   the   monocle   delivered   a   rousing   peroration   to   the
+assembled   'German   sisters   and   brothers.'   On   behalf   of   the
+audience and himself he expressed gratitude for the magnificent
+lecture   which   they   had   just   heard   from   Professor   X   and
+emphasized how deeply the Professor's words had moved them
+all. If a general discussion on the lecture were to take place it
+would be tantamount to profanity, and he thought he was voicing
+the opinion of all present in suggesting that such a discussion
+should not be held. Therefore, he would ask the assembly to rise
+from their seats and join in singing the patriotic song, Wir sind
+ein einig Volk von Brüdern. The proceedings finally closed with
+the anthem, Deutschland über Alles.
+And then they all sang. It appeared to me that when the second
+verse was reached the voices were fewer and that only when the
+refrain came on they swelled loudly. When we reached the third
+verse my belief was confirmed that a good many of those present
+were not very familiar with the text.
+But what has all this to do with the matter when such a song is
+sung wholeheartedly and fervidly by an assembly  of German
+nationals?
+After  this the   meeting  broke  up  and   everyone   hurried  to  get
+outside, one to his glass of beer, one to a cafe, and others simply
+into the fresh air.
+Out into the fresh air! That was also my feeling. And was this the
+way to honour an heroic struggle in which hundreds of thousands
+of Prussians and Germans had fought? To the devil with it all!
+That sort of thing might find favour with the Government, it
+being merely a 'peaceful' meeting. The Minister responsible for
+law and order need not fear that enthusiasm might suddenly get
+the better of public decorum and induce these people to pour out
+of the room and, instead of dispersing to beer halls and cafes,
+march in rows of four through the town singing Deutschland
+hoch in Ehren and causing some unpleasantness to a police force
+in need of rest.
+No. That type of citizen is of no use to anyone.
+On the other hand the National Socialist meetings were by no
+means 'peaceable' affairs. Two distinct outlooks enraged in bitter
+opposition to one another, and these meetings did not close with
+the mechanical rendering of a dull patriotic song but rather with a
+passionate outbreak of popular national feeling.
+It was imperative from the start to introduce rigid discipline into
+our   meetings   and   establish   the   authority   of   the   chairman
+absolutely. Our purpose was not to pour out a mixture of softsoap bourgeois talk; what we had to say was meant to arouse the
+opponents at our meetings! How often did they not turn up in
+masses with a few individual agitators among them and, judging
+by the expression on all their faces, ready to finish us off there
+and then.
+Yes, how often did they not turn up in huge numbers, those
+supporters of the Red Flag, all previously instructed to smash up
+everything once and for all and put an end to these meetings.
+More often than not everything hung on a mere thread, and only
+the chairman's ruthless determination and the rough handling by
+our ushers baffled our adversaries' intentions. And indeed they
+had every reason for being irritated.
+The fact that we had chosen red as the colour for our posters
+sufficed   to   attract   them   to   our   meetings.   The   ordinary
+bourgeoisie were very shocked to see that, we had also chosen
+the   symbolic   red   of   Bolshevism   and   they   regarded   this   as
+something   ambiguously   significant.   The   suspicion   was
+whispered   in   German   Nationalist   circles   that   we   also   were
+merely   another   variety   of   Marxism,   perhaps   even   Marxists
+suitably disguised, or better still, Socialists. The actual difference
+between Socialism and Marxism still remains a mystery to these
+people up to this day. The charge of Marxism was conclusively
+proved   when   it   was   discovered   that   at   our   meetings   we
+deliberately   substituted   the   words   'Fellow­countrymen   and
+Women' for 'Ladies and Gentlemen' and addressed each other as
+'Party Comrade'. We used to roar with laughter at these silly
+faint­hearted   bourgeoisie   and   their   efforts   to   puzzle   out   our
+origin, our intentions and our aims.
+We   chose   red   for   our   posters   after   particular   and   careful
+deliberation,   our   intention   being   to   irritate   the   Left,   so   as   to
+arouse their attention and tempt them to come to our meetings –
+if only in order to break them up – so that in this way we got a
+chance of talking to the people.
+In those years' it was indeed a delightful experience to follow the
+constantly   changing   tactics   of   our   perplexed   and   helpless
+adversaries. First of all they appealed to their followers to ignore
+us and keep away from our meetings. Generally speaking this
+appeal was heeded. But, as time went on, more and more of their
+followers   gradually   found   their   way   to   us   and   accepted   our
+teaching. Then the leaders became nervous and uneasy. They
+clung   to   their   belief   that   such   a   development   should   not   be
+ignored for ever, and that terror must be applied in order to put
+an end to it.
+Appeals were then made to the 'class­conscious proletariat' to
+attend our meetings in masses and strike with the clenched hand
+of   the   proletarian   at   the   representatives   of   a   'monarchist   and
+reactionary agitation'.
+Our meetings suddenly became packed with work­people fully
+three­quarters of an hour before the proceedings were scheduled
+to begin. These gatherings resembled a powder cask ready to
+explode at any moment; and the fuse was conveniently at hand.
+But   matters   always   turned   out   differently.   People   came   as
+enemies   and   left,   not   perhaps   prepared   to   join   us,   yet   in   a
+reflective   mood   and   disposed   critically   to   examine   the
+correctness of their own doctrine. Gradually as time went on my
+three­hour   lectures   resulted   in   supporters   and   opponents
+becoming   united   in   one   single   enthusiastic   group   of   people.
+Every signal for the breaking­up of the meeting failed. The result
+was that the opposition leaders became frightened and once again
+looked   for   help   to   those   quarters   that   had   formerly
+discountenanced these tactics and, with some show of right, had
+been   of   the   opinion   that   on   principle   the   workers   should   be
+forbidden to attend our meetings.
+Then they did not come any more, or only in small numbers. But
+after a short time the whole game started all over again. The
+instructions to keep away from us were ignored; the comrades
+came in steadily increasing numbers, until finally the advocates
+of the radical tactics won the day. We were to be broken up.
+Yet   when,   after   two,   three   and   even   eight   meetings,   it   was
+realized that to break up these gatherings was easier said than
+done and that every meeting resulted in a decisive weakening of
+the red fighting forces, then suddenly the other password was
+introduced:   'Proletarians,   comrades   and   comradesses,   avoid
+meetings of the National Socialist agitators'.
+The same eternally alternating tactics were also to be observed in
+the Red Press. Soon they tried to silence us but discovered the
+uselessness of such an attempt. After that they swung round to
+the opposite tactics. Daily 'reference' was made to us solely for
+the   purpose   of   absolutely   ridiculing   us   in   the   eyes   of   the
+working­classes. After a time these gentlemen must have felt that
+no harm was being done to us, but that, on the contrary, we were
+reaping an advantage in that people were asking themselves why
+so   much   space   was   being   devoted   to   a   subject   which   was
+supposed to be so ludicrous. People became curious. Suddenly
+there was a change of tactics and for a time we were treated as
+veritable   criminals   against   mankind.   One   article   followed   the
+other, in which our criminal intentions were explained and new
+proofs brought forward to support what was said. Scandalous
+tales, all of them fabricated from start to finish, were published in
+order to help to poison the public mind. But in a short time even
+these   attacks   also   proved   futile;   and   in   fact   they   assisted
+materially because they attracted public attention to us.
+In those days I took up the standpoint that it was immaterial
+whether they laughed at us or reviled us, whether they depicted
+us as fools or criminals; the important point was that they took
+notice of us and that in the eyes of the working­classes we came
+to be regarded as the only force capable of putting up a fight. I
+said to myself that the followers of the Jewish Press would come
+to know all about us and our real aims.
+One   reason   why   they   never   got   so   far   as   breaking   up   our
+meetings was undoubtedly the incredible cowardice displayed by
+the leaders of the opposition. On every critical occasion they left
+the dirty work to the smaller fry whilst they waited outside the
+halls for the results of the break up.
+We were exceptionally well informed in regard to our opponents'
+intentions,  not  only  because  we  allowed   several  of  our  party
+colleagues   to   remain   members   of   the   Red   organizations   for
+reasons of expediency, but also because the Red wire­pullers,
+fortunately for us, were afflicted with a degree of talkativeness
+that is still unfortunately very prevalent among Germans. They
+could not keep their own counsel, and more often than not they
+started cackling before the proverbial egg was laid. Hence, time
+and again our precautions were such that Red agitators had no
+inkling   of   how   near   they   were   to   being   thrown   out   of   the
+meetings.
+This   state   of   affairs   compelled   us   to   take   the   work   of
+safeguarding our meetings into our own hands. No reliance could
+be   placed   on   official   protection.   On   the   contrary;   experience
+showed that such protection always favoured only the disturbers.
+The only real outcome of police intervention would be that the
+meeting would be dissolved, that is to say, closed. And that is
+precisely what our opponents granted.
+Generally   speaking,   this   led   the   police   to   adopt   a   procedure
+which, to say the least, was a most infamous sample of official
+malpractice. The moment they received information of a threat
+that the one or other meeting was to be broken up, instead of
+arresting   the   would­be   disturbers,   they   promptly   advised   the
+innocent parties that the meeting was forbidden. This step the
+police proclaimed as a 'precautionary measure in the interests of
+law and order'.
+The political work and activities of decent people could therefore
+always be hindered by desperate ruffians who had the means at
+their disposal. In the name of peace and order State authority
+bowed down to these ruffians and demanded that others should
+not   provoke   them.   When   National   Socialism   desired   to   hold
+meetings in certain parts and the labour unions declared that their
+members would resist, then it was not these blackmailers that
+were arrested and gaoled. No. Our meetings were forbidden by
+the   police.   Yes,   this   organ   of   the   law   had   the   unspeakable
+impudence to advise us in writing to this effect in innumerable
+instances. To avoid such eventualities, it was necessary to see to
+it that every attempt to disturb a meeting was nipped in the bud.
+Another feature to be taken into account in this respect is that all
+meetings which rely on police protection must necessarily bring
+discredit to their promoters in the eyes of the general public.
+Meetings that are only possible with the protective assistance of a
+strong force of police convert nobody; because in order to win
+over the lower strata of the people there must be a visible show
+of strength on one's own side. In the same way that a man of
+courage will win a woman's affection more easily than a coward,
+so a heroic movement will be more successful in winning over
+the hearts of a people than a weak movement which relies on
+police support for its very existence.
+It is for this latter reason in particular that our young movement
+was to be charged with the responsibility of assuring its own
+existence,   defending   itself;   and   conducting   its   own   work   of
+smashing the Red opposition.
+The work of organizing the protective measures for our meetings
+was based on the following:
+(1)   An   energetic   and   psychologically   judicious   way   of
+conducting the meeting.
+(2) An organized squad of troops to maintain order.
+In those days we and no one else were masters of the situation at
+our meetings and on no occasion did we fail to emphasize this.
+Our opponents fully realized that any provocation would be the
+occasion of throwing them out of the hall at once, whatever the
+odds against us. At meetings, particularly outside Munich, we
+had in those days from five to eight hundred opponents against
+fifteen   to   sixteen   National   Socialists;   yet   we   brooked   no
+interference, for we were ready to be killed rather than capitulate.
+More than once a handful of party colleagues offered a heroic
+resistance to a raging and violent mob of Reds. Those fifteen or
+twenty men would certainly have been overwhelmed in the end
+had not the opponents known that three or four times as many of
+themselves would first get their skulls cracked. Arid that risk
+they were not willing to run. We had done our best to study
+Marxist and bourgeois methods of conducting meetings, and we
+had certainly learnt something.
+The Marxists had always exercised a most rigid discipline so that
+the   question   of   breaking   up   their   meetings   could   never   have
+originated in bourgeois quarters. This gave the Reds all the more
+reason for acting on this plan. In time they not only became pastmasters in this art but in certain large districts of the Reich they
+went so far as to declare that non­Marxist meetings were nothing
+less than a cause of' provocation against the proletariat. This was
+particularly   the   case   when   the   wire­pullers   suspected   that   a
+meeting might call attention to their own transgressions and thus
+expose their own treachery and chicanery. Therefore the moment
+such a meeting was announced to be held a howl of rage went up
+from the Red Press. These detractors of the law nearly always
+turned first to the authorities and requested in imperative and
+threatening language that this 'provocation of the proletariat' be
+stopped   forthwith   in   the   'interests   of   law   and   order'.   Their
+language was chosen according to the importance of the official
+blockhead they were dealing with and thus success was assured.
+If by chance the official happened to be a true German – and not
+a mere figurehead – and he declined the impudent request, then
+the time­honoured appeal to stop 'provocation of the proletariat'
+was issued together with instructions to attend such and such a
+meeting on  a  certain  date  in full strength  for the  purpose   of
+'putting a stop to the disgraceful machinations of the bourgeoisie
+by means of the proletarian fist'.
+The   pitiful   and   frightened   manner   in   which   these   bourgeois
+meetings are conducted must be seen in order to be believed.
+Very frequently these threats were sufficient to call off such a
+meeting at once. The feeling of fear was so marked that the
+meeting, instead of commencing at eight o'clock, very seldom
+was   opened   before   a   quarter   to   nine   or   nine   o'clock.   The
+Chairman thereupon did his best, by showering compliments on
+the 'gentleman of the opposition' to prove how he and all others
+present were pleased (a palpable lie) to welcome a visit from men
+who as yet were not in sympathy with them for the reason that
+only by mutual discussion (immediately agreed to) could they be
+brought closer together in mutual understanding. Apart from this
+the Chairman also assured them that the meeting had no intention
+whatsoever   of   interfering   with   the   professed   convictions   of
+anybody. Indeed no. Everyone had the right to form and hold his
+own political views, but others should be allowed to do likewise.
+He therefore requested that the speaker be allowed to deliver his
+speech without interruption – the speech in any case not being a
+long affair. People abroad, he continued, would thus not come to
+regard this meeting as another shameful example of the bitter
+fraternal strife that is raging in Germany. And so on and so forth
+The brothers of the Left had little if any appreciation for that sort
+of talk; the speaker had hardly commenced when he was shouted
+down. One gathered the impression at times that these speakers
+were graceful for being peremptorily cut short in their martyrlike discourse. These bourgeois toreadors left the arena in the
+midst of a vast uproar, that is to say, provided that they were not
+thrown down the stairs with cracked skulls, which was very often
+the case.
+Therefore,   our   methods   of   organization   at   National   Socialist
+meetings were something quite strange to the Marxists.  They
+came to our meetings in the belief that the little game which they
+had so often played could as a matter of course be also repeated
+on us. "To­day we shall finish them off." How often did they
+bawl this out to each other on entering the meeting hall, only to
+be thrown out with lightning speed before they had time to repeat
+it.
+In   the   first   place   our   method   of   conducting   a   meeting   was
+entirely different. We did not beg and pray to be allowed to
+speak, and we did not straightway give everybody the right to
+hold endless discussions. We curtly gave everyone to understand
+that we were masters of the meeting and that we would do as it
+pleased us and that everyone who dared to interrupt would be
+unceremoniously thrown out. We stated clearly our refusal to
+accept responsibility for anyone treated in this manner. If time
+permitted and if it suited us, a discussion would be allowed to
+take place. Our party colleague would now make his speech....
+That kind of talk was sufficient in itself to astonish the Marxists.
+Secondly, we had at our disposal a well­trained and organized
+body of men for maintaining order at our meetings. On the other
+hand the bourgeois parties protected their meetings with a body
+of men better classified as ushers who by virtue of their age
+thought   they   were   entitled   to­authority   and   respect.   But   as
+Marxism has little or no respect for these things, the question of
+suitable self­protection at these bourgeois meetings was, so to
+speak, in practice non­existent.
+When our political meetings first started I made it a special point
+to   organize   a   suitable   defensive   squad   –   a   squad   composed
+chiefly of young men. Some of them were comrades who had
+seen active service with me; others were young party members
+who, right from the start, had been trained and brought up to
+realize that only terror is capable of smashing terror – that only
+courageous and determined people had made a success of things
+in this world and that, finally, we were fighting for an idea so
+lofty that it was worth the last drop of our blood. These young
+men had been brought up to realize that where force replaced
+common sense in the solution of a problem, the best means of
+defence   was   attack   and   that   the   reputation   of   our   hall­guard
+squads should stamp us as a political fighting force and not as a
+debating society.
+And it was extraordinary how eagerly these boys of the War
+generation responded to this order. They had indeed good reason
+for being bitterly disappointed and indignant at the miserable
+milksop methods employed by the bourgeoise.
+Thus it became clear to everyone that the Revolution had only
+been possible thanks to the dastardly methods of a bourgeois
+government. At that time there was certainly no lack of manpower to suppress the revolution, but unfortunately there was an
+entire lack of directive brain power. How often did the eyes of
+my young men light up with enthusiasm when I explained to
+them the vital functions connected with their task and assured
+them time and again that all earthly wisdom is useless unless it
+be supported by a measure of strength, that the gentle goddess of
+Peace can only walk in company with the god of War, and that
+every great act of peace must be protected and assisted by force.
+In this way the idea of military service came to them in a far
+more realistic form – not in the fossilized sense of the souls of
+decrepit officials serving the dead authority of a dead State, but
+in the living realization of the duty of each man to sacrifice his
+life at all times so that his country might live.
+How those young men did their job!
+Like a swarm of hornets they tackled disturbers at our meetings,
+regardless of superiority of numbers, however great, indifferent
+to wounds and bloodshed, inspired with the great idea of blazing
+a trail for the sacred mission of our movement.
+As early as the summer of 1920 the organization of squads of
+men as hall guards for maintaining order at our meetings was
+gradually assuming definite shape. By the spring of 1921 this
+body of men were sectioned off into squads of one hundred,
+which in turn were sub­divided into smaller groups.
+The urgency for this was apparent, as meanwhile the number of
+our meetings had steadily increased. We still frequently met in
+the   Munich   Hofbräuhaus   but   more   frequently   in   the   large
+meeting halls throughout the city itself. In the autumn and winter
+of   1920–1921   our   meetings   in   the   Bürgerbräu   and   Munich
+Kindlbräu had assumed vast proportions and it was always the
+same   picture   that   presented   itself;   namely,   meetings   of   the
+NSDAP   (The   German   National   Socialist   Labour   Party)   were
+always crowded out so that the police were compelled to close
+and bar the doors long before proceedings commenced.
+The   organization   of   defense   guards   for   keeping   order   at   our
+meetings cleared up a very difficult question. Up till then the
+movement had possessed no party badge and no party flag. The
+lack of these tokens was not only a disadvantage at that time but
+would prove intolerable in the future. The disadvantages were
+chiefly that members of the party possessed no outward broken
+of membership which linked them together, and it was absolutely
+unthinkable that for the future they should remain without some
+token which would be a symbol of the movement and could be
+set against that of the International.
+More than once in my youth the psychological importance of
+such a symbol had become clearly evident to me and from a
+sentimental point of view also it was advisable. In Berlin, after
+the War, I was present at a mass­demonstration of Marxists in
+front of the Royal Palace and in the Lustgarten. A sea of red
+flags, red armlets and red flowers was in itself sufficient to give
+that   huge   assembly   of   about   120,000   persons   an   outward
+appearance of strength. I was now able to feel and understand
+how easily the man in the street succumbs to the hypnotic magic
+of such a grandiose piece of theatrical presentation.
+The bourgeoisie, which as a party neither possesses or stands for
+any outlook at all, had therefore not a single banner. Their party
+was composed of 'patriots' who went about in the colours of the
+Reich. If these colors were the symbol of a definite philosophy
+then one could understand the rulers of the State regarding this
+flag as expressive of their philosophy, seeing that through their
+efforts the official Reich flag was expressive of their philosophy.
+But in reality the position was otherwise.
+The Reich was morticed together without the aid of the German
+bourgeoisie and the flag itself was born of the War and therefore
+merely a State flag possessing no importance in the sense of any
+particular ideological mission.
+Only in one part of the German­speaking territory – in GermanAustria   –   was   there   anything   like   a   bourgeois   party   flag   in
+evidence. Here a section of the national bourgeoisie selected the
+1848   colours   (black,   red   and   gold)   as   their   party   flag   and
+therewith created a symbol which, though of no importance from
+a weltanschauliche viewpoint, had, nevertheless, a revolutionary
+character   from   a   national   point   of   view.   The   most   bitter
+opponents   of   this   flag   at   that   time,   and   this   should   not   be
+forgotten today, were the Social Democrats and the Christian
+Socialists or clericals. They, in particular, were the ones who
+degraded and besmirched these colours in the same way as in
+1918   they   dragged   black,   white   and   red   into   the   gutter.   Of
+course, the black, red and gold of the German parties in the old
+Austria were the colours of the year 1848: that is to say, of a
+period likely to be regarded as somewhat visionary, but it was a
+period   that   had   honest   German   souls   as   its   representatives,
+although the Jews were lurking unseen as wire­pullers in the
+background. It was high treason and the shameful enslavement of
+the   German   territory   that   first   of   all   made   these   colours   so
+attractive to the Marxists of the Centre Party; so much so that
+today they revere them as their most cherished possession and
+use them as their own banners for the protection of the flag they
+once foully besmirched.
+It is a fact, therefore, that, up till 1920, in opposition to the
+Marxists   there   was   no   flag   that   would   have   stood   for   a
+consolidated resistance to them. For even if the better political
+elements of the German bourgeoisie were loath to accept the
+suddenly discovered black, red and gold colours as their symbol
+after   the   year   1918,   they   nevertheless   were   incapable   of
+counteracting this with a future programme of their own that
+would correspond to the new trend of affairs. At the most, they
+had a reconstruction of the old Reich in mind.
+And it is to this way of thinking that the black, white and red
+colours of the old Reich are indebted for their resurrection as the
+flag of our so­called national bourgeois parties.
+It  was obvious  that the  symbol  of  a  régime  which  had been
+overthrown by the Marxists under inglorious circumstances was
+not   now   worthy   to   serve   as  a   banner   under   which   the   same
+Marxism was to be crushed in its turn. However much any decent
+German may love and revere those old colours, glorious when
+placed side  by side in their youthful freshness,  when  he had
+fought under them and seen the sacrifice of so many lives, that
+flag had little value for the struggle of the future.
+In our Movement I have always adopted the standpoint that it
+was a really lucky thing for the German nation that it had lost its
+old flag. This standpoint of mine was in strong contrast to that of
+the bourgeois politicians. It may be immaterial to us what the
+Republic does under its flag. But let us be deeply grateful to fate
+for having so graciously spared the most glorious war flag for all
+time from becoming an ignominious rag. The Reich of today,
+which sells itself and its people, must never be allowed to adopt
+the honourable and heroic black, white and red colours.
+As  long  as  the   November  outrage   endures,   that  outrage   may
+continue to bear its own external sign and not steal that of an
+honourable past. Our bourgeois politicians should awaken their
+consciences to the fact that whoever desires this State to have the
+black, white and red colours is pilfering from the past. The old
+flag was suitable only for the old Reich and, thank Heaven, the
+Republic chose the colours best suited to itself.
+This was also the reason why we National Socialists recognized
+that hoisting the old colours would be no symbol of our special
+aims; for we had no wish to resurrect from the dead the old Reich
+which had been ruined through its own blunders, but to build up
+a new State.
+The  Movement  which  is  fighting  Marxism   today  along  these
+lines must display on its banner the symbol of the new State.
+The   question   of   the   new   flag,   that   is   to   say   the   form   and
+appearance   it   must   take,   kept   us   very   busy   in   those   days.
+Suggestions poured in from all quarters, which although well
+meant were more or less impossible in practice. The new flag had
+not only to become a symbol expressing our own struggle but on
+the other hand it was necessary that it should prove effective as a
+large poster. All those who busy themselves with the tastes of the
+public   will   recognize   and   appreciate   the   great   importance   of
+these apparently petty matters. In hundreds of thousands of cases
+a really striking emblem may be the first cause of awakening
+interest in a movement.
+For this reason we declined all suggestions from various quarters
+for identifying our movement by means of a white flag with the
+old State or rather with those decrepit parties whose sole political
+objective is the restoration of past conditions. And, apart from
+this, white is not a colour capable of attracting and focusing
+public attention. It is a colour suitable only for young women's
+associations and not for a movement that stands for reform in a
+revolutionary period.
+Black was also suggested – certainly well­suited to the times, but
+embodying   no   significance   to   empress   the   will   behind   our
+movement.   And,   finally,   black   is   incapable   of   attracting
+attention.
+White  and  blue  was  discarded,  despite  its admirable  aesthetic
+appeal – as being the colours of an individual German Federal
+State – a State that, unfortunately, through its political attitude of
+particularist narrow­mindedness did not enjoy a good reputation.
+And, generally speaking, with these colours it would have been
+difficult to attract attention to our movement. The same applies
+to black and white.
+Black, red and gold did not enter the question at all.
+And this also applies to black, white and red for reasons already
+stated.   At   least,   not   in   the   form   hitherto   in   use.   But   the
+effectiveness of these three colours is far superior to all the others
+and   they   are   certainly   the   most   strikingly   harmonious
+combination to be found.
+I   myself   was   always   for   keeping   the   old   colours,   not   only
+because   I,   as   a   soldier,   regarded   them   as   my   most   sacred
+possession, but because in their aesthetic effect, they conformed
+more than anything else to my personal taste. Accordingly I had
+to discard all the innumerable suggestions and designs which had
+been proposed for the new movement, among which were many
+that had  incorporated  the  swastika  into  the old  colours.  I, as
+leader, was unwilling to make public my own design, as it was
+possible that someone else could come forward with a design just
+as good, if not better, than my own. As a matter of fact, a dental
+surgeon from Starnberg submitted a good design very similar to
+mine, with only one mistake, in that his swastika with curved
+corners was set upon a white background.
+After innumerable trials I decided upon a final form – a flag of
+red   material   with   a   white   disc   bearing   in   its   centre   a   black
+swastika.  After many trials I obtained the correct proportions
+between the dimensions of the flag and of the white central disc,
+as well as that of the swastika. And this is how it has remained
+ever since.
+At   the   same   time   we   immediately   ordered   the   corresponding
+armlets for our squad of men who kept order at meetings, armlets
+of red material, a central white disc with the black swastika upon
+it. Herr Füss, a Munich goldsmith, supplied the first practical and
+permanent design.
+
+The new flag appeared in public in the midsummer of 1920. It
+suited our movement admirably, both being new and young. Not
+a   soul   had   seen   this   flag   before;   its   effect   at   that   time   was
+something   akin   to   that   of   a   blazing   torch.   We   ourselves
+experienced almost a boyish delight when one of the ladies of the
+party who had been entrusted with the making of the flag finally
+handed it over to us. And a few months later those of us in
+Munich were in possession of six of these flags. The steadily
+increasing   strength   of   our   hall   guards   was   a   main   factor   in
+popularizing the symbol.
+And indeed a symbol it proved to be.
+Not   only   because   it   incorporated   those   revered   colours
+expressive of our homage to the glorious past and which once
+brought so much honour to the German nation, but this symbol
+was   also   an   eloquent   expression   of   the   will   behind   the
+movement. We National Socialists regarded our flag as being the
+embodiment   of   our   party   programme.   The   red   expressed   the
+social   thought   underlying   the   movement.   White   the   national
+thought. And the swastika signified the mission allotted to us –
+the struggle for the victory of Aryan mankind and at the same
+time the triumph of the ideal of creative work which is in itself
+and always will be anti-Semitic.
+Two years later, when our squad of hall guards had long since
+grown   into   storm   detachments   (Sturm­Abteilung),   it   seemed
+necessary   to   give   this   defensive   organization   of   a   young
+philosophy a particular symbol of victory, namely a Standard. I
+also designed this and entrusted the execution of it to an old party
+comrade, Herr Gahr, who was a goldsmith. Ever since that time
+this   Standard   has   been   the   distinctive   token   of   the   National
+Socialist struggle.
+The increasing interest taken in our meetings, particularly during
+1920,   compelled   us   at   times   to   hold   two   meetings   a   week.
+Crowds gathered round our posters; the large meeting halls in the
+town were always filled and tens of thousands of people, who
+had been led astray by the teachings of Marxism, found their way
+to us and assisted in the work of fighting for the liberation of the
+Reich. The public in Munich had got to know us. We were being
+spoken   about.   The   words   'National   Socialist'   had   become
+common property to many and signified for them a definite party
+programme. Our circle of supporters and even of members was
+constantly increasing, so that in the winter of 1920–21 we were
+able to appear as a strong party in Munich.
+At that time there was no party in Munich with the exception of
+the Marxist parties – certainly no nationalist party – which was
+able   to   hold   such   mass   demonstrations   as   ours.   The   Munich
+Kindl   Hall,   which   held   5,000   people,   was   more   than   once
+overcrowded and up till then there was only one other hall, the
+Krone Circus Hall, into which we had not ventured.
+At   the   end   of   January   1921   there   was   again   great   cause   for
+anxiety in Germany. The Paris Agreement, by which Germany
+pledged herself to pay the crazy sum of a hundred milliards of
+gold marks, was to be confirmed by the London Ultimatum.
+Thereupon   an   old­established   Munich   working   committee,
+representative of so­called völkisch groups, deemed it advisable
+to call for a public meeting of protest. I became nervous and
+restless when I saw that a lot of time was being wasted and
+nothing   undertaken.   At   first   a   meeting   was   suggested   in   the
+König   Platz;   on   second   thoughts   this   was   turned   down,   as
+someone   feared   the   proceedings   might   be   wrecked   by   Red
+elements. Another suggestion was a demonstration in front of the
+Feldherrn Hall, but this also came to nothing. Finally a combined
+meeting in the Munich Kindl Hall was suggested. Meanwhile,
+day after day had gone by; the big parties had entirely ignored
+the terrible event, and the working committee could not decide
+on a definite date for holding the demonstration.
+On Tuesday, February 1st, I put forward an urgent demand for a
+final decision. I was put off until Wednesday. On that day I
+demanded to be told clearly if and when the meeting was to take
+place. The reply was again uncertain and evasive, it being stated
+that it was 'intended' to arrange a demonstration that day week.
+At that I lost all patience and decided to conduct a demonstration
+of protest on my own. At noon on Wednesday I dictated in ten
+minutes the text of the poster and at the same time hired the
+Krone Circus Hall for the next day, February 3rd.
+In those days this was a tremendous venture. Not only because of
+the uncertainty of filling that vast hall, but also because of the
+risk of the meeting being wrecked.
+Numerically our squad of hall guards was not strong enough for
+this vast hall. I was also uncertain about what to do in case the
+meeting was broken up – a huge circus building being a different
+proposition from an ordinary meeting hall. But events showed
+that my fears were misplaced, the opposite being the case. In that
+vast building a squad of wreckers could be tackled and subdued
+more easily than in a cramped hall.
+One thing was certain: A failure would throw us back for a long
+time to come. If one meeting was wrecked our prestige would be
+seriously   injured   and   our   opponents   would   be   encouraged   to
+repeat their success. That would lead to sabotage of our work in
+connection with further meetings and months of difficult struggle
+would be necessary to overcome this.
+We   had   only   one   day   in   which   to   post   our   bills,   Thursday.
+Unfortunately it rained on the morning of that day and there was
+reason to fear that many people would prefer to remain at home
+rather than hurry to a meeting through rain and snow, especially
+when there was likely to be violence and bloodshed.
+And indeed on that Thursday morning I was suddenly struck with
+fear that the hall might never be filled to capacity, which would
+have made me ridiculous in the eyes of the working committee. I
+therefore immediately dictated various leaflets, had them printed
+and distributed in the afternoon. Of course they contained an
+invitation to attend the meeting.
+Two lorries which I hired were draped as much as possible in
+red, each had our new flag hoisted on it and was then filled with
+fifteen or twenty members of our party. Orders were given the
+members to canvas the streets thoroughly, distribute leaflets and
+conduct   propaganda   for   the   mass   meeting   to   be   held   that
+evening. It was the first time that lorries had driven through the
+streets bearing flags and not manned by Marxists. The public
+stared open­mouthed at these red­draped cars, and in the outlying
+districts clenched fists were angrily raised at this new evidence of
+'provocation of the proletariat'. Were not the Marxists the only
+ones entitled to hold meetings and drive about in motor lorries?
+At seven o'clock in the evening only a few had gathered in the
+circus hall. I was being kept informed by telephone every ten
+minutes and was becoming uneasy. Usually at seven or a quarter
+past our meeting halls were already half filled; sometimes even
+packed. But I soon found out the reason why I was uneasy. I had
+entirely forgotten to take into account the huge dimensions of
+this new meeting place. A thousand people in the Hofbräuhaus
+was quite an impressive sight, but the same number in the Circus
+building was swallowed up in its dimensions and was hardly
+noticeable. Shortly afterwards I received more hopeful reports
+and at a quarter to eight I was informed that the hall was threequarters filled, with huge crowds still lined up at the pay boxes. I
+then left for the meeting.
+I arrived at the Circus building at two minutes past eight. There
+was still a crowd of people outside, partly inquisitive people and
+many opponents who preferred to wait outside for developments.
+When I entered the great hall I felt the same joy I had felt a year
+previously at the first meeting in the Munich Hofbräu Banquet
+Hall; but it was not until I had forced my way through the solid
+wall of people and reached the platform that I perceived the full
+measure of our success. The hall was before me, like a huge
+shell, packed with thousands and thousands of people. Even the
+arena was densely crowded. More than 5,600 tickets had been
+sold and, allowing for the unemployed, poor students and our
+own detachments of men for keeping order, a crowd of about
+6,500 must have been present.
+My theme was 'Future or Downfall' and I was filled with joy at
+the conviction that the future was represented by the crowds that
+I was addressing.
+I began, and spoke for about two and a half hours. I had the
+feeling after the first half­hour that the meeting was going to be a
+big success. Contact had been at once established with all those
+thousands  of  individuals.   After  the  first   hour  the  speech  was
+already being received by spontaneous outbreaks of applause, but
+after the second hour this died down to a solemn stillness which I
+was to experience so often later on in this same hall, and which
+will for ever be remembered by all those present. Nothing broke
+this impressive silence and only when the last word had been
+spoken did the meeting give vent to its feelings by singing the
+national anthem.
+I watched the scene during the next twenty minutes, as the vast
+hall slowly emptied itself, and only then did I leave the platform,
+a happy man, and made my way home.
+Photographs were taken of this first meeting in the Krone Circus
+Hall   in   Munich.   They   are   more   eloquent   than   words   to
+demonstrate the success of this demonstration. The bourgeois
+papers   reproduced   photographs   and   reported   the   meeting   as
+having   been   merely   'nationalist'   in   character;   in   their   usual
+modest fashion they omitted all mention of its promoters.
+Thus   for   the   first   time   we   had   developed   far   beyond   the
+dimensions of an ordinary party. We could no longer be ignored.
+And to dispel all doubt that the meeting was merely an isolated
+success, I immediately arranged for another at the Circus Hall in
+the following week, and again we had the same success. Once
+more the vast hall was overflowing with people; so much so that
+I decided to hold a third meeting during the following week,
+which also proved a similar success.
+After these initial successes early in 1921 I increased our activity
+in Munich still further. I not only held meetings once a week, but
+during some weeks even two were regularly held and very often
+during midsummer and autumn this increased to three. We met
+regularly at the Circus Hall and it gave us great satisfaction to see
+that every meeting brought us the same measure of success.
+The result was shown in an ever­increasing number of supporters
+and members into our party.
+Naturally, such success did not allow our opponents to sleep
+soundly. At first their tactics fluctuated between the use of terror
+and silence in our regard. Then they recognized that neither terror
+nor silence could hinder the progress of our movement. So they
+had recourse to a supreme act of terror which was intended to put
+a definite end to our activities in the holding of meetings.
+As a pretext for action along this line they availed themselves of
+a very mysterious attack on one of the Landtag deputies, named
+Erhard Auer. It was declared that someone had fired several shots
+at this man one evening. This meant that he was not shot but that
+an attempt had been made to shoot him. A fabulous presence of
+mind and heroic courage on the part of Social Democratic leaders
+not only prevented the sacrilegious intention from taking effect
+but   also   put   the   crazy   would­be   assassins   to   flight,   like   the
+cowards that they were. They were so quick and fled so far that
+subsequently the police could not find even the slightest traces of
+them. This mysterious episode was used by the organ of the
+Social   Democratic   Party   to   arouse   public   feeling   against   the
+movement, and while doing this it delivered its old rigmarole
+about the tactics that were to be employed the next time. Their
+purpose was to see to it that our movement should not grow but
+should be immediately hewn down root and branch by the hefty
+arm of the proletariat.
+A few days later the real attack came. It was decided finally to
+interrupt one of our meetings which was billed to take place in
+the Munich Hofbräuhaus, and at which I myself was to speak.
+On November 4th, 1921, in the evening between six and seven
+o'clock I received the first precise news that the meeting would
+positively be broken up and that to carry out this action our
+adversaries had decided to send to the meeting great masses of
+workmen employed in certain 'Red' factories.
+It was due to an unfortunate accident that we did not receive this
+news sooner. On that day we had given up our old business
+office in the Sternecker Gasse in Munich and moved into other
+quarters; or rather we had given up the old offices and our new
+quarters   were   not   yet   in   functioning   order.   The   telephone
+arrangements had been cut off by the former tenants and had not
+yet   been   reinstalled.   Hence   it   happened   that   several   attempts
+made that day to inform us by telephone of the break­up which
+had been planned for the evening did not reach us.
+Consequently our order troops were not present in strong force at
+that meeting. There was only one squad present, which did not
+consist of the usual one hundred men, but only of about forty­six.
+And   our   telephone   connections   were   not   yet   sufficiently
+organized to be able to give the alarm in the course of an hour or
+so, so that a sufficiently powerful number of order troops to deal
+with the situation could be called. It must also be added that on
+several previous occasions we had been forewarned, but nothing
+special   happened.   The   old   proverb,   'Revolutions   which   were
+announced   have   scarcely   ever   come   off',   had   hitherto   been
+proved true in our regard.
+Possibly for this reason also sufficiently strong precautions had
+not been taken on that day to cope with the brutal determination
+of our opponents to break up our meeting.
+Finally, we did not believe that the Hofbräuhaus in Munich was
+suitable for the interruptive tactics of our adversaries. We had
+feared such a thing far more in the bigger halls, especially that of
+the Krone Circus. But on this point we learned a very serviceable
+lesson   that   evening.   Later,   we   studied   this   whole   question
+according   to   a   scientific   system   and   arrived   at   results,   both
+interesting   and   incredible,   and   which   subsequently   were   an
+essential factor in the direction of our organization and in the
+tactics of our Storm Troops.
+When I arrived in the entrance halt of the Hofbräuhaus at 7.45
+that evening I realizcd that there could be no doubt as to what the
+'Reds' intended. The hall was filled, and for that reason the police
+had barred the entrances. Our adversaries, who had arrived very
+early, were in the hall, and our followers were for the most part
+outside. The small bodyguard awaited me at the entrance. I had
+the doors leading to the principal hall closed and then asked the
+bodyguard of forty­five or forty­six men to come forward. I made
+it clear to the boys that perhaps on that evening for the first time
+they   would   have   to   show   their   unbending   and   unbreakable
+loyalty to the movement and that not one of us should leave the
+hall unless carried out dead. I added that I would remain in the
+hall and that I did not believe that one of them would abandon
+me, and that if I saw any one of them act the coward I myself
+would personally tear off his armlet and his badge. I demanded
+of them that they should come forward if the slightest attempt to
+sabotage the meeting were made and that they must remember
+that the best defence is always attack.
+I was greeted with a triple 'Heil' which sounded more hoarse and
+violent than usual.
+Then I advanced through the hall and could take in the situation
+with my own eyes. Our opponents sat closely huddled together
+and tried to pierce me through with their looks. Innumerable
+faces glowing with hatred and rage were fixed on me, while
+others with sneering grimaces shouted at me together. Now they
+would 'Finish with us. We must look out for our entrails. To­day
+they would smash in our faces once and for all.' And there were
+other expressions of an equally elegant character. They knew that
+they were there in superior numbers and they acted accordingly.
+Yet we were able to open the meeting; and I began to speak. In
+the Hall of the Hofbräuhaus I stood always at the side, away
+from the entry and on top of a beer table. Therefore I was always
+right in the midst of the audience. Perhaps this circumstance was
+responsible   for   creating   a   certain   feeling   and   a   sense   of
+agreement which I never found elsewhere.
+Before   me,   and   especially   towards   my   left,   there   were   only
+opponents, seated or standing. They were mostly robust youths
+and men from the Maffei Factory, from Kustermann's, and from
+the factories on the Isar, etc. Along the right­hand wall of the hall
+they were thickly massed  quite close to my table. They now
+began to order litre mugs of beer, one after the other, and to
+throw   the   empty   mugs   under   the   table.   In   this   way   whole
+batteries were collected. I should have been surprised had this
+meeting ended peacefully.
+In spite of all the interruptions, I was able to speak for about an
+hour and a half and I felt as if I were master of the situation.
+Even the ringleaders of the disturbers appeared to be convinced
+of this; for they steadily became more uneasy, often left the hall,
+returned and spoke to their men in an obviously nervous way.
+A small psychological error which I committed in replying to an
+interruption, and the mistake of which I myself was conscious
+the moment the words had left my mouth, gave the sign for the
+outbreak.
+There were a few furious outbursts and all in a moment a man
+jumped   on   a   seat   and   shouted   "Liberty".   At   that   signal   the
+champions of liberty began their work.
+In a few moments the hall was filled with a yelling and shrieking
+mob.   Numerous   beer­mugs   flew   like   howitzers   above   their
+heads. Amid this uproar one heard the crash of chair legs, the
+crashing of mugs, groans and yells and screams.
+It was a mad spectacle. I stood where I was and could observe
+my boys doing their duty, every one of them.
+There I had the chance of seeing what a bourgeois meeting could
+be.
+The dance had hardly begun when my Storm Troops, as they
+were called from that day onwards, launched their attack. Like
+wolves they threw themselves on the enemy again and again in
+parties of eight or ten and began steadily to thrash them out of
+the hall. After five minutes I could see hardly one of them that
+was not streaming with blood. Then I realized what kind of men
+many of them were, above all my brave Maurice Hess, who is
+my private secretary today, and many others who, even though
+seriously  wounded,   attacked  again  and   again  as long  as  they
+could stand on their feet. Twenty minutes long the pandemonium
+continued.   Then   the   opponents,   who   had   numbered   seven   or
+eight   hundred,   had   been   driven   from   the   hall   or   hurled   out
+headlong by my men, who had not numbered fifty. Only in the
+left corner a big crowd still stood out against our men and put up
+a bitter fight. Then two pistol shots rang out from the entrance to
+the hall in the direction of the platform and now a wild din of
+shooting broke out from all sides. One's heart almost rejoiced at
+this spectacle which recalled memories of the War.
+At that moment it was not possible to identify the person who
+had fired the shots. But at any rate I could see that my boys
+renewed   the   attack   with   increased   fury   until   finally   the   last
+disturbers were overcome and flung out of the hall.
+About twenty­five minutes had passed since it all began. The hall
+looked as if a bomb had exploded there. Many of my comrades
+had to be bandaged and others taken away. But we remained
+masters of the situation. Hermann Essen, who was chairman of
+the   meeting,   announced:   "The   meeting   will   continue.   The
+speaker shall proceed." So I went on with my speech.
+When we ourselves declared the meeting at an end an excited
+police officer rushed in, waved his hands and declared: "The
+meeting is dissolved." Without wishing to do so I had to laugh at
+this example of the law's delay. It was real police pompousness.
+The smaller they are the greater they must always try to appear.
+That evening we learned a real lesson. And our adversaries never
+forgot the lesson they had received.
+Up to the autumn of 1923 the Münchener post did not again
+mention the clenched fists of the Proletariat.
+
+`;
+const chapter_b_8 = `In   the   preceding   chapter   I   mentioned   the   existence   of   a   cooperative union between the German patriotic associations. Here
+I shall deal briefly with this question.
+In speaking of a co­operative union we generally mean a group
+of associations which, for the purpose of facilitating their work,
+establish   mutual   relations   for   collaborating   with   one   another
+along   certain   lines,   appointing   a   common   directorate   with
+varying powers and thenceforth carrying out a common line of
+action. The average citizen is pleased and reassured when he
+hears that these associations, by establishing a co­operative union
+among   one   another,   have   at   long   last   discovered   a   common
+platform on which they can stand united and have eliminated all
+grounds of mutual difference.  Therewith a general conviction
+arises, to the effect that such a union is an immense gain in
+strength and that small groups which were weak as long as they
+stood   alone   have   now   suddenly   become   strong.   Yet   this
+conviction is for the most part a mistaken one.
+It will be interesting and, in my opinion, important for the better
+understanding of this question if we try to get a clear notion of
+how   it   comes   about   that   these   associations,   unions,   etc.,   are
+established, when all of them declare that they have the same
+ends in view. In itself it would be logical to expect that one aim
+should be fought for by a single association and it would be more
+reasonable if there were not a number of associations fighting for
+the same aim. In the beginning there was undoubtedly only one
+association   which   had   this   one   fixed   aim   in   view.   One   man
+proclaimed a truth somewhere and, calling for the solution of a
+definite question, fixed his aim and founded a movement for the
+purpose of carrying his views into effect.
+That is how an association or a party is founded, the scope of
+whose programme is either the abolition of existing evils or the
+positive establishment of a certain order of things in the future.
+Once   such   a   movement   has   come   into   existence   it   may   lay
+practical claim to certain priority rights. The natural course of
+things would now be that all those who wish to fight for the same
+objective   as   this   movement   is   striving   for   should   identify
+themselves   with   it   and   thus  increase   its  strength,   so   that   the
+common purpose in view may be all the better served. Especially
+men   of   superior   intelligence   must   feel,   one   and   all,   that   by
+joining   the   movement   they   are   establishing   precisely   those
+conditions   which   are   necessary   for   practical   success   in   the
+common struggle. Accordingly it is reasonable and, in a certain
+sense,   honest   –   which   honesty,   as   I   shall   show   later,   is   an
+element   of   very   great   importance   –   that   only   one   movement
+should be founded for the purpose of attaining the one aim.
+The fact that this does not happen must be attributed to two
+causes. The first may almost be described as tragic. The second
+is   a   matter   for   pity,   because   it   has   its   foundation   in   the
+weaknesses of human nature. But, on going to the bottom of
+things, I see in both causes only facts which give still another
+ground for strengthening our will, our energy and intensity of
+purpose; so that finally, through the higher development of the
+human faculties, the solution of the problem in question may be
+rendered possible.
+The tragic reason why it so often happens that the pursuit of one
+definite task is not left to one association alone is as follows:
+Generally speaking, every action carried out on the grand style in
+this world is the expression of a desire that has already existed
+for a long time in millions of human hearts, a longing which may
+have   been   nourished   in   silence.   Yes,   it   may   happen   that
+throughout   centuries   men   may   have   been   yearning   for   the
+solution of a definite problem, because they have been suffering
+under an unendurable order of affairs, without seeing on the far
+horizon the coming fulfilment of the universal longing. Nations
+which are no longer capable of finding an heroic deliverance
+from such a sorrowful fate may be looked upon as effete. But, on
+the other hand, nothing gives better proof of the vital forces of a
+people and the consequent guarantee of its right to exist than that
+one day, through a happy decree of Destiny, a man arises who is
+capable of liberating his people from some great oppression, or
+of wiping out some bitter distress, or of calming the national soul
+which had been tormented through its sense of insecurity, and
+thus fulfilling what had long been the universal yearning of the
+people.
+An essential characteristic of what are called the great questions
+of the time is that thousands undertake the task of solving them
+and that many feel themselves called to this task: yea, even that
+Destiny itself has proposed many for the choice, so that through
+the free play of forces the stronger and bolder shall finally be
+victorious and to him shall be entrusted the task of solving the
+problem.
+Thus it may happen that for centuries many are discontented with
+the form in which their religious life expresses itself and yearn
+for a renovation of it; and so it may happen that through this
+impulse of the soul some dozens of men may arise who believe
+that, by virtue of their understanding and their knowledge, they
+are   called   to   solve   the   religious   difficulties   of   the   time   and
+accordingly present themselves as the prophets of a new teaching
+or at least as declared adversaries of the standing beliefs.
+Here also it is certain that the natural law will take its course,
+inasmuch  as the  strongest  will be  destined  to fulfil  the great
+mission. But usually the others are slow to acknowledge that
+only one man is called. On the contrary, they all believe that they
+have an equal right to engage in the solution of the diffculties in
+question   and   that   they   are   equally   called   to   that   task.   Their
+contemporary world is generally quite unable to decide which of
+all these possesses the highest gifts and accordingly merits the
+support of all.
+So in the course of centuries, or indeed often within the same
+epoch, different men establish different movements to struggle
+towards   the   same   end.   At   least   the   end   is   declared   by   the
+founders of the movements to be the same, or may be looked
+upon   as   such   by   the   masses   of   the   people.   The   populace
+nourishes vague desires and has only general opinions, without
+having any precise notion of their own ideals and desires or of
+the question whether and how it is impossible for these ideals
+and desires to be fulfilled.
+The tragedy lies in the fact that many men struggle to reach the
+same objective by different roads, each one genuinely believing
+in his own mission and holding himself in duty bound to follow
+his own road without any regard for the others.
+These   movements,   parties,   religious   groups,   etc.,   originate
+entirely independently of one another out of the general urge of
+the time, and all with a view to working towards the same goal. It
+may seem a tragic thing, at least at first sight, that this should be
+so, because people are too often inclined to think that forces
+which are dispersed in different directions would attain their ends
+far more quickly and more surely if they were united in one
+common effort. But that is not so. For Nature herself decides
+according to the rules of her inexorable logic. She leaves these
+diverse groups to compete with one another and dispute the palm
+of victory and thus she chooses the clearest, shortest and surest
+way along which she leads the movement to its final goal.
+How could one decide from outside which is the best way, if the
+forces at hand were not allowed free play, if the final decision
+were to rest with the doctrinaire judgment of men who are so
+infatuated with their own superior knowledge that their minds are
+not open to accept the indisputable proof presented by manifest
+success,   which   in   the   last   analysis   always   gives   the   final
+confirmation of the justice of a course of action.
+Hence,   though   diverse   groups   march   along   different   routes
+towards the same objective, as soon as they come to know that
+analogous efforts are being made around them, they will have to
+study all the more carefully whether they have chosen the best
+way and whether a shorter way may not be found and how their
+efforts can best be employed to reach the objective more quickly.
+Through   this   rivalry   each   individual   protagonist   develops   his
+faculties to a still higher pitch of perfection and the human race
+has frequently owed its progress to the lessons learned from the
+misfortunes   of   former   attempts   which   have   come   to   grief.
+Therefore we may conclude that we come to know the better
+ways of reaching final results through a state of things which at
+first   sight   appeared   tragic;   namely,   the   initial   dispersion   of
+individual   efforts,   wherein   each   group   was   unconsciously
+responsible for such dispersion.
+In studying the lessons of history with a view to finding a way
+for the solution of the German problem, the prevailing opinion at
+one time was that there were two possible paths along which that
+problem might be solved and that these two paths should have
+united from the very beginning. The chief representatives and
+champions   of   these   two   paths   were   Austria   and   Prussia
+respectively, Habsburg and Hohenzollern. All the rest, according
+to this prevalent opinion, ought to have entrusted their united
+forces to the one or the other party. But at that time the path of
+the most prominent representative, the Habsburg, would have
+been taken, though the Austrian policy would never have led to
+the foundation of a united German Reich.
+Finally,  a   strong  and   united  German   Reich   arose   out  of  that
+which many millions of Germans deplored in their hearts as the
+last and most terrible manifestation of our fratricidal strife. The
+truth is that the German Imperial Crown was retrieved on the
+battle field of Königgrätz and not in the fights that were waged
+before Paris, as was commonly asserted afterwards.
+Thus   the   foundation   of   the   German   Reich   was   not   the
+consequence of any common will working along common lines,
+but it was much more the outcome of a deliberate struggle for
+hegemony, though the protagonists were often hardly conscious
+of   this.   And   from   this   struggle   Prussia   finally   came   out
+victorious. Anybody who is not so blinded by partisan politics as
+to deny this truth will have to agree that the so­called wisdom of
+men would never have come to the same wise decision as the
+wisdom of Life itself, that is to say, the free play of forces,
+finally brought to realization. For in the German lands of two
+hundred years before who would seriously have believed that
+Hohenzollern   Prussia,   and   not   Habsburg,   would   become   the
+germ cell, the founder and the tutor of the new Reich? And, on
+the other hand, who would deny today that Destiny thus acted
+wiser than human wisdom. Who could now imagine a German
+Reich   based   on   the   foundations   of   an   effete   and   degenerate
+dynasty?
+No.   The   general   evolution   of   things,   even   though   it   took   a
+century of struggle, placed the best in the position that it had
+merited.
+And that will always be so. Therefore it is not to be regretted if
+different men set out to attain the same objective. In this way the
+strongest and swiftest becomes recognized and turns out to be the
+victor.
+Now there is a second cause for the fact that often in the lives of
+nations several movements which show the same characteristics
+strive along different ways to reach what appears to be the same
+goal. This second cause is not at all tragic, but just something
+that rightly calls forth pity. It arises from a sad mixture of envy,
+jealousy, ambition, and the itch for taking what belongs to others.
+Unfortunately   these   failings   are   often   found   united   in   single
+specimens of the human species.
+The   moment   a   man   arises   who   profoundly   understands   the
+distress of his people and, having diagnosed the evil with perfect
+accuracy, takes measures to cure it; the moment he fixes his aim
+and chooses the means to reach it – then paltry and pettifogging
+people become all attention and eagerly follow the doings of this
+man   who   has   thus   come   before   the   public   gaze.   Just   like
+sparrows who are apparently indifferent, but in reality are firmly
+intent on the movements of the fortunate companion with the
+morsel of bread so that they may snatch it from him if he should
+momentarily relax his hold on it, so it is also with the human
+species. All that is needed is that one man should strike out on a
+new road and then a crowd of poltroons will prick up their ears
+and begin to sniff for whatever little booty may possibly lie at the
+end of that road. The moment they think they have discovered
+where the booty is to be gathered they hurry to find another way
+which may prove to be quicker in reaching that goal.
+As soon as a new movement is founded and has formulated a
+definite   programme,   people   of   that   kind   come   forward   and
+proclaim that they are fighting for the same cause. This does not
+imply that they are ready honestly to join the ranks of such a
+movement   and   thus  recognize   its   right   of   priority.   It   implies
+rather that they intend to steal the programme and found a new
+party on it. In doing this they are shameless enough to assure the
+unthinking public that for a long time they had intended to take
+the same line of action as the other has now taken, and frequently
+they succeed in thus placing themselves in a favourable light,
+instead of arousing the general disapprobation which they justly
+deserve. For it is a piece of gross impudence to take what has
+already been inscribed on another's flag and display it on one's
+own, to  steal  the  programme of another,  and then  to form a
+separate group as if all had been created by the new founder of
+this   group.   The   impudence   of   such   conduct   is   particularly
+demonstrated when the individuals who first caused dispersion
+and   disruption   by   their   new   foundation   are   those   who   –   as
+experience has shown – are most emphatic in proclaiming the
+necessity of union and unity the moment they find they cannot
+catch up with their adversary's advance.
+It   is   to   that   kind   of   conduct   that   the   so­called   'patriotic
+disintegration' is to be attributed.
+Certainly in the years 1918 – 1919 the founding of a multitude of
+new groups, parties, etc., calling themselves 'Patriotic,' was a
+natural phenomenon of the time, for which the founders were not
+at all responsible. By 1920 the National Socialist German Labour
+Party   had   slowly   crystallized   from   all   these   parties   and   had
+become supreme. There could be no better proof of the sterling
+honesty of certain individual founders than the fact that many of
+them decided, in a really admirable manner, to sacrifice their
+manifestly less successful movements to the stronger movement,
+by joining it unconditionally and dissolving their own.
+
+This is specially true in regard to Julius Streicher, who was at
+that   time   the   protagonist   of   the   German   Socialist   party   in
+Nürnberg. The National Socialist German Labour Party had been
+founded with similar aims in view, but quite independently of the
+other.   I   have   already   said   that   Streicher,   then   a   teacher   in
+Nürnberg,   was   the   chief   protagonist   of   the   German   Socialist
+Party. He had a sacred conviction of the mission and future of his
+own movement. As soon, however, as the superior strength and
+stronger growth of the National Socialist Party became clear and
+unquestionable to his mind, he gave up his work in the German
+Socialist Party and called upon his followers to fall into line with
+the National Socialist German Labour Party, which had come out
+victorious from the mutual contest, and carry on the fight within
+its ranks for the common cause. The decision was personally a
+difficult one for him, but it showed a profound sense of honesty.
+When that first period of the movement was over there remained
+no further dispersion of forces: for their honest intentions had led
+the men of that time to the same honourable, straightforward and
+just conclusion. What we now call the 'patriotic disintegration'
+owes its existence exclusively to the second of the two causes
+which I have mentioned. Ambitious men who at first had no
+ideas   of   their   own,   and   still   less   any   concept   of   aims   to   be
+pursued, felt themselves 'called' exactly at that moment in which
+the   success   of   the   National   Socialist   German   Labour   Party
+became unquestionable.
+Suddenly programmes appeared which were mere transcripts of
+ours. Ideas were proclaimed which had been taken from us. Aims
+were set up on behalf of which we had been fighting for several
+years, and ways were mapped out which the National Socialists
+had for a long time trodden. All kinds of means were resorted to
+for the purpose of trying to convince the public that, although the
+National Socialist German Labour Party had now been for a long
+time in existence, it was found necessary to establish these new
+parties. But all these phrases were just as insincere as the motives
+behind them were ignoble.
+In reality all this was grounded only on one dominant motive.
+That motive was the personal ambition of the founders,  who
+wished to play a part in which their own pigmy talents could
+contribute   nothing   original   except   the   gross   effrontery   which
+they displayed in appropriating the ideas of others, a mode of
+conduct which in ordinary life is looked upon as thieving.
+At that time there was not an idea or concept launched by other
+people which these political kleptomaniacs did not seize upon at
+once for the purpose of applying to their own base uses. Those
+who did all this were the same people who subsequently, with
+tears   in   their   eyes,   profoundly   deplored   the   'patriotic
+disintegration'   and   spoke   unceasingly   about   the   'necessity   of
+unity'. In doing this they nurtured the secret hope that they might
+be able to cry down the others, who would tire of hearing these
+loud­mouthed accusations and would end up by abandoning all
+claim to the ideas that had been stolen from them and would
+abandon to the thieves not only the task of carrying these ideas
+into effect but also the task of carrying on the movements of
+which they themselves were the original founders.
+When that did not succeed, and the new enterprises, thanks to the
+paltry mentality of their promoters, did not show the favourable
+results which had been promised beforehand, then they became
+more modest in their pretences and were happy if they could land
+themselves in one of the so­called 'co­operative unions'.
+At that period everything which could not stand on its own feet
+joined one of those co­operative unions, believing that eight lame
+people   hanging   on   to   one   another   could   force   a   gladiator   to
+surrender to them.
+But if among all these cripples there was one who was sound of
+limb he had to use all his strength to sustain the others and thus
+he himself was practically paralysed.
+We ought to look upon the question of joining these working
+coalitions as a tactical problem, but, in coming to a decision, we
+must never forget the following fundamental principle:
+Through the formation of a working coalition associations which
+are weak in themselves can never be made strong, whereas it can
+and does happen not infrequently that a strong association loses
+its strength by joining in a coalition with weaker ones. It is a
+mistake to believe that a factor of strength will result from the
+coalition of weak groups; because experience shows that under
+all forms and all conditions the majority represents the duffers
+and   poltroons.   Hence   a   multiplicity   of   associations,   under   a
+directorate of many heads, elected by these same associations, is
+abandoned to the control of poltroons and weaklings. Through
+such a coalition the free play of forces is paralysed, the struggle
+for   the   selection   of   the   best   is   abolished   and   therewith   the
+necessary   and   final   victory   of   the   healthier   and   stronger   is
+impeded. Coalitions of that kind are inimical to the process of
+natural development, because for the most part they hinder rather
+than advance the solution of the problem which is being fought
+for.
+It may happen that, from considerations of a purely tactical kind,
+the supreme command of a movement whose goal is set in the
+future will enter into a coalition with such associations for the
+treatment of special questions and may also stand on a common
+platform with them, but this can be only for a short and limited
+period. Such a coalition must not be permanent, if the movement
+does not wish to renounce its liberating mission. Because if it
+should  become   indissolubly  tied  up  in  such   a  combination  it
+would lose the capacity and the right to allow its own forces to
+work freely in following out a natural development, so as to
+overcome rivals and attain its own objective triumphantly.
+It must never be forgotten that nothing really great in this world
+has   ever   been   achieved   through   coalitions,   but   that   such
+achievements   have   always   been   due   to   the   triumph   of   the
+individual. Successes achieved through coalitions, owing to the
+very   nature   of   their   source,   carry   the   germs   of   future
+disintegration in them from the very start; so much so that they
+have   already   forfeited   what   has   been   achieved.   The   great
+revolutions which have taken place in human thought and have
+veritably transformed the aspect of the world would have been
+inconceivable and impossible to carry out except through titanic
+struggles waged   between  individual  natures,  but  never  as  the
+enterprises of coalitions.
+And, above all things, the People's State will never be created by
+the desire for compromise inherent in a patriotic coalition, but
+only   by   the   iron   will   of   a   single   movement   which   has
+successfully come through in the struggle with all the others.
+
+`;
+const chapter_b_9 = `The   strength   of   the   old   state   rested   on   three   pillars:   the
+monarchical form of government, the civil service, and the army.
+The   Revolution   of   1918   abolished   the   form   of   government,
+dissolved   the   army   and   abandoned   the   civil   service   to   the
+corruption of party politics. Thus the essential supports of what is
+called the Authority of the State were shattered. This authority
+nearly always depends on three elements, which are the essential
+foundations of all authority.
+Popular support is the first element which is necessary for the
+creation of authority. But an authority resting on that foundation
+alone   is   still   quite   frail,   uncertain   and   vacillating.   Hence
+everyone who finds himself vested with an authority that is based
+only   on   popular   support   must   take   measures   to   improve   and
+consolidate the foundations of that authority by the creation of
+force. Accordingly we must look upon power, that is to say, the
+capacity to use  force, as the second  foundation on which all
+authority is based. This foundation is more stable and secure, but
+not always stronger, than the first. If popular support and power
+are united together and can endure for a certain time, then an
+authority may arise which is based on a still stronger foundation,
+namely,   the   authority   of   tradition.   And,   finally,   if   popular
+support,   power,   and   tradition   are   united   together,   then   the
+authority based on them may be looked upon as invincible.
+In Germany the Revolution abolished this last foundation. There
+was no longer even a traditional authority. With the collapse of
+the   old   Reich,   the   suppression   of   the   monarchical   form   of
+government, the destruction of all the old insignia of greatness
+and the imperial symbols, tradition was shattered at a blow. The
+result   was   that   the   authority   of   the   State   was   shaken   to   its
+foundations.
+The second pillar of statal authority, namely power, also ceased
+to exist. In order to carry through the Revolution it was necessary
+to   dissolve   that   body   which   had   hitherto   incorporated   the
+organized   force   and   power   of   the   State,   namely,   the   Army.
+Indeed, some detached fragments of the Army itself had to be
+employed as fighting elements in the Revolution. The Armies at
+the front were not subjected in the same measure to this process
+of disruption; but as they gradually left farther behind them the
+fields of glory on which they had fought heroically for four­andhalf   years,   they   were   attacked   by   the   solvent   acid   that   had
+permeated   the   Fatherland;   and   when   they   arrived   at   the
+demobilizing centres they fell into that state of confusion which
+was   styled   voluntary   obedience   in   the   time   of   the   Soldiers'
+Councils.
+Of course it was out of the question to think of founding any kind
+of authority on this crowd of mutineering soldiers, who looked
+upon military service as a work of eight hours per day. Therefore
+the   second   element,   that   which   guarantees   the   stability   of
+authority, was also abolished and the Revolution had only the
+original   element,   popular   support,   on   which   to   build   up   its
+authority. But this basis was extraordinarily insecure. By means
+of a few violent thrusts the Revolution had shattered the old
+statal edifice to its deepest foundations, but only because  the
+normal equilibrium within the social structure of the nation had
+already been destroyed by the war.
+Every national body is made up of three main classes. At one
+extreme we have the best of the people, taking the word 'best'
+here to indicate those who are highly endowed with the civic
+virtues and are noted for their courage and their readiness to
+sacrifice their private interests. At the other extreme are the worst
+dregs of humanity, in whom vice and egotistic interests prevail.
+Between these two extremes stands the third class, which is made
+up of the broad middle stratum, who do not represent radiant
+heroism or vulgar vice.
+The stages of a nation's rise are accomplished exclusively under
+the leadership of the best extreme.
+Times   of   normal   and   symmetrical   development,   or   of   stable
+conditions,   owe   their   existence   and   outwardly   visible
+characteristics   to   the   preponderating   influence   of   the   middle
+stratum.   In   this   stage   the   two   extreme   classes   are   balanced
+against one another; in other words, they are relatively cancelled
+out.
+Times of national collapse are determined by the preponderating
+influence of the worst elements.
+It must be noted here, however, that the broad masses, which
+constitute what I have called the middle section, come forward
+and make their influence felt only when the two extreme sections
+are engaged in mutual strife. In case one of the extreme sections
+comes out victorious the middle section will readily submit to its
+domination. If the best dominate, the broad masses will follow it.
+Should the worst extreme turn out triumphant, then the middle
+section will at least offer no opposition to it; for the masses that
+constitute the middle class never fight their own battles.
+The outpouring of blood for four­and­a­half years during the war
+destroyed the inner equilibrium between these three sections in
+so far as it can be said – though admitting the sacrifices made by
+the middle section – that the class which consisted of the best
+human elements almost completely disappeared through the loss
+of so much of its blood in the war, because it was impossible to
+replace   the   truly   enormous   quantity   of   heroic   German   blood
+which   had   been   shed   during   those   four­and­a­half   years.   In
+hundreds   of   thousands   of   cases   it   was   always   a   matter   of
+'volunteers to the front', volunteers for patrol and duty, volunteer
+dispatch   carriers,   volunteers   for   establishing   and   working
+telephonic   communications,   volunteers   for   bridge­building,
+volunteers   for   the   submarines,   volunteers   for   the   air   service,
+volunteers for the storm battalions, and so on, and so on. During
+four­and­a­half years, and on thousands of occasions, there was
+always the call for volunteers and again for volunteers. And the
+result was always the same. Beardless young fellows or fully
+developed men, all filled with an ardent love for their country,
+urged on by their own courageous spirit or by a lofty sense of
+their duty – it was always such men who answered the call for
+volunteers. Tens of thousands, indeed hundreds of thousands, of
+such men came forward, so that that kind of human material
+steadily grew scarcer and scarcer. What did not actually fall was
+maimed in the fight or gradually had to join the ranks of the
+crippled because of the wounds they were constantly receiving,
+and thus they had to carry on interminably owing to the steady
+decrease in the supply of such men. In 1914 whole armies were
+composed   of   volunteers   who,   owing   to   a   criminal   lack   of
+conscience on the part of our feckless parliamentarians, had not
+received   any   proper   training   in   times   of   peace,   and   so   were
+thrown   as   defenceless   cannon­fodder   to   the   enemy.   The   four
+hundred thousand who thus fell or were permanently maimed on
+the battlefields of Flanders could not be replaced any more. Their
+loss was something far more than merely numerical. With their
+death the scales, which were already too lightly weighed at that
+end of the social structure which represented our best human
+quality, now moved upwards rapidly, becoming heavier on the
+other end with those vulgar elements of infamy and cowardice –
+in short, there was an increase in the elements that constituted the
+worst extreme of our population.
+And there was something more: While for four­and­a­half years
+our best human material was being thinned to an exceptional
+degree   on   the   battlefields,   our   worst   people   wonderfully
+succeeded in saving themselves. For each hero who made the
+supreme sacrifice and ascended the steps of Valhalla, there was a
+shirker   who   cunningly   dodged   death   on   the   plea   of   being
+engaged in business that was more or less useful at home.
+And so the picture which presented itself at the end of the war
+was this: The great middle stratum of the nation had fulfilled its
+duty and paid its toll of blood. One extreme of the population,
+which was constituted of the best elements, had given a typical
+example of its heroism and had sacrificed itself almost to a man.
+
+The other extreme, which was constituted of the worst elements
+of   the   population,   had   preserved   itself   almost   intact,   through
+taking advantage of absurd laws and also because the authorities
+failed to enforce certain articles of the military code.
+This   carefully   preserved   scum   of   our   nation   then   made   the
+Revolution. And the reason why it could do so was that the
+extreme section composed of the best elements was no longer
+there to oppose it. It no longer existed.
+Hence   the   German   Revolution,   from   the   very   beginning,
+depended on only one section of the population. This act of Cain
+was not committed by the German people as such, but by an
+obscure canaille of deserters, hooligans, etc.
+The man at the front gladly welcomed the end of the strife in
+which so much blood had been shed. He was happy to be able to
+return home and see his wife and children once again. But he had
+no moral connection with the Revolution. He did not like it, nor
+did he like those who had provoked and organized it. During the
+four­and­a­half years of that bitter struggle at the front he had
+come to forget the party hyenas at home and all their wrangling
+had become foreign to him.
+The Revolution was really popular only with a small section of
+the German people: namely, that class and their accomplices who
+had   selected   the   rucksack   as  the   hall­mark   of   all   honourable
+citizens in this new State. They did not like the Revolution for its
+own   sake,   though   many   people   still   erroneously   believe   the
+contrary, but for the consequences which followed in its train.
+But it was very difficult to establish any abiding authority on the
+popular support given to these Marxist freebooters. And yet the
+young Republic stood in need of authority at any cost, unless it
+was ready to agree to be overthrown after a short period of chaos
+by an elementary force assembled from those last elements that
+still remained among the best extreme of the population.
+The danger which those who were responsible for the Revolution
+feared most at that time was that, in the turmoil of the confusion
+which they themselves had created, the ground would suddenly
+be taken from under their feet, that they might be suddenly seized
+and transported to another terrain by an iron grip, such as has
+often appeared at these junctures in the history of nations. The
+Republic must be consolidated at all costs.
+Hence it was forced almost immediately after its foundation to
+erect   another   pillar   beside   that   wavering   pillar   of   popularity.
+They found that power must be organized once again in order to
+procure a firmer foundation for their authority.
+When those who had been the matadors of the Revolution in
+December 1918, and January and February 1919, felt the ground
+trembling beneath their feet they looked around them for men
+who would be ready to reinforce them with military support; for
+their feeble position was dependent only on whatever popular
+favour they enjoyed. The 'anti­militarist' Republic had need of
+soldiers. But the first and only pillar on which the authority of
+the State rested, namely, its popularity, was grounded only on a
+conglomeration   of   rowdies   and   thieves,   burglars,   deserters,
+shirkers, etc. Therefore in that section of the nation which we
+have called the evil extreme it was useless to look for men who
+would be willing to sacrifice their lives on behalf of a new ideal.
+The   section   which   had   nourished   the   revolutionary   idea   and
+carried out the Revolution was neither able nor willing to call on
+the soldiers to protect it. For that section had no wish whatsoever
+to organize a republican State, but to disorganize what already
+existed and thus satisfy its own instincts all the better. Their
+password   was   not   the   organization   and   construction   of   the
+German Republic, but rather the plundering of it.
+Hence the cry for help sent out by the public representatives, who
+were beset by a thousand anxieties, did not find any response
+among  this class  of  people,  but  rather  provoked  a   feeling  of
+bitterness and repudiation. For they looked upon this step as the
+beginning of a breach of faith and trust, and in the building up of
+an authority which was no longer based on popular support but
+also on force they saw the beginning of a hostile move against
+what the Revolution meant essentially for those elements. They
+feared that measures might be taken against the right to robbery
+and absolute domination on the part of a horde of thieves and
+plunderers – in short, the worst rabble – who had broken out of
+the convict prisons and left their chains behind.
+The representatives of the people might cry out as much as they
+liked, but they could get no help from that rabble. The cries for
+help were met with the counter­cry 'traitors' by those very people
+on whose support the popularity of the regime was founded.
+Then for the first time large numbers of young Germans were
+found who were ready to button on the military uniform once
+again   in   the   service   of   'Peace   and   Order',   as   they   believed,
+shouldering the carbine and rifle and donning the steel helmet to
+defend   the   wreckers   of   the   Fatherland.   Volunteer   corps   were
+assembled and, although hating the Revolution, they began to
+defend it. The practical effect of their action was to render the
+Revolution firm and stable. In doing this they acted in perfect
+good faith.
+The real organizer of the Revolution and the actual wire­puller
+behind   it,   the   international   Jew,   had   sized   up   the   situation
+correctly. The German people were not yet ripe to be drawn into
+the blood swamp of Bolshevism, as the Russian people had been
+drawn. And that was because there was a closer racial union
+between   the   intellectual   classes   in   Germany   and   the   manual
+workers, and also because broad social strata were permeated
+with cultured people, such as was the case also in the other States
+of   Western   Europe;   but   this   state   of   affairs   was   completely
+lacking in Russia. In that country the intellectual classes were
+mostly not of Russian nationality, or at least they did not have
+the racial characteristics of the Slav. The thin upper layer of
+intellectuals which then existed in Russia might be abolished at
+any time, because there was no intermediate stratum connecting
+it organically with the great mass of the people. There the mental
+and moral level of the great mass of the people was frightfully
+low.
+In Russia the moment the agitators were successful in inciting
+broad masses of the people, who could not read or write, against
+the upper layer of intellectuals who were not in contact with the
+masses or permanently linked with them in any way – at that
+moment the destiny of Russia was decided, the success of the
+Revolution   was   assured.   Thereupon   the   analphabetic   Russian
+became the slave of his Jewish dictators who, on their side, were
+shrewd enough to name their dictatorship 'The Dictatorship of
+the People'.
+In the case of Germany an additional factor must be taken into
+account. Here the Revolution could be carried into effect only if
+the Army could first be gradually dismembered. But the real
+author of the Revolution and of the process of disintegration in
+the Army was not the soldier who had fought at the front but the
+canaille which more or less shunned the light and which were
+either   quartered   in   the   home   garrisons   or   were   officiating   as
+'indispensables' somewhere in the business world at home. This
+army   was   reinforced   by   ten   thousand   deserters   who,   without
+running any particular risk, could turn their backs on the Front.
+At all times the real poltroon fears nothing so much as death. But
+at the Front he had death before his eyes every day in a thousand
+different shapes. There has always been one possible way, and
+one only, of making weak or wavering men, or even downright
+poltroons,   face   their   duty   steadfastly.   This   means   that   the
+deserter must be given to understand that his desertion will bring
+upon him just the very thing he is flying from. At the Front a
+man may die, but the deserter must die. Only this draconian
+threat   against   every   attempt   to   desert   the   flag   can   have   a
+terrifying effect, not merely on the individual but also on the
+mass. Therein lay the meaning and purpose of the military penal
+code.
+It was a fine belief to think that the great struggle for the life of a
+nation   could   be   carried   through   if   it   were   based   solely   on
+voluntary fidelity arising from and sustained by the knowledge
+that such a struggle was necessary. The voluntary fulfilment of
+one's duty is a motive that determines the actions of only the best
+men, but not of the average type of men. Hence special laws are
+necessary; just as, for instance, the law against stealing, which
+was not made for men who are honest on principle but for the
+weak and unstable elements. Such laws are meant to hinder the
+evil­doer through their deterrent effect and thus prevent a state of
+affairs from arising in which the honest man is considered the
+more stupid, and which would end in the belief that it is better to
+have a share in the robbery than to stand by with empty hands or
+allow oneself to be robbed.
+It was a mistake to believe that in a struggle which, according to
+all human foresight,  might last  for several years it would be
+possible to dispense with those expedients which the experience
+of hundreds and even of thousands of years had proved to be
+effective in making weak and unstable men face and fulfil their
+duty in difficult times and at moments of great nervous stress.
+For the voluntary war hero it is, of course, not necessary to have
+the death penalty in the military code, but it is necessary for the
+cowardly   egoists   who   value   their   own   lives   more   than   the
+existence of the community in the hour of national need. Such
+weak   and   characterless   people   can   be   held   back   from
+surrendering to their cowardice only by the application of the
+heaviest penalties. When men have to struggle with death every
+day and remain for weeks in trenches of mire, often very badly
+supplied with food, the man who is unsure of himself and begins
+to   waver   cannot   be   made   to   stick   to   his   post   by   threats   of
+imprisonment   or   even   penal   servitude.   Only   by   a   ruthless
+enforcement   of   the   death   penalty   can   this   be   effected.   For
+experience shows that at such a time the recruit considers prison
+a thousand times more preferable than the battlefield. In prison at
+least his precious life is not in danger. The practical abolition of
+the death penalty during the war was a mistake for which we had
+to pay dearly. Such omission really meant that the military penal
+code was no longer recognized as valid. An army of deserters
+poured into the stations at the rear or returned home, especially in
+1918, and there began to form that huge criminal organization
+with which we were suddenly faced, after November 7th, 1918,
+and which perpetrated the Revolution.
+The Front had nothing to do with all this. Naturally, the soldiers
+at the Front were yearning for peace. But it was precisely that
+fact which represented a special danger for the Revolution. For
+when the German soldiers began to draw near home, after the
+Armistice, the revolutionaries were in trepidation and asked the
+same question again and again: What will the troops from the
+Front do? Will the field­greys stand for it?
+During those weeks the Revolution was forced to give itself at
+least an external appearance of moderation, if it were not to run
+the   risk   of   being   wrecked   in   a   moment   by   a   few   German
+divisions. For at that time, even if the commander of one division
+alone had made up his mind to rally the soldiers of his division,
+who had always remained faithful to him, in an onslaught to tear
+down the red flag and put the 'councils' up against the wall, or, if
+there was any resistance, to break it with trench­mortars and hand
+grenades, that division would have grown into an army of sixty
+divisions in less than four weeks. The Jew  wire­pullers were
+terrified by this prospect more than by anything else; and to
+forestall this particular danger they found it necessary to give the
+Revolution a certain aspect of moderation. They dared not allow
+it to degenerate into Bolshevism, so they had to face the existing
+conditions by putting up the hypocritical picture of 'order and
+tranquillity'. Hence many important concessions, the appeal to
+the old civil service and to the heads of the old Army. They
+would be needed at least for a certain time, and only when they
+had served the purpose of Turks' Heads could the deserved kickout be administered with impunity. Then the Republic would be
+taken entirely out of the hands of the old servants of the State and
+delivered into the claws of the revolutionaries.
+They thought that this was the only plan which would succeed in
+duping   the   old   generals   and   civil   servants   and   disarm   any
+eventual opposition beforehand through the apparently harmless
+and mild character of the new regime.
+Practical   experience   has   shown   to   what   extent   the   plan
+succeeded.
+The Revolution, however, was not made by the peaceful and
+orderly elements of the nation but rather by rioters, thieves and
+robbers. And the way in which the Revolution was developing
+did not accord with the intentions of these latter elements; still,
+on tactical grounds, it was not possible to explain to them the
+reasons for the course things were taking and make that course
+acceptable.
+
+As Social Democracy gradually gained power it lost more and
+more the character of a crude revolutionary party. Of course in
+their inner hearts the Social Democrats wanted a revolution; and
+their leaders had no other end in view. Certainly not. But what
+finally resulted was only a revolutionary programme; but not a
+body of men who would be able to carry it out. A revolution
+cannot be carried through by a party of ten million members. If
+such a movement were attempted the leaders would find that it
+was not an extreme section of the population on which they had
+to   depend   butrather   the   broad   masses   of   the   middle   stratum;
+hence the inert masses.
+Recognizing all this, already during the war, the Jews caused the
+famous split in the Social Democratic Party. While the Social
+Democratic   Party,   conforming   to   the   inertia   of   its   mass
+following, clung like a leaden weight on the neck of the national
+defence, the actively radical elements were extracted from it and
+formed into new aggressive columns for purposes of attack. The
+Independent Socialist Party and the Spartacist League were the
+storm   battalions   of   revolutionary   Marxism.   The   objective
+assigned to them was to create a fait accompli, on the grounds of
+which the masses of the Social Democratic Party could take their
+stand, having been prepared for this event long beforehand. The
+feckless bourgeoisie had been estimated at its just value by the
+Marxists   and   treated   en   canaille.   Nobody   bothered   about   it,
+knowing well that in their canine servility the representatives of
+an old and worn­out generation would not be able to offer any
+serious resistance.
+When the Revolution had succeeded and its artificers believed
+that the main pillars of the old State had been broken down, the
+Army returning from the Front began to appear in the light of a
+sinister sphinx and thus made it necessary to slow down the
+national course of the Revolution. The main body of the Social
+Democratic   horde   occupied   the   conquered   positions,   and   the
+Independent Socialist and Spartacist storm battalions were sidetracked.
+But that did not happen without a struggle.
+
+The activist assault formations that had started the Revolution
+were dissatisfied and felt that they had been betrayed. They now
+wanted to continue the fight on their own account. But their
+illimitable racketeering became odious even to the wire­pullers
+of the Revolution. For the Revolution itself had scarcely been
+accomplished when two camps appeared. In the one camp were
+the elements of peace and order; in the other were those of blood
+and   terror.   Was   it   not   perfectly   natural   that   our   bourgeoisie
+should rush with flying colours to the camp of peace and order?
+For once in their lives their piteous political organizations found
+it possible to act, inasmuch as the ground had been prepared for
+them on which they were glad to get a new footing; and thus to a
+certain extent they found themselves in coalition with that power
+which they hated but feared. The German political bourgeoisie
+achieved the high honour of being able to associate itself with the
+accursed   Marxist   leaders   for   the   purpose   of   combating
+Bolshevism.
+Thus   the   following   state   of   affairs   took   shape   as   early   as
+December 1918 and January 1919:
+A   minority   constituted   of   the   worst   elements   had   made   the
+Revolution.   And   behind   this   minority   all   the   Marxist   parties
+immediately fell into step. The Revolution itself had an outward
+appearance of moderation, which aroused against it the enmity of
+the fanatical extremists. These began to launch hand­grenades
+and   fire   machine­guns,   occupying   public   buildings,   thus
+threatening   to   destroy   the   moderate   appearance   of   the
+Revolution. To prevent this terror from developing further a truce
+was concluded between the representatives of the new regime
+and the adherents of the old order, so as to be able to wage a
+common fight against  the extremists.  The result was that the
+enemies of the Republic ceased to oppose the Republic as such
+and helped to subjugate those who were also  enemies of the
+Republic, though for quite different reasons. But a further result
+was that all danger of the adherents of the old State putting up a
+fight against the new was now definitely averted.
+This   fact   must   always   be   clearly   kept   in   mind.   Only   by
+remembering it can we understand how it was possible that a
+nation in which nine­tenths of the people had not joined in a
+revolution,   where   seven­tenths   repudiated   it   and   six­tenths
+detested   it   –   how   this   nation   allowed   the   Revolution   to   be
+imposed upon it by the remaining one­tenth of the population.
+Gradually the barricade heroes in the Spartacist camp petered
+out, and so did the nationalist patriots and idealists on the other
+side. As these two groups steadily dwindled, the masses of the
+middle stratum, as always happens, triumphed. The Bourgeoisie
+and the Marxists met together on the grounds of accomplished
+facts,   and   the   Republic   began   to   be   consolidated.   At   first,
+however,   that   did   not   prevent   the   bourgeois   parties   from
+propounding   their   monarchist   ideas   for   some   time   further,
+especially at the elections, whereby they endeavoured to conjure
+up the spirits of the dead past to encourage their own feeblehearted followers. It was not an honest proceeding. In their hearts
+they had broken with the monarchy long ago; but the foulness of
+the new regime had begun to extend its corruptive action and
+make   itself   felt   in   the   camp   of   the   bourgeois   parties.   The
+common   bourgeois   politician   now   felt   better   in   the   slime   of
+republican corruption than in the severe decency of the defunct
+State, which still lived in his memory.
+As I have already pointed out, after the destruction of the old
+Army the revolutionary leaders were forced to strengthen statal
+authority by creating a new factor of power. In the conditions
+that existed they could do this only by winning over to their side
+the adherents of an outlook which was a direct contradiction of
+their own. From those elements alone it was possible slowly to
+create   a   new   army   which,   limited   numerically   by   the   peace
+treaties, had to be subsequently transformed in spirit so as to
+become an instrument of the new regime.
+Setting aside the defects of the old State, which really became the
+cause of the Revolution, if we ask how it was possible to carry
+the Revolution to a successful issue as a political act, we arrive at
+the following conclusions:
+1. It was due to a process of dry rot in our conceptions of duty
+and obedience.
+
+2. It was due also to the passive timidity of the Parties who were
+supposed to uphold the State.
+To this the following must be added: The dry rot which attacked
+our concepts of duty and obedience was fundamentally due to
+our wholly non­national and purely State education. From this
+came the habit of confusing means and ends. Consciousness of
+duty,   fulfilment   of   duty,   and   obedience,   are   not   ends   in
+themselves no more than the State is an end in itself; but they all
+ought   to   be   employed   as   means   to   facilitate   and   assure   the
+existence   of   a   community   of   people   who   are   kindred   both
+physically   and   spiritually.   At   a   moment   when   a   nation   is
+manifestly collapsing and when all outward signs show that it is
+on   the   point   of   becoming   the   victim   of   ruthless   oppression,
+thanks to the conduct of a few miscreants, to obey these people
+and   fulfil   one's   duty   towards   them   is   merely   doctrinaire
+formalism, and indeed pure folly; whereas, on the other hand, the
+refusal of obedience and fulfilment of duty in such a case might
+save   the   nation   from   collapse.   According   to   our   current
+bourgeois idea of the State, if a divisional general received from
+above the order not to shoot he fulfilled his duty and therefore
+acted rightly in not shooting, because to the bourgeois mind blind
+formal obedience  is a more valuable thing than the life of a
+nation. But according to the National Socialist concept it is not
+obedience to weak superiors that should prevail at such moments,
+in such  an  hour the  duty of assuming   personal   responsibility
+towards the whole nation makes its appearance.
+The Revolution succeeded because that concept had ceased to be
+a vital force with our people, or rather with our governments, and
+died down to something that was merely formal and doctrinaire.
+As   regards   the   second   point,   it   may   be   said   that   the   more
+profound cause of the fecklessness of the bourgeois parties must
+be attributed to the fact that the most active and upright section
+of our people had lost their lives in the war. Apart from that, the
+bourgeois parties, which may be considered as the only political
+formations that stood by the old State, were convinced that they
+ought to defend their principles only by intellectual ways and
+means, since the use of physical force was permitted only to the
+State. That outlook was a sign of the weakness and decadence
+which had been gradually developing. And it was also senseless
+at a period when there was a political adversary who had long
+ago abandoned that standpoint and, instead of this, had openly
+declared   that   he   meant   to   attain   his   political   ends   by   force
+whenever that became possible. When Marxism emerged in the
+world   of   bourgeois   democracy,   as   a   consequence   of   that
+democracy itself, the appeal sent out by the bourgeois democracy
+to fight Marxism with intellectual weapons was a piece of folly
+for   which   a   terrible   expiation   had   to   be   made   later   on.   For
+Marxism always professed the doctrine that the use of arms was
+a   matter   which   had   to   be   judged   from   the   standpoint   of
+expediency and that success justified the use of arms.
+This idea was proved correct during the days from November 7
+to 10, 1918. The Marxists did not then bother themselves in the
+least about parliament or democracy, but they gave the death
+blow to both by turning loose their horde of criminals to shoot
+and raise hell.
+When the Revolution was over the bourgeois parties changed the
+title of their firm and suddenly reappeared, the heroic leaders
+emerging from dark cellars or more lightsome storehouses where
+they had sought refuge. But, just as happens in the case of all
+representatives of antiquated institutions, they had not forgotten
+their errors or learned anything new. Their political programme
+was   grounded   in   the   past,   even   though   they   themselves   had
+become reconciled to the new regime. Their aim was to secure a
+share in the new establishment, and so they continued the use of
+words as their sole weapon.
+Therefore   after   the   Revolution   the   bourgeois   parties   also
+capitulated to the street in a miserable fashion.
+When the law for the Protection of the Republic was introduced
+the majority was not at first in favour of it. But, confronted with
+two hundred thousand Marxists demonstrating in the streets, the
+bourgeois 'statesmen' were so terror­stricken that they voted for
+the Law against their wills, for the edifying reason that otherwise
+they feared they might get their heads smashed by the enraged
+masses on leaving the Reichstag.
+And so the new State developed along its own course, as if there
+had been no national opposition at all.
+The only organizations which at that time had the strength and
+courage to face Marxism and its enraged masses were first of all
+the volunteer corps, and subsequently the organizations for selfdefence, the civic guards and finally the associations formed by
+the demobilized soldiers of the old Army.
+But the existence of these bodies did not appreciably change the
+course of German history; and that for the following causes:
+As the so­called national parties were without influence, because
+they had no force which could effectively demonstrate in the
+street, the Leagues of Defence could not exercise any influence
+because they had no political idea and especially because they
+had no definite political aim in view.
+The success which Marxism once attained was due to perfect cooperation between political purposes and ruthless force. What
+deprived nationalist Germany of all practical hopes of shaping
+German development was the lack of a determined co­operation
+between brute force and political aims wisely chosen.
+Whatever may have been the aspirations of the 'national' parties,
+they had no force whatsoever to fight for these aspirations, least
+of all in the streets.
+The   Defense   Leagues  had   force   at  their  disposal.   They   were
+masters of the street and of the State, but they lacked political
+ideas and aims on behalf of which their forces might have been
+or could have been employed in the interests of the German
+nation. The cunning Jew was able in both cases, by his astute
+powers of persuasion, in reinforcing an already existing tendency
+to make this unfortunate state of affairs permanent and at the
+same time to drive the roots of it still deeper.
+The Jew succeeded brilliantly in using his Press for the purpose
+of spreading abroad the idea that the defence associations were of
+a 'non­political' character just as in politics he was always astute
+enough to praise the purely intellectual character of the struggle
+and demand that it must always be kept on that plane Millions of
+German imbeciles then repeated this folly without having the
+slightest suspicion that by so doing they were, for all practical
+purposes,   disarming   themselves   and   delivering   themselves
+defenceless into the hands of the Jew.
+But there is a natural explanation of this also. The lack of a great
+idea   which   would   re­shape   things   anew   has   always   meant   a
+limitation   in   fighting   power.   The   conviction   of   the   right   to
+employ even the most brutal weapons is always associated with
+an   ardent   faith   in   the   necessity   for   a   new   and   revolutionary
+transformation of the world.
+A movement which does not fight for such high aims and ideals
+will never have recourse to extreme means.
+The appearance of a new and great idea was the secret of success
+in   the   French   Revolution.   The   Russian   Revolution   owes   its
+triumph to an idea. And it was only the idea that enabled Fascism
+triumphantly to subject a whole nation to a process of complete
+renovation.
+Bourgeois parties are not capable of such an achievement. And it
+was not the bourgeois parties alone that fixed their aim in a
+restoration of the past. The defence associations also did so, in so
+far as they concerned themselves with political aims at all. The
+spirit of the old war legions and Kyffauser tendencies lived in
+them   and   therewith   helped   politically   to   blunt   the   sharpest
+weapons   which   the   German   nation   then   possessed   and   allow
+them to rust in the hands of republican serfs. The fact that these
+associations were inspired by the best of intentions in so doing,
+and certainly acted in good faith, does not alter in the slightest
+degree the foolishness of the course they adopted.
+In the consolidated Reichswehr Marxism gradually acquired the
+support of force, which it needed for its authority. As a logical
+consequence it proceeded to abolish those defence associations
+which it considered dangerous, declaring that they were now no
+longer   necessary.   Some   rash   leaders   who   defied   the   Marxist
+orders were summoned to court and sent to prison. But they all
+got what they had deserved.
+
+The  founding  of the  National Socialist  German  Labour Party
+incited a movement which was the first to fix its aim, not in a
+mechanical restoration of the past ­ as the bourgeois parties did ­
+but in the substitution of an organic People's State for the present
+absurd statal mechanism.
+From the first day of its foundation the new movement took its
+stand on the principle that its ideas had to be propagated by
+intellectual means but that, wherever necessary, muscular force
+must  be  employed  to  support  this  propaganda.   In  accordance
+with their conviction of the paramount importance of the new
+doctrine, the leaders of the new movement naturally believe that
+no sacrifice can be considered too great when it is a question of
+carrying through the purpose of the movement.
+I  have   emphasized   that   in  certain   circumstances   a   movement
+which is meant to win over the hearts of the people must be
+ready   to   defend   itself   with   its   own   forces   against   terrorist
+attempts on the part of its adversaries. It has invariably happened
+in the history of the world that formal State authority has failed
+to break a reign of terror which was inspired by a philosophy of
+life. It can only be conquered by a new and different philosophy
+of   life   whose   representatives   are   quite   as   audacious   and
+determined. The acknowledgment of this fact has always been
+very unpleasant for the bureaucrats who are the protectors of the
+State, but the fact remains nevertheless. The rulers of the State
+can   guarantee   tranquillity   and   order   only   in   case   the   State
+embodies a philosophy which is shared in by the people as a
+whole; so that elements of disturbance can be treated as isolated
+criminals, instead of being considered as the champions of an
+idea which is diametrically opposed to official opinions. If such
+should   be   the   case   the   State   may   employ   the   most   violent
+measures for centuries long against the terror that threatens it; but
+in the end all these measures will prove futile, and the State will
+have to succumb.
+The German State is intensely overrun by Marxism. In a struggle
+that went on for seventy years the State was not able to prevent
+the triumph of the Marxist idea. Even though the sentences to
+penal servitude and imprisonment amounted in all to thousands
+of   years,   and   even   though   the   most   sanguinary   methods   of
+repression were in innumerable instances threatened against the
+champions of the Marxist philosophy, in the end the State was
+forced to capitulate almost completely. The ordinary bourgeois
+political leaders will deny all this, but their protests are futile.
+Seeing that the State capitulated unconditionally to Marxism on
+November 9th, 1918, it will not suddenly rise up tomorrow as the
+conqueror of Marxism. On the contrary. Bourgeois simpletons
+sitting on office stools in the various ministries babble about the
+necessity of not governing against the wishes of the workers, and
+by the word 'workers' they mean the Marxists. By identifying the
+German worker with Marxism not only are they guilty of a vile
+falsification   of  the  truth,  but  they   thus try  to  hide   their  own
+collapse before the Marxist idea and the Marxist organization.
+In view of the complete subordination of the present State to
+Marxism, the National Socialist Movement feels all the more
+bound not only to prepare the way for the triumph of its idea by
+appealing to the reason and understanding of the public but also
+to   take   upon   itself   the   responsibility   of   organizing   its   own
+defence   against   the   terror   of   the   International,   which   is
+intoxicated with its own victory.
+I have already described how practical experience in our young
+movement led us slowly to organize a system of defence for our
+meetings.   This   gradually   assumed   the   character   of   a   military
+body specially trained for the maintenance of order, and tended
+to   develop   into   a   service   which   would   have   its   properly
+organized cadres.
+This   new   formation   might   resemble   the   defence   associations
+externally, but in reality there were no grounds of comparison
+between the one and the other.
+As I have already said, the German defence organizations did not
+have any definite political ideas of their own. They really were
+only associations for mutual protection, and they were trained
+and   organized   accordingly,   so   that   they   were   an   illegal
+complement or auxiliary to the legal forces of the State. Their
+character as free corps arose only from the way in which they
+were constructed and the situation in which the State found itself
+at that time. But they certainly could not claim to be free corps
+on the grounds that they were associations formed freely and
+privately for the purpose of fighting for their own freely formed
+political convictions. Such they were not, despite the fact that
+some   of   their   leaders   and   some   associations   as   such   were
+definitely opposed to the Republic. For before we can speak of
+political convictions in the higher sense we must be something
+more than merely convinced that the existing regime is defective.
+Political convictions in the higher sense mean that one has the
+picture of a new regime clearly before one's mind, feels that the
+establishment of this regime is an absolute necessity and sets
+himself to carry out that purpose as the highest task to which his
+life can be devoted.
+The troops for the preservation of order, which were then formed
+under   the   National   Socialist   Movement,   were   fundamentally
+different from all the other defence associations by reason of the
+fact that our formations were not meant in any way to defend the
+state of things created by the Revolution, but rather that they
+were meant exclusively to support our struggle for the creation of
+a new Germany.
+In the beginning this body was merely a guard to maintain order
+at our meetings. Its first task was limited to making it possible
+for us to hold our meetings, which otherwise would have been
+completely prevented by our opponents. These men were at that
+time trained merely for purposes of attack, but they were not
+taught to adore the big stick exclusively, as was then pretended in
+stupid German patriotic circles. They used the cudgel because
+they knew that it can be made impossible for high ideals to be
+put forward if the man who endeavours to propagate them can be
+struck down with the cudgel. As a matter of fact, it has happened
+in history not infrequently that some of the greatest minds have
+perished under the blows of the most insignificant helots. Our
+bodyguards did not look upon violence as an end in itself, but
+they protected the expositors of ideal aims and purposes against
+hostile coercion by violence. They also understood that there was
+no obligation to undertake the defence of a State which did not
+guarantee the defence of the nation, but that, on the contrary,
+they had to defend the nation against those who were threatening
+to destroy nation and State.
+After the fight which took place at the meeting in the Munich
+Hofbräuhaus, where the small number of our guards who were
+present   won   everlasting   fame   for   themselves   by   the   heroic
+manner in which they stormed the adversaries; these guards were
+called The Storm Detachment. As the name itself indicates, they
+represent  only a detachment of the Movement.  They are one
+constituent element of it, just as is the Press, the propaganda,
+educational institutes, and other sections of the Party.
+We learned how necessary was the formation of such a body, not
+only from our experience on the occasion of that memorable
+meeting   but   also   when   we   sought   gradually   to   carry   the
+Movement beyond Munich and extend it to the other parts of
+Germany. Once we had begun to appear as a danger to Marxism
+the Marxists lost no opportunity of trying to crush beforehand all
+preparations   for   the   holding   of   National   Socialist   meetings.
+When they did not succeed in this they tried to break up the
+meeting   itself.   It   goes   without   saying   that   all   the   Marxist
+organizations, no matter of what grade or view, blindly supported
+the policy and activities of their representations in every case.
+But what is to be said of the bourgeois parties who, when they
+were reduced to silence by these same Marxists and in many
+places did not dare to send their speakers to appear before the
+public,   yet   showed   themselves   pleased,   in   a   stupid   and
+incomprehensible manner, every time we received any kind of
+set­back   in   our   fight   against   Marxism.   The   bourgeois   parties
+were happy to think that those whom they themselves could not
+stand   up   against,   but   had   to   knuckle   down   to,   could   not   be
+broken by us. What must be said of those State officials, chiefs of
+police, and even cabinet ministers, who showed a scandalous
+lack of principle in presenting themselves externally to the public
+as 'national' and yet shamelessly acted as the henchmen of the
+Marxists in the disputes which we, National Socialists, had with
+the latter. What can be said of persons who debased themselves
+so far, for the sake of a little abject praise in the Jewish Press,
+that  they   persecuted   those   men   to  whose   heroic   courage   and
+intervention, regardless of risk, they were partly indebted for not
+having   been   torn   to   pieces   by   the   Red   mob   a   few   years
+previously and strung up to the lamp­posts?
+One   day   these   lamentable   phenomena   fired   the   late   but
+unforgotten   Prefect   Pöhner   –   a   man   whose   unbending
+straightforwardness forced him to hate all twisters and to hate
+them as only a man with an honest heart can hate – to say: "In all
+my life I wished to be first a German and then an official, and I
+never wanted to mix up with these creatures who, as if they were
+kept officials, prostituted themselves before anybody who could
+play lord and master for the time being." It was a specially sad
+thing   that   gradually   tens   of   thousands   of   honest   and   loyal
+servants of the State did not only come under the power of such
+people but were also slowly contaminated by their unprincipled
+morals. Moreover, these kind of men pursued honest officials
+with a furious hatred, degrading them and driving them from
+their positions, and yet passed themselves off as 'national' by the
+aid of their lying hypocrisy.
+From officials of that kind we could expect no support, and only
+in very rare instances was it given. Only by building up its own
+defence   could   our   movement   become   secure   and   attract   that
+amount of public attention and general respect which is given to
+those who can defend themselves when attacked.
+As an underlying principle in the internal development of the
+Storm Detachment, we came to the decision that not only should
+it   be   perfectly   trained   in   bodily   efficiency   but   that   the   men
+should be so instructed as to make them indomitably convinced
+champions of the National Socialist ideas and, finally, that they
+should be schooled to observe the strictest discipline. This body
+was to have nothing to do with the defence organizations of the
+bourgeois type and especially not with any secret organization.
+My reasons at that time for guarding strictly against letting the
+Storm   Detachment   of   the   German   National   Socialist   Labour
+Party appear as a defence association were as follows:
+On purely practical grounds it is impossible to build up a national
+defence organization by means of private associations, unless the
+State   makes   an   enormous   contribution   to   it.   Whoever   thinks
+otherwise overestimates his own powers. Now it is entirely out of
+the question to form organizations of any military value for a
+definite   purpose   on   the   principle   of   so­called   'voluntary
+discipline'. Here the chief support for enforcing orders, namely,
+the power of inflicting punishment, is lacking. In the autumn, or
+rather   in   the   spring,   of   1919   it   was   still   possible   to   raise
+'volunteer corps', not only because most of the men who came
+forward  at  that  time  had  been  through  the  school  of  the  old
+Army,   but   also   because   the   kind   of   duty   imposed   there
+constrained the individual to absolute obedience at least for a
+definite period of time.
+That   spirit   is   entirely   lacking   in   the   volunteer   defence
+organizations of today. The more the defence association grows,
+the weaker its discipline becomes and so much the less can one
+demand   from   the   individual   members.   Thus   the   whole
+organization will more and more assume the character of the old
+non­political associations of war comrades and veterans.
+It is impossible to carry through a voluntary training in military
+service for larger masses unless one is assured absolute power of
+command. There will always be few men who will voluntarily
+and spontaneously  submit to that kind of obedience which is
+considered natural and necessary in the Army.
+Moreover,   a   proper   system   of   military   training   cannot   be
+developed  where there  are  such  ridiculously  scanty  means as
+those at the disposal of the defence associations. The principal
+task of such an institution must be to impart the best and most
+reliable kind of instruction. Eight years have passed since the end
+of the War, and during that time none of our German youth, at an
+age when formerly they would have had to do military service,
+have received any systematic training at all. The aim of a defence
+association cannot be to enlist here and now all those who have
+already received a military training; for in that case it could be
+reckoned   with   mathematical   accuracy   when   the   last   member
+would leave the association. Even the younger soldier from 1918
+will no longer be fit for front­line service twenty years later, and
+we are approaching that state of things with a rapidity that gives
+cause for anxiety. Thus the defence associations must assume
+more and more the aspect of the old ex­service men's societies.
+But that cannot be the meaning and purpose of an institution
+which calls itself, not an association of ex­service men but a
+defence association, indicating by this title that it considers its
+task to be, not only to preserve the tradition of the old soldiers
+and hold them together but also to propagate the idea of national
+defence and be able to carry this idea into practical effect, which
+means the creation of a body of men who are fit and trained for
+military defence.
+But   this   implies   that   those   elements   will   receive   a   military
+training which up to now have received none. This is something
+that in practice is impossible for the defence associations. Real
+soldiers cannot be made by a training of one or two hours per
+week.   In   view   of   the   enormously   increasing   demands   which
+modern   warfare   imposes   on   each   individual   soldier   today,   a
+military service of two years is barely sufficient to transform a
+raw recruit into a trained soldier. At the Front during the War we
+all saw the fearful consequences which our young recruits had to
+suffer from their lack of a thorough military training. Volunteer
+formations which had been drilled for fifteen or twenty weeks
+under an iron discipline and shown unlimited self­denial proved
+nevertheless to be no better than cannon fodder at the Front. Only
+when distributed among the ranks of the old and experienced
+soldiers could the young recruits, who had been trained for four
+or six months, become useful members of a regiment. Guided by
+the 'old men', they adapted themselves gradually to their task.
+In the light of all this, how hopeless must the attempt be to create
+a body of fighting troops by a so­called training of one or two
+hours in the week, without any definite power of command and
+without any considerable means. In that way perhaps one could
+refresh military training in old soldiers, but raw recruits cannot
+thus be transformed into expert soldiers.
+How such a proceeding produces utterly worthless results may
+also be demonstrated by the fact that at the same time as these
+so­called volunteer defence associations, with great effort and
+outcry   and   under   difficulties   and   lack   of   necessities,   try   to
+educate and train a few thousand men of goodwill (the others
+need not be taken into account) for purposes of national defence,
+the State teaches our young men democratic and pacifist ideas
+and thus deprives millions and millions of their national instincts,
+poisons their logical sense of patriotism and gradually turns them
+into   a   herd   of   sheep   who   will   patiently   follow   any   arbitrary
+command. Thus they render ridiculous all those attempts made
+by the defence associations to inculcate their ideas in the minds
+of the German youth.
+Almost more important is the following consideration, which has
+always made me take up a stand against all attempts at a socalled military training on the basis of the volunteer associations.
+Assuming that, in spite of all the difficulties just mentioned, a
+defence association were successful in training a certain number
+of   Germans   every   year   to   be   efficient   soldiers,   not   only   as
+regards their mental outlook but also as regards bodily efficiency
+and the expert handling of arms, the result must necessarily be
+null and void in a State whose whole tendency makes it not only
+look upon such a defensive formation as undesirable but even
+positively hate it, because such an association would completely
+contradict the intimate aims of the political leaders, who are the
+corrupters of this State.
+But   anyhow,   such   a   result   would   be   worthless   under
+governments which have demonstrated by their own acts that
+they do not lay the slightest importance on the military power of
+the nation and are not disposed to permit an appeal to that power
+only in case that it were necessary for the protection of their own
+malignant existence.
+And that is the state of affairs today. It is not ridiculous to think
+of training some ten thousand men in the use of arms, and carry
+on that training surreptitiously, when a few years previously the
+State,   having   shamefully   sacrificed   eight­and­a­half   million
+highly trained soldiers, not merely did not require their services
+any more, but, as a mark of gratitude for their sacrifices, held
+them up to public contumely. Shall we train soldiers for a regime
+which besmirched and spat upon our most glorious soldiers, tore
+the medals and badges from their breasts, trampled on their flags
+and derided their achievements? Has the present regime taken
+one   step   towards   restoring   the   honour   of   the   old   army   and
+bringing those who destroyed and outraged it to answer for their
+deeds? Not in the least. On the contrary, the people I have just
+referred to may be seen enthroned in the highest positions under
+the State today. And yet it was said at Leipzig: "Right goes with
+might." Since, however, in our Republic today might is in the
+hands of the very men who arranged for the Revolution, and
+since that Revolution represents a most despicable act of high
+treason against the nation – yea, the vilest act in German history
+– there can surely be no grounds for saying that might of this
+character should be enhanced by the formation of a new young
+army. It is against all sound reason.
+The importance which this State attached, after the Revolution of
+1918, to the reinforcement of its position from the military point
+of view is clearly and unmistakably demonstrated by its attitude
+towards the large self­defence organizations which existed in that
+period. They were not unwelcome as long as they were of use for
+the personal protection of the miserable creatures cast up by the
+Revolution.
+But the danger to these creatures seemed to disappear as the
+debasement of our people gradually increased. As the existence
+of the defence associations no longer implied a reinforcement of
+the national policy they became superfluous. Hence every effort
+was made to disarm them and suppress them wherever that was
+possible.
+History records only a few examples of gratitude on the part of
+princes. But there is not one patriot among the new bourgeoisie
+who can count on the gratitude of revolutionary incendiaries and
+assassins, persons who have enriched themselves from the public
+spoil and betrayed the nation. In examining the problem as to the
+wisdom   of   forming   these   defence   associations   I   have   never
+ceased to ask: 'For whom shall I train these young men? For what
+purpose will they be employed when they will have to be called
+out?' The answer to these questions lays down at the same time
+the best rule for us to follow.
+If the present State should one day have to call upon trained
+troops of this kind it would never be for the purpose of defending
+the   interests   of   the   nation   vis­à­vis  those   of   the   stranger   but
+rather to protect the oppressors of the nation inside the country
+against the danger of a general outbreak of wrath on the part of a
+nation which has been deceived and betrayed and whose interests
+have been bartered away.
+For this reason it was decided that the Storm Detachment of the
+German National Socialist Labour Party ought not to be in the
+nature of a military organization. It had to be an instrument of
+protection and education for the National Socialist Movement
+and its duties should be in quite a different sphere from that of
+the military defence association.
+And,   of   course,   the   Storm   Detachment   should   not   be   in   the
+nature   of   a   secret   organization.   Secret   organizations   are
+established only for purposes that are against the law. Therewith
+the purpose of such an organization is limited by its very nature.
+Considering the loquacious propensities of the German people, it
+is not possible to build up any vast organization, keeping it secret
+at the same time and cloaking its purpose. Every attempt of that
+kind is destined to turn out absolutely futile. It is not merely that
+our   police   officials   today   have   at   their   disposal   a   staff   of
+eavesdroppers   and   other   such   rabble   who   are   ready   to   play
+traitor,   like   Judas,   for   thirty   pieces   of   silver   and   will   betray
+whatever secrets they can discover and will invent what they
+would like to reveal. In order to forestall such eventualities, it is
+never possible to bind one's own followers to the silence that is
+necessary. Only small groups can become really secret societies,
+and that only after long years of filtration. But the very smallness
+of such groups would deprive them of all value for the National
+Socialist Movement. What we needed then and need now is not
+one   or   two   hundred   dare­devil   conspirators   but   a   hundred
+thousand devoted champions of our philosophy of life. The work
+must   not   be   done   through   secret   conventicles   but   through
+formidable mass demonstrations in public. Dagger and pistol and
+poison­vial   cannot   clear   the   way   for   the   progress   of   the
+movement. That can be done only by winning over the man in
+the street. We must overthrow Marxism, so that for the future
+National Socialism will be master of the street, just as it will one
+day become master of the State.
+There is another danger connected with secret societies. It lies in
+the fact that their members often completely misunderstand the
+greatness   of   the   task   in   hand   and   are   apt   to   believe   that   a
+favourable destiny can be assured for the nation all at once by
+means   of   a   single   murder.   Such   a   belief   may   find   historical
+justification   by   appealing   to   cases   where   a   nation   had   been
+suffering under the tyranny of some oppressor who at the same
+time was a man of genius and whose extraordinary personality
+guaranteed the internal solidity of his position and enabled him to
+maintain   his   fearful   oppression.   In   such   cases   a   man   may
+suddenly arise from the ranks of the people who is ready to
+sacrifice himself and plunge the deadly steel into the heart of the
+hated individual. In order to look upon such a deed as abhorrent
+one must have the republican mentality of that petty canaille who
+are conscious of their own crime. But the greatest champion of
+liberty that the German people have ever had has glorified such a
+deed in William Tell.
+During 1919 and 1920 there was danger that the members of
+secret   organizations,   under   the   influence   of   great   historical
+examples   and   overcome   by   the   immensity   of   the   nation's
+misfortunes, might attempt to wreak vengeance on the destroyers
+of their country, under the belief that this would end the miseries
+of the people. All such attempts were sheer folly, for the reason
+that the Marxist triumph was not due to the superior genius of
+one remarkable person but rather to immeasurable incompetence
+and cowardly shirking on the part of the bourgeoisie. The hardest
+criticism that can be uttered against our bourgeoisie is simply to
+state the fact that it submitted to the Revolution, even though the
+Revolution did not produce one single man of eminent worth.
+One can always understand how it was possible to capitulate
+before a Robespierre, a Danton, or a Marat; but it was utterly
+scandalous   to   go   down   on   all   fours   before   the   withered
+Scheidemann, the obese Herr Erzberger, Frederick Ebert, and the
+innumerable other political pigmies of the Revolution. There was
+not   a   single   man   of   parts   in   whom   one   could   see   the
+revolutionary   man   of   genius.   Therein   lay   the   country's
+misfortune; for they were only revolutionary bugs, Spartacists
+wholesale and retail. To suppress one of them would be an act of
+no consequence. The only result would be that another pair of
+bloodsuckers, equally fat and thirsty, would be ready to take his
+place.
+During those years we had to take up a determined stand against
+an   idea   which   owed   its   origin   and   foundation   to   historical
+episodes that were really great, but to which our own despicable
+epoch did not bear the slightest similarity.
+The same reply may be given when there is question of putting
+somebody 'on the spot' who has acted as a traitor to his country.
+It would be ridiculous and illogical to shoot a poor wretch who
+had betrayed the position of a howitzer to the enemy while the
+highest positions of the government are occupied by a rabble
+who   bartered   away   a   whole   empire,   who   have   on   their
+consciences the deaths of two million men who were sacrificed
+in vain, fellows who were responsible for the millions maimed in
+the war and who make a thriving business out of the republican
+regime without allowing their souls to be disturbed in any way. It
+would be absurd to do away with small traitors in a State whose
+government has absolved the great traitors from all punishment.
+For it might easily happen that one day an honest idealist, who,
+out of love for his country, had removed from circulation some
+miserable informer that had given information about secret stores
+of arms might now be called to answer for his act before the chief
+traitors of the country. And there is still an important question:
+Shall some small traitorous creature be suppressed by another
+small traitor, or by an idealist?  In the former case the result
+would be doubtful and the deed would almost surely be revealed
+later on. In the second case a petty rascal is put out of the way
+and   the   life   of   an   idealist   who   may   be   irreplaceable   is   in
+jeopardy.
+For myself, I believe that small thieves should not be hanged
+while big thieves are allowed to go free. One day a national
+tribunal will have to judge and sentence some tens of thousands
+of organizers who were responsible for the criminal November
+betrayal and all the consequences that followed on it. Such an
+example will teach the necessary lesson, once and for ever, to
+those paltry traitors who revealed to the enemy the places where
+arms were hidden.
+On the grounds of these considerations I steadfastly forbade all
+participation in secret societies, and I took care that the Storm
+Detachment should not assume such a character. During those
+years I kept the National Socialist Movement away from those
+experiments which were being undertaken by young Germans
+who for the most part were inspired with a sublime idealism but
+who became the victims of their own deeds, because they could
+not ameliorate the lot of their fatherland to the slightest degree.
+If   then   the   Storm   Detachment   must   not   be   either   a   military
+defence   organization   or   a   secret   society,   the   following
+conclusions must result:
+1. Its training must not be organized from the military standpoint
+but   from   the   standpoint   of   what   is   most   practical   for   party
+purposes. Seeing that its members must undergo a good physical
+training,   the   place   of   chief   importance   must   not   be   given   to
+military drill but rather to the practice of sports. I have always
+considered boxing and ju­jitsu more important than some kind of
+bad, because mediocre, training in rifle­shooting. If the German
+nation were presented with a body of young men who had been
+perfectly trained in athletic sports, who were imbued with an
+ardent love for their country and a readiness to take the initiative
+in a fight, then the national State could make an army out of that
+body within less than two years if it were necessary, provided the
+cadres  already  existed.   In   the  actual   state   of  affairs  only   the
+Reichswehr   could   furnish   the   cadres   and   not   a   defence
+organization that was neither one thing nor the other. Bodily
+efficiency would develop in the individual a conviction of his
+superiority and would give him that confidence which is always
+based only on the consciousness of one's own powers. They must
+also develop that athletic agility which can be employed as a
+defensive weapon in the service of the Movement.
+
+2.   In   order   to   safeguard   the   Storm   Detachment   against   any
+tendency towards secrecy, not only must the uniform be such that
+it can immediately be recognized by everybody, but the large
+number   of   its   effectives   show   the   direction   in   which   the
+Movement   is   going   and   which   must   be   known   to   the   whole
+public. The members of the Storm Detachment must not hold
+secret gatherings but must march in the open and thus, by their
+actions, put an end to all legends about a secret organization. In
+order to keep them away from all temptations towards finding an
+outlet for their activities in small conspiracies, from the very
+beginning we had to inculcate in their minds the great idea of the
+Movement   and   educate   them   so   thoroughly   to   the   task   of
+defending this idea that their horizon became enlarged and that
+the individual no longer considered it his mission to remove from
+circulation some rascal or other, whether big or small, but to
+devote   himself   entirely   to   the   task   of   bringing   about   the
+establishment of a new National Socialist People's State. In this
+way the struggle against the present State was placed on a higher
+plane than that of petty revenge and small conspiracies. It was
+elevated   to   the   level   of   a   spiritual   struggle   on   behalf   of   a
+philosophical   war,   for   the   destruction   of   Marxism   in   all   its
+shapes and forms.
+3. The form of organization adopted for the Storm Detachment,
+as well as its uniform and equipment, had to follow different
+models from those of the old Army. They had to be specially
+suited to the requirements of the task that was assigned to the
+Storm Detachment.
+These were the ideas I followed in 1920 and 1921. I endeavoured
+to   instil   them   gradually   into   the   members   of   the   young
+organization. And the result was that by the midsummer of 1922
+we had a goodly number of formations which consisted of a
+hundred   men   each.   By   the   late   autumn   of   that   year   these
+formations received their distinctive uniforms. There were three
+events which turned out to be of supreme importance for the
+subsequent development of the Storm Detachment.
+1.   The   great   mass   demonstration   against   the   Law   for   the
+Protection of the Republic. This demonstration was held in the
+late summer of 1922 on the Königs­platz in Munich, by all the
+patriotic   societies.   The   National   Socialist   Movement   also
+participated in it. The march­past of our party, in serried ranks,
+was   led   by   six   Munich   companies   of   a   hundred   men   each,
+followed   by   the   political   sections   of   the   Party.   Two   bands
+marched with us and about fifteen flags were carried. When the
+National Socialists arrived at the great square it was already half
+full,   but   no   flag   was   flying.   Our   entry   aroused   unbounded
+enthusiasm. I myself had the honour of being one of the speakers
+who addressed that mass of about sixty thousand people.
+The   demonstration   was   an   overwhelming   success;   especially
+because it was proved for the first time that nationalist Munich
+could march on the streets, in spite of all threats from the Reds.
+Members of the organization for the defence of the Red Republic
+endeavoured to hinder the marching columns by their terrorist
+activities, but they were scattered by the companies of the Storm
+Detachment within a few minutes and sent off with bleeding
+skulls. The National Socialist Movement had then shown for the
+first time that in future it was determined to exercise the right to
+march on the streets and thus take this monopoly away from the
+international traitors and enemies of the country.
+The result of that day was an incontestable proof that our ideas
+for the creation of the Storm Detachment were right, both from
+the psychological viewpoint and as to the manner in which this
+body was organized.
+On the basis of this success the enlistment progressed so rapidly
+that within a few weeks the number of Munich companies of a
+hundred men each became doubled.
+2. The expedition to Coburg in October 1922.
+Certain People's Societies had decided to hold a German Day at
+Coburg. I was invited to take part, with the intimation that they
+wished me to bring a following along. This invitation, which I
+received at eleven o'clock in the morning, arrived just in time.
+Within   an   hour   the   arrangements   for   our   participation   in   the
+German Congress were ready. I picked eight hundred men of the
+Storm Detachment to accompany me. These were divided into
+about fourteen companies and had to be brought by special train
+from Munich to Coburg, which had just voted by plebiscite to be
+annexed to Bavaria. Corresponding orders were given to other
+groups of the National Socialist Storm Detachment which had
+meanwhile been formed in various other localities.
+This was the first time that such a special train ran in Germany.
+At   all   the   places   where   the   new   members   of   the   Storm
+Detachment joined us our train caused a sensation. Many of the
+people   had   never   seen   our   flag.   And   it   made   a   very   great
+impression.
+As we arrived at the station in Coburg we were received by a
+deputation of the organizing committee of the German Day. They
+announced that it had been 'arranged' at the orders of local trades
+unions – that is to say, the Independent and Communist Parties –
+that we should not enter the town with our flags unfurled and our
+band playing (we had a band consisting of forty­two musicians
+with us) and that we should not march with closed ranks.
+I immediately rejected these unmilitary conditions and did not
+fail to declare before the gentlemen who had arranged this 'day'
+how astonished I was at the idea of their negotiating with such
+people and coming to an agreement with them. Then I announced
+that the Storm Troops would immediately march into the town in
+company formation, with our flags flying and the band playing.
+And that is what happened.
+As we came out into the station yard we were met by a growling
+and   yelling   mob   of   several   thousand,   that   shouted   at   us:
+'Assassins',   'Bandits',   'Robbers',   'Criminals'.   These   were   the
+choice names which these exemplary founders of the German
+Republic showered on us. The young Storm Detachment gave a
+model example of order. The companies fell into formation on
+the square in front of the station and at first took no notice of the
+insults hurled at them by the mob. The police were anxious. They
+did not pilot us to the quarters assigned to us on the outskirts of
+Coburg,  a  city  quite  unknown  to  us,  but  to  the  Hofbräuhaus
+Keller in the centre of the town. Right and left of our march the
+tumult   raised   by   the   accompanying   mob   steadily   increased.
+
+Scarcely   had   the   last   company   entered   the   courtyard   of   the
+Hofbräuhaus when the huge mass made a rush to get in after
+them, shouting madly. In order to prevent this, the police closed
+the gates. Seeing the position was untenable I called the Storm
+Detachment to attention and then asked the police to open the
+gates   immediately.   After   a   good   deal   of   hesitation,   they
+consented.
+We now marched back along the same route as we had come, in
+the direction of our quarters, and there we had to make a stand
+against the crowd. As their cries and yells all along the route had
+failed to disturb the equanimity of our companies, the champions
+of true Socialism, Equality, and Fraternity now took to throwing
+stones. That brought our patience to an end. For ten minutes
+long, blows fell right and left, like a devastating shower of hail.
+Fifteen minutes later there were no more Reds to be seen in the
+street.
+The collisions which took place when the night came on were
+more serious. Patrols of the Storm Detachment had discovered
+National Socialists who had been attacked singly and were in an
+atrocious state. Thereupon we made short work of the opponents.
+By the following morning the Red terror, under which Coburg
+had been suffering for years, was definitely smashed.
+Adopting the typically Marxist and Jewish method of spreading
+falsehoods,   leaflets   were   distributed   by   hand   on   the   streets,
+bearing   the   caption:   "Comrades   and   Comradesses   of   the
+International Proletariat." These leaflets were meant to arouse the
+wrath  of the  populace.  Twisting  the  facts completely  around,
+they declared that our 'bands of assasins' had commenced 'a war
+of  extermination against  the  peaceful workers  of  Coburg'.  At
+half­past   one   that   day   there   was   to   be   a   'great   popular
+demonstration', at which it was hoped that the workers of the
+whole district would turn up. I was determined finally to crush
+this Red terror and so I summoned the Storm Detachment to
+meet at midday. Their number had now increased to 1,500. I
+decided to march with these men to the Coburg Festival and to
+cross the big square where the Red demonstration was to take
+place. I wanted to see if they would attempt to assault us again.
+
+When we entered the square we found that instead of the ten
+thousand that had been advertised, there were only a few hundred
+people present. As we approached they remained silent for the
+most part, and some ran away. Only at certain points along the
+route some bodies of Reds, who had arrived from outside the city
+and had not yet come to know us, attempted to start a row. But a
+few fisticuffs put them to flight. And now one could see how the
+population, which had for such a long time been so wretchedly
+intimidated, slowly woke up and recovered their courage. They
+welcomed us openly, and in the evening, on our return march,
+spontaneous shouts of jubilation broke out at several points along
+the route.
+At the station the railway employees informed us all of a sudden
+that our train would not move. Thereupon I had some of the
+ringleaders told that if this were the case I would have all the Red
+Party heroes arrested that fell into our hands, that we would drive
+the train ourselves, but that we would take away with us, in the
+locomotive and tender and in some of the carriages, a few dozen
+members of this brotherhood of international solidarity. I did not
+omit to let those gentry know that if we had to conduct the train
+the journey would undoubtedly be a very risky adventure and
+that we might all break our necks. It would be a consolation,
+however, to know that we should not go to Eternity alone, but in
+equality and fraternity with the Red gentry.
+Thereupon   the   train   departed   punctually   and   we   arrived   next
+morning in Munich safe and sound.
+Thus at Coburg, for the first time since 1914, the equality of all
+citizens   before   the   law   was   re­established.   For   even   if   some
+coxcomb of a higher official should assert today that the State
+protects the lives of its citizens, at least in those days it was not
+so. For at that time the citizens had to defend themselves against
+the representatives of the present State.
+At first it was not possible fully to estimate the importance of the
+consequences which resulted from that day. The victorious Storm
+Troops   had   their   confidence   in   themselves   considerably
+reinforced and also their faith in the sagacity of their leaders. Our
+contemporaries began to pay us special attention and for the first
+time many recognized the National Socialist Movement as an
+organization   that   in   all   probability   was   destined   to   bring   the
+Marxist folly to a deserving end.
+Only   the   democrats   lamented   the   fact   that   we   had   not   the
+complaisance to allow our skulls to be cracked and that we had
+dared, in a democratic Republic, to hit back with fists and sticks
+at a brutal assault, rather than with pacifist chants.
+Generally speaking,  the bourgeois Press was partly distressed
+and   partly   vulgar,   as   always.   Only   a   few   decent   newspapers
+expressed   their   satisfaction   that   at   least   in   one   locality   the
+Marxist street bullies had been effectively dealt with.
+And in Coburg itself at least a part of the Marxist workers who
+must   be   looked   upon   as   misled,   learned   from   the   blows   of
+National Socialist fists that these workers were also fighting for
+ideals, because experience teaches that the human being fights
+only for something in which he believes and which he loves.
+The Storm Detachment itself benefited most from the Coburg
+events. It grew so quickly in numbers that at the Party Congress
+in January 1923 six thousand men participated in the ceremony
+of consecrating the flags and the first companies were fully clad
+in their new uniform.
+Our experience in Coburg proved how essential it is to introduce
+one distinctive uniform for the Storm Detachment, not only for
+the purpose of strengthening the esprit de corps but also to avoid
+confusion and the danger of not recognizing the opponent in a
+squabble. Up to that time they had merely worn the armlet, but
+now the tunic and the well­known cap were added.
+But the Coburg experience had also another important result. We
+now determined to break the Red Terror in all those localities
+where for many years it had prevented men of other views from
+holding their meetings. We were determined to restore the right
+of   free   assembly.   From   that   time   onwards   we   brought   our
+battalions   together   in   such   places   and   little   by   little   the   red
+citadels of Bavaria, one after another, fell before the National
+Socialist propaganda. The Storm Troops became more and more
+adept at their job. They increasingly lost all semblance of an
+aimless and lifeless defence movement and came out into the
+light   as   an   active   militant   organization,   fighting   for   the
+establishment of a new German State.
+This logical development continued until March 1923. Then an
+event occurred which made me divert the Movement from the
+course hitherto followed and introduce some changes in its outer
+formation.
+In the first months of 1923 the French occupied the Ruhr district.
+The   consequence   of   this   was   of   great   importance   in   the
+development of the Storm Detachment.
+It is not yet possible, nor would it be in the interest of the nation,
+to write or speak openly and freely on the subject. I shall speak
+of it only as far as the matter has been dealt with in public
+discussions and thus brought to the knowledge of everybody.
+The occupation of the Ruhr district, which did not come as a
+surprise to us, gave grounds for hoping that Germany would at
+last abandon its cowardly policy of submission and therewith
+give the defensive associations a definite task to fulfil. The Storm
+Detachment   also,   which   now   numbered   several   thousand   of
+robust and vigorous young men, should not be excluded from
+this national service. During the spring and summer of 1923 it
+was transformed into a fighting military organization. It is to this
+reorganization   that   we   must   in   great   part   attribute   the   later
+developments that took place during 1923, in so far as it affected
+our Movement.
+Elsewhere I shall deal in broad outline with the development of
+events in 1923. Here I wish only to state that the transformation
+of the Storm Detachment at that time must have been detrimental
+to   the   interests   of   the   Movement   if   the   conditions   that   had
+motivated the change were not to be carried into effect, namely,
+the adoption of a policy of active resistance against France.
+The events which took place at the close of 1923, terrible as they
+may appear at first sight, were almost a necessity if looked at
+from a higher standpoint; because, in view of the attitude taken
+by   the   Government   of   the   German   Reich,   conversion   of   the
+Storm Troops into a military force would be meaningless and
+thus   a   transformation   which   would   also   be   harmful   to   the
+Movement was ended at one stroke. At the same time it was
+made possible for us to reconstruct at the point where we had
+been diverted from the proper course.
+In the year 1925 the German National Socialist Labour Party was
+re­founded and had to organize and train its Storm Detachment
+once again according to the principles I have laid down. It must
+return to the original idea and once more it must consider its
+most essential task to function as the instrument of defence and
+reinforcement in the spiritual struggle to establish the ideals of
+the Movement.
+The Storm Detachment must not be allowed to sink to the level
+of something in the nature of a defence organization or a secret
+society. Steps must be taken rather to make it a vanguard of
+100,000   men   in   the   struggle   for   the   National   Socialist   ideal
+which is based on the profound principle of a People's State.
+
+
+
+`;
+const chapter_b_10 = `In the winter of 1919, and still more in the spring and summer of
+1920, the young Party felt bound to take up a definite stand on a
+question which already had become quite serious during the War.
+In the first volume of this book I have briefly recorded certain
+facts which I had personally witnessed and which foreboded the
+break­up of Germany. In describing these facts I made reference
+to the special nature of the propaganda which was directed by the
+English as well as the French towards reopening the breach that
+had existed between North and South in Germany. In the spring
+of 1915 there appeared the first of a series of leaflets which was
+systematically followed up and the aim of which was to arouse
+feeling against Prussia as being solely responsible for the war.
+Up to 1916 this system had been developed and perfected in a
+cunning   and   shameless   manner.   Appealing   to   the   basest   of
+human   instincts,   this   propaganda   endeavoured   to   arouse   the
+wrath of the South Germans against the North Germans and after
+a short time it bore fruit. Persons who were then in high positions
+under the Government and in the Army, especially those attached
+to headquarters in the Bavarian Army, merited the just reproof of
+having   blindly   neglected   their   duty   and   failed   to   take   the
+necessary steps to counter such propaganda. But nothing was
+done. On the contrary, in some quarters it did not appear to be
+quite unwelcome and probably they were short­sighted enough to
+think that such propaganda might help along the development of
+unification in Germany but even that it might automatically bring
+about  consolidation  of  the  federative  forces.   Scarcely   ever  in
+history was such a wicked neglect more wickedly avenged. The
+weakening of Prussia, which they believed would result from this
+propaganda,   affected   the   whole   of   Germany.   It   resulted   in
+hastening the collapse which not only wrecked Germany as a
+whole but even more particularly the federal states.
+In that town where the artificially created hatred against Prussia
+raged most violently the revolt against the reigning House was
+the beginning of the Revolution.
+It would be a mistake to think that the enemy propaganda was
+exclusively responsible for creating an anti­Prussian feeling and
+that there were no reasons which might excuse the people for
+having   listened   to   this   propaganda.   The   incredible   fashion   in
+which the national economic interests were organized during the
+War, the absolutely crazy system of centralization which made
+the whole Reich its ward and exploited the Reich, furnished the
+principal grounds for the growth of that anti­Prussian feeling.
+The average citizen looked upon the companies for the placing of
+war contracts, all of which had their headquarters in Berlin, as
+identical with Berlin and Berlin itself as identical with Prussia.
+The average citizen did not know that the organization of these
+robber companies, which were called War Companies, was not in
+the hands of Berlin or Prussia and not even in German hands at
+all.   People   recognized   only   the   gross   irregularities   and   the
+continual   encroachments   of   that   hated   institution   in   the
+Metropolis of the Reich and directed their anger towards Berlin
+and   Prussia,   all   the   more   because   in   certain   quarters   (the
+Bavarian Government) nothing was done to correct this attitude,
+but it was even welcomed with silent rubbing of hands.
+The Jew was far too shrewd not to understand that the infamous
+campaign   which   he   had   organized,   under   the   cloak   of   War
+Companies, for plundering the German nation would and must
+eventually arouse opposition. As long as that opposition did not
+spring directly at his own throat he had no reason to be afraid.
+Hence he decided that the best way of forestalling an outbreak on
+the part of the enraged and desperate masses would be to inflame
+their wrath and at the same time give it another outlet.
+Let Bavaria quarrel as much as it liked with Prussia and Prussia
+with Bavaria. The more, the merrier. This bitter strife between
+the two states assured peace to the Jew. Thus public attention
+was completely diverted from the international maggot in the
+body of the nation; indeed, he seemed to have been forgotten.
+Then when  there  came a danger that level­headed people,  of
+whom there are many to be found also in Bavaria, would advise a
+little more reserve and a more judicious evaluation of things, thus
+calming the rage against Prussia, all the Jew had to do in Berlin
+was to stage a new provocation and await results. Every time that
+was   done   all   those   who   had   profiteered   out   of   the   conflict
+between North and South filled their lungs and again fanned the
+flame of indignation until it became a blaze.
+It was a shrewd and expert manoeuvre on the part of the Jew, to
+set the different branches of the German people quarrelling with
+one another, so that their attention would be turned away from
+himself and he could plunder them all the more completely.
+Then came the Revolution.
+Until the year 1918, or rather until the November of that year, the
+average   German   citizen,   particularly   the   less   educated   lower
+middle­class and the workers, did not rightly understand what
+was happening and did not realize what must be the inevitable
+consequences, especially for Bavaria, of this internecine strife
+between the branches of the German people; but at least those
+sections which called themselves 'National' ought to have clearly
+perceived  these   consequences   on   the   day   that  the   Revolution
+broke out. For the moment the coup d'état had succeeded, the
+leader and organizer of the Revolution in Bavaria put himself
+forward as the defender of 'Bavarian' interests. The international
+Jew, Kurt Eisner, began to play off Bavaria against Prussia. This
+Oriental was just about the last person in the world that could be
+pointed to as the logical defender of Bavarian interests. In his
+trade as newspaper reporter he had wandered from place to place
+all over Germany and to him it was a matter of sheer indifference
+whether   Bavaria   or   any   other   particular   part   of   God's   whole
+world continued to exist.
+In   deliberately   giving   the   revolutionary   rising   in   Bavaria   the
+character of an offensive against Prussia, Kurt Eisner was not
+acting in the slightest degree from the standpoint of Bavarian
+interests,   but   merely   as   the   commissioned   representative   of
+Jewry. He exploited existing instincts and antipathies in Bavaria
+as a means which would help to make the dismemberment of
+Germany all the more easy. When once dismembered, the Reich
+would fall an easy prey to Bolshevism.
+The tactics employed by him were continued for a time after his
+death. The Marxists, who had always derided and exploited the
+individual   German   states   and   their   princes,   now   suddenly
+appealed,   as   an   'Independent   Party'   to   those   sentiments   and
+instincts which had their strongest roots in the families of the
+reigning princes and the individual states.
+The fight waged by the Bavarian Soviet Republic against the
+military contingents that were sent to free Bavaria from its grasp
+was represented by the Marxist propagandists as first of all the
+'Struggle of the Bavarian Worker' against 'Prussian Militarism.'
+This   explains   why   it   was   that   the   suppression   of   the   Soviet
+Republic in Munich did not have the same effect there as in the
+other German districts. Instead of recalling the masses to a sense
+of reason, it led to increased bitterness and anger against Prussia.
+The   art   of   the   Bolshevik   agitators,   in   representing   the
+suppression   of   the   Bavarian   Soviet   Republic   as   a   victory   of
+'Prussian Militarism' over the 'Anti­militarists' and 'Anti­Prussian'
+people of Bavaria, bore rich fruit. Whereas on the occasion of the
+elections to the Bavarian Legislative Diet, Kurt Eisner did not
+have ten thousand followers in Munich and the Communist party
+less than three thousand, after the fall of the Bavarian Republic
+the votes given to the two parties together amounted to nearly
+one hundred thousand.
+It   was   then   that   I   personally   began   to   combat   that   crazy
+incitement of some branches of the German people against other
+branches.
+I believe that never in my life did I undertake a more unpopular
+task than I did when I took my stand against the anti­Prussian
+incitement.   During   the   Soviet   regime   in   Munich   great   public
+meetings were held at which hatred against the rest of Germany,
+but particularly against Prussia, was roused up to such a pitch
+that a North German would have risked his life in attending one
+of those meetings. These meetings often ended in wild shouts:
+"Away from Prussia", "Down with the Prussians", "War against
+Prussia", and so on. This feeling was openly expressed in the
+Reichstag   by   a   particularly   brilliant   defender   of   Bavarian
+sovereign rights when he said: "Rather die as a Bavarian than rot
+as a Prussian".
+One should have attended some of the meetings held at that time
+in order to understand what it meant for one when, for the first
+time and surrounded by only a handful of friends, I raised my
+voice   against   this   folly   at   a   meeting   held   in   the   Munich
+Löwenbräu Keller. Some of my War comrades stood by me then.
+And it is easy to imagine how we felt when that raging crowd,
+which   had   lost   all   control   of   its   reason,   roared   at   us   and
+threatened to kill us. During the time that we were fighting for
+the   country   the   same   crowd   were   for   the   most   part   safely
+ensconced in the rear positions or were peacefully circulating at
+home as deserters and shirkers. It is true that that scene turned
+out to be of advantage to me. My small band of comrades felt for
+the first time absolutely united with me and readily swore to stick
+by me through life and death.
+These conflicts, which were constantly repeated in 1919, seemed
+to become more violent soon after the beginning of 1920. There
+were meetings – I remember especially one in the Wagner Hall in
+the Sonnenstrasse in Munich – during the course of which my
+group, now grown much larger, had to defend themselves against
+assaults of the most violent character. It happened more than
+once that dozens of my followers were mishandled, thrown to the
+floor and stamped upon by the attackers and were finally thrown
+out of the hall more dead than alive.
+The struggle which I had undertaken, first by myself alone and
+afterwards   with   the   support   of   my   war   comrades,   was   now
+continued   by   the   young   movement,   I   might   say   almost   as   a
+sacred mission.
+I am proud of being able to say today that we – depending almost
+exclusively on our followers in Bavaria – were responsible for
+putting an end, slowly but surely, to the coalition of folly and
+treason. I say folly and treason because, although convinced that
+the masses who joined in it meant well but were stupid, I cannot
+attribute such simplicity as an extenuating circumstance in the
+case  of the organizers and their abetters.  I then looked upon
+them,and still look upon them today, as traitors in the payment of
+France.   In   one   case,   that   of   Dorten,   history   has   already
+pronounced its judgment.
+The situation became specially dangerous at that time by reason
+of the fact that they were very astute in their ability to cloak their
+real   tendencies,   by   insisting   primarily   on   their   federative
+intentions and claiming that those were the sole motives of the
+agitation. Of course it is quite obvious that the agitation against
+Prussia   had   nothing   to   do   with   federalism.   Surely   'Federal
+Activities' is not the phrase with which to describe an effort to
+dissolve   and   dismember   another   federal   state.   For   an   honest
+federalist, for whom the formula used by Bismarck to define his
+idea of the Reich is not a counterfeit phrase, could not in the
+same breath express the desire to cut off portions of the Prussian
+State, which was created or at least completed by Bismarck. Nor
+could he publicly support such a separatist attempt.
+What an outcry would be raised in Munich if some prussian
+conservative   party   declared   itself   in   favour   of   detaching
+Franconia from Bavaria or took public action in demanding and
+promoting such a separatist policy. Nevertheless, one can only
+have sympathy for all those real and honest federalists who did
+not see through this infamous swindle, for they were its principal
+victims. By distorting the federalist idea in such a way its own
+champions prepared its grave. One cannot make propaganda for a
+federalist configuration of the Reich by debasing and abusing
+and   besmirching   the   essential   element   of   such   a   political
+structure, namely Prussia, and thus making such a Confederation
+impossible,   if   it   ever   had   been   possible.   It   is   all   the   more
+incredible by reason of the fact that the fight carried on by those
+so­called   federalists   was   directed   against   that   section   of   the
+Prussian people which was the last that could be looked upon as
+connected   with   the   November   democracy.   For   the   abuse   and
+attacks of these so­called federalists were not levelled against the
+fathers of the Weimar Constitution – the majority of whom were
+South Germans or Jews – but against those who represented the
+old conservative Prussia, which was the antipodes of the Weimar
+Constitution. The fact that the directors of this campaign were
+careful   not   to   touch   the   Jews   is   not   to   be   wondered   at   and
+perhaps gives the key to the whole riddle.
+Before   the   Revolution   the   Jew   was   successful   in   distracting
+attention from himself and his War Companies by inciting the
+masses, and especially the Bavarians, against Prussia. Similarly
+he   felt   obliged,   after   the   Revolution,   to   find   some   way   of
+camouflaging his new plunder campaign which was nine or ten
+times greater. And again he succeeded, in this case by provoking
+the   so­called   'national'   elements   against   one   another:   the
+conservative Bavarians against the Prussians, who were just as
+conservative. He acted again with extreme cunning, inasmuch as
+he who held the reins of Prussia's destiny in his hands provoked
+such crude and tactless aggressions that again and again they set
+the blood boiling in those who were being continually duped.
+Never against the Jew, however, but always the German against
+his own brother. The Bavarian did not see the Berlin of four
+million industrious and efficient working people, but only the
+lazy   and   decadent   Berlin   which   is   to   be   found   in   the   worst
+quarters of the West End. And his antipathy was not directed
+against this West End of Berlin but against the 'Prussian' city.
+In many cases it tempted one to despair.
+The   ability   which   the   Jew   has   displayed   in   turning   public
+attention away from himself and giving it another direction may
+be studied also in what is happening today.
+In 1918 there was nothing like an organized anti­Semitic feeling.
+I still remember the difficulties we encountered the moment we
+mentioned the Jew. We were either confronted with dumb­struck
+faces or else a lively and hefty antagonism. The efforts we made
+at the time to point out the real enemy to the public seemed to be
+doomed to failure. But then things began to change for the better,
+though only very slowly. The 'League for Defence and Offence'
+was defectively organized but at least it had the great merit of
+opening  up  the  Jewish  question   once  again.  In  the  winter  of
+1918–1919 a kind of anti­semitism began slowly to take root.
+Later on the National Socialist Movement presented the Jewish
+problem in a new light. Taking the question beyond the restricted
+circles of the upper classes and small bourgeoisie we succeeded
+in  transforming  it  into  the   driving  motive  of  a  great   popular
+movement. But the moment we were successful in placing this
+problem before the German people in the light of an idea that
+would unite them in one struggle the Jew reacted. He resorted to
+his  old  tactics.   With   amazing   alacrity  he   hurled   the  torch   of
+discord into the patriotic movement and opened a rift there. In
+bringing forward the ultramontane question and in the mutual
+quarrels   that   it   gave   rise   to   between   Catholicism   and
+Protestantism lay the sole possibility, as conditions then were, of
+occupying public attention with other problems and thus ward off
+the attack which had been concentrated against Jewry. The men
+who dragged our people into this controversy can never make
+amends for the crime they then committed against the nation.
+Anyhow, the Jew has attained the ends he desired. Catholics and
+Protestants are fighting with one another to their hearts' content,
+while   the   enemy   of   Aryan   humanity   and   all   Christendom   is
+laughing up his sleeve.
+Once it was possible to occupy the attention of the public for
+several   years   with   the   struggle   between   federalism   and
+unification,   wearing   out   their   energies  in   this   mutual   friction
+while the Jew trafficked in the freedom of the nation and sold our
+country to the masters of international high finance. So in our
+day he has succeeded again, this time by raising ructions between
+the two German religious denominations while the foundations
+on which both rest are being eaten away and destroyed through
+the poison injected by the international and cosmopolitan Jew.
+Look at the ravages from which our people are suffering daily as
+a result of being contaminated with Jewish blood. Bear in mind
+the fact that this poisonous contamination can be eliminated from
+the national body only after centuries, or perhaps never. Think
+further of how the process of racial decomposition is debasing
+and   in   some   cases   even   destroying   the   fundamental   Aryan
+qualities of our German people, so that our cultural creativeness
+as a nation is gradually becoming impotent and we are running
+the danger, at least in our great cities, of falling to the level where
+Southern   Italy   is   today.   This   pestilential   adulteration   of   the
+blood, of which hundreds of thousands of our people take no
+account,   is   being   systematically   practised   by   the   Jew   today.
+Systematically   these   negroid   parasites   in   our   national   body
+corrupt our innocent fair­haired girls and thus destroy something
+which can no longer be replaced in this world.
+The two Christian denominations look on with indifference at the
+profanation and destruction of a noble and unique creature who
+was given to the world as a gift of God's grace. For the future of
+the world, however, it does not matter which of the two triumphs
+over the other, the Catholic or the Protestant. But it does matter
+whether Aryan humanity survives or perishes. And yet the two
+Christian denominations are not contending against the destroyer
+of   Aryan   humanity   but   are   trying   to   destroy   one   another.
+Everybody who has the right kind of feeling for his country is
+solemnly bound, each within his own denomination, to see to it
+that he is not constantly talking about the Will of God merely
+from the lips but that in actual fact he fulfils the Will of God and
+does not allow God's handiwork to be debased. For it was by the
+Will of God that men were made of a certain bodily shape, were
+given   their   natures   and   their   faculties.   Whoever   destroys   His
+work   wages   war   against   God's   Creation   and   God's   Will.
+Therefore   everyone   should   endeavour,   each   in   his   own
+denomination of course, and should consider it as his first and
+most solemn duty to hinder any and everyone whose conduct
+tends, either by word or deed, to go outside his own religious
+body and pick a quarrel with those of another denomination. For,
+in view of the religious schism that exists in Germany, to attack
+the   essential   characteristics   of   one   denomination   must
+necessarily   lead   to   a   war   of   extermination   between   the   two
+Christian   denominations.   Here   there   can   be   no   comparison
+between our position and that of France, or Spain or Italy. In
+those three countries one may, for instance, make propaganda for
+the side that is fighting against ultramontanism without thereby
+incurring   the   danger   of   a   national   rift   among   the   French,   or
+Spanish or Italian people. In Germany, however, that cannot be
+so,   for   here   the   Protestants   would   also   take   part   in   such
+propaganda.   And   thus   the   defence   which   elsewhere   only
+Catholics organize against clerical aggression in political matters
+would assume with us the character of a Protestant attack against
+Catholicism.   What   may   be   tolerated   by   the   faithful   in   one
+denomination even when it seems unjust to them, will at once be
+indignantly rejected and opposed on a priori grounds if it should
+come from the militant leaders of another denomination. This is
+so true that even men who would be ready and willing to fight
+for the removal of manifest grievances within their own religious
+denomination will drop their own fight and turn their activities
+against the outsider the moment the abolition of such grievances
+is counselled or demanded by one who is not of the same faith.
+They consider it unjustified and inadmissible and incorrect for
+outsiders to meddle in matters which do not affect them at all.
+Such attempts are not excused even when they are inspired by a
+feeling   for   the   supreme   interests   of   the   national   community;
+because even in our day religious feelings still have deeper roots
+than all feeling for political and national expediency. That cannot
+be changed by setting one denomination against another in bitter
+conflict. It can be changed only if, through a spirit of mutual
+tolerance, the nation can be assured of a future the greatness of
+which will gradually operate as a conciliating factor in the sphere
+of religion also. I have no hesitation in saying that in those men
+who seek today to embroil the patriotic movement in religious
+quarrels I see worse enemies of my country than the international
+communists are. For the National Socialist Movement has set
+itself to the task of converting those communists. But anyone
+who goes outside the ranks of his own Movement and tends to
+turn it away from the fulfilment of its mission is acting in a
+manner that deserves the severest condemnation. He is acting as
+a   champion   of   Jewish   interests,   whether   consciously   or
+unconsciously does not matter. For it is in the interests of the
+Jews today that the energies of the patriotic movement should be
+squandered in a religious conflict, because it is beginning to be
+dangerous for the Jews. I have purposely used the phrase about
+squandering the energies of the Movement, because nobody but
+some person who is entirely ignorant of history could imagine
+that   this   movement   can   solve   a   question   which   the   greatest
+statesmen have tried for centuries to solve, and tried in vain.
+Anyhow the facts speak for themselves. The men who suddenly
+discovered,   in   1924,   that   the   highest   mission   of   the   patriotic
+movement was to fight ultramontanism, have not succeeded in
+smashing   ultramontanism,   but   they   succeeded   in   splitting   the
+patriotic movement. I have to guard against the possibility of
+some immature brain arising in the patriotic movement which
+thinks that it can do what even a Bismarck failed to do. It will be
+always one of the first duties of those who are directing the
+National   Socialist   Movement   to   oppose   unconditionally   any
+attempt to place the National Socialist Movement at the service
+of such a conflict. And anybody who conducts a propaganda with
+that end in view must be expelled forthwith from its ranks.
+As a matter of fact we succeeded until the autumn of 1923 in
+keeping our movement away from such controversies. The most
+devoted   Protestant   could   stand   side   by   side   with   the   most
+devoted   Catholic   in   our   ranks   without   having   his   conscience
+disturbed   in   the   slightest   as   far   as   concerned   his   religious
+convictions. The bitter struggle which both waged in common
+against   the   wrecker   of   Aryan   humanity   taught   them   natural
+respect   and   esteem.   And   it   was   just   in   those   years   that   our
+movement had to engage in a bitter strife with the Centre Party
+not   for   religious   ends   but   for   national,   racial,   political   and
+economic ends. The success we then achieved showed that we
+were right, but it does not speak today in favour of those who
+thought they knew better.
+In recent years things have gone so far that patriotic circles, in
+god­forsaken   blindness   of   their   religious   strife,   could   not
+recognize the folly of their conduct even from the fact that atheist
+Marxist   newspapers   advocated   the   cause   of   one   religious
+denomination   or   the   other,   according   as   it   suited   Marxist
+interests,   so   as   to   create   confusion   through   slogans   and
+declarations   which   were   often   immeasurably   stupid,   now
+molesting the one party and again the other, and thus poking the
+fire to keep the blaze at its highest.
+But in the case of a people like the Germans, whose history has
+so often shown them capable of fighting for phantoms to the
+point of complete exhaustion, every war­cry is a mortal danger.
+By these slogans our people have often been drawn away from
+the real problems of their existence. While we were exhausting
+our energies in religious wars the others were acquiring their
+share of the world. And while the patriotic movement is debating
+with itself whether the ultramontane danger be greater than the
+Jewish, or vice versa, the Jew is destroying the racial basis of our
+existence and thereby annihilating our people. As far as regards
+that kind of 'patriotic' warrior, on behalf of the National Socialist
+Movement and therefore of the German people I pray with all my
+heart: "Lord, preserve us from such friends, and then we can
+easily deal with our enemies." The controversy over federation
+and   unification,   so   cunningly   propagandized   by   the   Jews   in
+1919­1920   and   onwards,   forced   National   Socialism,   which
+repudiated the quarrel, to take up a definite stand in relation to
+the essential problem concerned in it. Ought Germany to be a
+confederacy   or   a   military   State?   What   is   the   practical
+significance   of   these   terms?   To   me   it   seems   that   the   second
+question   is   more   important   than   the   first,   because   it   is
+fundamental to the understanding of the whole problem and also
+because the answer to it may help to clear up confusion and
+therewith have a conciliating effect.
+What is a Confederacy?
+By a Confederacy we mean a union of sovereign states which of
+their   own   free   will   and   in   virtue   of   their   sovereignty   come
+together and create a collective unit, ceding to that unit as much
+of their own sovereign rights as will render the existence of the
+union possible and will guarantee it.
+But the theoretical formula is not wholly put into practice by any
+confederacy that exists today. And least of all by the American
+Union, where it is impossible to speak of original sovereignty in
+regard to the majority of the states.  Many of them were not
+included   in   the   federal   complex   until   long   after   it   had   been
+established. The states that make up the American Union are
+mostly   in   the   nature   of   territories,   more   or   less,   formed   for
+technical   administrative   purposes,   their   boundaries   having   in
+many cases been fixed in the mapping office. Originally these
+states did not and could not possess sovereign rights of their own.
+Because   it   was   the   Union   that   created   most   of   the   so­called
+states. Therefore the sovereign rights, often very comprehensive,
+which   were   left,   or   rather   granted,   to   the   various   territories
+correspond not only to the whole character of the Confederation
+but also to its vast space, which is equivalent to the size of a
+Continent.  Consequently,  in  speaking   of  the   United   States  of
+America one must not consider them as sovereign states but as
+enjoying rights or, better perhaps, autarchic powers, granted to
+them and guaranteed by the Constitution.
+Nor   does   our   definition   adequately   express   the   condition   of
+affairs in Germany. It is true that in Germany the individual
+states existed as states before the Reich and that the Reich was
+formed from them. The Reich, however, was not formed by the
+voluntary and  equal co­operation of the individual states,  but
+rather because the state of Prussia gradually acquired a position
+of hegemony over the others. The difference in the territorial area
+alone between the German states prevents any comparison with
+the   American   Union.   The   great   difference   in   territorial   area
+between the very small German states that then existed and the
+larger, or even still more the largest, demonstrates the inequality
+of their achievements and shows that they could not take an
+equal part in founding and shaping the federal Empire. In the
+case of most of these individual states it cannot be maintained
+that   they   ever   enjoyed   real   sovereignty;   and   the   term   'State
+Sovereignty'   was   really   nothing   more   than   an   administrative
+formula which had no inner meaning. As a matter of fact, not
+only developments in the past but also in our own time wiped out
+several of these so­called 'Sovereign States' and thus proved in
+the most definite way how frail these 'sovereign' state formations
+were.
+I   cannot   deal   here   with   the   historical   question   of   how   these
+individual states came to be established, but I must call attention
+to the fact that hardly in any case did their frontiers coincide with
+ethical frontiers of the inhabitants. They were purely political
+phenomena   which   for   the   most   part   emerged   during   the   sad
+epoch when the German Empire was in a state of exhaustion and
+was dismembered. They represented both cause and effect in the
+process of exhaustion and partition of our fatherland.
+The Constitution of the old Reich took all this into account, at
+least up to a certain degree, in so far as the individual states were
+not   accorded   equal   representation   in   the   Reichstag,   but   a
+representation proportionate to their respective areas, their actual
+importance and the role which they played in the formation of
+the Reich.
+The sovereign rights which the individual states renounced in
+order to form the Reich were voluntarily ceded only to a very
+small degree. For the most part they had no practical existence or
+they were simply taken by Prussia  under the pressure  of her
+preponderant power. The principle followed by Bismarck was
+not to give the Reich what he could take from the individual
+states but to demand from the individual states only what was
+absolutely necessary for the Reich. A moderate and wise policy.
+On the one side Bismarck showed the greatest regard for customs
+and traditions; on the other side his policy secured for the new
+Reich from its foundation onwards a great measure of love and
+willing  co­operation.  But   it  would   be  a   fundamental  error   to
+attribute Bismarck's decision to any conviction on his part that
+the Reich was thus acquiring all the rights of sovereignty which
+would suflice for all time. That was far from Bismarck's idea. On
+the contrary, he wished to leave over for the future what it would
+be difficult to carry through at the moment and might not have
+been readily agreed to by the individual states. He trusted to the
+levelling   effect   of   time   and   to   the   pressure   exercised   by   the
+process of evolution, the steady action of which appeared more
+effective   than   an   attempt   to   break   the   resistance   which   the
+individual states offered at the moment. By this policy he showed
+his great ability in the art of statesmanship. And, as a matter of
+fact, the sovereignty of the Reich has continually increased at the
+cost of the sovereignty of the individual states. The passing of
+time has achieved what Bismarck hoped it would.
+The German collapse and the abolition of the monarchical form
+of   government   necessarily   hastened   this   development.   The
+German federal states, which had not been grounded on ethnical
+foundations   but   arose   rather   out   of   political   conditions,   were
+bound to lose their importance the moment the monarchical form
+of   government   and   the   dynasties   connected   with   it   were
+abolished,   for   it   was   to   the   spirit   inherent   in   these   that   the
+individual states owned their political origin and development.
+Thus deprived of their internal raison d'être, they renounced all
+right to survival and were induced by purely practical reasons to
+fuse with their neighbours or else they joined the more powerful
+states out of their own free will. That proved in a striking manner
+how extraordinarily frail was the actual sovereignty these small
+phantom states enjoyed, and it proved too how lightly they were
+estimated by their own citizens.
+Though   the   abolition   of   the   monarchical   regime   and   its
+representatives had dealt a hard blow to the federal character of
+the Reich, still more destructive, from the federal point of view,
+was   the   acceptance   of   the   obligations   that   resulted   from   the
+'peace' treaty.
+It was only natural and logical that the federal states should lose
+all sovereign control over the finances the moment the Reich, in
+consequence of a lost war, was subjected to financial obligations
+which could never be guaranteed through separate treaties with
+the individual states. The subsequent steps which led the Reich to
+take over the posts and railways were an enforced advance in the
+process   of   enslaving   our   people,   a   process   which   the   peace
+treaties gradually developed. The Reich  was forced to secure
+possession of resources which had to be constantly increased in
+order to satisfy the demands made by further extortions.
+The form in which the powers of the Reich were thus extended to
+embrace the federal states was often ridiculously stupid, but in
+itself the procedure was logical and natural. The blame for it
+must be laid at the door of these men and those parties that failed
+in the hour of need to concentrate all their energies in an effort to
+bring the war to a victorious issue. The guilt lies on those parties
+which,   especially   in   Bavaria,   catered   for   their   own   egotistic
+interests during the war and refused to the Reich what the Reich
+had to requisition to a tenfold greater measure when the war was
+lost. The retribution of History! Rarely has the vengeance of
+Heaven followed so closely on the crime as it did in this case.
+Those same parties which, a few years previously, placed the
+interests of their own states – especially in Bavaria – before those
+of the Reich had now to look on passively while the pressure of
+events   forced   the   Reich,   in   its   own   interests,   to   abolish   the
+existence of the individual states. They were the victims of their
+own defaults.
+It was an unparalleled example of hypocrisy to raise the cry of
+lamentation over the loss which the federal states suffered in
+being  deprived  of  their  sovereign  rights.  This cry  was  raised
+before  the  electorate,   for  it  is  only  to  the  electorate  that  our
+contemporary   parties   address   themselves.   But   these   parties,
+without exception, outbid one another in accepting a policy of
+fulfilment which, by the sheer force of circumstances and in its
+ultimate   consequences,   could   not   but   lead   to   a   profound
+alteration in the internal structure of the Reich. Bismarck's Reich
+was free and unhampered by any obligations towards the outside
+world.
+Bismarck's Reich never had to shoulder such heavy and entirely
+unproductive   obligations   as   those   to   which   Germany   was
+subjected   under   the   Dawes   Plan.   Also   in   domestic   affairs
+Bismarck's Reich was able to limit its powers to a few matters
+that   were   absolutely   necessary   for   its   existence.   Therefore   it
+could dispense with the necessity of a financial control over these
+states and could live from their contributions. On the other side
+the relatively small financial tribute which the federal states had
+to pay to the Reich induced them to welcome its existence. But it
+is untrue and unjust to state now, as certain propagandists do,
+that   the   federal   states   are   displeased   with   the   Reich   merely
+because of their financial subjection to it. No, that is not how the
+matter really stands. The lack of sympathy for the political idea
+embodied in the Reich is not due to the loss of sovereign rights
+on the part of the individual states. It is much more the result of
+the deplorable fashion in which the present régime cares for the
+interests of the German people. Despite all the celebrations in
+honour of the national flag and the Constitution, every section of
+the   German   people   feels   that   the   present   Reich   is   not   in
+accordance with its heart's desire. And the Law for the Protection
+of   the   Republic   may   prevent   outrages   against   republican
+institutions, but it will not gain the love of one single German. In
+its constant anxiety to protect itself against its own citizens by
+means of laws and sentences of imprisonment, the Republic has
+aroused   sharp   and   humiliating   criticism   of   all   republican
+institutions as such.
+For another reason also it is untrue to say, as certain parties
+affirm today, that the Reich has ceased to be popular on account
+of its overbearing conduct in regard to certain sovereign rights
+which the individual states had heretofore enjoyed. Supposing
+the   Reich   had   not   extended   its   authority   over   the   individual
+states, there is no reason to believe that it would find more favour
+among those states if the general obligations remained so heavy
+as they now are. On the contrary, if the individual states had to
+pay their respective shares of the highly increased tribute which
+the Reich has to meet today in order to fulfil the provisions of the
+Versailles   Dictate,   the   hostility   towards   the   Reich   would   be
+infinitely greater. For then not only would it prove difficult to
+collect the respective contributions due to the Reich from the
+federal states, but coercive methods would have to be employed
+in making the collections. The Republic stands on the footing of
+the peace treaties and has neither the courage nor the intention to
+break them. That being so, it must observe the obligations which
+the peace treaties have imposed on it. The responsibility for this
+situation is to be attributed solely to those parties who preach
+unceasingly to the patient electoral masses on the necessity of
+maintaining the autonomy of the federal states, while at the same
+time they champion and demand of the Reich a policy which
+must necessarily lead to the suppression of even the very last of
+those so­called 'sovereign' rights.
+
+I say necessarily because the present Reich has no other possible
+means   of   bearing   the   burden   of   charges   which   an   insane
+domestic and foreign policy has laid on it. Here still another
+wedge is placed on the former, to drive it in still deeper. Every
+new debt which the Reich contracts, through the criminal way in
+which the interests of Germany are represented vis­à­vis foreign
+countries, necessitates a new and stronger blow which drives the
+under wedges still deeper, That blow demands another step in the
+progressive abolition of the sovereign rights of the individual
+states, so as not to allow the germs of opposition to rise up into
+activity or even to exist.
+The   chief   characteristic   difference   between   the   policy   of   the
+present Reich and that of former times lies in this: The old Reich
+gave freedom to its people at home and showed itself strong
+towards the outside world, whereas the Republic shows itself
+weak   towards   the   stranger   and   oppresses   its   own   citizens   at
+home. In both cases one attitude determines the other. A vigorous
+national State does not need to make many laws for the interior,
+because   of   the   affection   and   attachment   of   its   citizens.   The
+international servile State can live only by coercing its citizens to
+render it the services it demands. And it is a piece of impudent
+falsehood for the present regime to speak of 'Free citizens'. Only
+the   old   Germany   could   speak   in   that   manner.   The   present
+Republic is a colony of slaves at the service of the stranger. At
+best it has subjects, but not citizens. Hence it does not possess a
+national flag but only a trade mark, introduced and protected by
+official decree and legislative measures. This symbol, which is
+the   Gessler's   cap   of   German   Democracy,   will   always   remain
+alien to the spirit of our people. On its side, the Republic having
+no sense of tradition or respect for past greatness, dragged the
+symbol of the past in the mud, but it will be surprised one day to
+discover how superficial is the devotion of its citizens to its own
+symbol. The Republic has given to itself the character of an
+intermezzo   in   German   history.   And   so   this   State   is   bound
+constantly to restrict more and more the sovereign rights of the
+individual   states,   not   only   for   general   reasons   of   a   financial
+character but also on principle. For by enforcing a policy of
+financial blackmail, to squeeze the last ounce of substance out of
+its people, it is forced also to take their last rights away from
+them, lest the general discontent may one day flame up into open
+rebellion.
+We, National Socialists, would reverse this formula and would
+adopt   the   following   axiom:   A   strong   national   Reich   which
+recognizes and protects to the largest possible measure the rights
+of its citizens both within and outside its frontiers can allow
+freedom to reign at home without trembling for the safety of the
+State.   On   the   other   hand,   a   strong   national   Government   can
+intervene   to   a   considerable   degree   in   the   liberties   of   the
+individual subject as well as in the liberties of the constituent
+states without thereby weakening the ideal of the Reich; and it
+can do this while recognizing its responsibility for the ideal of
+the   Reich,   because   in   these   particular   acts   and   measures   the
+individual citizen recognizes a means of promoting the prestige
+of the nation as a whole.
+Of course, every State in the world has to face the question of
+unification   in   its   internal   organization.   And   Germany   is   no
+exception in this matter. Nowadays it is absurd to speak of 'statal
+sovereignty' for the constituent states of the Reich, because that
+has already become impossible on account of the ridiculously
+small size of so many of these states. In the sphere of commerce
+as well as that of administration the importance of the individual
+states   has   been   steadily   decreasing.   Modern   means   of
+communication and mechanical progress have been increasingly
+restricting distance and space. What was once a State is today
+only a province and the territory covered by a modern State had
+once   the   importance   of   a   continent.   The   purely   technical
+difficulty of administering a State like Germany is not greater
+than that of governing a province like Brandenburg a hundred
+years  ago.  And   today   it   is  easier   to  cover   the  distance   from
+Munich to Berlin than it was to cover the distance from Munich
+to Starnberg a hundred years ago. In view of the modern means
+of transport, the whole territory of the Reich today is smaller than
+that   of   certain   German   federal   states   at   the   time   of   the
+Napoleonic wars. To close one's eyes to the consequences of
+these facts means to live in the past. There always were, there are
+and always will be, men who do this. They may retard but they
+cannot stop the revolutions of history.
+We, National Socialists, must not allow the consequences of that
+truth to pass by us unnoticed. In these matters also we must not
+permit ourselves to be misled by the phrases of our so­called
+national bourgeois parties. I say 'phrases', because these same
+parodies do not seriously believe that it is possible for them to
+carry out their proposals, and because they themselves are the
+chief   culprits   and   also   the   accomplices   responsible   for   the
+present state of affairs. Especially in Bavaria, the demands for a
+halt in the process of centralization can be no more than a party
+move behind which there is no serious idea. If these parties ever
+had to pass from the realm of phrase­making into that of practical
+deeds   they   would   present   a   sorry   spectacle.   Every   so­called
+'Robbery of Sovereign Rights' from Bavaria by the Reich has met
+with no practical resistance, except for some fatuous barking by
+way   of   protest.   Indeed,   when   anyone   seriously   opposed   the
+madness   that   was   shown   in   carrying   out   this   system   of
+centralization   he   was   told   by   those   same   parties   that   he
+understood nothing of the nature and needs of the State today.
+They   slandered   him   and   pronounced   him   anathema   and
+persecuted him until he was either shut up in prison or illegally
+deprived of the right of public speech. In the light of these facts
+our   followers   should   become   all   the   more   convinced   of   the
+profound hypocrisy which characterizes these so­called federalist
+circles. To a certain extent they use the federalist doctrine just as
+they use the name of religion, merely as a means of promoting
+their own base party interests.
+A certain unification, especially in the field of transport., appears
+logical. But we, National Socialists, feel it our duty to oppose
+with   all   our   might   such   a   development   in   the   modern   State,
+especially when the measures proposed are solely for the purpose
+of screening a disastrous foreign policy and making it possible.
+And just because the present Reich has threatened to take over
+the   railways,   the   posts,   the   finances,   etc.,   not   from   the   high
+standpoint of a national policy, but in order to have in its hands
+the means and pledges for an unlimited policy of fulfilment – for
+that reason we, National Socialists, must take every step that
+seems suitable to obstruct and, if possible, definitely to prevent
+such   a   policy.   We   must   fight   against   the   present   system   of
+amalgamating   institutions   that   are   vitally   important   for   the
+existence of our people, because this system is being adopted
+solely to facilitate the payment of milliards and the transference
+of pledges to the stranger, under the post­War provisions which
+our politicians have accepted.
+For these reasons also the National Socialist Movement has to
+take up a stand against such tendencies.
+Moreover,   we   must   oppose   such   centralization   because   in
+domestic affairs it helps to reinforce a system of government
+which   in   all   its   manifestations   has   brought   the   greatest
+misfortunes   on   the   German   nation.   The   present   JewishDemocratic Reich, which has become a veritable curse for the
+German people, is seeking to negative the force of the criticism
+offered   by   all   the   federal   states   which   have   not   yet   become
+imbued with the spirit of the age, and is trying to carry out this
+policy by crushing them to the point of annihilation. In face of
+this we National Socialists must try to ground the opposition of
+the individual states on such a basis that it will be able to operate
+with a good promise of success. We must do this by transforming
+the struggle against centralization into something that will be an
+expression of the higher interests of the German nation as such.
+Therefore, while the Bavarian Populist Party, acting from its own
+narrow and particularist standpoint, fights to maintain the 'special
+rights'   of   the   Bavarian   State,   we   ought   to   stand   on   quite   a
+different ground in fighting for the same rights. Our grounds
+ought to be those of the higher national interests in opposition to
+the November Democracy.
+A still further reason for opposing a centralizing process of that
+kind arises from the certain conviction that in great part this socalled nationalization does not make for unification at all and still
+less for simplification. In many cases it is adopted simply as a
+means of removing from the sovereign control of the individual
+states certain institutions which they wish to place in the hands of
+the   revolutionary   parties.   In   German   History   favouritism   has
+never been of so base a character as in the democratic republic. A
+great portion of this centralization today is the work of parties
+which   once   promised   that   they   would   open   the   way   for   the
+promotion of talent, meaning thereby that they would fill those
+posts and offices entirely with their own partisans.  Since the
+foundation   of   the   Republic   the   Jews   especially   have   been
+obtaining positions in the economic institutions taken over by the
+Reich and also positions in the national administration, so that
+the one and the other have become preserves of Jewry.
+For tactical reasons, this last consideration obliges us to watch
+with the greatest attention every further attempt at centralization
+and fight it at each step. But in doing this our standpoint must
+always be that of a lofty national policy and never a pettifogging
+particularism.
+This last observation is necessary, lest an opinion might arise
+among our own followers that we do not accredit to the Reich the
+right of incorporating in itself a sovereignty which is superior to
+that of the constituent states. As regards this right we cannot and
+must not entertain the slightest doubt. Because for us the State is
+nothing but a form. Its substance,  or content, is the essential
+thing. And that is the nation, the people. It is clear therefore that
+every other interest must be subordinated to the supreme interests
+of the nation. In particular we cannot accredit to any other state a
+sovereign power and sovereign rights within the confines of the
+nation and the Reich, which represents the nation. The absurdity
+which   some   federal   states   commit   by   maintaining
+'representations'   abroad   and   corresponding   foreign
+'representations' among themselves – that must cease and will
+cease.   Until   this   happens   we   cannot   be   surprised   if   certain
+foreign  countries are  dubious  about  the  political   unity  of  the
+Reich   and   act   accordingly.   The   absurdity   of   these
+'representations' is all the greater because they do harm and do
+not bring the slightest advantage. If the interests of a German
+abroad   cannot   be   protected   by   the   ambassador   of   the   Reich,
+much less can they be protected by the minister from some small
+federal state which appears ridiculous in the framework of the
+present world order. The real truth is that these small federal
+states are envisaged as points of attack for attempts at secession,
+which prospect is always pleasing to a certain foreign State. We,
+National Socialists, must not allow some noble caste which has
+become effete with age to occupy an ambassadorial post abroad,
+with the idea that by engrafting one of its withered branches in
+new soil the green leaves may sprout again. Already in the time
+of the old Reich our diplomatic representatives abroad were such
+a sorry lot that a further trial of that experience would be out of
+the question.
+It is certain that in the future the importance of the individual
+states will be transferred to the sphere of our cultural policy. The
+monarch who did most to make Bavaria an important centre was
+not an obstinate particularist with anti­German tendencies, but
+Ludwig I who was as much devoted to the ideal of German
+greatness as he was to that of art. His first consideration was to
+use the powers of the state to develop the cultural position of
+Bavaria   and   not   its   political   power.   And   in   doing   this   he
+produced better and more durable results than if he had followed
+any   other   line   of   conduct.   Up   to   this   time   Munich   was   a
+provincial   residence   town   of   only   small   importance,   but   he
+transformed it into the metropolis of German art and by doing so
+he   made   it   an   intellectual   centre   which   even   today   holds
+Franconia   to   Bavaria,   though   the   Franconians   are   of   quite   a
+different temperament. If Munich had remained as it had been
+earlier, what has happened in Saxony would have been repeated
+in   Bavaria,   with   the   diAerence   that   Leipzig   and   Bavarian
+Nürnberg   would   have   become,   not   Bavarian   but   Franconian
+cities.   It   was  not   the   cry  of  "Down   with   Prussia"   that  made
+Munich great. What made this a city of importance was the King
+who wished to present it to the German nation as an artistic jewel
+that would have to be seen and appreciated, and so it has turned
+out in fact. Therein lies a lesson for the future. The importance of
+the   individual   states   in   the   future   will   no   longer   lie   in   their
+political   or   statal   power.   I   look   to   them   rather   as   important
+ethnical and cultural centres. But even in this respect time will do
+its   levelling   work.   Modern   travelling   facilities   shuffle   people
+among one another in such a way that tribal boundaries will fade
+out and even the cultural picture will gradually become more of a
+uniform pattern.
+The army must definitely be kept clear of the influence of the
+individual states. The coming National Socialist State must not
+fall back into the error of the past by imposing on the army a task
+which   is   not   within   its   sphere   and   never   should   have   been
+assigned to it. The German army does not exist for the purpose of
+being a school in which tribal particularisms are to be cultivated
+and preserved, but rather as a school for teaching all the Germans
+to understand and adapt their habits to one another. Whatever
+tends to have a separating influence in the life of the nation ought
+to be made a unifying influence in the army. The army must raise
+the German boy above the narrow horizon of his own little native
+province and set him within the broad picture of the nation. The
+youth must learn to know, not the confines of his own region but
+those of the fatherland, because it is the latter that he will have to
+defend one day. It is therefore absurd to have the German youth
+do his military training in his own native region. During that
+period he ought to learn to know Germany. This is all the more
+important today, since young Germans no longer travel on their
+own  account  as  they  once  used  to  do  and  thus  enlarge   their
+horizon. In view of this, is it not absurd  to leave  the young
+Bavarian recruit at Munich, the recruit from Baden at Baden
+itself and the Württemberger at Stuttgart and so on? And would it
+not be more reasonable to show the Rhine and the North Sea to
+the   Bavarian,   the   Alps   to   the   native   of   Hamburg   and   the
+mountains of Central Germany to the boy from East Prussia? The
+character proper to each region ought to be maintained in the
+troops but not in the training garrisons. We may disapprove of
+every attempt at unification but not that of unifying the army. On
+the contrary, even though we should wish to welcome no other
+kind of unification, this must be greeted with joy. In view of the
+size of the present army of the Reich, it would be absurd to
+maintain the federal divisions among the troops. Moreover, in the
+unification of the German army which has actually been effected
+we see a fact which we must not renounce but restore in the
+future national army.
+Finally   a   new   and   triumphant   idea   should   burst   every   chain
+which  tends   to   paralyse   its  efforts  to  push   forward.   National
+Socialism must claim the right to impose its principles on the
+whole German nation, without regard to what were hitherto the
+confines  of  federal  states.  And   we  must  educate   the  German
+nation in our ideas and principles. As the Churches do not feel
+themselves   bound   or   limited   by   political   confines,   so   the
+National Socialist Idea cannot feel itself limited to the territories
+of the individual federal states that belong to our Fatherland.
+The National Socialist doctrine is not handmaid to the political
+interests of the single federal states. One day it must become
+teacher to the whole German nation. It must determine the life of
+the whole people and shape that life anew. For this reason we
+must imperatively demand the right to overstep boundaries that
+have been traced by a political development which we repudiate.
+The more completely our ideas triumph, the more liberty can we
+concede in particular affairs to our citizens at home.
+
+
+
+`;
+const chapter_b_11 = `The year 1921 was specially important for me from many points
+of view.
+When I entered the German Labour Party I at once took charge
+of   the   propaganda,   believing   this   branch   to   be   far   the   most
+important for the time being. Just then it was not a matter of
+pressing   necessity   to   cudgel   one's   brains   over   problems   of
+organization. The first necessity was to spread our ideas among
+as many people as possible. Propaganda should go well ahead of
+organization and gather together the human material for the latter
+to work up. I have never been in favour of hasty and pedantic
+methods   of   organization,   because   in   most   cases   the   result   is
+merely   a   piece   of   dead   mechanism   and   only   rarely   a   living
+organization. Organization is a thing that derives its existence
+from organic life, organic evolution. When the same set of ideas
+have found a lodgement in the minds of a certain number of
+people they tend of themselves to form a certain degree of order
+among those people and out of this inner formation something
+that is very valuable arises. Of course here, as everywhere else,
+one must take account of those human weaknesses which make
+men hesitate, especially at the beginning, to submit to the control
+of a superior mind. If an organization is imposed from above
+downwards in a mechanical fashion, there is always the danger
+that   some   individual   may   push   himself   forward   who   is   not
+known for what he is and who, out of jealousy, will try to hinder
+abler persons from taking a leading place in the movement. The
+damage   that   results   from   that   kind   of   thing   may   have   fatal
+consequences, especially in a new movement.
+
+For this reason it is advisable first to propagate and publicly
+expound the ideas on which the movement is founded. This work
+of propaganda should continue for a certain time and should be
+directed from one centre. When the ideas have gradually won
+over a number of people this human material should be carefully
+sifted   for   the   purpose   of   selecting   those   who   have   ability   in
+leadership and putting that ability to the test. It will often be
+found that apparently insignificant persons will nevertheless turn
+out to be born leaders.
+Of course, it is quite a mistake to suppose that those who show a
+very intelligent grasp of the theory underlying a movement are
+for   that   reason   qualified   to   fill   responsible   positions   on   the
+directorate. The contrary is very frequently the case.
+Great masters of theory are only very rarely great organizers also.
+And this is because the greatness of the theorist and founder of a
+system consists in being able to discover and lay down those
+laws that are right in the abstract, whereas the organizer must
+first of all be a man of psychological insight. He must take men
+as they are, and for that reason he must know them, not having
+too high or too low an estimate of human nature. He must take
+account   of   their   weaknesses,   their   baseness   and   all  the   other
+various   characteristics,   so   as   to   form   something   out   of   them
+which will be a living organism, endowed with strong powers of
+resistance, fitted to be the carrier of an idea and strong enough to
+ensure the triumph of that idea.
+But it is still more rare to find a great theorist who is at the same
+time a great leader. For the latter must be more of an agitator, a
+truth that will not be readily accepted by many of those who deal
+with problems only from the scientific standpoint. And yet what I
+say is only natural. For an agitator who shows himself capable of
+expounding   ideas   to   the   great   masses   must   always   be   a
+psychologist,   even   though   he   may   be   only   a   demagogue.
+Therefore he will always be a much more capable leader than the
+contemplative theorist who meditates on his ideas, far from the
+human throng and the world. For to be a leader means to be able
+to move the masses. The gift of formulating ideas has nothing
+whatsoever to do with the capacity for leadership. It would be
+entirely futile to discuss the question as to which is the more
+important: the faculty of conceiving ideals and human aims or
+that of being able to have them put into practice. Here, as so
+often  happens  in  life,  the  one  would  be  entirely  meaningless
+without   the   other.   The   noblest   conceptions   of   the   human
+understanding   remain   without   purpose   or   value   if   the   leader
+cannot move the masses towards them. And, conversely, what
+would it avail to have all the genius and elan of a leader if the
+intellectual theorist does not fix the aims for which mankind
+must struggle. But when the abilities of theorist and organizer
+and leader are united in the one person, then we have the rarest
+phenomenon on this earth. And it is that union which produces
+the great man.
+As I have already said, during my first period in the Party I
+devoted myself to the work of propaganda. I had to succeed in
+gradually gathering together a small nucleus of men who would
+accept the new teaching and be inspired by it. And in this way we
+should provide the human material which subsequently would
+form the constituent elements of the organization. Thus the goal
+of the propagandist is nearly always fixed far beyond that of the
+organizer.
+If a movement proposes to overthrow a certain order of things
+and construct a new one in its place, then the following principles
+must be clearly understood and must dominate in the ranks of its
+leadership:   Every   movement   which   has   gained   its   human
+material must first divide this material into two groups: namely,
+followers and members.
+It is the task of the propagandist to recruit the followers and it is
+the task of the organizer to select the members.
+The follower of a movement is he who understands and accepts
+its aims; the member is he who fights for them.
+The follower is one whom the propaganda has converted to the
+doctrine   of   the   movement.   The   member   is   he   who   will   be
+charged by the organization to collaborate in winning over new
+followers from which in turn new members can be formed.
+To be a follower needs only the passive recognition of the idea.
+
+To be a member means to represent that idea and fight for it.
+From   ten   followers   one   can   have   scarcely   more   than   two
+members.   To   be   a   follower   simply   implies   that   a   man   has
+accepted the teaching of the movement; whereas to be a member
+means   that   a   man   has   the   courage   to   participate   actively   in
+diffusing that teaching in which he has come to believe.
+Because of its passive character, the simple effort of believing in
+a political doctrine is enough for the majority, for the majority of
+mankind is mentally lazy and timid. To be a member one must be
+intellectually   active,   and   therefore   this   applies   only   to   the
+minority.
+Such being the case, the propagandist must seek untiringly to
+acquire new followers for the movement, whereas the organizer
+must   diligently   look   out   for   the   best   elements   among   such
+followers,   so   that   these   elements   may   be   transformed   into
+members. The propagandist need not trouble too much about the
+personal worth of the individual proselytes he has won for the
+movement.   He   need   not   inquire   into   their   abilities,   their
+intelligence or character. From these  proselytes,  however, the
+organizer   will   have   to   select   those   individuals  who   are   most
+capable of actively helping to bring the movement to victory.
+The propagandist aims at inducing the whole people to accept his
+teaching. The organizer includes in his body of membership only
+those who, on psychological grounds, will not be an impediment
+to the further diffusion of the doctrines of the movement.
+The propagandist inculcates his doctrine among the masses, with
+the idea of preparing them for the time when this doctrine will
+triumph, through the body of combatant members which he has
+formed   from   those   followers   who   have   given   proof   of   the
+necessary ability and will­power to carry the struggle to victory.
+The final triumph of a doctrine will be made all the more easy if
+the propagandist has effectively converted large bodies of men to
+the belief in that doctrine and if the organization that actively
+conducts the fight be exclusive, vigorous and solid.
+When the propaganda work has converted a whole people to
+believe in a doctrine, the organization can turn the results of this
+into practical effect through the work of a mere handful of men.
+Propaganda and organization, therefore follower and member,
+then stand towards one another in a definite mutual relationship.
+The   better   the   propaganda   has   worked,   the   smaller   will   the
+organization be. The greater the number of followers, so much
+the smaller can be the number of members. And conversely. If
+the propaganda be bad, the organization must be large. And if
+there be only a small number of followers, the membership must
+be   all   the   larger   –   if   the   movement   really   counts   on   being
+successful.
+The first duty of the propagandist is to win over people who can
+subsequently be taken into the organization. And the first duty of
+the organization is to select and train men who will be capable of
+carrying on the propaganda. The second duty of the organization
+is to disrupt the existing order of things and thus make room for
+the penetration of the new teaching which it represents, while the
+duty of the organizer must be to fight for the purpose of securing
+power, so that the doctrine may finally triumph.
+A revolutionary conception of the world and human existence
+will   always   achieve   decisive   success   when   the   new
+Weltanschhauung   has   been   taught   to   a   whole   people,   or
+subsequently forced upon them if necessary, and when, on the
+other hand, the central organization, the movement itself, is in
+the   hands   of   only   those   few   men   who   are   absolutely
+indispensable to form the nerve­centres of the coming State.
+Put in another way, this means that in every great revolutionary
+movement that is of world importance the idea of this movement
+must   always   be   spread   abroad   through   the   operation   of
+propaganda. The propagandist must never tire in his efforts to
+make the new ideas clearly understood, inculcating them among
+others, or at least he must place himself in the position of those
+others and endeavour to upset their confidence in the convictions
+they have hitherto held. In order that such propaganda should
+have backbone to it, it must be based on an organization. The
+organization chooses its members from among those followers
+whom the propaganda has won. That organization will become
+all   the   more   vigorous   if   the   work   of   propaganda   be   pushed
+forward intensively. And the propaganda will work all the better
+when the organization back of it is vigorous and strong in itself.
+Hence the supreme task of the organizer is to see to it that any
+discord or differences which may arise among the members of
+the movement will not lead to a split and thereby cramp the work
+within the movement. Moreover, it is the duty of the organization
+to see that the fighting spirit of the movement does not flag or die
+out but that it is constantly reinvigorated and restrengthened. It is
+not   necessary   the   number   of   members   should   increase
+indefinitely. Quite the contrary would be better. In view of the
+fact that only a fraction of humanity has energy and courage, a
+movement   which   increases   its   own   organization   indefinitely
+must   of   necessity   one   day   become   plethoric   and   inactive.
+Organizations, that is to say, groups of members, which increase
+their size beyond certain dimensions gradually lose their fighting
+force and are no longer in form to back up the propagation of a
+doctrine with aggressive elan and determination.
+Now the greater and more revolutionary a doctrine is, so much
+the more active will be the spirit inspiring its body of members,
+because the subversive energy of such a doctrine will frighten
+way the chicken­hearted and small­minded bourgeoisie. In their
+hearts they may believe in the doctrine but they are afraid to
+acknowledge their belief openly. By reason of this very fact,
+however, an organization inspired by a veritable revolutionary
+idea will attract into the body of its membership only the most
+active   of   those   believers   who   have   been   won   for   it   by   its
+propaganda. It is in this activity on the part of the membership
+body, guaranteed by the process of natural selection, that we are
+to seek   the  prerequisite   conditions for the  continuation of an
+active and spirited propaganda and also the victorious struggle
+for the success of the idea on which the movement is based.
+The greatest danger that can threaten a movement is an abnormal
+increase in the number of its members, owing to its too rapid
+success. So long as a movement has to carry on a hard and bitter
+fight, people of weak and fundamentally egotistic temperament
+will steer very clear of it; but these will try to be accepted as
+members the moment the party achieves a manifest success in the
+course of its development.
+It   is   on   these   grounds   that   we   are   to   explain   why   so   many
+movements which were at first successful slowed down before
+reaching   the   fulfilment   of   their   purpose   and,   from   an   inner
+weakness which could not otherwise be explained, gave up the
+struggle and finally disappeared from the field. As a result of the
+early successes achieved, so many undesirable, unworthy and
+especially timid individuals became members of the movement
+that they  finally  secured  the  majority and  stifled  the fighting
+spirit   of   the   others.   These   inferior   elements   then   turned   the
+movement to the service of their personal interests and, debasing
+it to the level of their own miserable heroism, no longer struggled
+for the triumph of the original idea. The fire of the first fervour
+died out, the fighting spirit flagged and, as the bourgeois world is
+accustomed to say very justly in such cases, the party mixed
+water with its wine.
+For this reason it is necessary that a movement should, from the
+sheer   instinct   of   self­preservation,   close   its   lists   to   new
+membership the moment it becomes successful. And any further
+increase in its organization should be allowed to take place only
+with the most careful foresight and after a painstaking sifting of
+those who apply for membership. Only thus will it be possible to
+keep the kernel of the movement intact and fresh and sound. Care
+must be taken that the conduct of the movement is maintained
+exclusively in the hands of this original nucleus. This means that
+the nucleus must direct the propaganda which aims at securing
+general recognition for the movement. And the movement itself,
+when it has secured power in its hands, must carry out all those
+acts and measures which are necessary in order that its ideas
+should be finally established in practice.
+With   those   elements   that   originally   made   the   movement,   the
+organization should occupy all the important positions that have
+been conquered and from those elements the whole directorate
+should be formed. This should continue until the maxims and
+doctrines of the party have become the foundation and policy of
+the new State. Only then will it be permissible gradually to give
+the reins into the hands of the Constitution of that State which the
+spirit of the movement has created. But  this usually happens
+through a process of mutual rivalry, for here it is less a question
+of human intelligence than of the play and effect of the forces
+whose development may indeed be foreseen from the start but
+not perpetually controlled.
+All great movements, whether of a political or religious nature,
+owe their imposing success to the recognition and adoption of
+those principles. And no durable success is conceivable if these
+laws are not observed.
+As director of propaganda for the party, I took care not merely to
+prepare   the   ground   for   the   greatness   of   the   movement   in   its
+subsequent stages, but I also adopted the most radical measures
+against allowing into the organization any other than the best
+material. For the more radical and exciting my propaganda was,
+the more did it frighten weak and wavering characters away, thus
+preventing   them   from   entering   the   first   nucleus   of   our
+organization. Perhaps they remained followers, but they did not
+raise their voices. On the contrary, they maintained a discreet
+silence on the fact. Many thousands of persons then assured me
+that they were in full agreement with us but they could not on
+any account become members of our party. They said that the
+movement was so radical that to take part in it as members would
+expose them to grave censures and grave dangers, so that they
+would rather continue to be looked upon as honest and peaceful
+citizens and remain aside, for the time being at least, though
+devoted to our cause with all their hearts.
+And that was all to the good. If all these men who in their hearts
+did not approve of revolutionary ideas came into our movement
+as members at that time, we should be looked upon as a pious
+confraternity today and not as a young movement inspired with
+the spirit of combat.
+The   lively   and   combative   form   which   I   gave   to   all   our
+propaganda fortified and guaranteed the radical tendency of our
+movement, and the result was that, with a few exceptions, only
+men of radical views were disposed to become members.
+It was due to the effect of our propaganda that within a short
+period   of   time   hundreds   of   thousands   of   citizens   became
+convinced   in   their   hearts   that   we   were   right   and   wished   us
+victory,   although   personally   they   were   too   timid   to   make
+sacrifices for our cause or even participate in it.
+Up to the middle of 1921 this simple activity of gathering in
+followers was sufficient and was of value to the movement. But
+in the summer of that year certain events happened which made
+it seem opportune for us to bring our organization into line with
+the manifest successes which the propaganda had achieved.
+An attempt made by a group of patriotic visionaries, supported
+by   the   chairman   of   the   party   at   that   time,   to   take   over   the
+direction of the party led to the break up of this little intrigue and,
+by a unanimous vote at a general meeting, entrusted the entire
+direction of the party to my own hands. At the same time a new
+statute   was   passed   which   invested   sole   responsibility   in   the
+chairman of the movement, abolished the system of resolutions
+in committee and in its stead introduced the principle of division
+of labour which since that time has worked excellently.
+From   August   1st,   1921,   onwards   I   undertook   this   internal
+reorganization of the party and was supported by a number of
+excellent men. I shall mention them and their work individually
+later on.
+In my endeavour to turn the results gained by the propaganda to
+the advantage of the organization and thus stabilize them, I had
+to abolish completely a number of old customs and introduce
+regulations which  none  of  the other  parties possessed  or had
+adopted.
+In   the   years   1920­21   the   movement   was   controlled   by   a
+committee elected by the members at a general meeting. The
+committee was composed of a first and second treasurer, a first
+and second secretary, and a first and second chairman at the head
+of   it.   In   addition   to   these   there   was   a   representative   of   the
+members, the director of propaganda, and various assessors.
+Comically enough, the committee embodied the very principle
+against which the movement itself wanted to fight with all its
+energy, namely, the principle of parliamentarianism. Here was a
+principle which personified everything that was being opposed
+by the movement, from the smallest local groups to the district
+and regional groups, the state groups and finally the national
+directorate itself. It was a system under which we all suffered and
+are still suffering.
+It was imperative to change this state of affairs forthwith, if this
+bad foundation in the internal organization was not to keep the
+movement insecure and render the fulfilment of its high mission
+impossible.
+The sessions of the committee, which were ruled by a protocol,
+and in which decisions were made according to the vote of the
+majority, presented the picture of a miniature parliament. Here
+also there was no such thing as personal responsibility. And here
+reigned   the   same   absurdities   and   illogical   state   of   affairs   as
+flourish in our great representative bodies of the State. Names
+were   presented   to   this   committee   for   election   as   secretaries,
+treasurers, representatives of the members of the organization,
+propaganda agents and God knows what else. And then they all
+acted in common on every particular question and decided it by
+vote.   Accordingly,   the   director   of   propaganda   voted   on   a
+question that concerned the man who had to do with the finances
+and the latter in his turn voted on a question that concerned only
+the organization as such, the organizer voting on a subject that
+had to do with the secretarial department, and so on.
+Why select a special man for propaganda if treasurers and scribes
+and commissaries,  etc., had  to deliver judgment on questions
+concerning it? To a person of commonsense that sort of thing
+seemed   as   incomprehensible   as   it   would   be   if   in   a   great
+manufacturing concern the board of directors were to decide on
+technical questions of production or if, inversely, the engineers
+were to decide on questions of administration.
+I refused to countenance that kind of folly and after a short time I
+ceased to appear at the meetings of the committee. I did nothing
+else except attend to my own department of propaganda and I did
+not   permit   any   of   the   others   to   poke   their   heads   into   my
+activities. Conversely, I did not interfere in the affairs of others.
+
+When  the  new  statute  was  approved  and  I was  appointed  as
+president, I had the necessary authority in my hands and also the
+corresponding right to make short shrift of all that nonsense. In
+the place of decisions by the majority vote of the committee, the
+principle of absolute responsibility was introduced.
+The   chairman   is   responsible   for   the   whole   control   of   the
+movement. He apportions the work among the members of the
+committee subordinate to him and for special work he selects
+other   individuals.   Each   of   these   gentlemen   must   bear   sole
+responsibility for the task assigned to him. He is subordinate only
+to   the   chairman,   whose   duty   is   to   supervise   the   general
+collaboration,   selecting   the   personnel   and   giving   general
+directions for the co­ordination of the common work.
+This principle of absolute responsibility is being adopted little by
+little throughout the movement. In the small local groups and
+perhaps also in the regional and district groups it will take yet a
+long   time   before   the   principle   can   be   thoroughly   imposed,
+because timid and hesitant characters are naturally opposed to it.
+For them the idea of bearing absolute responsibility for an act
+opens up an unpleasant prospect. They would like to hide behind
+the shoulders of the majority in the so­called committee, having
+their acts covered by decisions passed in that way. But it seems
+to me a matter of absolute necessity to take a decisive stand
+against that view, to make no concessions whatsoever to this fear
+of responsibility, even though it takes some time before we can
+put fully into effect this concept of duty and ability in leadership,
+which will finally bring forward leaders who have the requisite
+abilities to occupy the chief posts.
+In any case, a movement which must fight against the absurdity
+of parliamentary institutions must be immune from this sort of
+thing. Only thus will it have the requisite strength to carry on the
+struggle.
+At   a   time   when   the   majority   dominates   everywhere   else   a
+movement which is based on the principle of one leader who has
+to bear personal responsibility for the direction of the official acts
+of   the   movement   itself   will   one   day   overthrow   the   present
+situation   and   triumph   over   the   existing   regime.   That   is   a
+mathematical certainty.
+This   idea   made   it   necessary   to   reorganize   our   movement
+internally.   The   logical   development   of   this   reorganization
+brought   about   a   clear­cut   distinction   between   the   economic
+section of the movement and the general political direction. The
+principle   of   personal   responsibility   was   extended   to   all   the
+administrative   branches   of   the   party   and   it   brought   about   a
+healthy renovation, by liberating them from political influences
+and allowing them to operate solely on economic principles.
+In the autumn of 1921, when the party was founded, there were
+only six members. The party did not have any headquarters, nor
+officials, nor formularies, nor a stamp, nor printed material of
+any sort. The committee first held its sittings in a restaurant on
+the Herrengasse and then in a café at Gasteig. This state of affairs
+could not last. So I at once took action in the matter. I went
+around to several restaurants and hotels in Munich, with the idea
+of renting a room in one of them for the use of the Party. In the
+old Sterneckerbräu im Tal, there was a small room with arched
+roof, which in earlier times was used as a sort of festive tavern
+where   the   Bavarian   Counsellors   of   the   Holy   Roman   Empire
+foregathered. It was dark and dismal and accordingly well suited
+to its ancient uses, though less suited to the new purpose it was
+now destined to serve. The little street on which its one window
+looked out was so narrow that even on the brightest summer day
+the room remained dim and sombre. Here we took up our first
+fixed abode. The rent came to fifty marks per month, which was
+then an enormous sum for us. But our exigencies had to be very
+modest. We dared not complain even when they removed the
+wooden wainscoting a few days after we had taken possession.
+This   panelling   had   been   specially   put   up   for   the   Imperial
+Counsellors. The place began to look more like a grotto than an
+office.
+Still it marked an important step forward. Slowly we had electric
+light   installed   and   later   on   a   telephone.   A   table   and   some
+borrowed chairs were brought, an open paper­stand and later on a
+cupboard.   Two   sideboards,   which   belonged   to   the   landlord,
+served to store our leaflets, placards, etc.
+As time went on it turned out impossible to direct the course of
+the movement merely by holding a committee meeting once a
+week.   The   current   business   administration   of   the   movement
+could   not   be   regularly   attended   to   except   we   had   a   salaried
+official.
+But that was then very difficult for us. The movement had still so
+few members that it was hard to find among them a suitable
+person for the job who would be content with very little for
+himself   and   at   the   same   time   would   be   ready   to   meet   the
+manifold demands which the movement would make on his time
+and energy.
+After long searching we discovered a soldier who consented to
+become our first administrator. His name was Schüssler, an old
+war comrade of mine. At first he came to our new office every
+day between six and eight o'clock in the evening. Later on he
+came   from   five   to   eight   and   subsequently   for   the   whole
+afternoon. Finally it became a full­time job and he worked in the
+office from morning until late at night. He was an industrious,
+upright and thoroughly honest man, faithful and devoted to the
+movement. He brought with him a small Adler typewriter of his
+own. It was the first machine to be used in the service of the
+party.   Subsequently   the   party   bought   it   by   paying   for   it   in
+installments. We needed a small safe in order to keep our papers
+and register of membership from danger of being stolen – not to
+guard our funds, which did not then exist. On the contrary, our
+financial position was so miserable that I often had to dip my
+hand into my own personal savings.
+After   eighteen   months   our   business   quarters  had   become   too
+small, so we moved to a new place in the Cornelius Strasse.
+Again our office was in a restaurant, but instead of one room we
+now had three smaller rooms and one large room with great
+windows. At that time this appeared a wonderful thing to us. We
+remained there until the end of November 1923.
+In December 1920, we acquired the Völkischer Beobachter. This
+newspaper which, as its name implies, championed the claims of
+the people, was now to become the organ of the German National
+Socialist Labour Party. At first it appeared twice weekly; but at
+the beginning of 1928 it became a daily paper, and at the end of
+August in the same year it began to appear in the large format
+which is now well known.
+As a complete novice in journalism I then learned many a lesson
+for which I had to pay dearly.
+In contradistinction to the enormous number of papers in Jewish
+hands, there was at that time only one important newspaper that
+defended the cause of the people. This was a matter for grave
+consideration. As I have often learned by experience, the reason
+for that state of things must be attributed to the incompetent way
+in which the business side of the so­called popular newspapers
+was managed. These were conducted too much according to the
+rule that opinion should prevail over action that produces results.
+Quite   a   wrong   standpoint,   for   opinion   is   of   itself   something
+internal and finds its best expression in productive activity. The
+man who does valuable work for his people expresses thereby his
+excellent sentiments, whereas another who merely talks about his
+opinions and does nothing that is of real value or use to the
+people   is   a   person   who   perverts   all   right   thinking.   And   that
+attitude of his is also pernicious for the community.
+The Völkische Beobachter was a so­called 'popular' organ, as its
+name indicated. It had all the good qualities, but still more the
+errors   and   weaknesses,   inherent   in   all   popular   institutions.
+Though its contents were excellent, its management as a business
+concern was simply impossible. Here also the underlying idea
+was that popular newspapers ought to be subsidized by popular
+contributions, without recognizing that it had to make its way in
+competition with the others and that it was dishonest to expect
+the subscriptions of good patriots to make up for the mistaken
+management of the undertaking.
+I took care to alter those conditions promptly, for I recognized
+the danger lurking in them. Luck was on my side here, inasmuch
+as   it   brought   me   the   man   who   since   that   time   has   rendered
+innumerable   services   to   the   movement,   not   only   as   business
+manager of the newspaper but also as business manager of the
+party. In 1914, in the War, I made the acquaintance of Max
+Amann, who was then my superior and is today general business
+Director   of   the   Party.   During   four   years   in   the   War   I   had
+occasion to observe almost continually the unusual ability, the
+diligence   and   the   rigorous   conscientiousness   of   my   future
+collaborator.
+In the summer of 1921 I applied to my old regimental comrade,
+whom   I   met   one   day   by   chance,   and   asked   him   to   become
+business manager of the movement. At that time the movement
+was   passing   through   a   grave   crisis   and   I   had   reason   to   be
+dissatisfied with several of our officials, with one of whom I had
+had a very bitter experience. Amann then held a good situation in
+which there were also good prospects for him.
+After   long   hesitation   he   agreed   to   my   request,   but   only   on
+condition   that   he   must   not   be   at   the   mercy   of   incompetent
+committees. He must be responsible to one master, and only one.
+It is to the inestimable credit of this first business manager of the
+party, whose commercial knowledge is extensive and profound,
+that he brought order and probity into the various offices of the
+party. Since that time these have remained exemplary and cannot
+be equalled  or excelled  in  this  by any  other  branches of the
+movement. But, as often happens in life, great ability provokes
+envy and disfavour. That had also to be expected in this case and
+borne patiently.
+Since 1922 rigorous regulations have been in force, not only for
+the commercial construction of the movement but also in the
+organization   of   it   as   such.   There   exists   now   a   central   filing
+system, where the names and particulars of all the members are
+enrolled. The financing of the party has been placed on sound
+lines. The current expenditure must be covered by the current
+receipts   and   special   receipts   can   be   used   only   for   special
+expenditures. Thus, notwithstanding the difficulties of the time
+the movement remained practically without any debts, except for
+a few small current accounts. Indeed, there was a permanent
+increase   in   the   funds.   Things   are   managed   as   in   a   private
+business. The employed personnel hold their jobs in virtue of
+their practical efficiency and could not in any manner take cover
+behind   their   professed   loyalty   to   the   party.   A   good   National
+Socialist proves his soundness by the readiness, diligence and
+capability with which he discharges whatever duties are assigned
+to   him   in   whatever   situation   he   holds   within   the   national
+community. The man who does not fulfil his duty in the job he
+holds cannot boast of a loyalty against which he himself really
+sins.
+Adamant against all kinds of outer influence, the new business
+director of the party firmly maintained the standpoint that there
+were no sinecure posts in the party administration for followers
+and members of the movement whose pleasure is not work. A
+movement which fights so energetically against the corruption
+introduced into our civil service by the various political parties
+must   be   immune   from   that   vice   in   its   own   administrative
+department. It happened that some men were taken on the staff of
+the   paper   who   had   formerly   been   adherents   of   the   Bavarian
+People's Party, but their work showed that they were excellently
+qualified for the job. The result of this experiment was generally
+excellent. It was owing to this honest and frank recognition of
+individual efficiency that the movement won the hearts of its
+employees more swiftly and more profoundly than had ever been
+the   case   before.   Subsequently   they   became   good   National
+Socialists and remained so. Not in word only, but they proved it
+by the steady and honest and conscientious work which they
+performed in the service of the new movement. Naturally a well
+qualified party member was preferred to another who had equal
+qualifications   but   did   not   belong   to   the   party.   The   rigid
+determination with which our new business chief applied these
+principles   and   gradually   put   them   into   force,   despite   all
+misunderstandings, turned out to be of great advantage to the
+movement. To this we owe the fact that it was possible for us –
+during the difficult period of the inflation, when thousands of
+businesses   failed   and   thousands   of   newspapers   had   to   cease
+publication – not only to keep the commercial department of the
+movement going and meet all its obligations but also to make
+steady progress with the Völkische Beobachter. At that time it
+came to be ranked among the great newspapers.
+The year 1921 was of further importance for me by reason of the
+fact that in my position as chairman of the party I slowly but
+steadily succeeded  in putting a stop to the criticisms and the
+intrusions of some members of the committee in regard to the
+detailed   activities   of   the   party   administration.   This   was
+important, because we could not get a capable man to take on a
+job   if   nincompoops   were   constantly   allowed   to   butt   in,
+pretending that they knew everything much better; whereas in
+reality they had left only general chaos behind them. Then these
+wise­acres   retired,   for   the   most   part   quite   modestly,   to   seek
+another field for their activities where they could supervise and
+tell how things ought to be done. Some men seemed to have a
+mania for sniffing behind everything and were, so to say, always
+in a permanent state of pregnancy with magnificent plans and
+ideas and projects and methods. Naturally their noble aim and
+ideal were always the formation of a committee which could
+pretend to be an organ of control in order to be able to sniff as
+experts into the regular work done by others. But it is offensive
+and   contrary   to   the   spirit   of   National   Socialism   when
+incompetent people constantly interfere in the work of capable
+persons. But these makers of committees do not take that very
+much into account. In those years I felt it my duty to safeguard
+against such annoyance all those who were entrusted with regular
+and responsible work, so that there should be no spying over the
+shoulder and they would be guaranteed a free hand in their day's
+work.
+The best means of making committees innocuous, which either
+did nothing or cooked up impracticable decisions, was to give
+them some real work to do. It was then amusing to see how the
+members would silently fade away and were soon nowhere to be
+found. It made me think of that great institution of the same kind,
+the Reichstag. How quickly they would evanesce if they were put
+to some real work instead of talking, especially if each member
+were made personally responsible for the work assigned to him.
+I always demanded that, just as in private life so also in the
+movement,   one   should   not   tire   of   seeking   until   the   best   and
+honestest and manifestly the most competent person could be
+found for the position of leader or administrator in each section
+of the movement. Once installed in his position he was given
+absolute   authority   and   full   freedom   of   action   towards   his
+subordinates   and   full   responsibility   towards   his   superiors.
+Nobody   was   placed   in   a   position   of   authority   towards   his
+subordinates   unless   he   himself   was   competent   in   the   work
+entrusted to them. In the course of two years I brought my views
+more and more into practice; so that today, at least as far as the
+higher direction of the movement is concerned, they are accepted
+as a matter of course.
+The manifest success of this attitude was shown on November
+9th, 1923. Four years previously, when I entered the movement,
+it did not have even a rubber stamp. On November 9th, 1923, the
+party was dissolved and its property confiscated. The total sum
+realized by all the objects of value and the paper amounted to
+more than 170,000 gold marks.
+
+
+
+
+`;
+const chapter_b_12 = `Owing to the rapid growth of the movement, in 1922 we felt
+compelled to take a definite stand on a question which has not
+been fully solved even yet.
+In our efforts to discover the quickest and easiest way for the
+movement to reach the heart of the broad masses we were always
+confronted   with   the   objection   that   the   worker   could   never
+completely   belong   to   us   while   his   interests   in   the   purely
+vocational and economic sphere were cared for by a political
+organization   conducted   by   men   whose   principles   were   quite
+different from ours.
+That was quite a serious objection. The general belief was that a
+workman engaged in some trade or other could not exist if he did
+not   belong   to   a   trade   union.   Not   only   were   his   professional
+interests   thus   protected   but   a   guarantee   of   permanent
+employment was simply inconceivable without membership in a
+trade   union.   The   majority   of   the   workers   were   in   the   trades
+unions.   Generally   speaking,   the   unions   had   successfully
+conducted the battle for the establishment of a definite scale of
+wages   and   had   concluded   agreements   which   guaranteed   the
+worker a steady income. Undoubtedly the workers in the various
+trades benefited by the results of that campaign and, for honest
+men especially, conflicts of conscience must have arisen if they
+took the  wages which  had  been assured   through  the struggle
+fought by the trades unions and if at the same time the men
+themselves withdrew from the fight.
+It   was   difficult   to   discuss   this   problem   with   the   average
+bourgeois employer. He had no understanding (or did not wish to
+have any) for either the material or moral side of the question.
+Finally   he   declared   that   his   own   economic   interests   were   in
+principle opposed to every kind of organization which joined
+together the workmen that were dependent on him. Hence it was
+for the most part impossible to bring these bourgeois employers
+to take an impartial view of the situation. Here, therefore, as in so
+many other cases,  it was necessary  to appeal to disinterested
+outsiders who would not be subject to the temptation of fixing
+their attention on the trees and failing to see the forest. With a
+little   good   will   on   their   part,   they   could   much   more   easily
+understand a state of affairs which is of the highest importance
+for our present and future existence.
+In the first volume of this book I have already expressed my
+views on the nature and purpose and necessity of trade unions.
+There   I   took   up   the   standpoint   that   unless   measures   are
+undertaken by the State (usually futile in such cases) or a new
+ideal is introduced in our education, which would change the
+attitude of the employer towards the worker, no other course
+would be open to the latter except to defend his own interests
+himself by appealing to his equal rights as a contracting party
+within the economic sphere of the nation's existence. I stated
+further that this would conform to the interests of the national
+community if thereby social injustices could be redressed which
+otherwise   would   cause   serious   damage   to   the   whole   social
+structure. I stated, moreover, that the worker would always find it
+necessary to undertake this protective action as long as there
+were men among the employers who had no sense of their social
+obligations nor even of the most elementary human rights. And I
+concluded   by   saying   that   if   such   self­defence   be   considered
+necessary its form ought to be that of an association made up of
+the workers themselves on the basis of trades unions.
+This was my general idea and it remained the same in 1922. But
+a clear and precise formula was still to be discovered. We could
+not be satisfied with merely understanding the problem. It was
+necessary to come to some conclusions that could be put into
+practice. The following questions had to be answered:
+(1) Are trade unions necessary?
+(2) Should  the German  National Socialist  Labour  Party  itself
+operate on a trade unionist basis or have its members take part in
+trade unionist activities in some form or other?
+(3) What form should a National Socialist Trades Union take?
+What are the tasks confronting us and the ends we must try to
+attain?
+(4) How can we establish trade unions for such tasks and aims?
+I think that I have already answered the first question adequately.
+In the present state of affairs I am convinced that we cannot
+possibly dispense with the trades unions. On the contrary, they
+are among the most important institutions in the economic life of
+the nation. Not only are they important in the sphere of social
+policy but also, and even more so, in the national political sphere.
+For   when   the   great   masses   of   a   nation   see   their   vital   needs
+satisfied through a just trade unionist movement the stamina of
+the whole nation in its struggle for existence will be enormously
+reinforced thereby.
+Before   everything   else,   the   trades   unions   are   necessary   as
+building stones for the future economic parliament, which will be
+made up of chambers representing the various professions and
+occupations.
+The second question is also easy to answer. If the trade unionist
+movement is important, then it is clear that National Socialism
+ought   to   take   a   definite   stand   on   that   question,   not   only
+theoretically but also in practice. But how? That is more difficult
+to see clearly.
+The National Socialist Movement, which aims at establishing the
+National Socialist People's State, must always bear steadfastly in
+mind the principle that every future institution under that State
+must be rooted in the movement itself. It is a great mistake to
+believe that by acquiring possession of supreme political power
+we can bring about a definite reorganization, suddenly starting
+from nothing, without the help of a certain reserve stock of men
+who have been trained beforehand, especially in the spirit of the
+movement. Here also the principle holds good that the spirit is
+always more important than the external form which it animates;
+since this form can be created mechanically and quickly. For
+instance,   the   leadership   principle   may   be   imposed   on   an
+organized   political   community   in   a   dictatorial   way.   But   this
+principle can become a living reality only by passing through the
+stages that are necessary for its own evolution. These stages lead
+from the smallest  cell of the State organism  upwards. As its
+bearers and representatives, the leadership principle must have a
+body of men who have passed through a process of selection
+lasting over several years, who have been tempered by the hard
+realities   of   life   and   thus   rendered   capable   of   carrying   the
+principle into practical effect.
+It   is   out   of   the   question   to   think   that   a   scheme   for   the
+Constitution  of  a  State  can  be   pulled   out  of  a  portfolio  at  a
+moment's   notice   and   'introduced'   by   imperative   orders   from
+above. One may try that kind of thing but the result will always
+be something that has not sufficient vitality to endure. It will be
+like a stillborn infant. The idea of it calls to mind the origin of
+the   Weimar   Constitution   and   the   attempt   to   impose   on   the
+German people a new Constitution and a new flag, neither of
+which had any inner relation to the vicissitudes of our people's
+history during the last half century.
+The   National   Socialist   State   must   guard   against   all   such
+experiments.   It   must   grow   out   of   an   organization   which   has
+already existed for a long time. This organization must possess
+National Socialist life in itself, so that finally it may be able to
+establish a National Socialist State that will be a living reality.
+As I have already said, the germ cells of this State must lie in the
+administrative   chambers   which   will   represent   the   various
+occupations and professions, therefore first of all in the trades
+unions.   If   this   subsequent   vocational   representation   and   the
+Central   Economic   Parliament   are   to   be   National   Socialist
+institutions, these important germ cells must be vehicles of the
+National   Socialist   concept   of   life.   The   institutions   of   the
+movement are to be brought over into the State; for the State
+cannot call into existence all of a sudden and as if by magic those
+institutions which are necessary to its existence, unless it wishes
+to have institutions that are bound to remain completely lifeless.
+
+Looking at the matter from the highest standpoint, the National
+Socialist   Movement   will   have   to   recognize   the   necessity   of
+adopting its own trade­unionist policy.
+It   must   do   this   for   a   further   reason,   namely   because   a   real
+National Socialist education for the employer as well as for the
+employee,   in   the   spirit   of   a   mutual   co­operation   within   the
+common   framework   of   the   national   community,   cannot   be
+secured by theoretical instruction, appeals and exhortations, but
+through the struggles of daily life. In this spirit and through this
+spirit the movement must educate the several large economic
+groups   and   bring   them   closer   to   one   another   under   a   wider
+outlook. Without this preparatory work it would be sheer illusion
+to   hope   that   a   real   national   community   can   be   brought   into
+existence. The great ideal represented by its philosophy of life
+and for which the movement fights can alone form a general style
+of thought steadily and slowly. And this style will show that the
+new state of things rests on foundations that are internally sound
+and not merely an external façade.
+Hence the movement must adopt a positive attitude towards the
+trade­unionist   idea.   But   it   must   go   further   than   this.   For   the
+enormous   number   of   members   and   followers   of   the   tradeunionist movement it must provide a practical education which
+will meet the exigencies of the coming National Socialist State.
+The answer to the third question follows from what has been
+already said.
+The National Socialist Trades Union is not an instrument for
+class   warfare,   but   a   representative   organ   of   the   various
+occupations and callings. The National Socialist State recognizes
+no 'classes'. But, under the political aspect, it recognizes only
+citizens   with   absolutely   equal   rights   and   equal   obligations
+corresponding thereto. And, side by side with these, it recognizes
+subjects of the State who have no political rights whatsoever.
+According to the National Socialist concept, it is not the task of
+the trades union to band together certain men within the national
+community and thus gradually transform these men into a class,
+so as to use them in a conflict against other groups similarly
+organized within the national community. We certainly cannot
+assign this task to the trades union as such. This was the task
+assigned to it the moment it became a fighting weapon in the
+hands   of   the   Marxists.   The   trades   union   is   not   naturally   an
+instrument of class warfare; but the Marxists transformed it into
+an instrument for use in their own class struggle. They created
+the economic weapon which the international Jew uses for the
+purpose   of   destroying   the   economic   foundations   of   free   and
+independent national States, for ruining their national industry
+and  trade   and  thereby   enslaving   free   nations  to  serve   Jewish
+world­finance, which transcends all State boundaries.
+In contradistinction to this, the National Socialist Trades Union
+must organize definite groups and those who participate in the
+economic life of the nation and thus enhance the security of the
+national economic system itself, reinforcing it by the elimination
+of all those anomalies which ultimately exercise a destructive
+influence on the social body of the nation, damaging the vital
+forces of the national community, prejudicing the welfare of the
+State and, by no means as a last consequence, bringing evil and
+destruction on economic life itself.
+Therefore in the hands of the National Socialist Trades Union the
+strike   is   not   an   instrument   for   disturbing   and   dislocating   the
+national   production,   but   for   increasing   it   and   making   it   run
+smoothly,   by   fighting   against   all   those   annoyances   which   by
+reason of their unsocial character hinder efficiency in business
+and   thereby   hamper   the   existence   of   the   whole   nation.   For
+individual   efficiency   stands   always   in   casual   relation   to   the
+general   social   and   juridical   position   of   the   individual   in   the
+economic process. Individual efficiency is also the sole root of
+the conviction that the economic prosperity of the nation must
+necessarily redound to the benefit of the individual citizen.
+The National Socialist employee will have to recognize the fact
+that the economic prosperity of the nation brings with it his own
+material happiness.
+The   National   Socialist   employer   must   recognize   that   the
+happiness and contentment of his employees are necessary prerequisites   for   the   existence   and   development   of   his   own
+economic prosperity.
+National Socialist workers and employers are both together the
+delegates and mandatories of the whole national community. The
+large measure of personal freedom which is accorded to them for
+their activities must be explained by the fact that experience has
+shown that the productive powers of the individual are more
+enhanced by being accorded a generous measure of freedom than
+by coercion from above. Moreover, by according this freedom
+we give free play to the natural process of selection which brings
+forward the ablest and most capable and most industrious. For
+the National Socialist Trades Union, therefore, the strike is a
+means that may, and indeed must, be resorted to as long as there
+is   not   a   National   Socialist   State   yet.   But   when   that   State   is
+established   it   will,   as   a   matter   of   course,   abolish   the   mass
+struggle between the two great groups made up of employers and
+employees respectively, a struggle which has always resulted in
+lessening   the   national   production   and   injuring   the   national
+community. In place of this struggle, the National Socialist State
+will take over the task of caring for and defending the rights of
+all   parties   concerned.   It   will   be   the   duty   of   the   Economic
+Chamber itself to keep the national economic system in smooth
+working order and to remove whatever defects or errors it may
+suffer from. Questions that are now fought over through a quarrel
+that   involves   millions   of   people   will   then   be   settled   in   the
+Representative Chambers of Trades and Professions and in the
+Central Economic Parliament. Thus employers and employees
+will no longer find themselves drawn into a mutual conflict over
+wages and hours of work, always to the detriment of their mutual
+interests. But they will solve these problems together on a higher
+plane, where the welfare of the national community and of the
+State   will   be   as   a   shining   ideal   to   throw   light   on   all   their
+negotiations.
+Here again, as everywhere else, the inflexible principle must be
+observed, that the interests of the country must come before party
+interests.
+The   task   of   the   National   Socialist   Trades   Union   will   be   to
+educate and prepare its members to conform to these ideals. That
+task may be stated as follows: All must work together for the
+maintenance and security of our people and the People's State,
+each one according to the abilities and powers with which Nature
+has endowed him and which have been developed and trained by
+the national community.
+Our fourth question was: How shall we establish trades unions
+for such tasks and aims? That is far more difficult to answer.
+Generally speaking, it is easier to establish something in new
+territory than in old territory which already has its established
+institutions. In a district where there is no existing business of a
+special character one can easily establish a new business of this
+character. But it is more difficult if the same kind of enterprise
+already exists and it is most difficult of all when the conditions
+are such that only one enterprise of this kind can prosper. For
+here   the   promoters   of   the   new   enterprise   find   themselves
+confronted not only with the problem of introducing their own
+business but also that of how to bring about the destruction of the
+other business already existing in the district, so that the new
+enterprise may be able to exist.
+It would be senseless to have a National Socialist Trades Union
+side by side with other trades unions. For this Trades Union must
+be thoroughly imbued with a feeling for the ideological nature of
+its task and of the resulting obligation not to tolerate other similar
+or   hostile   institutions.   It   must   also   insist   that   itself   alone   is
+necessary, to the exclusion of all the rest. It can come to no
+arrangement   and   no   compromise   with   kindred   tendencies   but
+must assert its own absolute and exclusive right.
+There were two ways which might lead to such a development:
+(1) We could establish our Trades Union and then gradually take
+up the fight against the Marxist International Trades Union.
+(2) Or we could enter the Marxist Trades Union and inculcate a
+new   spirit   in   it,   with   the   idea   of   transforming   it   into   an
+instrument in the service of the new ideal.
+The first way was not advisable, by reason of the fact that our
+financial situation was still the cause of much worry to us at that
+time and our resources were quite slender. The effects of the
+inflation   were   steadily   spreading   and   made   the   particular
+situation still more difficult for us, because in those years one
+could scarcely speak of any material help which the trades unions
+could extend to their members. From this point of view, there
+was no reason why the individual worker should pay his dues to
+the union. Even the Marxist unions then existing were already on
+the   point   of   collapse   until,   as   the   result   of   Herr   Cuno's
+enlightened   Ruhr   policy,   millions   were   suddenly   poured   into
+their coffers. This so­called 'national' Chancellor of the Reich
+should go down in history as the Redeemer of the Marxist trades
+unions.
+We could not count on similar financial facilities. And nobody
+could be induced to enter a new Trades Union which, on account
+of   its   financial   weakness,   could   not   offer   him   the   slightest
+material benefit. On the other hand, I felt bound absolutely to
+guard against the creation of such an organization which would
+only be a shelter for shirkers of the more or less intellectual type.
+At that time the question of personnel played the most important
+role. I did not have a single man whom I might call upon to carry
+out this important task. Whoever could have succeeded at that
+time in overthrowing the Marxist unions to make way for the
+triumph of the National Socialist corporative idea, which would
+then take the place of the ruinous class warfare – such a person
+would be fit to rank with the very greatest men our nation has
+produced   and   his   bust   should   be   installed   in   the   Valhalla   at
+Regensburg for the admiration of posterity.
+But I knew of no person who could qualify for such a pedestal.
+In this connection we must not be led astray by the fact that the
+international   trades   unions   are   conducted   by   men   of   only
+mediocre significance, for when those unions were founded there
+was nothing else of a similar kind already in existence. To­day
+the National Socialist Movement must fight against a monster
+organization which has existed for a long time, rests on gigantic
+foundations   and   is   carefully   constructed   even   in   the   smallest
+details. An assailant must always exercise more intelligence than
+the defender, if he is to overthrow the latter. The Marxist tradeunionist citadel may be governed today by mediocre leaders, but
+it cannot be taken by assault except through the dauntless energy
+and genius of a superior leader on the other side. If such a leader
+cannot be found it is futile to struggle with Fate and even more
+foolish to try to overthrow the existing state of things without
+being able to construct a better in its place.
+Here one must apply the maxim that in life it is often better to
+allow something to go by the board rather than try to half do it or
+do it badly, owing to a lack of suitable means.
+To this we must add another consideration, which is not at all of
+a demagogic character. At that time I had, and I still have today,
+a firmly rooted conviction that when one is engaged in a great
+ideological struggle in the political field it would be a grave
+mistake to mix up economic questions with this struggle in its
+earlier stages. This applies particularly to our German people.
+For if such were to happen in their case the economic struggle
+would immediately distract the energy necessary for the political
+fight. Once the people are brought to believe that they can buy a
+little house with their savings they will devote themselves to the
+task of increasing their savings and no spare time will be left to
+them for the political struggle against those who, in one way or
+another, will one day secure possession of the pennies that have
+been saved. Instead of participating in the political conflict on
+behalf of the opinions and convictions which they have been
+brought to accept they will now go further with their 'settlement'
+idea and in the end they will find themselves for the most part
+sitting on the ground amidst all the stools.
+To­day the National Socialist Movement is at the beginning of its
+struggle. In great part it must first of all shape and develop its
+ideals. It must employ every ounce of its energy in the struggle to
+have its great ideal accepted, and the success of this effort is not
+conceivable unless the combined energies of the movement be
+entirely at the service of this struggle.
+To­day we have a classical example of how the active strength of
+a people becomes paralysed when that people is too much taken
+up with purely economic problems.
+The Revolution which took place in November 1918 was not
+made by the trades unions, but it was carried out in spite of them.
+And the people of Germany did not wage any political fight for
+the future of their country because they thought that the future
+could   be   sufficiently   secured   by   constructive   work   in   the
+economic field.
+We must learn a lesson from this experience, because in our case
+the same thing must happen under the same circumstances. The
+more the combined strength of our movement is concentrated in
+the political struggle, the more confidently may we count on
+being successful along our whole front. But if we busy ourselves
+prematurely with trade unionist problems, settlement problems,
+etc., it will be to the disadvantage of our own cause, taken as a
+whole.   For,   though   these   problems   may   be   important,   they
+cannot be solved in an adequate manner until we have political
+power in our hand and are able to use it in the service of this
+idea.   Until   that   day   comes   these   problems   can   have   only   a
+paralysing effect on the movement. And if it takes them up too
+soon they will only be a hindrance in the effort to attain its own
+ideological aims. It may then easily happen that trade unionist
+considerations   will   control   the   political   direction   of   the
+movement,   instead   of   the   ideological   aims   of   the   movement
+directing the way that the trades unions are to take.
+The   movement   and   the   nation   can   derive   advantage   from   a
+National Socialist trade unionist organization only if the latter be
+so thoroughly inspired by National Socialist ideas that it runs no
+danger of falling into step behind the Marxist movement. For a
+National Socialist Trades Union which would consider itself only
+as a competitor against the Marxist unions would be worse than
+none. It must declare war against the Marxist Trades Union, not
+only as an organization but, above all, as an idea. It must declare
+itself hostile to the idea of class and class warfare and, in place of
+this,   it   must   declare   itself   as   the   defender   of   the   various
+occupational and professional interests of the German people.
+
+Considered   from   all   these   points   of   view   it   was   not   then
+advisable, nor is it yet advisable, to think of founding our own
+Trades Union. That seemed clear to me, at least until somebody
+appeared   who   was   obviously   called   by   fate   to   solve   this
+particular problem.
+Therefore   there   remained   only   two   possible   ways.   Either   to
+recommend our own party members to leave the trades unions in
+which they were enrolled or to remain in them for the moment,
+with the idea of causing as much destruction in them as possible.
+In general, I recommended the latter alternative.
+Especially  in  the  year  1922­23 we  could easily   do that.  For,
+during the period of inflation, the financial advantages which
+might   be   reaped   from   a   trades   union   organization   would   be
+negligible,   because   we   could   expect   to   enroll   only   a   few
+members owing to the undeveloped condition of our movement.
+The damage which might result from such a policy was all the
+greater   because   its  bitterest   critics   and  opponents  were   to  be
+found among the followers of the National Socialist Party.
+I  had   already   entirely  discountenanced   all  experiments  which
+were   destined   from   the   very   beginning   to   be   unsuccessful.   I
+would have considered it criminal to run the risk of depriving a
+worker of his scant earnings in order to help an organization
+which, according to my inner conviction, could not promise real
+advantages to its members.
+Should   a   new   political   party   fade   out   of   existence   one   day
+nobody would be injured thereby and some would have profited,
+but   none   would   have   a   right   to   complain.   For   what   each
+individual contributes to a political movement is given with the
+idea that it may ultimately come to nothing. But the man who
+pays his  dues  to  a   trade  union  has  the  right  to  expect   some
+guarantee in return. If this is not done, then the directors of such
+a trade union are swindlers or at least careless people who ought
+to be brought to a sense of their responsibilities.
+We took all these viewpoints into consideration before making
+our   decision   in   1922.   Others   thought   otherwise   and   founded
+trades  unions.   They  upbraided  us  for  being  short­sighted   and
+failing to see into the future. But it did not take long for these
+organizations to disappear and the result was what would have
+happened in our own case. But the difference was that we should
+have deceived neither ourselves nor those who believed in us.
+
+
+
+`;
+const chapter_b_13 = `The erratic manner in which the foreign affairs of the Reich were
+conducted was due to a lack of sound guiding principles for the
+formation of practical and useful alliances. Not only was this
+state of affairs continued after the Revolution, but it became even
+worse.
+For the confused state of our political ideas in general before the
+War may be looked upon as the chief cause of our defective
+statesmanship; but in the post­War period this cause must be
+attributed to a lack of honest intentions. It was natural that those
+parties   who   had   fully   achieved   their   destructive   purpose   by
+means of the Revolution should feel that it would not serve their
+interests   if   a   policy   of   alliances   were   adopted   which   must
+ultimately result in the restoration of a free German State. A
+development in this direction would not be in conformity with
+the purposes of the November crime. It would have interrupted
+and   indeed   put   an   end   to   the   internationalization   of   German
+national   economy   and   German   Labour.   But   what   was   feared
+most   of   all   was   that   a   successful   effort   to   make   the   Reich
+independent   of   foreign   countries   might   have   an   influence   in
+domestic politics which one day would turn out disastrous for
+those who now hold supreme power in the government of the
+Reich. One cannot imagine the revival of a nation unless that
+revival be preceded by a process of nationalization. Conversely,
+every important success in the field of foreign politics must call
+forth a favourable reaction at home. Experience proves that every
+struggle for liberty increases the national sentiment and national
+self­consciousness and therewith gives rise to a keener sensibility
+towards anti­national elements and tendencies. A state of things,
+and persons also, that may be tolerated and even pass unnoticed
+in times of peace will not only become the object of aversion
+when   national   enthusiasm   is   aroused   but   will   even   provoke
+positive   opposition,   which   frequently   turns   out   disastrous   for
+them. In this connection we may recall the spy­scare that became
+prevalent when the war broke out, when human passion suddenly
+manifested itself to such a heightened degree as to lead to the
+most brutal persecutions, often without any justifiable grounds,
+although everybody knew that the danger resulting from spies is
+greater   during   the   long   periods   of   peace;   but,   for   obvious
+reasons,   they   do   not   then   attract   a   similar   amount   of   public
+attention. For this reason the subtle instinct of the State parasites
+who   came   to   the   surface   of   the   national   body   through   the
+November happenings makes them feel at once that a policy of
+alliances which would restore the freedom of our people and
+awaken   national   sentiment   might   possibly   ruin   their   own
+criminal existence.
+Thus we may explain the fact that since 1918 the men who have
+held   the   reins   of   government   adopted   an   entirely   negative
+attitude towards foreign affairs and that the business of the State
+has   been   almost   constantly   conducted   in   a   systematic   way
+against the interests of the German nation. For that which at first
+sight seemed a matter of chance proved, on closer examination,
+to be a logical advance along the road which was first publicly
+entered upon by the November Revolution of 1918.
+Undoubtedly  a  distinction  ought  to  be  made   between  (1)  the
+responsible administrators of our affairs of State, or rather those
+who   ought   to   be   responsible;   (2)   the   average   run   of   our
+parliamentary politicasters,  and (3) the masses of our people,
+whose sheepish docility corresponds to their want of intelligence.
+The first know what they want. The second fall into line with
+them, either because they have been already schooled in what is
+afoot   or   because   they   have   not   the   courage   to   take   an
+uncompromising stand against a course which they know and
+feel to be detrimental. The third just submit to it because they are
+too stupid to understand.
+
+While the German National Socialist Labour Party was only a
+small   and   practically   unknown   society,   problems   of   foreign
+policy could have only a secondary importance in the eyes of
+many of its members. This was the case especially because our
+movement   has   always   proclaimed   the   principle,   and   must
+proclaim   it,   that   the   freedom   of   the   country   in   its   foreign
+relations is not a gift that will be bestowed upon us by Heaven or
+by any earthly Powers, but can only be the fruit of a development
+of our inner forces. We must first root out the causes which led to
+our collapse and we must eliminate all those who are profiting by
+that collapse. Then we shall be in a position to take up the fight
+for the restoration of our freedom in the management of our
+foreign relations.
+It will be easily understood therefore why we did not attach so
+much importance to foreign affairs during the early stages of our
+young movement, but preferred to concentrate on the problem of
+internal reform.
+But   when   the   small   and   insignificant   society   expanded   and
+finally   grew   too   large   for   its   first   framework,   the   young
+organization assumed the importance of a great association and
+we   then   felt   it   incumbent   on   us   to   take   a   definite   stand   on
+problems regarding the development of a foreign policy. It was
+necessary to lay down the main lines of action which would not
+only   be   in   accord   with   the   fundamental   ideas   of   our
+Weltanschhauung but would actually be an expansion of it in the
+practical world of foreign affairs.
+Just   because   our   people   have   had   no   political   education   in
+matters concerning our relations abroad, it was necessary to teach
+the leaders in the various sections of our movement, and also the
+masses of the people, the chief principles which ought to guide
+the development of our foreign relations. That was one of the
+first tasks to be accomplished in order to prepare the ground for
+the practical carrying out of a foreign policy which would win
+back the independence of the nation in managing its external
+affairs and thus restore the real sovereignty of the Reich.
+The fundamental and guiding principles which we must always
+bear in mind when studying this question is that foreign policy is
+only a means to an end and that the sole end to be pursued is the
+welfare of our own people. Every problem in foreign politics
+must be considered from this point of view, and this point of
+view alone. Shall such and such a solution prove advantageous to
+our people now or in the future, or will it injure their interests?
+That is the question.
+This is the sole preoccupation that must occupy our minds in
+dealing with a question. Party politics, religious considerations,
+humanitarian ideals – all such and all other preoccupations must
+absolutely give way to this.
+Before the War the purpose  to which German foreign policy
+should have been devoted was to assure the supply of material
+necessities for the maintenance of our people and their children.
+And the way should have been prepared which would lead to this
+goal. Alliances should have been established which would have
+proved beneficial to us from this point of view and would have
+brought   us   the   necessary   auxiliary   support.   The   task   to   be
+accomplished is the same today, but with this difference: In preWar times it was a question of caring for the maintenance of the
+German people, backed up by the power which a strong and
+independent State then possessed, but our task today is to make
+our nation powerful once again by re­establishing a strong and
+independent State. The re­establishment of such a State is the
+prerequisite and necessary condition which must be fulfilled in
+order that we may be able subsequently to put into practice a
+foreign policy which will serve to guarantee the existence of our
+people in the future, fulfilling their needs and furnishing them
+with those necessities of life which they lack. In other words, the
+aim which Germany ought to pursue today in her foreign policy
+is to prepare the way for the recovery of her liberty tomorrow. In
+this connection there is a fundamental principle which we must
+keep   steadily   before   our   minds.   It   is   this:   The   possibility   of
+winning   back   the   independence   of   a   nation   is  not   absolutely
+bound up with the question of territorial reintegration but it will
+suffice if a small remnant, no matter how small, of this nation
+and   State   will   exist,   provided   it   possesses   the   necessary
+independence to become not only the vehicle of' the common
+spirit of the whole people but also to prepare the way for the
+military fight to reconquer the nation's liberty.
+When a people who amount to a hundred million souls tolerate
+the yoke of common slavery in order to prevent the territory
+belonging to their State from being broken up and divided, that is
+worse than if such a State and such a people were dismembered
+while one fragment still retained its complete independence. Of
+course, the natural proviso here is that this fragment must be
+inspired with a consciousness of the solemn duty that devolves
+upon it, not only to proclaim persistently the inviolable unity of
+its spiritual and cultural life with that of its detached members
+but also to prepare the means that are necessary for the military
+conflict which will finally liberate and re­unite the fragments that
+are suffering under oppression.
+One must also bear in mind the fact that the restoration of lost
+districts which were formerly parts of the State, both ethnically
+and politically, must in the first instance be a question of winning
+back political power and independence for the motherland itself,
+and that in such cases the special interests of the lost districts
+must be uncompromisingly regarded as a matter of secondary
+importance in the face of the one main task, which is to win back
+the   freedom   of   the   central   territory.   For   the   detached   and
+oppressed fragments of a nation or an imperial province cannot
+achieve their liberation through the expression of yearnings and
+protests on the part of the oppressed and abandoned, but only
+when the portion which has more or less retained its sovereign
+independence can resort to the use of force for the purpose of
+reconquering those territories that once belonged to the common
+fatherland.
+Therefore, in order to reconquer lost territories the first condition
+to be fulfilled is to work energetically for the increased welfare
+and reinforcement of the strength of that portion of the State
+which   has   remained   over   after   the   partition.   Thus   the
+unquenchable   yearning   which   slumbers   in   the   hearts   of   the
+people must be awakened and restrengthened by bringing new
+forces to its aid, so that when the hour comes all will be devoted
+to the one purpose of liberating and uniting the whole people.
+Therefore,   the   interests   of   the   separated   territories   must   be
+subordinated to the one purpose. That one purpose must aim at
+obtaining for the central remaining portion such a measure of
+power and might that will enable it to enforce its will on the
+hostile will of the victor and thus redress the wrong. For flaming
+protests will not restore the oppressed territories to the bosom of
+a common Reich. That can be done only through the might of the
+sword.
+The forging of this sword is a work that has to be done through
+the   domestic   policy   which   must   be   adopted   by   a   national
+government.   To   see   that   the   work   of   forging   these   arms   is
+assured, and to recruit the men who will bear them, that is the
+task of the foreign policy.
+In the first volume of this book I discussed the inadequacy of our
+policy  of  alliances  before  the  War.  There  were  four  possible
+ways to secure the necessary foodstuffs for the maintenance of
+our   people.   Of   these   ways   the   fourth,   which   was   the   most
+unfavourable, was chosen. Instead of a sound policy of territorial
+expansion in Europe, our rulers embarked on a policy of colonial
+and   trade   expansion.   That   policy   was   all   the   more   mistaken
+inasmuch as they presumed that in this way the danger of an
+armed conflict would be averted. The result of the attempt to sit
+on many stools at the same time might have been foreseen. It let
+us fall to the ground in the midst of them all. And the World War
+was only the last reckoning presented to the Reich to pay for the
+failure of its foreign policy.
+The right way that should have been taken in those days was the
+third way I indicated: namely, to increase the strength of the
+Reich as a Continental Power by the acquisition of new territory
+in Europe. And at the same time a further expansion, through the
+subsequent   acquisition   of   colonial   territory,   might   thus   be
+brought within the range of practical politics. Of course, this
+policy could not have been carried through except in alliance
+with   England,   or   by   devoting   such   abnormal   efforts   to   the
+increase of military force and armament that, for forty or fifty
+years,   all   cultural   undertakings   would   have   to   be   completely
+relegated to the background. This responsibility might very well
+have been undertaken. The cultural importance of a nation is
+almost   always   dependent   on   its   political   freedom   and
+independence. Political freedom is a prerequisite condition for
+the   existence,   or   rather   the   creation,   of   great   cultural
+undertakings. Accordingly no sacrifice can be too great when
+there is question of securing the political freedom of a nation.
+What might have to be deducted from the budget expenses for
+cultural   purposes,   in   order   to   meet   abnormal   demands   for
+increasing the military power of the State, can be generously paid
+back   later   on.   Indeed,   it   may   be   said   that   after   a   State   has
+concentrated all its resources in one effort for the purpose of
+securing its political independence a certain period of ease and
+renewed   equilibrium   sets   in.   And   it   often   happens   that   the
+cultural spirit of the nation, which had been heretofore cramped
+and   confined,   now   suddenly   blooms   forth.   Thus   Greece
+experienced   the   great   Periclean   era   after   the   miseries   it   had
+suffered   during   the   Persian   Wars.   And   the   Roman   Republic
+turned its energies to the cultivation of a higher civilization when
+it was freed from the stress and worry of the Punic Wars.
+Of course, it could not be expected that a parliamentary majority
+of feckless and stupid people would be capable of deciding on
+such a resolute policy for the absolute subordination of all other
+national interests to the one sole task of preparing for a future
+conflict of arms which would result in establishing the security of
+the State. The father of Frederick the Great sacrificed everything
+in order to be ready for that conflict; but the fathers of our absurd
+parliamentarian democracy, with the Jewish hall­mark, could not
+do it.
+That is why, in pre­War times, the military preparation necessary
+to enable us to conquer new territory in Europe was only very
+mediocre, so that it was difficult to obtain the support of really
+helpful allies.
+Those who directed our foreign affairs would not entertain even
+the idea of systematically preparing for war. They rejected every
+plan for the acquisition of territory in Europe. And by preferring
+a   policy   of   colonial   and   trade   expansion,   they   sacrificed   the
+alliance with England, which was then possible. At the same time
+they neglected to seek the support of Russia, which would have
+been a logical proceeding. Finally they stumbled into the World
+War, abandoned by all except the ill­starred Habsburgs.
+The characteristic of our present foreign policy is that it follows
+no discernible or even intelligible lines of action. Whereas before
+the War a mistake was made in taking the fourth way that I have
+mentioned, and this was pursued only in a halfhearted manner,
+since the Revolution not even the sharpest eye can detect any
+way that is being followed. Even more than before the War, there
+is   absolutely   no   such   thing   as   a   systematic   plan,   except   the
+systematic attempts that are made to destroy the last possibility
+of a national revival.
+If we make an impartial examination of the situation existing in
+Europe   today   as   far   as   concerns   the   relation   of   the   various
+Powers to one another, we shall arrive at the following results:
+For the past three hundred years the history of our Continent has
+been   definitely   determined   by   England's   efforts   to   keep   the
+European States opposed to one another in an equilibrium of
+forces, thus assuring the necessary protection of her own rear
+while she pursued the great aims of British world­policy.
+The   traditional   tendency   of   British   diplomacy   ever   since   the
+reign   of   Queen   Elizabeth   has   been   to   employ   systematically
+every possible means to prevent any one Power from attaining a
+preponderant position over the other European Powers and, if
+necessary,   to   break   that   preponderance   by   means   of   armed
+intervention. The only parallel to this has been the tradition of the
+Prussian Army. England has made use of various forces to carry
+out its purpose, choosing them according to the actual situation
+or the task to be faced; but the will and determination to use them
+has always been the same. The more difficult England's position
+became in the course of history the more the British Imperial
+Government considered it necessary to maintain a condition of
+political paralysis among the various European States, as a result
+of   their   mutual   rivalries.   When   the   North   American   colonies
+obtained   their   political   independence   it   became   still   more
+necessary   for   England   to   use   every   effort   to   establish   and
+maintain the defence of her flank in Europe. In accordance with
+this policy she reduced Spain and the Netherlands to the position
+of   inferior   naval   Powers.   Having   accomplished   this,   England
+concentrated   all   her   forces   against   the   increasing   strength   of
+France,   until   she   brought   about   the   downfall   of   Napoleon
+Bonaparte   and   therewith   destroyed   the   military   hegemony   of
+France, which was the most dangerous rival that England had to
+fear.
+The change of attitude in British statesmanship towards Germany
+took place only very slowly, not only because the German nation
+did not represent an obvious danger for England as long as it
+lacked national unification, but also because public opinion in
+England, which had been directed to other quarters by a system
+of propaganda that had been carried out for a long time, could be
+turned to a new direction only by slow degrees. In order to reach
+the proposed ends the calmly reflecting statesman had to bow to
+popular sentiment, which is the most powerful motive­force and
+is at the same time the most lasting in its energy. When the
+statesman has attained one of his ends, he must immediately turn
+his thoughts to others; but only by degrees and the slow work of
+propaganda can the sentiment of the masses be shaped into an
+instrument for the attainment of the new aims which their leaders
+have decided on.
+As early as 1870­71 England had decided on the new stand it
+would take. On certain occasions minor oscillations in that policy
+were   caused   by   the   growing   influence   of   America   in   the
+commercial   markets   of   the   world   and   also   by   the   increasing
+political power of Russia; but, unfortunately, Germany did not
+take advantage of these and, therefore, the original tendency of
+British diplomacy was only reinforced.
+England looked upon Germany as a Power which was of world
+importance   commercially   and   politically   and   which,   partly
+because of its enormous industrial development, assumed such
+threatening proportions that the two countries already contended
+against one another in the same sphere and with equal energy.
+The   so­called   peaceful   conquest   of   the   world   by   commercial
+enterprise, which, in the eyes of those who governed our public
+affairs   at   that   time,   represented   the   highest   peak   of   human
+wisdom, was just the thing that led English statesmen to adopt a
+policy of resistance. That this resistance assumed the form of an
+organized aggression on a vast scale was in full conformity with
+a type of statesmanship which did not aim at the maintenance of
+a dubious world peace but aimed at the consolidation of British
+world­hegemony.   In   carrying   out   this   policy,   England   allied
+herself   with   those   countries   which   had   a   definite   military
+importance. And that was in keeping with her traditional caution
+in estimating the power of her adversary and also in recognizing
+her own temporary weakness. That line of conduct cannot be
+called unscrupulous; because such a comprehensive organization
+for war purposes must not be judged from the heroic point of
+view but from that of expediency. The object of a diplomatic
+policy must not be to see that a nation goes down heroically but
+rather that it survives in a practical way. Hence every road that
+leads to this goal is opportune and the failure to take it must be
+looked upon as a criminal neglect of duty.
+When the German Revolution took place England's fears of a
+German world hegemony came to a satisfactory end.
+From that time it was not an English interest to see Germany
+totally cancelled from the geographic map of Europe. On the
+contrary, the astounding collapse which took place in November
+1918 found British diplomacy confronted with a situation which
+at first appeared untenable.
+For four­and­a­half years the British Empire had fought to break
+the presumed preponderance of a Continental Power. A sudden
+collapse   now   happened   which   removed   this   Power   from   the
+foreground   of   European   affairs.   That   collapse   disclosed   itself
+finally   in   the   lack   of   even   the   primordial   instinct   of   selfpreservation, so that European equilibrium was destroyed within
+forty­eight hours. Germany was annihilated and France became
+the first political Power on the Continent of Europe.
+The tremendous propaganda which was carried on during this
+war for the purpose of encouraging the British public to stick it
+out to the end aroused all the primitive instincts and passions of
+the   populace   and   was   bound   eventually   to   hang   as   a   leaden
+weight on the decisions of British statesmen. With the colonial,
+economical and commercial destruction of Germany, England's
+war aims were attained. Whatever went beyond those aims was
+an   obstacle   to   the   furtherance   of   British   interests.   Only   the
+enemies   of   England   could   profit   by   the   disappearance   of
+Germany as a Great Continental Power in Europe. In November
+1918,   however,   and   up   to   the   summer   of   1919,   it   was   not
+possible for England to change its diplomatic attitude; because
+during the long war it had appealed, more than it had ever done
+before, to the feelings of the populace. In view of the feeling
+prevalent among its own people, England could not change its
+foreign policy; and another reason which made that impossible
+was the military strength to which other European Powers had
+now   attained.   France   had   taken   the   direction   of   peace
+negotiations into her own hands and could impose her law upon
+the others. During those months of negotiations and bargaining
+the only Power that could have altered the course which things
+were taking was Germany herself; but Germany was torn asunder
+by   a   civil   war,   and   her   so­called   statesmen   had   declared
+themselves ready to accept any and every dictate imposed on
+them.
+Now, in the comity of nations, when one nation loses its instinct
+for self­preservation and ceases to be an active member it sinks
+to the level of an enslaved nation and its territory will have to
+suffer the fate of a colony.
+To prevent the power of France from becoming too great, the
+only form which English negotiations could take was that of
+participating in France's lust for aggrandizement.
+As a matter of fact, England did not attain the ends for which she
+went to war. Not only did it turn out impossible to prevent a
+Continental Power from obtaining a preponderance over the ratio
+of strength in the Continental State system of Europe, but a large
+measure   of   preponderance   had   been   obtained   and   firmly
+established.
+
+In 1914 Germany, considered as a military State, was wedged in
+between two countries, one of which had equal military forces at
+its disposal and the other had greater military resources. Then
+there was England's overwhelming supremacy at sea. France and
+Russia   alone   hindered   and   opposed   the   excessive
+aggrandizement   of   Germany.   The   unfavourable   geographical
+situation of the Reich, from the military point of view, might be
+looked   upon   as   another   coefficient   of   security   against   an
+exaggerated increase of German power. From the naval point of
+view, the configuration of the coast­line was unfavourable  in
+case of a conflict with England. And though the maritime frontier
+was short and cramped, the land frontier was widely extended
+and open.
+France's position is different today. It is the first military Power
+without a serious rival on the Continent. It is almost entirely
+protected by its southern frontier against Spain and Italy. Against
+Germany   it   is   safeguarded   by   the   prostrate   condition   of   our
+country. A long stretch of its coast­line faces the vital nervous
+system of the British Empire. Not only could French aeroplanes
+and long­range batteries attack the vital centres of the British
+system, but submarines can threaten the great British commercial
+routes. A submarine campaign based on France's long Atlantic
+coast   and   on   the   European   and   North   African   coasts   of   the
+Mediterranean would have disastrous consequences for England.
+Thus the political results of the war to prevent the development
+of German power was the creation of a French hegemony on the
+Continent. The military result was the consolidation of France as
+the   first   Continental   Power   and   the   recognition   of   American
+equality on the sea. The economic result was the cession of great
+spheres of British interests to her former allies and associates.
+The   Balkanization   of   Europe,   up   to   a   certain   degree,   was
+desirable   and   indeed   necessary   in   the   light   of   the   traditional
+policy of Great Britain, just as France desired the Balkanization
+of Germany.
+What England has always desired, and will continue to desire, is
+to prevent any one Continental Power in Europe from attaining a
+position   of   world   importance.   Therefore   England   wishes   to
+maintain a definite equilibrium of forces among the European
+States   –   for   this   equilibrium   seems   a   necessary   condition   of
+England's world­hegemony.
+What France has always desired, and will continue to desire, is to
+prevent   Germany   from   becoming   a   homogeneous   Power.
+Therefore France wants to maintain a system of small German
+States whose forces would balance one another and over which
+there   should   be   no   central   government.   Then,   by   acquiring
+possession of the left bank of the Rhine, she would have fulfilled
+the pre­requisite conditions for the establishment and security of
+her hegemony in Europe.
+The   final   aims   of   French   diplomacy   must   be   in   perpetual
+opposition to the final tendencies of British statesmanship.
+Taking   these   considerations   as   a   starting­point,   anyone   who
+investigates the possibilities that exist for Germany to find allies
+must come to the conclusion that there remains no other way of
+forming   an   alliance   except   to   approach   England.   The
+consequences of England's war policy were and are disastrous for
+Germany. However, we cannot close our eyes to the fact that, as
+things stand today, the necessary interests of England no longer
+demand the destruction of Germany. On the contrary, British
+diplomacy must tend more and more, from year to year, towards
+curbing France's unbridled lust after hegemony. Now, a policy of
+alliances cannot be pursued by bearing past grievances in mind,
+but   it   can   be   rendered   fruitful   by   taking   account   of   past
+experiences.   Experience   should   have   taught   us   that   alliances
+formed for negative purposes suffer from intrinsic weakness. The
+destinies   of   nations   can   be   welded   together   only   under   the
+prospect of a common success, of common gain and conquest, in
+short, a common extension of power for both contracting parties.
+The ignorance of our people on questions of foreign politics is
+clearly demonstrated by the reports in the daily Press which talk
+about "friendship towards Germany" on the part of one or the
+other   foreign   statesman,   whereby   this   professed   friendship   is
+taken as a special guarantee that such persons will champion a
+policy that will be advantageous to our people. That kind of talk
+is absurd to an incredible degree. It means speculating on the
+unparalleled simplicity of the average German philistine when he
+comes to talking politics. There is not any British, American, or
+Italian statesman who could ever be described as 'pro­German'.
+Every Englishman must naturally be British first of all. The same
+is true of every American. And no Italian statesman would be
+prepared to adopt a policy that was not pro­Italian. Therefore,
+anyone who expects to form alliances with foreign nations on the
+basis   of   a   pro­German   feeling   among   the   statesmen   of   other
+countries is either an ass or a deceiver. The necessary condition
+for   linking   together   the   destinies   of   nations   is   never   mutual
+esteem or mutual sympathy, but rather the prospect of advantages
+accruing   to   the   contracting   parties.   It   is   true   that   a   British
+statesman will always follow a pro­British and not a pro­German
+policy; but it is also true that certain definite interests involved in
+this pro­British policy may coincide on various grounds with
+German   interests.   Naturally   that   can   be   so   only   to   a   certain
+degree and the situation may one day be completely reversed.
+But the art of statesmanship is shown when at certain periods
+there is question of reaching a certain end and when allies are
+found who must take the same road in order to defend their own
+interests.
+The practical application of these principles at the present time
+must depend on the answer given to the following questions:
+What States are not vitally interested in the fact that, by the
+complete abolition of a German Central Europe, the economic
+and military power of France has reached a position of absolute
+hegemony? Which are the States that, in consideration of the
+conditions which are essential to their own existence and in view
+of the tradition that has hitherto been followed in conducting
+their foreign policy, envisage such a development as a menace to
+their own future?
+Finally, we must be quite clear on the following point: France is
+and will remain the implacable enemy of Germany. It does not
+matter   what   Governments   have   ruled   or   will   rule   in   France,
+whether   Bourbon   or   Jacobin,   Napoleonic   or   Bourgeois Democratic, Clerical Republican or Red Bolshevik, their foreign
+policy will always be directed towards acquiring possession of
+the Rhine frontier and consolidating France's position on this
+river by disuniting and dismembering Germany.
+England did not want Germany to be a world Power. France
+desired that there should be no Power called Germany. Therefore
+there was a very essential difference. To­day we are not fighting
+for our position as a World­Power but only for the existence of
+our   country,   for   national   unity   and   the   daily   bread   of   our
+children. Taking this point of view into consideration, only two
+States remain to us as possible allies in Europe ­ England and
+Italy.
+England is not pleased to see a France on whose military power
+there is no check in Europe, so that one day she might undertake
+the support of a policy which in some way or other might come
+into conflict with British interests. Nor can England be pleased to
+see France in possession of such enormous coal and iron mines
+in Western Europe as would make it possible for her one day to
+play a role in world­commerce which might threaten danger to
+British interests. Moreover, England can never be pleased to see
+a France whose political position on the Continent, owing to the
+dismemberment   of   the   rest   of   Europe,   seems   so   absolutely
+assured that she is not only able to resume a French world­policy
+on great lines but would even find herself compelled to do so.
+The bombs which were once dropped by the Zeppelins might be
+multiplied   by   the   thousand   every   night.   The   military
+predominance of France is a weight that presses heavily on the
+hearts of the World Empire over which Great Britain rules.
+Nor   can   Italy   desire,   nor   will   she   desire,   any   further
+strengthening of France's power in Europe. The future of Italy
+will   be   conditioned   by   the   development   of   events   in   the
+Mediterranean   and   by   the   political   situation   in   the   area
+surrounding that sea. The reason that led Italy into the War was
+not a desire to contribute towards the aggrandizement of France
+but rather to deal her hated Adriatic rival a mortal blow. Any
+further   increase   of   France's   power   on   the   Continent   would
+hamper   the   development   of   Italy's   future,   and   Italy   does   not
+deceive   herself   by   thinking   that   racial   kindred   between   the
+nations will in any way eliminate rivalries.
+Serious and impartial consideration proves that it is these two
+States, Great Britain and Italy, whose natural interests not only
+do not contrast with the conditions essential to the existence of
+the   German   nation   but   are   identical   with   them,   to   a   certain
+extent.
+But when we consider the possibilities of alliances we must be
+careful not to lose sight of three factors. The first factor concerns
+ourselves;   the   other   two   concern   the   two   States   I   have
+mentioned.
+Is it at all possible to conclude an alliance with Germany as it is
+today? Can a Power which would enter into an alliance for the
+purpose of securing assistance in an effort to carry out its own
+offensive aims – can such a Power form an alliance with a State
+whose   rulers   have   for   years   long   presented   a   spectacle   of
+deplorable incompetence and pacifist cowardice and where the
+majority   of   the   people,   blinded   by   democratic   and   Marxist
+teachings, betray the interests of their own people and country in
+a manner that cries to Heaven for vengeance? As things stand
+today, can any Power hope to establish useful relations and hope
+to fight together for the furtherance of their common interests
+with this State  which manifestly  has  neither the  will nor the
+courage   to   move   a   finger   even   in   the   defence   of   its   bare
+existence? Take the case of a Power for which an alliance must
+be   much   more   than   a   pact   to   guarantee   a   state   of   slow
+decomposition, such  as happened with the old and disastrous
+Triple Alliance. Can such a Power associate  itself for life or
+death with a State whose most characteristic signs of activity
+consist   of   a   rampant   servility   in   external   relations   and   a
+scandalous repression of the national spirit at home? Can such a
+Power be associated with a State in which there is nothing of
+greatness, because its whole policy does not deserve it? Or can
+alliances be made with Governments which are in the hands of
+men   who   are   despised   by   their   own   fellow­citizens   and
+consequently are not respected abroad?
+
+No. A self­respecting Power which expects something more from
+alliances than commissions for greedy Parliamentarians will not
+and cannot enter into an alliance with our present­day Germany.
+Our present inability to form alliances furnishes the principle and
+most solid basis for the combined action of the enemies who are
+robbing us. Because Germany does not defend itself in any other
+way except by the flamboyant protests of our parliamentarian
+elect, there is no reason why the rest of the world should take up
+the fight in our defence. And God does not follow the principle
+of   granting   freedom   to   a   nation   of   cowards,   despite   all   the
+implications of our 'patriotic' associations. Therefore, for those
+States which have not a direct interest in our annihilation no
+other   course   remains   open   except   to   participate   in   France's
+campaign   of   plunder,   at   least   to   make   it   impossible   for   the
+strength of France to be exclusively aggrandized thereby.
+In the second place, we must not forget that among the nations
+which were formerly our enemies mass­propaganda has turned
+the opinions and feelings of large sections of the population in a
+fixed direction. When for years long a foreign nation has been
+presented to the public as a horde of 'Huns', 'Robbers', 'Vandals',
+etc., they cannot suddenly be presented as something different,
+and the enemy of yesterday cannot be recommended as the ally
+of tomorrow.
+But   the   third   factor   deserves   greater   attention,   since   it   is   of
+essential importance for establishing future alliances in Europe.
+From the political point of view it is not in the interests of Great
+Britain that Germany should be ruined even still more, but such a
+proceeding   would   be   very   much   in   the   interests   of   the
+international   money­markets   manipulated   by   the   Jew.   The
+cleavage   between   the   official,   or   rather   traditional,   British
+statesmanship and the controlling influence of the Jew on the
+money­markets   is   nowhere   so   clearly   manifested   as   in   the
+various   attitudes   taken   towards   problems   of   British   foreign
+policy. Contrary to the interests and welfare of the British State,
+Jewish   finance   demands   not   only   the   absolute   economic
+destruction of Germany but its complete political enslavement.
+The internationalization of our German economic system, that is
+to say, the transference of our productive forces to the control of
+Jewish international finance, can be completely carried out only
+in a State that has been politically Bolshevized. But the Marxist
+fighting forces, commanded by international and Jewish stockexchange capital, cannot finally smash the national resistance in
+Germany without friendly help from outside. For this purpose
+French   armies   would   first   have   to   invade   and   overcome   the
+territory of the German Reich until a state of international chaos
+would set in, and then the country would have to succumb to
+Bolshevik   storm  troops  in  the   service  of  Jewish   international
+finance.
+Hence it is that at the present time the Jew is the great agitator for
+the   complete   destruction   of   Germany.   Whenever   we   read   of
+attacks against Germany taking place in any part of the world the
+Jew is always the instigator. In peace­time, as well as during the
+War,   the   Jewish­Marxist   stock­exchange   Press   systematically
+stirred up hatred against Germany, until one State after another
+abandoned its neutrality and placed itself at the service of the
+world coalition, even against the real interests of its own people.
+The   Jewish   way   of   reasoning   thus   becomes   quite   clear.   The
+Bolshevization of Germany, that is to say, the extermination of
+the patriotic and national German intellectuals, thus making it
+possible to force German Labour to bear the yoke of international
+Jewish finance – that is only the overture to the movement for
+expanding Jewish power on a wider scale and finally subjugating
+the   world   to   its   rule.   As   has   so   often   happened   in   history,
+Germany is the chief pivot of this formidable struggle. If our
+people and our State should fall victims to these oppressors of
+the nations, lusting after blood and money, the whole earth would
+become the prey of that hydra. Should Germany be freed from its
+grip, a great menace for the nations of the world would thereby
+be eliminated.
+It is certain that Jewry uses all its subterranean activities not only
+for the purpose of keeping alive old national enmities against
+Germany but even to spread them farther and render them more
+acute wherever possible. It is no less certain that these activities
+are only very partially in keeping with the true interests of the
+nations among whose people the poison is spread. As a general
+principle, Jewry carries on its campaign in the various countries
+by the use of arguments that are best calculated to appeal to the
+mentality of the respective nations and are most likely to produce
+the desired results; for Jewry knows what the public feeling is in
+each country. Our national stock has been so much adulterated
+by the mixture of alien elements that, in its fight for power,
+Jewry can make use of the more or less 'cosmopolitan' circles
+which exist among us, inspired by the pacifist and international
+ideologies. In France they exploit the well­known and accurately
+estimated   chauvinistic   spirit.   In   England   they   exploit   the
+commercial and world­political outlook. In short, they always
+work   upon   the   essential   characteristics   that   belong   to   the
+mentality of each nation. When they have in this way achieved a
+decisive influence in the political and economic spheres they can
+drop the limitations which their former tactics necessitated, now
+disclosing their real intentions and the ends for which they are
+fighting.   Their   work   of   destruction   now   goes   ahead   more
+quickly, reducing one State after another to a mass of ruins on
+which   they   will   erect   the   everlasting   and   sovereign   Jewish
+Empire.
+In England, and in Italy, the contrast between the better kind of
+solid statesmanship and the policy of the Jewish stock­exchange
+often becomes strikingly evident.
+Only   in   France   there   exists   today   more   than   ever   before   a
+profound   accord   between   the   views   of   the   stock­exchange,
+controlled by the Jews, and the chauvinistic policy pursued by
+French statesmen. This identity of views constitutes an immense,
+danger for Germany. And it is just for this reason that France is
+and will remain by far the most dangerous enemy. The French
+people, who are becoming more and more obsessed by negroid
+ideas,   represent   a  threatening   menace   to  the   existence   of  the
+white race in Europe, because they are bound up with the Jewish
+campaign for world­domination. For the contamination caused
+by the influx of negroid blood on the Rhine, in the very heart of
+Europe,   is   in   accord   with   the   sadist   and   perverse   lust   for
+vengeance on the part of the hereditary enemy of our people, just
+as it suits the purpose of the cool calculating Jew who would use
+this means of introducing a process of bastardization in the very
+centre of the European Continent and, by infecting the white race
+with   the   blood   of   an   inferior   stock,   would   destroy   the
+foundations of its independent existence.
+France's activities in Europe today, spurred on by the French lust
+for   vengeance   and   systematically   directed   by   the   Jew,   are   a
+criminal attack against the life of the white race and will one day
+arouse against the French people a spirit of vengeance among a
+generation   which   will   have   recognized   the   original   sin   of
+mankind in this racial pollution.
+As far as concerns Germany, the danger which France represents
+involves the duty of relegating all sentiment to a subordinate
+place and extending the hand to those who are threatened with
+the same menace and who are not willing to suffer or tolerate
+France's lust for hegemony.
+For a long time yet to come there will be only two Powers in
+Europe with which it may be possible for Germany to conclude
+an alliance. These Powers are Great Britain and Italy.
+If we take the trouble to cast a glance backwards on the way in
+which   German   foreign   policy   has   been   conducted   since   the
+Revolution   we   must,   in   view   of   the   constant   and
+incomprehensible   acts   of   submission   on   the   part.   of   our
+governments, either lose heart or become fired with rage and take
+up the cudgels against such a regime. Their way of acting cannot
+be attributed to a want of understanding, because what seemed to
+every thinking man to be inconceivable was accomplished by the
+leaders of the November parties with their Cyclopean intellects.
+They bowed to France and begged her favour. Yes, during all
+these recent years, with the touching simplicity of incorrigible
+visionaries, they went on their knees to France again and again.
+They perpetuaily wagged their tails before the Grande Nation.
+And   in   each   trick­o'­the­loop   which   the   French   hangmen
+performed  with   his  rope   they  recognized   a   visible   change   of
+feeling. Our real political wire­pullers never shared in this absurd
+credulity. The idea of establishing a friendship with France was
+for them only a means of thwarting every attempt on Germany's
+part to adopt a practical policy of alliances. They had no illusions
+about French aims or those of the men behind the scenes in
+France. What induced them to take up such an attitude and to act
+as   if   they   honestly   believed   that   the   fate   of   Germany   could
+possibly be changed in this way was the cool calculation that if
+this did not happen our people might take the reins into their own
+hands and choose another road.
+Of course it is difficult for us to propose England as our possible
+ally in the future. Our Jewish Press has always been adept in
+concentrating hatred against England particularly. And many of
+our good German simpletons perch on these branches which the
+Jews have limed to capture them. They babble about a restoration
+of  German sea   power  and  protest  against  the  robbery  of  our
+colonies. Thus they furnish material which the contriving Jew
+transmits to his clansmen in England, so that it can be used there
+for   purposes   of   practical   propaganda.   For   our   simple­minded
+bourgeoisie who indulge in politics can take in only little by little
+the idea that today we have not to fight for 'sea­power' and such
+things. Even before the War it was absurd to direct the national
+energies   of   Germany   towards   this   end   without   first   having
+secured our position in Europe. Such a hope today reaches that
+peak of absurdity which may be called criminal in the domain of
+politics.
+Often one becomes really desperate on seeing how the Jewish
+wire­pullers   succeeded   in   concentrating   the   attention   of   the
+people on things which are only of secondary importance today,
+They incited the people to demonstrations and protests while at
+the same time France was tearing our nation asunder bit by bit
+and systematically removing the very foundations of our national
+independence.
+In this connection I have to think of the Wooden Horse in the
+riding of which the Jew showed extraordinary skill during these
+years. I mean South Tyrol.
+Yes, South Tyrol. The reason why I take up this question here is
+just because I want to call to account that shameful canaille who
+relied on the ignorance and short memories of large sections of
+our  people   and  stimulated  a  national  indignation  which  is  as
+foreign to the real character of our parliamentary impostors as the
+idea of respect for private property is to a magpie.
+I should like to state here that I was one of those who, at the time
+when the fate of South Tyrol was being decided – that is to say,
+from August 1914 to November 1918 – took my place where that
+country also could have been effectively defended, namely, in the
+Army. I did my share in the fighting during those years, not
+merely to save South Tyrol from being lost but also to save every
+other German province for the Fatherland.
+The parliamentary sharpers did not take part in that combat. The
+whole   canaille   played   party   politics.   On   the   other   hand,   we
+carried on the fight in the belief that a victorious issue of the War
+would enable the German nation to keep South Tyrol also; but
+the loud­mouthed traitor carried on a seditious agitation against
+such a victorious issue, until the fighting Siegfried succumbed to
+the   dagger   plunged   in   his  back.   It   was   only   natural   that   the
+inflammatory and hypocritical speeches of the elegantly dressed
+parliamentarians on the Vienna Rathaus Platz or in front of the
+Feldherrnhalle   in   Munich   could   not   save   South   Tyrol   for
+Germany. That could be done only by the fighting battalions at
+the Front. Those who broke up that fighting front betrayed South
+Tyrol, as well as the other districts of Germany.
+Anyone who thinks that the South Tyrol question can be solved
+today by protests and manifestations and processions organized
+by various associations is either a humbug or merely a German
+philistine.
+In this regard it must be quite clearly understood that we cannot
+get back the territories we have lost if we depend on solemn
+imprecations before the throne of the Almighty God or on pious
+hopes in a League of Nations, but only by the force of arms.
+Therefore the only remaining question is: Who is ready to take
+up arms for the restoration of the lost territories?
+As far as concerns myself personally, I can state with a good
+conscience that I would have courage enough to take part in a
+campaign   for   the   reconquest   of   South   Tyrol,   at   the   head   of
+parliamentarian   storm   battalions   consisting   of   parliamentarian
+gasconaders   and   all   the   party   leaders,   also   the   various
+Councillors of State. Only the Devil knows whether I might have
+the luck of seeing a few shells suddenly burst over this 'burning'
+demonstration of protest. I think that if a fox were to break into a
+poultry yard his presence would not provoke such a helter­skelter
+and rush to cover as we should witness in the band of 'protesters'.
+The vilest part of it all is that these talkers themselves do not
+believe that anything can be achieved in this way. Each one of
+them knows very well how harmless and ineffective their whole
+pretence is. They do it only because it is easier now to babble
+about   the   restoration   of   South   Tyrol   than   to   fight   for   its
+preservation in days gone by.
+Each one plays the part that he is best capable of playing in life.
+In those days we offered our blood. To­day these people are
+engaged in whetting their tusks.
+It is particularly interesting to note today how legitimist circles in
+Vienna preen themselves on their work for the restoration of
+South Tyrol. Seven years ago their august and illustrious Dynasty
+helped, by an act of perjury and treason, to make it possible for
+the victorious world­coalition to take away South Tyrol. At that
+time these  circles supported  the  perfidious  policy adopted  by
+their Dynasty and did not trouble themselves in the least about
+the fate of South Tyrol or any other province. Naturally it is
+easier   today   to   take   up   the   fight   for   this   territory,   since   the
+present   struggle   is   waged   with   'the   weapons   of   the   mind'.
+Anyhow, it is easier to join in a 'meeting of protestation' and talk
+yourself hoarse in giving vent to the noble indignation that fills
+your breast, or stain your finger with the writing of a newspaper
+article,   than   to   blow   up   a   bridge,   for   instance,   during   the
+occupation of the Ruhr.
+The reason why certain circles have made the question of South
+Tyrol the pivot of German­Italian relations during the past few
+years is quite evident. Jews and Habsburg legitimists are greatly
+interested   in   preventing   Germany   from   pursuing   a   policy   of
+alliance which might lead one day to the resurgence of a free
+German fatherland. It is not out of love for South Tyrol that they
+play this role today – for their policy would turn out detrimental
+rather than helpful to the interests of that province – but through
+fear of an agreement being established between Germany and
+Italy.
+A tendency towards lying and calumny lies in the nature of these
+people,   and   that   explains   how   they   can   calmly   and   brazenly
+attempt to twist things in such a way as to make it appear that we
+have 'betrayed' South Tyrol.
+There is one clear answer that must be given to these gentlemen.
+It is this: Tyrol has been betrayed, in the first place, by every
+German who was sound in limb and body and did not offer
+himself for service at the Front during 1914–1918 to do his duty
+towards his country.
+In  the second   place,  Tyrol was betrayed  by every  man who,
+during those years did not help to reinforce the national spirit and
+the national powers of resistance, so as to enable the country to
+carry through the War and keep up the fight to the very end.
+In the third place, South Tyrol was betrayed by everyone who
+took part in the November Revolution, either directly by his act
+or indirectly by a cowardly toleration of it, and thus broke the
+sole weapon that could have saved South Tyrol.
+In the fourth place, South Tyrol was betrayed by those parties
+and their adherents who put their signatures to the disgraceful
+treaties of Versailles and St. Germain.
+And so the matter stands, my brave gentlemen, who make your
+protests only with words.
+To­day I am guided by a calm and cool recognition of the fact
+that   the   lost   territories   cannot   be   won   back   by   the   whetted
+tongues of parliamentary spouters but only by the whetted sword;
+in other words, through a fight where blood will have to be shed.
+Now, I have no hesitations in saying that today, once the die has
+been cast, it is not only impossible to win back South Tyrol
+through a war but I should definitely take my stand against such
+a   movement,   because   I   am   convinced   that   it   would   not   be
+possible to arouse the national enthusiasm of the German people
+and maintain it in such a way as would be necessary in order to
+carry through such a war to a successful issue. On the contrary, I
+believe that if we have to shed German blood once again it would
+be criminal to do so for the sake of liberating 200,000 Germans,
+when   more   than   seven   million   neighbouring   Germans   are
+suffering   under   foreign   domination   and   a   vital   artery   of   the
+German nation has become a playground for hordes of African
+negros.
+If the German nation is to put an end to a state of things which
+threatens to wipe it off the map of Europe it must not fall into the
+errors   of   the   pre­War   period   and   make   the   whole   world   its
+enemy. But it must ascertain who is its most dangerous enemy so
+that it can concentrate all its forces in a struggle to beat him. And
+if, in order to carry through this struggle to victory, sacrifices
+should be made in other quarters, future generations will not
+condemn us for that. They will take account of the miseries and
+anxieties which led us to make such a bitter decision, and in the
+light of that consideration they will more clearly recognize the
+brilliancy of our success.
+Again I must say here that we must always be guided by the
+fundamental principle that, as a preliminary to winning back lost
+provinces,   the   political   independence   and   strength   of   the
+motherland must first be restored.
+The first task which has to be accomplished is to make that
+independence   possible   and   to   secure   it   by   a   wise   policy   of
+alliances, which presupposes an energetic management of our
+public affairs.
+But it is just on this point that we, National Socialists, have to
+guard against being dragged into the tow of our ranting bourgeois
+patriots who take their cue from the Jew. It would be a disaster if,
+instead of preparing for the coming struggle, our Movement also
+were to busy itself with mere protests by word of mouth.
+It   was   the   fantastic   idea   of   a   Nibelungen   alliance   with   the
+decomposed   body   of   the   Habsburg   State   that   brought   about
+Germany's   ruin.   Fantastic   sentimentality   in   dealing   with   the
+possibilities of foreign policy today would be the best means of
+preventing our revival for innumerable years to come.
+Here I must briefly answer the objections which may be raised in
+regard to the three questions I have put.
+1.   Is   it   possible   at   all   to   form   an   alliance   with   the   present
+Germany, whose weakness is so visible to all eyes?
+2.   Can   the   ex­enemy   nations   change   their   attitude   towards
+Germany?
+3. In other nations is not the influence of Jewry stronger than the
+recognition of their own interests, and does not this influence
+thwart all their good intentions and render all their plans futile?
+I think that I have already dealt adequately with one of the two
+aspects of the first point. Of course nobody will enter into an
+alliance with the present Germany. No Power in the world would
+link its fortunes with a State whose government does not afford
+grounds   for   the   slightest   confidence.   As   regards   the   attempt
+which has been made by many of our compatriots to explain the
+conduct of the Government by referring to the woeful state of
+public feeling and thus excuse  such conduct, I must strongly
+object to that way of looking at things.
+The lack of character which our people have shown during the
+last six years is deeply distressing. The indifference with which
+they have treated the most urgent necessities of our nation might
+veritably lead one to despair. Their cowardice is such that it often
+cries to heaven for vengeance. But one must never forget that we
+are dealing with a people who gave to the world, a few years
+previously, an admirable example of the highest human qualities.
+From the first days of August 1914 to the end of the tremendous
+struggle between the nations, no people in the world gave a better
+proof of manly courage, tenacity and patient endurance, than this
+people gave who are so cast down and dispirited today. Nobody
+will dare to assert that the lack of character among our people
+today is typical of them. What we have to endure today, among
+us and around us, is due only to the influence of the sad and
+distressing effects that followed the high treason committed on
+November 9th, 1918. More than ever before the word of the poet
+is true: that evil can only give rise to evil. But even in this epoch
+those qualities among our people which are fundamentally sound
+are not entirely lost. They slumber in the depths of the national
+conscience,   and   sometimes   in   the   clouded   firmament   we   see
+certain qualities like shining lights which Germany will one day
+remember as the first symptoms of a revival. We often see young
+Germans assembling and forming determined resolutions, as they
+did in 1914, freely and willingly to offer themselves as a sacrifice
+on the altar of their beloved Fatherland. Millions of men have
+resumed work, whole­heartedly and zealously, as if no revolution
+had ever affected them. The smith is at his anvil once again. And
+the farmer drives his plough. The scientist is in his laboratory.
+And everybody is once again attending to his duty with the same
+zeal and devotion as formerly.
+The oppression which we suffer from at the hands of our enemies
+is no longer taken, as it formerly was, as a matter for laughter;
+but it is resented with bitterness and anger. There can be no
+doubt that a great change of attitude has taken place.
+This   evolution   has   not   yet   taken   the   shape   of   a   conscious
+intention   and   movement   to   restore   the   political   power   and
+independence   of   our   nation;   but   the   blame   for   this   must   be
+attributed   to   those   utterly   incompetent   people   who   have   no
+natural endowments to qualify them for statesmanship and yet
+have been governing our nation since 1918 and leading it to ruin.
+Yes. If anybody accuses our people today he ought to be asked:
+What is being done to help them? What are we to say of the poor
+support which the people give to any measures introduced by the
+Government? Is it not true that such a thing as a Government
+hardly  exists  at   all?  And  must  we  consider   the  poor  support
+which it receives as a sign of a lack of vitality in the nation itself;
+or is it not rather a proof of the complete failure of the methods
+employed in the management of this valuable trust? What have
+our Governments done to re­awaken in the nation a proud spirit
+of self­assertion, up­standing manliness, and a spirit of righteous
+defiance towards its enemies?
+
+In 1919, when the Peace Treaty was imposed on the German
+nation, there were grounds for hoping that this instrument of
+unrestricted oppression would help to reinforce the outcry for the
+freedom of Germany. Peace treaties which make demands that
+fall like a whip­lash on the people turn out not infrequently to be
+the signal of a future revival.
+To   what   purpose   could   the   Treaty   of   Versailles   have   been
+exploited?
+In the hands of a willing Government, how could this instrument
+of   unlimited   blackmail   and   shameful   humiliation   have   been
+applied   for   the   purpose   of   arousing   national   sentiment   to   its
+highest pitch? How could a well­directed system of propaganda
+have utilized the sadist cruelty of that treaty so as to change the
+indifference   of   the   people   to   a   feeling   of   indignation   and
+transform that indignation into a spirit of dauntless resistance?
+Each point of that Treaty could have been engraved on the minds
+and hearts of the German people and burned into them until sixty
+million men and women would find their souls aflame with a
+feeling of rage and shame; and a torrent of fire would burst forth
+as from a furnace, and one common will would be forged from it,
+like a sword of steel. Then the people would join in the common
+cry: "To arms again!" Yes. A treaty of that kind can be used for
+such   a   purpose.   Its   unbounded   oppression   and   its   impudent
+demands were an excellent propaganda weapon to arouse the
+sluggish spirit of the nation and restore its vitality.
+Then, from the child's story­book to the last newspaper in the
+country,   and   every   theatre   and   cinema,   every   pillar   where
+placards are posted and every free space on the hoardings should
+be utilized in the service of this one great mission, until the fainthearted cry, "Lord, deliver us," which our patriotic associations
+send up to Heaven today would be transformed into an ardent
+prayer: "Almighty God, bless our arms when the hour comes. Be
+just, as Thou hast always been just. Judge now if we deserve our
+freedom.   Lord,   bless   our   struggle."   All   opportunities   were
+neglected and nothing was done.
+Who will be surprised now if our people are not such as they
+should be or might be? The rest of the world looks upon us only
+as its valet, or as a kindly dog that will lick its master's hand after
+he has been whipped.
+Of course the possibilities of forming alliances with other nations
+are hampered by the indifference of our own people, but much
+more by our Governments. They have been and are so corrupt
+that   now,   after   eight   years   of   indescribable   oppression,   there
+exists only a faint desire for liberty.
+In order that our nation may undertake a policy of alliances, it
+must restore its prestige among other nations, and it must have an
+authoritative Government that is not a drudge in the service of
+foreign States and the taskmaster of its own people, but rather the
+herald of the national will.
+If our people had a government which would look upon this as its
+mission, six years would not have passed before a courageous
+foreign   policy   on   the   part   of   the   Reich   would   find   a
+corresponding   support   among   the   people,   whose   desire   for
+freedom would be encouraged and intensified thereby.
+The third objection referred to the difficulty of changing the exenemy   nations   into   friendly   allies.   That   objection   may   be
+answered as follows:
+The general anti­German psychosis which has developed in other
+countries through the war propaganda must of necessity continue
+to exist as long as there is not a renaissance  of the national
+conscience among the German people, so that the German Reich
+may once again become a State which is able to play its part on
+the chess­board of European politics and with whom the others
+feel   that   they   can   play.   Only   when   the   Government   and   the
+people feel absolutely certain of being able to undertake a policy
+of alliances can one Power or another, whose interests coincide
+with ours, think of instituting a system of propaganda for the
+purpose   of   changing   public   opinion   among   its   own   people.
+Naturally   it   will   take   several   years   of   persevering   and   ably
+directed work to reach such a result. Just because a long period is
+needed in order to change the public opinion of a country, it is
+necessary   to   reflect   calmly   before   such   an   enterprise   be
+undertaken. This means that one must not enter upon this kind of
+work   unless   one   is   absolutely   convinced   that   it   is  worth   the
+trouble and that it will bring results which will be valuable in the
+future. One must not try to change the opinions and feelings of a
+people by basing one's actions on the vain cajolery of a more or
+less brilliant Foreign Minister, but only if there be a tangible
+guarantee   that   the   new   orientation   will   be   really   useful.
+Otherwise public opinion in the country dealt with may be just
+thrown into a state  of complete confusion. The most reliable
+guarantee that can be given for the possibility of subsequently
+entering into an alliance with a certain State cannot be found in
+the   loquacious   suavity   of   some   individual   member   of   the
+Government,   but   in   the   manifest   stability   of   a   definite   and
+practical policy on the part of the Government as a whole, and in
+the support which is given to that policy by the public opinion of
+the   country.   The   faith   of   the   public   in   this   policy   will   be
+strengthened all the more if the Government organize one active
+propaganda to explain its efforts and secure public support for
+them,   and   if   public   opinion   favourably   responds   to   the
+Government's policy.
+Therefore a nation in such a position as ours will be looked upon
+as a possible ally if public opinion supports the Government's
+policy   and   if   both   are   united   in   the   same   enthusiastic
+determination to carry through the fight for national freedom.
+That condition of affairs must be firmly established before any
+attempt can be made to change public opinion in other countries
+which, for the sake of defending their most elementary interests,
+are   disposed   to   take   the   road   shoulder­to­shoulder   with   a
+companion who seems able to play his part in defending those
+interests. In other words, this means that they will be ready to
+establish an alliance.
+For this purpose, however, one thing is necessary. Seeing that the
+task of bringing about a radical change in the public opinion of a
+country calls for hard work, and many do not at first understand
+what it means, it would be both foolish and criminal to commit
+mistakes which could be used as weapons in the hands of those
+who are opposed to such a change.
+
+One must recognize the fact that it takes a long time for a people
+to   understand   completely   the   inner   purposes   which   a
+Government has in view, because it is not possible to explain the
+ultimate aims of the preparations that are being made to carry
+through a certain policy. In such cases the Government has to
+count on the blind faith of the masses or the intuitive instinct of
+the ruling caste that is more developed intellectually. But since
+many people lack this insight, this political acumen and faculty
+for   seeing   into   the   trend   of   affairs,   and   since   political
+considerations forbid a public explanation of why such and such
+a   course   is   being   followed,   a   certain   number   of   leaders   in
+intellectual  circles will  always  oppose   new  tendencies  which,
+because they are not easily grasped, can be pointed to as mere
+experiments.   And   that   attitude   arouses   opposition   among
+conservative circles regarding the measures in question.
+For this reason a strict duty devolves upon everybody not to
+allow any weapon to fall into the hands of those who would
+interfere with the work of bringing about a mutual understanding
+with other nations. This is specially so in our case, where we
+have   to   deal   with   the   pretentions   and   fantastic   talk   of   our
+patriotic associations and our small bourgeoisie who talk politics
+in the cafes. That the cry for a new war fleet, the restoration of
+our colonies, etc., has no chance of ever being carried out in
+practice will not be denied by anyone who thinks over the matter
+calmly and seriously. These harmless and sometimes half­crazy
+spouters in the war of protests are serving the interests of our
+mortal enemy, while the manner in which their vapourings are
+exploited for political purposes in England cannot be considered
+as advantageous to Germany.
+They squander their energies in futile demonstrations against the
+whole world. These demonstrations are harmful to our interests
+and those who indulge in them forget the fundamental principle
+which is a preliminary condition of all success. What thou doest,
+do it thoroughly. Because we keep on howling against five or ten
+States we fail to concentrate all the forces of our national will
+and our physical strength for a blow at the heart of our bitterest
+enemy. And in this way we sacrifice the possibility of securing
+an alliance which would reinforce our strength for that decisive
+conflict.
+Here, too, there is a mission for National Socialism to fulfil. It
+must teach our people not to fix their attention on the little things
+but rather on the great things, not to exhaust their energies on
+secondary objects, and not to forget that the object we shall have
+to fight for one day is the bare existence of our people and that
+the sole enemy we shall have to strike at is that Power which is
+robbing us of this existence.
+It may be that we shall have many a heavy burden to bear. But
+this is by no means an excuse for refusing to listen to reason and
+raise nonsensical outcries against the rest of the world, instead of
+concentrating all our forces against the most deadly enemy.
+Moreover,   the   German   people   will   have   no   moral   right   to
+complain   of   the   manner   in   which   the   rest   of   the   world   acts
+towards them, as long as they themselves  have not called to
+account   those   criminals   who   sold   and   betrayed   their   own
+country. We cannot hope to be taken very seriously if we indulge
+in long­range abuse and protests against England and Italy and
+then allow those scoundrels to circulate undisturbed in our own
+country who were in the pay of the enemy war propaganda, took
+the   weapons   out   of   our   hands,   broke   the   backbone   of   our
+resistance and bartered away the Reich for thirty pieces of silver.
+The enemy did only what was expected. And we ought to learn
+from the stand he took and the way he acted.
+Anyone who cannot rise to the level of this outlook must reflect
+that otherwise there would remain nothing else than to renounce
+the idea of adopting any policy of alliances for the future. For if
+we cannot form an alliance with England because she has robbed
+us of our colonies, or with Italy because she has taken possession
+of South Tyrol, or with Poland or Czechoslovakia, then there
+remains no other possibility of an alliance in Europe except with
+France which, inter alia, has robbed us of Alsace and Lorraine.
+There can scarcely be any doubt as to whether this last alternative
+would be advantageous to the interests of the German people.
+But   if   it   be   defended   by   somebody   one   is   always   doubtful
+whether that person be merely a simpleton or an astute rogue.
+As far as concerns the leaders in these activities, I think the latter
+hypothesis is true.
+A   change   in   public   feeling   among   those   nations   which   have
+hitherto been enemies and whose true interests will correspond in
+the   future   with   ours   could   be   effected,   as   far   as   human
+calculation goes, if the internal strength of our State and our
+manifest determination to secure our own existence made it clear
+that we should be valuable allies. Moreover, it is necessary that
+our incompetent way of doing things and our criminal conduct in
+some matters should not furnish grounds which may be utilized
+for   purposes   of   propaganda   by   those   who   would   oppose   our
+projects   of   establishing   an   alliance   with   one   or   other   of   our
+former enemies.
+The   answer   to   the   third   question   is  still   more   difficult:   Is  it
+conceivable that they who represent the true interests of those
+nations which may possibly form an alliance with us could put
+their views into practice against the will of the Jew, who is the
+mortal enemy of national and independent popular States?
+For   instance,   could   the   motive­forces   of   Great   Britain's
+traditional statesmanship smash the disastrous influence of the
+Jew, or could they not?
+This question, as I have already said, is very difficult to answer.
+The answer depends on so many factors that it is impossible to
+form a conclusive judgment. Anyhow, one thing is certain: The
+power of the Government in a given State and at a definite period
+may be so firmly established  in the public estimation and so
+absolutely at the service of the country's interests that the forces
+of international Jewry could not possibly organize a real and
+effective   obstruction   against   measures   considered   to   be
+politically necessary.
+The   fight   which   Fascist   Italy   waged   against   Jewry's   three
+principal weapons, the profound reasons for which may not have
+been   consciously   understood   (though   I   do   not   believe   this
+myself) furnishes the best proof that the poison fangs of that
+Power which transcends all State boundaries are being drawn,
+even though in an indirect way. The prohibition of Freemasonry
+and secret societies, the suppression of the supernational Press
+and the definite abolition of Marxism, together with the steadily
+increasing consolidation of the Fascist concept of the State – all
+this will enable the Italian Government, in the course of some
+years,   to   advance   more   and   more   the   interests   of   the   Italian
+people without paying any attention to the hissing of the Jewish
+world­hydra.
+The English situation is not so favourable. In that country which
+has   'the   freest   democracy'   the   Jew   dictates   his   will,   almost
+unrestrained   but   indirectly,   through   his   influence   on   public
+opinion. And yet there is a perpetual struggle in England between
+those who are entrusted with the defence of State interests and
+the protagonists of Jewish world­dictatorship.
+After the War it became clear for the first time how sharp this
+contrast is, when British statesmanship took one stand on the
+Japanese problem and the Press took a different stand.
+Just after the War had ceased the old mutual antipathy between
+America   and   Japan   began   to   reappear.   Naturally   the   great
+European Powers could not remain indifferent to this new war
+menace.   In   England,   despite   the   ties  of   kinship,   there   was   a
+certain   amount   of   jealousy   and   anxiety   over   the   growing
+importance of the United States in all spheres of international
+economics and politics. What was formerly a colonial territory,
+the daughter of a great mother, seemed about to become the new
+mistress   of   the   world.   It   is   quite   understandable   that   today
+England   should   re­examine   her   old   alliances   and   that   British
+statesmanship should look anxiously to the danger of a coming
+moment when the cry would no longer be: "Britain rules the
+waves", but rather: "The Seas belong to the United States".
+The gigantic North American State, with the enormous resources
+of its virgin soil, is much more invulnerable than the encircled
+German  Reich.  Should  a  day  come   when  the  die  which  will
+finally decide the destinies of the nations will have to be cast in
+that   country,   England   would   be   doomed   if   she   stood   alone.
+Therefore she eagerly reaches out her hand to a member of the
+yellow race and enters an alliance which, from the racial point of
+view is perhaps unpardonable; but from the political viewpoint it
+represents   the   sole   possibility   of   reinforcing   Britain's   world
+position in face of the strenuous developments taking place on
+the American continent.
+Despite the fact that they fought side by side on the European
+battlefields, the British Government did not decide to conclude
+an alliance with the Asiatic partner, yet the whole Jewish Press
+opposed the idea of a Japanese alliance.
+How can we explain the fact that up to 1918 the Jewish Press
+championed the policy of the British Government against the
+German Reich and then suddenly began to take its own way and
+showed itself disloyal to the Government?
+It was not in the interests of Great Britain to have Germany
+annihilated,   but   primarily   a   Jewish   interest.   And   today   the
+destruction of Japan would serve British political interests less
+than it would serve the far­reaching intentions of those who are
+leading the movement that hopes to establish a Jewish worldempire. While England is using all her endeavours to maintain
+her position in the world, the Jew is organizing his aggressive
+plans for the conquest of it.
+He already sees the present European States as pliant instruments
+in his hands, whether indirectly through the power of so­called
+Western   Democracy   or   in   the   form   of   a   direct   domination
+through Russian Bolshevism. But it is not only the old world that
+he holds in his snare; for a like fate threatens the new world.
+Jews   control   the   financial   forces   of   America   on   the   stock
+exchange. Year after year the Jew increases his hold on Labour
+in a nation of 120 million souls. But a very small section still
+remains quite independent and is thus the cause of chagrin to the
+Jew.
+The Jews show consummate skill in manipulating public opinion
+and using it as an instrument in fighting for their own future.
+The great leaders of Jewry are confident that the day is near at
+hand when the command given in the Old Testament will be
+carried out and the Jews will devour the other nations of the
+earth.
+Among this great mass of denationalized countries which have
+become Jewish colonies one independent State could bring about
+the ruin of the whole structure at the last moment. The reason for
+doing this would be that Bolshevism as a world­system cannot
+continue to exist unless it encompasses the whole earth. Should
+one State preserve its national strength and its national greatness
+the empire of the Jewish satrapy, like every other tyranny, would
+have to succumb to the force of the national idea.
+As   a   result   of   his   millennial   experience   in   accommodating
+himself to surrounding circumstances, the Jew knows very well
+that he can undermine the existence of European nations by a
+process of racial bastardization, but that he could hardly do the
+same to a national Asiatic State like Japan. To­day he can ape the
+ways of the German and the Englishman, the American and the
+Frenchman,   but   he   has   no   means   of   approach   to   the   yellow
+Asiatic. Therefore he seeks to destroy the Japanese national State
+by using other national States as his instruments, so that he may
+rid   himself   of   a   dangerous   opponent   before   he   takes   over
+supreme control of the last national State and transforms that
+control into a tyranny for the oppression of the defenceless.
+He does not want to see a national Japanese State in existence
+when he founds his millennial empire of the future, and therefore
+he wants to destroy it before establishing his own dictatorship.
+And so he is busy today in stirring up antipathy towards Japan
+among the other nations, as he stirred it up against Germany.
+Thus   it   may   happen   that   while   British   statesmanship   is   still
+endeavouring to ground its policy in the alliance with Japan, the
+Jewish Press in Great Britain may be at the same time leading a
+hostile movement against that ally and preparing for a war of
+destruction by pretending that it is for the triumph of democracy
+and at the same time raising the war­cry: Down with Japanese
+militarism and imperialism.
+Thus in England today the Jew opposes the policy of the State.
+And for this reason the struggle against the Jewish world­danger
+will one day begin also in that country.
+
+And   here   again   the   National   Socialist   Movement   has   a
+tremendous task before it.
+It must open the eyes of our people in regard to foreign nations
+and   it   must   continually   remind   them   of   the   real   enemy   who
+menaces the world today. In place of preaching hatred against
+Aryans from whom we may be separated on almost every other
+ground but with whom the bond of kindred blood and the main
+features   of   a   common   civilization   unite   us,   we   must   devote
+ourselves to arousing general indignation against the maleficent
+enemy of humanity and the real author of all our sufferings.
+The National Socialist Movement must see to it that at least in
+our own country the mortal enemy is recognized and that the
+fight against him may be a beacon light pointing to a new and
+better period for other nations as well as showing the way of
+salvation for Aryan humanity in the struggle for its existence.
+Finally, may reason be our guide and will­power our strength.
+And may the sacred duty of directing our conduct as I have
+pointed out give us perseverance and tenacity; and may our faith
+be our supreme protection.
+
+`;
+const chapter_b_14 = `There are two reasons which induce me to submit to a special
+examination the relation of Germany to Russia:
+1. Here perhaps we are dealing with the most decisive
+concern of all German foreign affairs; and
+2. This question is also the touchstone for the political
+capacity of the young National Socialist movements to
+think clearly and to act correctly.
+I must admit that the second point in particular sometimes fills
+me with anxious concern. Since our young movement does not
+obtain membership material from the camp of the indifferent, but
+chiefly from very extreme outlooks, it is only too natural if these
+people, in the field of understanding foreign affairs as in other
+fields,   are   burdened   with   the   preconceived   ideas   or   feeble
+understanding of the circles to which they previously belonged,
+both   politically   and   philosophically.   And   this   by   no   means
+applies only to the man who comes to us from the Left. On the
+contrary. Harmful as his previous instruction with regard to such
+problems   might   be,   in   part   at   least   it   was   not   infrequently
+balanced by an existing remnant of natural and healthy instinct.
+Then it was only necessary to substitute a better attitude for the
+influence that was previously forced upon him, and often the
+essentially healthy instinct and impulse of self­preservation that
+still survived in him could be regarded as our best ally.
+It is much harder, on the other hand, to induce dear political
+thinking in a man whose previous education in this field was no
+less devoid of any reason and logic, but on top of all this had also
+sacrified   his   last   remnant   of   natural   instinct   on   the   altar   of
+objectivity. Precisely the members of our so­called intelligentsia
+are the hardest to move to a really clear and logical defense of
+their interests and the interests of their nation. They are not only
+burdened with a dead weight of the most senseless conceptions
+and prejudices, but what makes matters completely intolerable is
+that they have lost and abandoned all healthy instinct of selfpreservation. The National Socialist movement is compelled to
+endure hard struggles with these people, hard because, despite
+total incompetence, they often unfortunately are afflicted with an
+amazing conceit, which causes them to look down without the
+slightest inner justification upon other people, for the most part
+healthier than they. Supercilious, arrogant knowit­alls, without
+any capacity for cool testing and weighing, which, in turn, must
+be recognized as the pre­condition for any will and action in the
+field of foreign affairs.
+Since   these   very   circles   are   beginning   today   to   divert   the
+tendency of our foreign policy in the most catastrophic way from
+any real defense of the folkish interests of our people, placing it
+instead   in   the   service   of   their   fantastic   ideology,   I   feel   it
+incumbent   upon   me   to   discuss   for   my   supporters   the   most
+important question in the field of foreign affairs, our relation to
+Russia, in particular, and as thoroughly as is necessary for the
+general understanding and possible in the scope of such a work
+But   first   I   would   like   to   make   the   following   introductory
+remarks:
+If under foreign policy we must understand the regulation of a
+nation's relations with the rest of the world, the manner of this
+regulation   will   be   determined   by   certain   definite   facts.   As
+National Socialists we can, furthermore, establish the following
+principle concerning the nature of the foreign policy of a folkish
+state:
+The   foreign   policy   of   the   fokish   state   must   safeguard   the
+existence on this planet of the race embodied in the state, by
+creating a healthy, viable natural relation between the nation's
+population and growth on the one hand and the quantity and
+quality of its soil on the other hand.
+As a healthy relation we may regard only that condition which
+assures the sustenance of a people on its own soil. Every other
+condition,  even  if  it  endures  for  hundreds,  nay,  thousands  of
+years, is nevertheless unhealthy and will sooner or later lead to
+the injury if not annihilation of the people in question.
+Only an adequately large space on this earth assures a nation of
+freedom of existence.
+Moreover, the necessary size of the territory to be settled cannot
+be judged exclusively on the basis of present requirements, not
+even in fact on the basis of the yield of the soil compared to the
+population. For, as I explained in the first volume, under 'German
+Alliance Policy Before the War,' in addition to its importance as
+a direct source of a people's food, another significance, that is, a
+military and political one, must be attributed to the area of a
+state. If a nation's sustenance as such is assured by the amount of
+its soil, the safeguarding of the existing soil itself must also be
+borne in mind. This lies in the general power­political strength of
+the state, which in turn to no small extent is determined by geomilitary considerations.
+Hence, the German nation can defend its future only as a world
+power. For more than two thousand years the defense of our
+people's   interests,   as   we   should   designate   our   more   or   less
+fortunate   activity   in   the   field   of   foreign   affairs,   was   world
+history. We ourselves were witnesses to this fact: for the gigantic
+struggle   of   the   nations   in   the   years  1914­1918   was   only   the
+struggle of the German people for its existence on the globe, but
+we designated the type of event itself as a World War.
+The German people entered this struggle as a supposed world
+power. I say here 'supposed,' for in reality it was none. If the
+German nation in 1914 had had a different relation between area
+and population, Germany would really have been a world power,
+and   the   War,   aside   from   all   other   factors,   could   have   been
+terminated favorably.
+Germany   today   is   no   world   power.   Even   if   our   momentary
+military impotence were overcome, we should no longer have
+any claim to this title. What can a formation, as miserable in its
+relation of population to area as the German Reich today, mean
+on   this   planet?   In   an   era   when   the   earth   is   gradually   being
+divided up among states, some of which embrace almost entire
+continents, we cannot speak of a world power in connection with
+a   formation   whose   political   mother   country   is   limited   to   the
+absurd area of five hundred thousand square kilometers.
+From the purely territorial point of view, the area of the German
+Reich vanishes completely as compared with that of the socalled
+world powers. Let no one cite England as a proof to the contrary,
+for England in reality is merely the great capital of the British
+world empire which calls nearly a quarter of the earth's surface
+its own. In addition, we must regard as giant states, first of all the
+American   Union,   then   Russia   and   China.   All   are   spatial
+formations having in part an area more than ten times greater
+than   the   present   German   Reich.   And   even   France   must   be
+counted among these states. Not only that she complements her
+army to an ever­increasing degree from her enormous empire's
+reservoir of colored humanity, but racially as well, she is making
+such great progress in negrification that we can actually speak of
+an African state arising on European soil. The colonial policy of
+present­day France cannot be compared with that of Germany in
+the past. If the development of France in the present style were to
+be   continued   for   three   hundred   years,   the   last   remnants   of
+Frankish blood would be submerged in the developing EuropeanAfrican   mulatto   state.   An   immense   self­contained   area   of
+settlement from the Rhine to the Congo, filled with a lower race
+gradually produced from continuous bastardization.
+This distinguishes French colonial policy from the old German
+one.
+The former German colonial policy, like everything we did, was
+carried out by halves. It neither increased the settlement area of
+the German Reich, nor did it undertake any attempt­ criminal
+though it would have been­to strengthen the Reich by the use of
+black blood. The Askaris in German East Africa were a short,
+hesitant step in this direction. Actually they served only for the
+defense of the colonies themselves. The idea of bringing black
+troops into a European battlefield, quite aside from its practical
+impossibility in the World War, never existed even as a design to
+be realized under more favorable circumstances, while, on the
+contrary, it was always regarded and felt by the French as the
+basic reason for their colonial activity.
+Thus, in the world today we see a number of power states, some
+of which not only far surpass the strength of our German nation
+in population, but whose area above all is the chief support of
+their political power. Never has the relation of the German Reich
+to   other   existing   world   states   been   as   unfavorable   as   at   the
+beginning of our history two thousand years ago and again today.
+Then we were a young people, rushing headlong into a world of
+great crumbling state formations, whose last giant, Rome, we
+ourselves helped to fell. Today we find ourselves in a world of
+great power states in process of formation, with our own Reich
+sinking more and more into insignificance.
+We must bear this bitter truth coolly and soberly in mind. We
+must   follow   and   compare   the   German   Reich   through   the
+centuries in its relation to other states with regard to population
+and area. I know that everyone will then come to the dismayed
+conclusion   which   I   have   stated   at   the   beginning   of   this
+discussion:   Germany   is   no   longer   a   world   power,   regardless
+whether she is strong or weak from the military point of view.
+We have lost all proportion to the other great states of the earth,
+and this thanks only to the positively catastrophic leadership of
+our nation in the field of foreign affairs, thanks to our total failure
+to be guided by what I should almost call a testamentary aim in
+foreign policy, and thanks to the loss of any healthy instinct and
+impulse of self­preservation.
+If   the   National   Socialist   movement   really   wants   to   be
+consecrated by history with a great mission for our nation, it
+must be permeated by knowledge and filled with pain at our true
+situation in this world; boldly and conscious of its goal, it must
+take up the struggle against the aimlesmess and incompetence
+which have hitherto guided our German nation in the line of
+foreign affairs.  Then, without consideration of 'traditions' and
+prejudices, it must find the courage to gather our people and their
+strength for an advance along the road that will lead this people
+from its present restricted living space to new land and soil, and
+hence also free it from the danger of vanishing frotn the earth or
+of serving others as a slave nation.
+The National Socialist movement must strive to eliminate the
+disproportion between our population and our area­viewing this
+latter as a source of food as well as a basis for power politicsbetween our historical past and the hopelessness of our present
+impotence.   And   in   this   it   must   remain   aware   that   we,   as
+guardians of the highest humanity on this earth, are bound by the
+highest obligation, and the more it strives to bring the German
+people to racial awareness so that, in addition to breeding dogs,
+horses, and cats, they will have mercy on their own blood, the
+more it will be able to meet this obligation.
+If   I   characterize   German   policy   up   to   now   as   aimless   and
+incompetent, the proof of my assertion lies in the actual failure of
+this   policy.   If   our   people   had   been   intellectually   inferior   or
+cowardly, the results of its struggle on the earth could not be
+worse   than   what   we   see   before   us   today.   Neither   must   the
+development of the last decades before the War deceive us on
+this score; for we cannot measure the strength of an empire by
+itself, but only by comparison with other states. And just such a
+comparison furnishes proof that the increase in strength of the
+other   states   was   not   only   more   even,   but   also   greater   in   its
+ultimate   effect;   that   consequently,   despite   its   apparent   rise,
+Germany's road actually diverged more and more from that of the
+other   states   and   fell   far   behind;   in   short,   the   difference   in
+magnitudes increased to our disfavor. Yes, as time went on, we
+fell behind more and more even in population. But since our
+people is certainly excelled by none on earth in heroism, in fact,
+all in all has certainly given the most blood of all the nations on
+earth for the preservation of its existence, the failure can reside
+only in the mistaken way in which it was given.
+If we examine the political experiences of our people for more
+than   a   thousand   years   in   this   connection,   passing   all   the
+innumerable  wars  and  struggles  in review  and examining  the
+present end result they created, we shall be forced to admit that
+this sea of blood has given rise to only three phenomena which
+we are justified in claiming as enduring fruits of clearly defined
+actions in the field of foreign and general politics:
+(1) The colonization of the Ostmark, carried out mostly
+by   Bavarians;
+(2) the acquisition and penetration of the territory east
+of   the   Elbe;   and
+(3)   the   organization   by   the   Hohenzollerns   of   the
+Brandenburg-Prussian state as a model and nucleus for
+crystallization of a new Reich.
+An instructive warning for the future!
+The first two great successes of our foreign policy have remained
+the  most  enduring.  Without  them  our  nation  today  would  no
+longer   have   any   importance   at   all.   They   were   the   first,   but
+unfortunately   the   only   successful   attempt   to   bring   the   rising
+population into harmony with the quantity of our soil. And it
+must be regarded as truly catastrophic that our German historians
+have   never   been   able   to   estimate   correctly   these   two
+achievements which are by far the greatest and most significant
+for   the   future,   but   by   contrast   have   glorified   everything
+conceivable, praised and admired fantastic heroism, innumerable
+adventurous wars and struggles, instead of finally recognizing
+how unimportant most of these events have been for the nation's
+great line of development.
+The   third   great   success   of   our   political   activity   lies   in   the
+formation of the Prussian state and the resultant cultivation of a
+special   state   idea,   as   also   of   the   German   army's   instinct   of
+selfpreservation and self-defense, adapted to the modern world
+and put into organized form. The development of the idea of
+individual   militancy   into   the   duty   of   national   militancy
+[conscription] has grown out of every state formation and every
+state conception. The significance of this development cannot be
+overestimated.   Through   the   discipline   of   the   Prussian   army
+organism,   the   German   people,   shot   through   with
+hyperindividualism by their racial divisions, won back at least a
+part of the capacity for organization which they had long since
+lost. What other peoples still primitively possess in their herd
+community instinct, we, partially at least, regained artificially for
+our national community through the process of military training.
+Hence   the   elimination   of   universal   conscription­   which   for
+dozens of other peoples might be a matter of no importance­is for
+us   fraught   with   the   gravest   consequences.   Ten   German
+generations without corrective and educational military training,
+left to the evil effects of their racial and hence philosophical
+division­and our nation would really have lost the last remnant of
+an independent existence on this planet. Only through individual
+men, in the bosom of foreign nations, could the German spirit
+make its contribution to culture, and its origin would not even be
+recognized. Cultural fertilizer, until the last remnant of AryanNordic blood in us would be corrupted or extinguished.
+It   is   noteworthy   that   the   significance   of   these   real   political
+successes won by our nation in its struggles, enduring more than
+a thousand years, were far better understood and appreciated by
+our adversaries than by ourselves. Even today we still rave about
+a heroism which robbed our people of millions of its noblest
+blood­bearers, but in its ultimate result remained totally fruitless.
+The distinction between the real political successes of our people
+and the national blood spent for fruitless aims is of the greatest
+importance for our conduct in the present and the future.
+We National Socialists must never under any circumstances join
+in the foul hurrah patriotism of our present bourgeois world. In
+particular  it is  mortally  dangerous  to regard the  last  pre­War
+developments as binding even in the slightest degree for our own
+course. From the whole historical development of the nineteenth
+century,   not   a   single   obligation   can   be   derived   which   was
+grounded in this period itself. In contrast to the conduct of the
+representatives of this period, we must again profess the highest
+aim of all foreign policy, to wit: to bring the soil into harmony
+with the population Yes, from the past we can only learn that, in
+setting an objective for our political activity, we must proceed in
+two directions: Land and soil as the goal of ourforeign policy,
+and a new philosophically established, uniform foundation as the
+aim of political activity at home.
+I still wish briefly to take a position on the question as to what
+extent   the   demand   for   soil   and   territory   seems   ethically   and
+morally justified. This is necessary, since unfortunately, even in
+socalled   folkish   circles,   all   sorts   of   unctuous   bigmouths   step
+forward, endeavoring to set the rectification of the injustice of
+1918 as the aim of the German nation's endeavors in the field of
+foreign affairs, but at the same time find it necessary to assure
+the whole world of folkish brotherhood and sympathy.
+I should like to make the following preliminary remarks: The
+demand  for  restoration  of  the   frontiers  of  1914  is  a  political
+absurdity of ssxch proportions and consegsxences as to make it
+seem a crime. Quite aside from the fact that the Reich's frontiers
+in   19X4   were   anything   but   logical.   For   in   reality   they   were
+neither complete in the sense of embracing the people of German
+nationality, nor sensible with regard to geomilitary expediency.
+They were not the result of a considered political action, but
+momentary frontiers in a political struggle that was by no means
+concluded; partly, in fact, they were the results of chance. With
+equal   right   and   in   many   cases   with   more   right,   some   other
+sample year of German history could be picked out, and the
+restoration of the conditions at that time declared to be the aim of
+an activity in foreign affairs. The above demand is entirely suited
+to   our   bourgeois   society,   which   here   as   elsewhere   does   not
+possess a single creative political idea for the future, but lives
+only in the past, in fact, in the most immediate past; for even
+their backward gaze does not extend beyond their own times.
+The law of inertia binds them to a given situation and causes
+them to resist any change in it, but without ever increasing the
+activity   of   this   opposition   beyond   the   mere   power   of
+perseverance. So it is obvious that the political horizon of these
+people does not extend beyond the year 1914. By proclaiming
+the   restoration   of   those   borders   as   the   political   aim   of   their
+activity,   they   keep   mending   the   crumbling   league   of   our
+adversaries. Only in this way can it be explained that eight years
+after a world struggle in which states, some of which had the
+most heterogeneous desires, took part, the coalition of the victors
+of those days can still maintain itself in a more or less unbroken
+form.
+All these states were at one time beneficiaries of the German
+collapse. Fear of our strength caused the greed and envy of the
+individual   great   powers   among   themselves   to   recede.   By
+grabbing as much of the Reich as they could, they found the best
+guard against a future uprising. A bad conscience and fear of our
+people's   strength   is   still   the   most   enduring   cement   to   hold
+together the various members of this alliance.
+And we do not disappoint them. By setting up the restoration of
+the borders of 1914 as a political program for Germany, our
+bourgeoisie frighten away every pa rtner who might desire to
+leave the league of our enemies, since he must inevitably fear to
+be   attacked   singly   and   thereby   lose   the   protection   of   his
+individual fellow allies. Each single state feels concerned and
+threatened by this slogan.
+Moreover, it is senseless in two respects:
+(1) because the instruments of power are lacking to remove it
+from   the   vapors   of   club   evenings   into   reality;   and
+(2) because, if it could actually be realized, the outcome would
+again be so pitiful that, by God, it would not be worth while to
+risk the blood of our people for this.
+For it should scarcely seem questionable to anyone that ever the
+restoration of the frontiers of 1914 could be achieved only by
+blood. Only childish and naive minds can lull themselves in the
+idea   that   they   can   bring   about   a   correction   of   Versailles   by
+wheedling and begging. Quite aside from the fact that such an
+attempt would presuppose a man of Talleyrand's talents, which
+we do not possess. One half of our political figures consist of
+extremely sly, but equally spineless elements which are hostile
+toward our nation to begin with, while the other is composed of
+goodnatured, harmless, and easy­going soft­heads. Moreover, the
+times have changed since the Congress of Vienna: Today it is not
+princes and princes' mistresses who haggle and bargain over state
+borders; it is the inexorable Jew who struggles for his domination
+over the nations. No nation can remove this hand from its throat
+except by the sword. Only the assembled and concentrated might
+of   a   national   passion   rearing   up   in   its   strength   can   defy   the
+international   enslavement   of   peoples.   Such   a   process   is   and
+remains a bloody one.
+If, however, we harbor the conviction that the German future,
+regardless what happens, demands the supreme sacrifice, quite
+aside from all considerations of political expediency as such, we
+must set up an aim worthy of this sacrifice and fight for it.
+The boundaries of the year 1914 mean nothing at all for the
+German future. Neither did they provide a defense of the past,
+nor would they contain any strength for the future. Through them
+the German nation will neither achieve its inner integrity, nor
+will   its   sustenance   be   safeguarded   by   them,   nor   do   these
+boundaries, viewed from the military standpoint, seem expedient
+or even satisfactory, nor finally can they improve the relation in
+which   we   at   present   find   ourselves   toward   the   other   world
+powers,   or,   better   expressed,   the   real   world   powers.   The   lag
+behind  England  will   not  be   caught   up,  the   magnitude  of  the
+Union will not be achieved; not even France would experience a
+material diminution of her world­political importance.
+Only one thing would be certain: even with a favorable outcome,
+such an attempt to restore the borders of 1914 would lead to a
+further  bleeding  of  our  national  body,  so   much   so  that  there
+would be no worth­while blood left to stake for the decisions and
+actions really to secure the nation's future. On the contrary, drunk
+with such a shallow success, we should renounce any further
+goals, all the more readily as 'national honor' would be repaired
+and,   for   the   moment   at   least,   a   few   doors   would   have   been
+reopened to commercial development.
+As   opposed   to   this,   we   National   Socialists   must   hold
+unflinchingly to our aim in foreign policy, namely, to secure for
+the German people the land and soil to which they are entitled on
+this earth. And this action is the only one which, before God and
+our German posterity, would make any sacrifice of blood seem
+justified: before God, since we have been put on this earth with
+the mission of eternal struggle for our daily bread, beings who
+receive nothing as a gift, and who owe their position as lords of
+the earth only to the genius and the courage with which they can
+conquer and defend it; and before our German posterity in so far
+as we have shed no citizen's blood out of which a thousand others
+are not bequeathed to posterity. The soil on which some day
+German generations of peasants can beget powerful sons will
+sanction the investment of the sons of today, and will some day
+acquit the responsible statesmen of blood­guilt and sacrifice of
+the people, even if they are persecuted by their contemporaries.
+And I must sharply attack those folkish pen­pushers who claim to
+regard such an acquisition of soil as a 'breach of sacred human
+rights' and attack it as such in their scribblings. One never knows
+who stands behind these fellows. But one thing is certain, that the
+confusion   they   can   create   is  desirable   and   convenient   to   our
+national enemies. By such an attitude they help to weaken and
+destroy from within our people's will for the only correct way of
+defending their vital needs. For no people on this earth possesses
+so much as a square yard of territory on the strength of a higher
+will or superior right. Just as Germany's frontiers are fortuitous
+frontiers, momentary frontiers in the current political struggle of
+any period, so are the boundaries of other nations' living space.
+And just as the shape of our earth's Furnace can seem immutable
+as granite only to the thoughtless soft­head, but in reality only
+represents   at   each   period   an   apparent   pause   in   a   continuous
+development, created by the mighty forces of Nature in a process
+of   continuous   growth,   only   to   be   transformed   or   destroyed
+tomorrow by greater forces, likewise the boundaries of living
+spaces in the life of nations.
+State boundaries are made by man and changed by man.
+The   fact   that   a   nation   has   succeeded   in   acquiring   an   undue
+amount of soil constitutes no higher obligation that it should be
+recognized   eternally.   At   most   it   proves   the   strength   of   the
+conquerors and the weakness of the nations. And in this case,
+right   lies   in   this   strength   alone.   If  the   German   nation   today,
+penned into an impossible area, faces a lamentable future, this is
+no more a commandment of Fate than revolt against this state of
+affairs constitutes an affront to Fate. No more than any higher
+power   has   promised   another   nation   more   territory   than   the
+Gerrnan   nation,   or   is   offended   by   the   fact   of   this   unjust
+distribution of the soil. Just as our ancestors did not receive the
+soil on which we live today as a gift from Heaven, but had to
+fight for it at the risk of their lives, in the future no folkish grace
+will win soil for us and hence life for our people, but only the
+might of a victorious sword.
+Much as all of us today recognize the necessity of a reckoning
+with France, it would remain ineffectual in the long run if it
+represented the whole of our aim in foreign policy. It can and
+will   achieve   meaning   only   if   it   offers   the   rear   cover   for   an
+enlargement of our people's living space in Europe. For it is not
+in colonial acquisitions that we must see  the solution of this
+problem,   but   exclusively   in   the   acquisition   of   a   territory   for
+settlement, which will enhance the area of the mother country,
+and hence not only keep the new settlers in the most intimate
+community with the land of their origin, but secure for the total
+area those advantages which lie in its unified magnitude.
+The   folkish   movement   must   not   be   the   champion   of   other
+peoples,   but  the   vanguard  fighter  of  its  own.  Otherwise  it  is
+superfluous and above all has no right to sulk about the past. For
+in that case it is behaving in exactly tbe same wav. The old
+German   policy   was   wrongly   determined   by   dynastic
+considerations, and the future policy must not be directed by
+cosmopolitan folkish drivel. In particular, we are not constables
+guarding the well­known 'poor little nations,' but soldiers of our
+own nation.
+But we National Socialists must go further. The right to possess
+soil can become a duty if without extension of its soil a great
+nation seems doomed to destruction. And most especially when
+not   some   little   negro   nation   or   other   is   involved,   but   the
+Germanic mother of life, which has given the present­day world
+its cultural picture. Germany will either be a world power or
+there will be no Germany. And for world power she needs that
+magnitude  which  will  give  her  the  position  she   needs  in  the
+present period, and life to her citizens.
+
+And so we National Socialists consciously draw a line beneath
+the foreign policy tendency of our pre­War period. We take up
+where we broke off six hundred years ago. We stop the endless
+German movement to the south and west,  and turn our gaze
+toward the land in the east. At long last we break of the colonial
+and commercial policy of the pre­War period and shift to the soil
+policy of the future.
+If we speak of soil in Europe today, we can primarily have in
+mind only Russia and her vassal border states.
+Here Fate itself seems desirous of giving us a sign. By handing P
+ussia   to   Bolshevism,   it   robbed   the   Russian   nation   of   that
+intelligentsia which previously brought about and guaranteed its
+existence   as   a   state.   For   the   organization   of   a   Russian   state
+formation was not the result of the political abilities of the Slavs
+in Russia, but only a wonderful example of the state­forming
+efficacity of the German element in an inferior race. Numerous
+mighty empires on earth have been created in this way. Lower
+nations led by Germanic organizers and overlords have more
+than once grown to be mighty state formations and have endured
+as long as the racial nudeus of the creative state race maintained
+itself. For centuries Russia drew nourishment from this Germanic
+nucleus of its upper leading strata. Today it can be regarded as
+almost   totally   exterminated   and   extinguished.   It   has   been
+replaced   by   the   Jew.   Impossible   as   it   is   for   the   Russian   by
+himself to shake off the yoke of the Jew by his own resources, it
+is equally impossible for the Jew to maintain the mighty empire
+forever. He himself is no element of organization, but a ferment
+of decomposition. The Persian I empire in the east is ripe for
+collapse. And the end of Jewish rule in Russia will also be the
+end   of   Russia   as   a   state.   We   have   been   chosen   by   Fate   as
+witnesses   of   a   catastrophe   which   will   be   the   mightiest
+confirmation of the soundness of the folkish theory.
+Our task, the mission of the National Socialist movement, is to
+bring our own people to such political insight that they will not
+see their goal for the future in the breath­taking sensation of a
+new Alexander's conquest, but in the industrious work of the
+German plow, to which the sword need only give soil.
+
+It   goes   without   saying   that   the   Jews   announce   the   sharpest
+resistance to such a policy. Better than anyone else they sense the
+significance of this action for their own future. This very fact
+should teach all really national­minded men the correctness of
+such a reorientation. Unfortunately, the opposite is the case. Not
+only in German­National, but even in 'folkish' circles, the idea of
+such   an   eastern   policy   is   violently   attacked,   and,   as   almost
+always in such matters, they appeal to a higher authority. The
+spirit of Bismarck is cited to cover a policy which is as senseless
+as   it   is   impossible   and   in   the   highest   degree   harmful   to   the
+German nation. Bismarck in his time, they say, always set store
+on good relations with Russia. This, to a certain extent, is true.
+But they forget to mention that he set just as great store on good
+relations with Italy, for example; in fact, that the same Herr von
+Bismarck once made an alliance with Italy in order to finish off
+Austria   the   more   easily.   Why,   then,   don't   they   continue   this
+policy? 'Because the Italy of today is not the Italy of those days,'
+they will say. Very well. But then, honored sirs, will you permit
+the objection that present­day Russia is not the Russia of those
+days either?  It  never  entered  Bismarck's  head  to  lay  down   a
+political course tactically and theoretically for all time. In this
+respect he was too much master of the moment to tie his hands in
+such   a   way.   The   question,   therefore,   most   not   be:   What   did
+Bismarsk do in his time? But rather: What would he do today?
+And   this   question   is   easier   to   answer.   With   his   political
+astuteness,   he   would   never   ally   himself   unth   a   state   that   is
+downed to destruction.
+Furthermore, Bismarck even then viewed the German colonial
+and   commercial   policy   with   mixed   feelings,   since   for   the
+moment   he   was   concerned   only   with   the   surest   method   of
+internally consolidating the state formation he had created. And
+this   was   the   only   reason   why   at   that   time   he   welcomed   the
+Russian rear cover, which gave him a free hand in the west. But
+what   was   profitable   to   Germany   then   would   be   detrimental
+today.
+As   early   as   1920­   21,   when   the   young   National   Socialist
+movement began slowly to rise above the political horizon, and
+here and  there was referred  to as the  movement  for German
+freedom, the party was approached by various quarters with an
+attempt to create a certain bond between it and the movements
+for freedom in  other  countries.  This was in  the line  of  the  '
+League   of   Oppressed   Nations,'   propagated   by   many.   Chiefly
+involved were representatives of various Balkan states, and some
+from Egypt and India, who as individuals always impressed me
+as pompous big­mouths without any realistic background. But
+there were not a few Germans, especially in the nationalist camp,
+who let themselves be dazzled by such inflated Orientals and
+readily accepted any old Indian or Egyptian student from God
+knows where as a 'representative' of India or Egypt. These people
+never realized that they were usually dealing with persons who
+had   absolutely   nothing   behind   them,   and   above   all   were
+authorized by no one to conclude any pact with anyone, so that
+the practical result of any relations with such elements was nil,
+unless the time wasted were booked as a special loss. I always
+resisted such attempts. Not only that I had better things to do
+than twiddle away weeks in fruitless 'conferences,' but even if
+these men had been authorized representatives of such nations, I
+regarded the whole business as useless, in fact, harmful.
+Even in peacetime it was bad enough that the German alliance
+policy, for want of any aggressive intentions of our own, ended
+in   a   defensive   union   of   ancient   states,   pensioned   by   world
+history. The alliance with Austria as well as Turkey had little to
+be said for them. While the greatest military and industrial states
+on earth banded into an active aggressive union, we collected a
+few antique, impotent state formations and with this decaying
+rubbish attempted to face an active world coalition. Germany
+received a bitter accounting for this error in foreign policy. But
+this accounting does not seem to have been bitter enough to
+prevent our eternal dreamers from falling headlong into the same
+error. For the attempt to disarm the almighty victors through a
+'league   of   Oppressed   Nations'   is   not   only   ridiculous,   but
+catastrophic as well. It is catastrophic because it distracts our
+people again and again from the practical possibilities, making
+them devote themselves to imaginative, yet fruitless hopes and
+illusions. The German of today really resembles the drowning
+man who grasps at every straw. And this can apply even to men
+who are otherwise exceedingly well educated. If any will­o'­thewisp of hope, however unreal, turns up anywhere, these men are
+off at a trot, chasing after the phantom. Whether it is a League of
+Oppressed Nations, a League of Nations, or any other fantastic
+new invention, it will be sure to find thousands of credulous
+souls.
+I   still   remember   the   hopes,   as   childish   as   they   were
+incomprehensible,   which   suddenly   arose   in   folkish   circles   in
+1920­21, to the effect that British power was on the verge of
+collapse in India. Some Asiatic jugglers, for all I care they may
+have been real 'fighters for Indian freedom,' who at that time
+were wandering around Europe, had managed to sell otherwise
+perfectly reasonable people the idee fixe that the British Empire,
+which has its pivot in India, was on the verge of collapse at that
+very point. Of course, it never entered their heads that here again
+their own wish was the sole father of all their thoughts. No more
+did the inconsistency of their own hopes. For by expecting the
+end of the British Empire to follow from a collapse of British
+rule in India, they themselves admitted that India was of the most
+paramount importance to England.
+It is most likely, however, that this vitally important question is
+not a profound secret known only to German­folkish prophets;
+presumably it is known also to the helmsmen of English destiny.
+It is really childish to suppose that the men in England cannot
+correctly estimate the importance of the Indian Empire for the
+British world union. And if anyone imagines that England would
+let India go without staking her last drop of blood, it is only a
+sorry sign of absolute failure to learn from the World War, and of
+total misapprehension and ignorance on the score of AngloSaxon
+determination. It is, furthermore, a proof of the German's total
+ignorance regarding the whole method of British penetration and
+administration of this empire. England will lose India either if
+her   own   administrative   machinery   falls   a   prey   to   racial
+decomposition (which at the moment is completely out of the
+question in India) or if she is bested by the sword of a powerful
+enemy. Indian agitators, however, will never achieve this. How
+hard it is to best England, we Germans have sufficiently learned.
+Quite aside from the fact that I, as a man of Germanic blood,
+would, in spite of everything, rather see India under English rule
+than under any other.
+Just  as lamentable  are  the hopes in  any mythical  uprising  in
+Egypt. The 'Goly War' can give our German Schafkopf players
+the pleasant thrill of thinking that now perhaps others are ready
+to shed their blood for us­for this cowardly speculation, to tell the
+truth, has always been the silent father of all hopes; in reality it
+would   come   to   an   infernal   end   under   the   fire   of   English
+machinegun companies and the hail of fragmentation bombs.
+It just happens to be impossible to overwhelm with a coalition of
+cripples a powerful state that is determined to stake, if necessary,
+its last drop of blood for its existence. As a folkish man, who
+appraises the value of men on a racial basis, I am prevented by
+mere   knowledge   of   the   racial   inferiority   of   these   so­called
+'oppressed nations' from linking the destiny of my own people
+with theirs.
+And   today   we   must   take   exactly   the   same   position   toward
+Russia.   Present­day   Russia,   divested   of   her   Germanic   upper
+stratum, is, quite aside from the private intentions of her new
+masters,   no   ally   for   the   German   nation's   fight   for   freedom.
+Considered frown the purely military angle, the relations would
+be simply  catastrophic  in  case  of war  between  Germany  and
+Russia and Western Europe, and probably against all the rest of
+the world. The struggle would take place, not on Russian, but on
+German soil, and Germany would not be able to obtain the least
+effective   support   from   Russia.   The   present   German   Reich's
+instruments of  power  are   so  lamentable  and   so  useless   for  a
+foreign   war,   that   no   defense   of   our   borders   against   Western
+Europe,   including   England,   would   be   practicable,   and
+particularly the German industrial region would lie defenselessly
+exposed to the concentrated aggressive arms of our foes. There is
+the additional fact that between Germany and Russia there lies
+the Polish state, completely in French hands. In case of a war
+between Germany and Russia and Western Europe, Russia would
+first have to subdue Poland before the first soldier could be sent
+to the western front. Yet it is not so much a question of soldiers
+as   of   technical   armament.   In   this   respect,   the   World   War
+situation would repeat itself, only much more horribly. Just as
+German industry was then drained for our glorious allies, and,
+technically   speaking,   Germany   had   to   fight   the   war   almost
+single­handed, likewise in this struggle Russia would be entirely
+out   of   the   picture   as   a   technical   factor.   We   could   oppose
+practically   nothing   to   the   general   motorization   of   the   worth
+which in the next war will manifest itself overwhelmingly and
+decisively.   For   not   only   that   Germany   herself   has   remained
+shamefully  backward  in  this all­important  field,  but  from  the
+little she possesses she would have to sustain Russia, which even
+today  cannot  claim  possession  of  a  single   factory  capable   of
+producing a motor vehicle that really runs. Thus, such a war
+would   assume   the   character   of   a   plain   massacre.   Germany's
+youth would be bled even more than the last time, for as always
+the burden of the fighting would rest only upon us, and the result
+would be inevitable defeat.
+But even supposing that a miracle should occur and that such a
+struggle did not end with the total annihilation of Germany, the
+ultimate outcome would only be that the German nation, bled
+white, would remain as before bounded by great military states
+and that her real situation would hence have changed in no way.
+Let no one argue that in concluding an alliance with Russia we
+need not immediately think of war, or, if we did, that we could
+thoroughly   prepare   for   it.   An   alliance   whose   aim   does   not
+embrace a plan for war is senseless and worthless. Alliances are
+concluded only for struggle. And even if the clash should be
+never so far away at the moment when the pact is concluded, the
+prospect of a military involvement is nevertheless its cause. And
+do not imagine that any power would ever interpret the meaning
+of such an alliance in any other way. Either a German­Russian
+coalition would remain on paper, or from the letter of the treaty it
+would be translated into visible reality­and the rest of the world
+would be warned. How nalve to suppose that in such a case
+England and France would wait a decade for the German­Russian
+alliance   to  complete   its  technical   preparations.   No,   the  storm
+would break over Germany with the speed of lightning.
+And so the very fact of the conclusion of an alliance with Russia
+embodies a plan for the next war. Its outcome would be the end
+of Germany.
+On top of this there is the following:
+1.   The   present   rulers   of   Russia   have   no   idea   of   honorably
+entering into an alliance, let alone observing one.
+Never forget that the rulers of present­day Russia are common
+blood­stained   criminals;   that   they   are   the   scum   of   humanity
+which, favored by circumstances, overran a great state in a tragic
+hour,   slaughtered   and   wiped   out   thousands   of   her   leading
+ir.telligentsia in wild blood lust, and now for almost ten years
+have been carrying on the most cruel and tyrannical regime of all
+time. Furthermore, do not forget that these rulers belong to a race
+which   combines,   in   a   rare   mixture,   bestial   cruelty   and   an
+inconceivable gift for lying, and which today more than ever is
+conscious of a mission to impose its bloody oppression on the
+whole   world.   Do   not   forget   that   the   international   Jew   who
+completely dominates Russia today regards Germany, not as an
+ally, but as a state destined to the same fate. And you do not
+make pacts with anyone whose sole interest is the destruction of
+his partner. Above all, you do not make them with elements to
+whom no pact would be sacred, since they do not live in this
+world as representatives of honor and sincerity, but as champions
+of deceit, lies, theft, plunder, and rapine. If a man believes that he
+can enter into profitable connections with parasites, he is like a
+tree trying to conclude for its own profit an agreement with a
+mistletoe.
+2. The danger to which Russia succumbed is always present for
+Germany. Only a bourgeois simpleton is capable of imagining
+that Bolshevism has been exorcised. With his superficial thinking
+he has no idea that this is an instinctive process; that is, the
+striving of the Jewish people for world domination, a process
+which is just as natural as the urge of the Anglo­Saxon to seize
+domination of the earth. And just as the Anglo­Saxon pursues
+this course in his own way and carries on the fight with his own
+weapons, likewise the Jew. He goes his way, the way of sneaking
+in among the nations and boring from within, and he fights with
+his   weapons,   with   lies   and   slander,   poison   and   corruption,
+intensifying the struggle to the point of bloodily exterminating
+his hated foes. In Russian Bolshevism we must see the attempt
+undertaken by the Jews in the twentieth century to achieve world
+domination. Just as in other epochs they strove to reach the same
+goal by other, though inwardly related processes. Their endeavor
+lies profoundly rooted in their essential nature. No more than
+another nation renounces of its own accord the pursuit of its
+impulse for the expansion of its power and way of life, but is
+compelled   by   outward   circumstances   or   else   succumbs   to
+impotence due to the symptoms of old age, does the Jew break
+off his road to world dictatorship out of voluntary renunciation,
+or because he represses his eternal urge. He, too, will either be
+thrown back in his course by forces lying outside himself, or all
+his striving for world domination will be ended by his own dying
+out. But the impotence of nations, their own death from old age,
+arises from the abandonment of their blood purity. And this is a
+thing that the Jew preserves better than any other people on earth.
+And so he advances on his fatal road until another force comes
+forth to oppose him, and in a mighty struggle hurls the heavenstormer back to Lucifer.
+Germany   is   today   the   next   great   war   aim   of   Bolshevism.   It
+requires all the force of a young missionary idea to raise our
+people up again, to free them from the snares of this international
+serpent, and to stop the inner contamination of our blood, in
+order that the forces of the nation thus set free can be thrown in
+to safeguard our nationality, and thus can prevent a repetition of
+the recent catastrophes down to the most distant future. If we
+pursue this aim, it is sheer lunacy to ally ourselves with a power
+whose master is the mortal enemy of our future. How can we
+expect to free our own people from the fetters of this poisonous
+embrace   if   we   walk   right   into   it?   How   shall   we   explain
+Bolshevism to the German worker as an accursed crime against
+humanity   if   we   ally   ourselves   with   the   organizations   of   this
+spawn of hell, thus recognizing it in the larger sense? By what
+right shall we condemn a member of the broad masses for his
+sympathy with an outlook if the very leaders of the state choose
+the representatives of this outlook for allies?
+The fight against Jewish world Bolshevization requires a clear
+attitude toward Soviet Russia. thou cannot drive out the Devil
+with Beelsebub.
+If today even folkish circles rave about an alliance with Russia,
+they should just look around them in Germany and see whose
+support they find in their efforts. Or have folkish men lately
+begun to view an activity as beneficial to the German people
+which   is   recommended   and   promoted   by   the   international
+Marxist press? Since when do folkish men fight with armor held
+out to them by a Jewish squire?
+There is one main charge that could be raised against the old
+German Reich with regard to its alliance policy: not, however,
+that it failed to maintain good relations with Russia, but only that
+it   ruined   its   relations   with   everyone   by   continuous   shillyshallying,   in   the   pathological   weakness   of   trying   to   preserve
+world peace at any price.
+I openly confess that even in the pre­War period I would have
+thought it sounder if Germany, renouncing her senseless colonial
+policy and renouncing her merchant marine and war fleet, had
+concluded an alliance with England against Russia, thus passing
+from a feeble global policy to a determined European policy of
+territorial acquisition on the continent.
+I have   not  forgotten  the  insolent  threat  which  the  pan­Slavic
+Russia of that time dared to address to Germany; I have not
+forgotten the constant practice mobilizations, whose sole purpose
+was an affront to Germany; I cannot forget the mood of public
+opinion in Russia, which outdid itself in hateful outbursts against
+our   people   and   our   Reich;   I   cannot   forget   the   big   Russian
+newspapers, which were always more enthusiastic about France
+than about us.
+But in spite of all that, before the War there would still have been
+a second way: we could have propped ourselves on Russia and
+turned against England.
+Today conditions are different. If before the War we could have
+choked down every possible sentiment and gone with Russia,
+today it is no longer possible. The hand of the world clock has
+moved forward since then, and is loudly striking the hour in
+which the destiny of our nation must be decided in one way or
+another. The process of consolidation in which the great states of
+the earth are involved at the moment is for us the last warning
+signal to stop and search our hearts, to lead our people out of the
+dream world back to hard reality, and show them the way to the
+future which alone will lead the old Reich to a new golden age.
+If the National Socialist movement frees itself from all illusions
+with   regard   to   this   great   and   all­important   task,   and   accepts
+reason as its sole guide, the catastrophe of 1918 can some day
+become an infinite blessing for the future of our nation. Out of
+this collapse our nation will arrive at a complete reorientation of
+its   activity   in   foreign   relations,   and,   furthermore,   reinforced
+within by its new philosophy of life, will also achieve outwardly
+a final  stabilization of its foreign policy. Then at last it will
+acquire what England possesses and even Russia possessed, and
+what   again   and   again   induced   France   to   make   the   same
+decisions,   essentially   correct   from   the   viewpoint   of   her   own
+interests, to wit: A political testament.
+The   political   testament   of   the   German   nation   to   govern   its
+outward activity for all time should and must be:
+Never   suffer   the   rise   of   two   continental   powers   in   Europe.
+Regard any attempt to organize a second military power on the
+German frontiers, even if only in the form of creating a state
+capable of military strength, as an attack on Germany, and in it
+see not only the right, but also the duty, to employ all means up
+to armed force to prevent the rise of such a state, or, if one has
+already arisen, to smash it again.­See to it that the strength of our
+nation   is   founded,   not   on   colonies,   but   on   the   soil   of   our
+European homeland. Never regard the Reich as secure unless for
+centuries to come it can give every scion of our people his own
+parcel of soil. Never forget that the most sacred right on this
+earth is a man's right to have earth to till with his own hands, and
+the most sacred sacrifice the blood that a man sheds for this
+earth.
+I should not like to conclude these reflections without pointing
+once again to the sole alliance possibility which exists for us at
+the moment in Europe. In the previous chapter on the alliance
+problem I have already designated England and Italy as the only
+two states in Europe with which a closer relationship would be
+desirable and promising for us. Here I shall briefly touch on the
+military importance of such an alliance.
+The military consequences of concluding this alliance would in
+every respect be the opposite of the consequences of an alliance
+with Russia. The most important consideration, first of all, is the
+fact that in itself an approach so England and Italy in no way
+conjures up a war danger. France, the sole power which could
+conceivably oppose the alliance, would not be in a position to do
+so.   And   consequently   the   alliance   would   give   Germany   the
+possibility   of   peacefully   making   those   preparations   for   a
+reckoning with France, vhich would have to be made in any
+event within the scope of such a coalition. For the significant
+feature of such an alliance lies precisely in the fact that upon its
+conclusion Germany would not suddenly be exposed to a hostile
+invasion, but that the opposing alliance would break of its own
+accord; the Entente, to which we owe such infinite misfortune,
+would be dissolved, and hence France, the mortal enemy of our
+nation, would be isolated. Even if this success is limited at first to
+moral   effect,   it   would   suffice   to   give   Germany   freedom   of
+movement to an extent which today is scarcely conceivable. For
+the law of action would be in the hands of the new European
+AngloXermanItalian alliance and no longer with France.
+The further result would be that at one stroke Germany would be
+freed from her unfavorable strategic position. The most powerful
+protection on our fiank on the one hand, complete guaranty of
+our food and raw materials on the other, would be the beneficial
+effect of the new constellation of states.
+But almost more important would be the fact that the new league
+would   embrace   states   which   in   technical   productivity   almost
+complement one another in many respects.  For the first time
+Germany   would   have   allies   who   would   not   drain   our   own
+economy like leeches, but could and would contribute their share
+to the richest supplementation of our technical armament.
+And do not overlook the final fact that in both cases we should
+be dealing with allies who cannot be compared with Turkey or
+present­day Russia. The greatest world power on earth and a
+youthful   national   state   would   offer   different   premises   for   a
+struggle   in   Europe   than   the   putrid   state   corpses   with   which
+Germany allied herself in the last war.
+Assuredly, as I emphasized in the last chapter, the difficulties
+opposing such an alliance are great. But was the formation of the
+Entente, for instance, any less difficult? What the genius of a
+Ring  Edward  VII  achieved,  in  part  almost  counter  to  natural
+interests, we, too, must and will achieve, provided we are so
+inspired by our awareness of the necessity of such a development
+that   with   astute   self­control   we   determine   our   actions
+accordingly. And this will become possible in the moment when,
+imbued   with   admonishing   distress,l   we   pursue,   not   the
+diplomatic aimlessness of the last decades, but a conscious and
+determined course, and stick to it. Neither western nor eastern
+orientation must be the future goal of our foreign policy, but an
+eastern policy in the sense of acquiring the necessary soil for our
+German people. Since for this we require strength, and since
+France, the mortal enemy of our nation, inexorably strangles us
+and robs us of our strength, we must take upon ourselves every
+sacrifice whose consequences are cakulated to contribute to the
+annihilation   of   French   efforts   toward   hegemony   in   Europe.
+Today every power is our natural ally, which like us feels French
+domination on the continent to be intolerable. No path to such a
+power can be too hard for us, and no renunciation can seem
+unutterable if only the end result of ers the possibility of downing
+our grimmest enemy. Then, if we can cauterize and close the
+biggest wound, we  can calmly leave the  cure of our slighter
+wounds to the soothing effects of time.
+Today, of course, we are subjected to the hateful yapping of the
+enemies of our people within. We National Socialists must never
+let   this   divert   us   from   proclaiming   what   in   our   innermost
+conviction is absolutely necessary. Today, it is true, we must
+brace   ourselves   against   the   current   of   a   public   opinion
+confounded   by   Jewish   guile   exploiting   German   gullibility;
+sometimes, it is true, the waves break harshly and angrily about
+us, but he who swims with the stream is more easily overlooked
+than he who bucks the waves. Today we are a reef; in a few years
+Fate may raise us up as a dam against which the general stream
+will break, and flow into a new bed.
+It is, therefore, necessary that the National Socialist movement
+be recognized and established in the eyes of all as the champion
+of a definite political purpose. Whatever Heaven may have in
+store for us, let men recognize us by our very visor!
+Once   we   ourselves   recognize   the   crying   need   which   must
+determine our conduct in foreign affairs, from this knowledge
+will flow the force of perseverance which we sometimes need
+when, beneath the drumfire of our hostile press hounds, one or
+another of us is seized with fear and there creeps upon him a faint
+desire to grant a concession at least in some field, and howl with
+the wolves, in order not to have everyone against him.
+
+`;
+const chapter_b_15 = `The armistice of November, 1918, ushered in a policy which in
+all   human   probability   was   bound   to   lead   gradually   to   total
+submission. Historical examples of a similar nature show that
+nations which lay down their arms without compelling reasons
+prefer in the ensuing period to accept the greatest humiliations
+and   extortions   rather   than   attempt   to   change   their   fate   by   a
+renewed appeal to force.
+This   is   humanly   understandable.   A   shrewd   victor   will,   if
+possible,   always   present   his   demands   to   the   vanquished   in
+installments. And then, with a nation that has lost its characterand this is the case of every one which voluntarily submits­he
+can be sure that it will not regard one more of these individual
+oppressions as an adequate reason for taking up arms again. 'The
+more  extortions are  willingly  accepted   in  this way,  the  more
+unjustified   it   strikes   people   finally   to   take   up   the   defensive
+against a new, apparently isolated, though constantly recurring,
+oppression, especially when, all in all, so much more and greater
+misfortune has already been borne in patient silence.
+The fall of Carthage is the most horrible picture of such a slow
+execution of a people through its own deserts.
+That is why Clausewitz in his Drei Bekenntnisse incomparably
+singles out this idea and nails it fast for all time, when he says:
+'That the stain of a cowardly submission can never be effaced;
+that this drop of poison in the blood of a people is passed on to
+posterity and will paralyze and undermine the strength of later
+generations';   that,   on   the   other   hand,   'even   the   loss   of   this
+freedom after a bloody and honorable struggle assures the rebirth
+of a people and is the seed of life from which some day a new
+tree will strike fast roots.'
+Of course, a people that has lost all honor and character will not
+concern itself with such teachings. For no one who takes them to
+heart can sink so low; only he who forgets them, or no longer
+wants to know them, collapses. Therefore, we must not expect
+those who embody a spineless submission suddenly to look into
+their hearts and, on the basis of reason and all human experience,
+begin to act differently than before. On the contrary, it is these
+men in particular who will dismiss all such teachings until either
+the nation is definitely accustomed to its yoke of slavery or until
+better forces push to the surface, to wrest the power from the
+hands of the infamous spoilers. In the first case these people
+usually do not feel so badly, since not seldom they are appointed
+by the shrewd victors to the office of slave overseer, which these
+spineless   natures   usually   wield   more   mercilessly   over   their
+people than any foreign beast put in by the enemy himself.
+The development since 1918 shows us that in Germany the hope
+of   winning   the   victor's   favor   by   voluntary   submission
+unfortunately determines the political opinions and the actions of
+the broad masses in the most catastrophic way. I attach special
+importance to emphasizing the broad masses, because I cannot
+bring   myself   to   profess   the   belief   that   the   commissions   and
+omissions of our people's leaders are attributable to the same
+ruinous lunacy. As the leadership of our destinies has, since the
+end of the War, been quite openly furnished by Jews, we really
+cannot assume that faulty knowledge alone is the cause of our
+misfortune; we must, on the contrary, hold the conviction that
+conscious   purpose   is   destroying   our   nation.   And   once   we
+examine the apparent madness of our nation's leadership in the
+field of foreign affairs from this standpoint, it is revealed as the
+subtlest, ice­cold logic, in the service of the Jewish idea and
+struggle for world conquest. And thus, it becomes understandable
+that the same time­span, which from 1806 to 1813 sufficed to
+imbue   a   totally   collapsed   Prussia   with   new   vital   energy   and
+determination for struggle, today has not only elapsed unused,
+but, on the contrary, has led to an ever­greater weakening of our
+state.
+Seven years after November, 1918, the Treaty of Locarno was
+signed.
+The   course   of   events   was   that   indicated   above:   Once   the
+disgraceful armistice had been signed, neither the energy nor the
+courage could be summoned suddenly to oppose resistance to our
+foes'   repressive   measures,   which   subsequently   were   repeated
+over and over. Our enemies were too shrewd to demand too
+much at once. They always limit their extortions to the amount
+which, in their opinion­and that of the German leadership­ would
+at   the   moment   be   bearable   enough   so   that   an   explosion   of
+popular   feeling   need   not   be   feared.   But   the   more   of   these
+individual dictates had been signed, the less justified it seemed,
+because of a single additional extortion or exacted humiliation, to
+do the thing that had not been done because of so many others: to
+offer   resistance.   For   this   is   the   '   drop   of   poison   '   of   which
+Clausewitz   speaks:   the   spinelessness   which   once   begun   must
+increase more and more and which gradually becomes the foulest
+heritage,   burdening   every   future   decision.   It   can   become   a
+terrible lead weight, a weight which a nation is not likely to
+shake off, but which finally drags it down into the existence of a
+slave race.
+Thus, in Germany edicts of disarmament alternated with edicts of
+enslavement, political emasculation with economic pillage, and
+finally created that moral spirit which can regard the Dawes Plan
+as  a   stroke   of   good   fortune   and   the   Treaty   of   Locarno   as  a
+success. Viewing all this from a higher vantagepoint, we can
+speak of one single piece of good fortune in all this misery,
+which is that, though men can be befuddled, the heavens cannot
+be bribed. For their blessing remained absent: since then hardship
+and care have been the constant companions­of our people, and
+our one faithful ally has been misery. Destiny made no exception
+in this case, but gave us what we deserved. Since we no longer
+know how to value honor, it teaches us at least to appreciate
+freedom in the matter of bread. By now people have learned to
+cry   out   for   bread,   but   one   of   these   days   they   will   pray   for
+freedom.
+Bitter as was the collapse of our nation in the years after 1918,
+and obvious at that very time, every man who dared prophesy
+even   then   what   later   always   materialized   was   violently   and
+resolutely persecuted. Wretched and bad as the leaders of our
+nation were, they were equally arrogant, and especially when it
+came to ridding themselves of undesired, because unpleasant,
+prophets.   We   were   treated   to­   the   spectacle   (as   we   still   are
+today!)   of   the   greatest   parliamentary   thick­heads,   regular
+saddlers and glovemakers­and not only by profession, which in
+itself means nothing­suddenly setting themselves on the pedestal
+of   statesmen,   from   which   they   could   lecture   down   at   plain
+ordinary mortals. It had and has nothing to do with the case that
+such a ' statesman ' by the sixth month of his activity is shown up
+as the most incompetent windbag, the butt of everyone's ridicule
+and contempt, that he doesn't know which way to turn and has
+provided unmistakable proof of his total incapacity ! No, that
+makes   no   difference,   on   the   contrary:   the   more   lacking   the
+parliamentary   statesmen   of   this   Republic   are   in   real
+accomplishment, the more furiously they persecute those who
+expect accomplishments from them, who have the audacity to
+point out the failure of their previous activity and predict the
+failure of their future moves. But if once you finally pin down
+one   of   these   parliamentary   honorables,   and   this   political
+showman really cannot deny the collapse of his whole activity
+and its results any longer, they find thousands and thousands of
+grounds for excusing their lack of success, and there is only one
+that they will not admit, namely, that they themselves are the
+main cause of all evil.
+By   the   winter   of   1922­23,   at   the   latest,   it   should   have   been
+generally   understood   that   even   after   the   conclusion   of   peace
+France was still endeavoring with iron logic to achieve the war
+aim she had originally had in mind. For no one will be likely to
+believe that France poured out the blood of her people­ never too
+rich to begin with­for four and a half years in the most decisive
+struggle of her history, only to have the damage previously done
+made good by subsequent reparations. Even Alsace­Lorraine in
+itself would not explain the energy with which the French carried
+on the War, if it had not been a part of French foreign policy's
+really great political program for the future. And this goal is: the
+dissolution of Germany into a hodge­podge of little states. That
+is what chauvinistic France fought for, though at the same time in
+reality it sold its people as mercenaries to the international world
+Jew.
+This French war aim would have been attainable by the War
+alone if, as Paris had first hoped, the struggle had taken place on
+German soil. Suppose that the bloody battles of the World War
+had   been   fought,   not   on   the   Somme,   in   Flanders,   in   Artois,
+before Warsaw, Nijni­Novgorod, Kovno, Riga, and all the other
+places, but in Germany, on the Ruhr and the Main, on the Elbe,
+at Hanover, Leipzig, Nuremberg, etc., and you will have to agree
+that   this   would   have   offered   a   possibility   of   breaking   up
+Germany. It is very questionable whether our young federative
+state could for four and a half years have survived the same test
+of strain as rigidly centralized France, oriented solely toward her
+uncontested center in Paris. The fact that this gigantic struggle of
+nations occurred outside the borders of our fatherland was not
+only  to  the  immortal  credit  of  the  old  army,  it  was  also  the
+greatest good fortune for the German future. It is my firm and
+heartfelt conviction, and sometimes almost a source of anguish to
+me, that otherwise there would long since have been no German
+Reich, but only ' German states.' And this is the sole reason why
+the   blood   of   our   fallen   friends   and   brothers   has   at   least   not
+Bowed entirely in vain.
+Thus everything turned out differently! True, Germany collapsed
+like   a   flash   in   November,   1918.   But   when   the   catastrophe
+occurred in the homeland, our field armies were still deep in
+enemy territory. The first concern of France at that time was not
+the dissolution of Germany, but: How shall we get the German
+armies out of France and Belgium as quickly as possible? And so
+the first task of the heads of state in Paris for concluding the
+World War was to disarm the German armies and if possible
+drive them back to Germany at once; and only after that could
+they   devote   themselves   to   the   fulfillment   of   their   real   and
+original war aim. In this respect, to be sure, France was already
+paralyzed.   For   England   the   War   had   really   been   victoriously
+concluded with the annihilation of Germany as a colonial and
+commercial power and her reduction to the rank of a secondclass state. Not only did the English possess no interest in the
+total extermination of the German state; they even had every
+reason to desire a rival against France in Europe for the future.
+Hence   the   French   political   leaders   had   to   continue   with
+determined   peacetime   labor   what   the   War   had   begun,   and
+Clemenceau's   utterance,   that   for   him   the   peace   was   only   the
+continuation of the War, took on an increased significance.
+Persistently, on every conceivable occasion, they had to shatter
+the structure of the Reich. By the imposition of one disarmament
+note   after   another,   on   the   one   hand,   and   by   the   economic
+extortion thus made possible,  on the other hand, Paris hoped
+slowly to disjoint the Reich structure. The more rapidly national
+honor withered away in Germany, the sooner could economic
+pressure   and   unending   poverty   lead   to   destructive   political
+effects.   Such   a   policy   of   political   repression   and   economic
+plunder, carried on for ten or twenty years, must gradually ruin
+even   the   best   state   structure   and   under   certain   circumstances
+dissolve it. And thereby the French war aim would finally be
+achieved.
+By   the   winter   of   1922­23   this   must   long   since   have   been
+recognized as the French intent. Only two possibilities remained:
+We might hope gradually to blunt the French will against the
+tenacity of the German nation, or at long last to do what would
+have to be done in the end anyway, to pull the helm of the Reich
+ship   about   on   some   particularly   crass   occasion,   and   ram   the
+enemy. This, to be sure, meant a life­and­death struggle, and
+there existed a prospect of life only if previously we succeeded in
+isolating France to such a degree that this second war would not
+again constitute a struggle of Germany against the world, but a
+defense   of   Germany   against   a   France   which   was   constantly
+disturbing the world and its peace.
+I emphasize the fact, and I am firmly convinced of it, that this
+second   eventuality   must   and   will   some   day   occur,   whatever
+happens. I never believe that France's intentions toward us could
+ever change, for in the last analysis they are merely in line with
+the self­preservation of the French nation. If I were a Frenchman,
+and if the greatness of France were as dear to me as that of
+Germany is sacred, I could not and would not act any differently
+from Clemenceau. The French nation, slowly dying out, not only
+with regard to population, but particularly with regard to its best
+racial elements, can in the long run retain its position in the
+world only if Germany is shattered. French policy may pursue a
+thousand detours; somewhere in the end there will be this goal,
+the fulfillment of ultimate desires and deepest longing. And it is
+false   to   believe   that   a   purely   passive   will,   desiring   only   to
+preserve itself, can for any length of time resist a will that is no
+less   powerful,   but   proceeds   actively.   As   long   as   the   eternal
+conflict between Germany and France is carried on only in the
+form  of  a   German   defense   against   French   aggression,   it   will
+never be decided, but from year to year, from century to century,
+Germany   will   lose   one   position   after   another.   Follow   the
+movements of the German language frontier beginning with the
+twelfth century until today, and you will hardly be able to count
+on the success of an attitude and a development which has done
+us so much damage up till now.
+Only when this is fully understood in Germany, so that the vital
+will of the German nation is no longer allowed to languish in
+purely passive defense, but is pulled together for a final active
+reckoning with France and thrown into a last decisive struggle
+with the greatest ultimate aims on the German side­ only then
+will we be able to end the eternal and essentially so fruitless
+struggle between ourselves and France; presupposing, of course,
+that Germany actually regards the destruction of France as only a
+means which will afterward enable her finally to give our people
+the expansion made possible elsewhere. Today we count eighty
+million   Germans   in   Europe!   This   foreign   policy   will   be
+acknowledged as correct only if, after scarcely a hundred years,
+there   are   two   hundred   and   fifty   million   Germans   on   this
+continent, and not living penned in as factory coolies for the rest
+of the world, but: as peasants and workers, who guarantee each
+other's livelihood by their labor.
+In December, 1922, the situation between Germany and France
+again   seemed   menacingly   exacerbated.   France   was
+contemplating immense new extortions, and needed pledges for
+them. The economic pillage had to be preceded by a political
+pressure and it seemed to the French that only a violent blow at
+the nerve center of our entire German life would enable them to
+subject   our   'recalcitrant'   people   to   a   sharper   yoke.   With   the
+occupation of the Roar, the French hoped not only to break the
+moral backbone of Germany once and for all, but to put us into
+an embarrassing economic situation in which, whether we liked it
+or  not,  we   would  have  to  assume  every  obligation,  even  the
+heaviest.
+It was a question of bending and breaking. Germany bent at the
+very outset, and ended up by breaking completely later.
+With the occupation of the Ruhr, Fate once again held out a hand
+to   help   the   German   people   rise   again.   For   what   at   the   first
+moment  could  not  but  seem  a   great  misfortune  embraced  on
+closer inspection an infinitely promising opportunity to terminate
+all German misery.
+From the standpoint of foreign relations, the occupation of the
+Ruhr for the first time really alienated England basically from
+France, and not only in the circles of British diplomacy which
+had concluded, examined, and maintained the French alliance as
+such only with the sober eye of cold calculators, but also in the
+broadest circles of the English people. The English economy in
+particular   viewed   with   ill­concealed   displeasure   this  new   and
+incredible strengthening of French continental power. For not
+only that France, from the purely politico­military point of view,
+now assumed a position in Europe such as previously not even
+Germany   had   possessed,   but,   economically   as   well,   she   now
+obtained   economic   foundations   which   almost   combined   a
+position of economic monopoly with her capacity for political
+competition. The largest iron mines and coal fields in Europe
+were thus united in the hands of a nation which, in sharp contrast
+to Germany, had always defended its vital interests with equal
+determination and activism, and which in the Great War had
+freshly reminded the whole world of its military reliability. With
+the occupation of the Ruhr coal fields by France, England's entire
+gain through the War was wrested from her hands, and the victor
+was no longer British diplomacy so industrious and alert, but
+Marshal Foch and the France he represented.
+In Italy, too, the mood against France, which, since the end of the
+War, had been by no means rosy to begin with, shifted to a
+veritable hatred. It was the great, historical moment in which the
+allies of former days could become the enemies of tomorrow. If
+things turned out differently and the allies did not, as in the
+second Balkan War, suddenly break into a sudden feud among
+themselves, this was attributable only to the circumstance that
+Germany simply had no Enver Pasha, but a Reich Chancellor
+Cuno.
+Yet   not   only   from   the   standpoint   of   foreign   policy,   but   of
+domestic policy as well, the French assault on the Ruhr held
+great future potentialities for Germany. A considerable part of
+our people which, thanks to the incessant influence of our lying
+press,   still   regarded   France   as   the   champion   of   progress   and
+liberalism, was abruptly cured of this lunatic delusion. Just as the
+year 1914 had dispelled the dreams of international solidarity
+between peoples from the heads of our German workers and led
+them suddenly back into the world of eternal struggle, throughout
+which one being feeds on another and the death of the weaker
+means the life of the stronger, the spring of 1923 did likewise.
+When the Frenchman carried out his threats and finally, though
+at first cautiously and hesitantly, began to move into the lower
+German coal district, a great decisive hour of destiny had struck
+for Germany. If in this moment our people combined a change of
+heart   with   a   shift   in   their   previous   attitude,   the   Ruhr   could
+become a Napoleonic Moscow for France. There were only two
+possibilities:   Either   we   stood   for   this   new   offense   and   did
+nothing, or, directing the eyes of the German people to this land
+of glowing smelters and smoky furnaces, we inspired them with
+a glowing will to end this eternal disgrace and rather take upon
+themselves the terrors of the moment than bear an endless terror
+one moment longer.
+To have discovered a third way was the immortal distinction of
+Reich Chancellor Cuno, to have admired it and gone along, the
+still more glorious distinction of our German bourgeois parties.
+Here   I   shall   first   examine   the   second   course   as   briefly   as
+possible.
+With the occupation of the Ruhr, France had accomplished a
+conspicuous breach of the Versailles Treaty. In so doing, she had
+also put herself in conflict with a number of signatory powers,
+and especially with England and Italy. France could no longer
+hope for any support on the part of these states for her own
+selfish campaign of plunder: She herself, therefore, had to bring
+the   adventure­and   that   is   what   it   was   at   first­to   some   happy
+conclusion. For a national German government there could be
+but a single course, that which honor prescribed. It was certain
+that for the present France could not be opposed by active force
+of   arms;   but   we   had   to   realize   clearly   that   any   negotiations,
+unless backed by power, would be absurd and fruitless. Without
+the possibility of active resistance, it was absurd to adopt the
+standpoint: 'We shall enter into no negotiations'; but it was even
+more   senseless   to  end   by  entering   into  negotiations  after   all,
+without having meanwhile equipped ourselves with power.
+Not that we could have prevented the occupation of the Ruhr by
+military measures. Only a madman could have advised such a
+decision. But utilizing the impression made by this French action
+and while it was being carried out, what we absolutely should
+have done was, without regard for the Treaty of Versailles which
+France herself had torn up, to secure the military resources with
+which we could later have equipped our negotiators. For it was
+clear from the start that one day the question of this territory
+occupied by France would be settled at some conference table.
+But we had to be equally clear on the fact that even the best
+negotiators can achieve little success, as long as the ground on
+which they stand and the chair on which they sit is not the shield
+arm   of   their   nation.   A   feeble   little   tailor   cannot   argue   with
+athletes, and a defenseless negotiator has always suffered the
+sword of Brennus on the opposing side of the scale, unless he
+had his own to throw in as a counterweight. Or has it not been
+miserable   to   watch   the   comic­opera   negotiations   which   since
+1918 have always preceded the repeated dictates? This degrading
+spectacle presented to the whole world, first inviting us to the
+conference table, as though in mockery, then presenting us with
+decisions and programs prepared long before, which, to be sure,
+could   be   discussed,   but   which   from   the   start   could   only   be
+regarded as unalterable. It is true that our negotiators, in hardly a
+single case, rose above the most humble average, and for the
+most part justified only too well the insolent utterance of Lloyd
+George,   who   contemptuously   remarked,   a   propos   of   former
+Reich Minister Simon, ' that the Germans didn't know how to
+choose men of intelligence as their leaders and representatives.'
+But even geniuses, in view of the enemy's determined will to
+power and the miserable defenselessness of our own people in
+every respect, would have achieved but little.
+But anyone who in the spring of 1923 wanted to make France's
+occupation of the Ruhr an occasion  for reviving our military
+implements of power had first to give the nation its spiritual
+weapons, strengthen its will power, and destroy the corrupters of
+this most precious national strength.
+Just as in 1918 we paid with our blood for the fact that in 1914
+and 1915 we did not proceed to trample the head of the Marxist
+serpent   once   and   for   all,   we   would   have   to   pay   most
+catastrophically   if   in   the   spring   of   1923   we   did   not   avail
+ourselves of the opportunity to halt the activity of the Marxist
+traitors and murderers of the nation for good.
+Any idea of real resistance to France was utter nonsense if we did
+not declare war against those forces which five years before had
+broken German resistance on the battlefields from within. Only
+bourgeois   minds   can   arrive   at   the   incredible   opinion   that
+Marxism   might   now   have   changed,   and   that   the   scoundrelly
+leaders  of   1918,   who   then   coldly   trampled   two   million   dead
+underfoot,   the   better   to   climb   into   the   various   seats   of
+government, now in 1923 were suddenly ready to render their
+tribute to the national conscience. An incredible and really insane
+idea, the hope that the traitors of former days would suddenly
+turn into fighters for a German freedom. It never entered their
+heads. No more than a hyena abandons carrion does a Marxist
+abandon treason. And don't annoy me, if you please, with the
+stupidest of all arguments, that, after all, so many workers bled
+for Germany. German workers, yes, but then they were no longer
+international Marxists. If in 1914 the German working class in
+their innermost convictions had still consisted of Marxists, the
+War would have been over in three weeks. Germany would have
+collapsed even before the first soldier set foot across the border.
+No, the fact that the German people was then still fighting proved
+that the Marxist delusion had not yet been able to gnaw its way
+into the bottommost depths. But in exact proportion as, in the
+course of the War, the German worker and the German soldier
+fell back into the hands of the Marxist leaders, in exactly that
+proportion he was lost to the fatherland. If at the beginning of the
+War and  during  the War  twelve  or  fifteen  thousand   of  these
+Hebrew corrupters of the people had been held under poison gas,
+as happened to hundreds of thousands of our very best German
+workers in the field, th sacrifice of millions at the front would not
+have been in vain. On the contrary: twelve thousand scoundrels
+eliminated in time might have saved the lives of a million real
+Germans, valuable for the future. But it just happened to be in the
+line of bourgeois 'statesmanship' to subject millions to a bloody
+end on the battlefield without batting an eyelash, but to regard
+ten or twelve thousand traitors, profiteers, usurers, and swindlers
+as   a   sacred   national   treasure   and   openly   proclaim   their
+inviolability. We never know which is greater in this bourgeois
+world, the imbecility, weakness, and cowardice, or their deepdyed   corruption.   It   is   truly   a   class   doomed   by   Fate,   but
+unfortunately, however, it is dragging a whole nation with it into
+the abyss.
+And in 1923 we faced exactly the same situation as in 1918.
+Regardless   what   type   of   resistance   was   decided   on,   the   first
+requirement was always the elimination of the Marxist poison
+from our national body. And in my opinion, it was then the very
+first task of a truly national government to seek and find the
+forces which were resolved to declare a war of annihilation on
+Marxism, and then to give these forces a free road; it was their
+duty not to worship the idiocy of 'law and order' at a moment
+when the enemy without was administering the most annihilating
+blow to the fatherland and at home treason lurked on every street
+corner. No, at that time a really national government should have
+desired   disorder   and   unrest,   provided   only   that   amid   the
+confusion   a   basic   reckoning   with   Marxism   at   last   became
+possible   and   actually   took   place.   If   this   were   not   done,   any
+thought of resistance, regardless of what type, was pure madness.
+Such   a   reckoning   of   real   world­historical   import,   it   must   be
+admitted, does not follow the schedules of a privy councilor or
+some dried­up old minister, but the eternal laws of life on this
+earth,   which   are   the   struggle   for   this   life   and   which   remain
+struggle. It should have been borne in mind that the bloodiest
+civil wars have often given rise to a steeled and healthy people,
+while artificially cultivated states of peace have more than once
+produced a rottenness that stank to high Heaven. You do not alter
+the destinies of nations in kid gloves. And so, in the year 1923,
+the most brutal thrust was required to seize the vipers that were
+devouring   our   people.   Only   if   this   were   successful   did   the
+preparation of active resistance have meaning.
+At that time I often talked my throat hoarse, attempting to make
+it clear, at least to the so­called national circles, what was now at
+stake, and that, if we made the same blunders as in 1914 and the
+years that followed, the end would inevitably be the same as in
+1918. Again and again, I begged them to give free rein to :Pate,
+and to give our movement an opportunity for a reckoning with
+Marxism;   but   I   preached   to   deaf   ears.   They   all   knew   better,
+including the chief of the armed forces, until at length they faced
+the most wretched capitulation of all time.
+Then   I   realized   in   my   innermost.soul   that   the   German
+bourgeoisie was at the end of its mission and is destined for no
+further mission. Then I saw how all these parties continued to
+bicker with the Marxists only out of competitors' envy, without
+any serious desire to annihilate them; at heart they had all of
+them long since reconciled themselves to the destruction of the
+fatherland, and what moved them was only grave concern that
+they themselves should be able to partake in the funeral feast.
+That is all they were still 'fighting' for.
+In   this   period­I   openly   admit­I   conceived   the   profoundest
+admiration for the great man south of the Alps, who, full of
+ardent love for his people, made no pacts with the enemies of
+Italy, but strove for their annihilation by all ways and means.
+What will rank Mussolini among the great men of this earth is his
+determination not to share Italy with the Marxists, but to destroy
+internationalism and save the fatherland from it.
+How miserable and dwarfish our German would­be statesmen
+seem by comparison, and how one gags with disgust when these
+nonentities, with boorish arrogance, dare to criticize this man
+who is a thousand times greater than they; and how painful it is
+to think that this is happening in a land which barely half a
+century ago could call a Bismarck its leader.
+In view of this attitude on the part of the bourgeoisie and the
+policy of leaving the Marxists untouched, the fate of any active
+resistance in 1923 was decided in advance. To fight France with
+the   deadly   enemy   in   our   own   ranks   would   have   been   sheer
+idiocy.   What   was   done   after   that   could   at   most   be   shadowboxing, staged to satisfy the nationalistic element in Germany in
+some measure, or in reality to dupe the 'seething soul of the
+people.' If they had seriously believed in what they were doing,
+they would have had to recognize that the strength of a nation
+lies primarily, not in its weapons, but in its will, and that, before
+foreign   enemies   are   conquered,   the   enemy   within   must   be
+annihilated; otherwise God help us if victory does not reward our
+arms on the very first day. Once so much as the shadow of a
+defeat grazes a people that is not free of internal enemies, its
+force of resistance will break and the foe will be the final victor.
+This could be predicted as early as February, 1923. Let no one
+mention the questionableness of a military success against France
+! For if the result of the German action in the face of the invasion
+of the Ruhr had only been the destruction of Marxism at home,
+by   that   fact   alone   success   would   have   been   on   our   side.   A
+Germany saved from these mortal enemies of her existence and
+her future would possess forces which the whole world could no
+longer have stifled. On the day when Marxism is smashed in
+Germany, her fetters wig in truth be broken forever. For never in
+our history have we been defeated by the strength of our foes, but
+always by our own vices and by the enemies in our own camp.
+Since the leaders of the German state could not summon up the
+courage for such a heroic deed, logically they could only have
+chosen the first course, that of doing nothing at all and letting
+things slide.
+But in the great hour Heaven sent the German people a great
+man,   Herr   von   Cuno.   He   was   not   really   a   statesman   or   a
+politician by profession, and of course still less by birth; he was a
+kind of political hack, who was needed only for the performance
+of certain definite jobs; otherwise he was really more adept at
+business.   A   curse   for   Germany,   because   this   businessman   in
+politics regarded politics as an economic enterprise and acted
+accordingly.
+'France   has   occupied   the   Ruhr;   what   is   in   the   Ruhr?   Coal.
+Therefore, France has occupied the Ruhr on account of the coal.'
+What was more natural for Herr Cuno than the idea of striking in
+order   that   the   French   should   get   no   coal,   whereupon,   in   the
+opinion of Herr Cuno, they would one day evacuate the Ruhr
+when the enterprise proved unprofitable. Such, more or less, was
+this 'eminent"national"statesman,' who in Stuttgart and elsewhere
+was allowed to address his people, and whom the people gaped at
+in blissful admiration.
+But for a strike, of course, the Marxists were needed, for it was
+primarily the workers who would have to strike. Therefore, it
+was necessary to bring the worker (and in the brain of one of
+these bourgeois statesman he is always synonymous with the
+Marxist) into a united front with all the other Germans. The way
+these moldy political party cheeses glowed at the sound of such a
+brilliant slogan was something to behold! Not only a product of
+genius, it was national at the same time­there at last they had
+what at heart they had been seeking the whole while. The bridge
+to   Marxism   had   been   found,   and   the   national   swindler   was
+enabled to put on a Teutonic face and mouth German phrases
+while holding out a friendly hand to the international traitor. And
+the traitor seized it with the utmost alacrity. For just as Cuno
+needed   the   Marxist   leaders  for   his  'united   front,'   the   Marxist
+leaders were just as urgently in need of Cuno's money. So it was
+a help to both parties. Cuno obtained his united front, formed of
+national   windbags   and   anti­national   scoundrels,   and   the
+international   swindlers   received   state   funds   to   carry   out   the
+supreme mission of their struggle­that is, to destroy the national
+economy, and this time actually at the expense of the state. An
+immortal idea, to save the nation by buying a general strike; in
+any   case   a   slogan   in   which   even   the   most   indifferent   goodfornothing could join with full enthusiasm.
+It   is   generally   known   that   a   nation   cannot   be   made   free   by
+prayers. But maybe one could be made free by sitting with folded
+arms, and that had to be historically tested. If at that time Berr
+Cuno, instead of proclaiming his subsidized general strike and
+setting it up as the foundation of the 'united front,' had only
+demanded   two   more   hours   of   work   from   every   German,   the
+'united front' swindle would have shown itself up on the third
+day. Peoples are not freed by doing nothing, but by sacrifices..
+To be sure, this so­called passive resistance as such could not be
+maintained for long. For only a man totally ignorant of warfare
+could imagine that occupying armies can be frightened away by
+such ridiculous means. And that alone could have been the sense
+of   an   action   the   costs   of   which   ran   into   billions   and   which
+materially   helped   to   shatter   the   national   currency   to   its   very
+foundations.
+Of course, the French could make themselves at home in the
+Ruhr with a certain sense of inner relief as soon as they saw the
+resisters   employing   such   methods.   They   had   in   fact   obtained
+from us the best directions for bringing a recalcitrant civilian
+population   to   reason   when   its   conduct   represents   a   serious
+menace to the occupation authorities. With what lightning speed,
+after all, we had routed the Belgian franc­tireur bands nine years
+previous and made the seriousness of the situation clear to the
+civilian   population   when   the   German   armies   ran   the   risk   of
+incurring   serious   damage   from   their   activity.   As  soon   as  the
+passive resistance in the Ruhr had grown really dangerous to the
+French,   it   would   have   been   child's   play   for   the   troops   of
+occupation to put a cruel end to the whole childish mischief in
+less than a week. For the ultimate question is always this: What
+do we do if the passive resistance ends by really getting on an
+adversary's nerves and he takes up the struggle against it with
+brutal strong­arm methods? Are we then resolved to offer further
+resistance? If so, we must for better or worse invite the gravest,
+bloodiest persecutions. But then we stand exactly where active
+resistance would put us ­ face to Mace with struggle. Hence any
+so­called passive resistance has an inner meaning only if it is
+backed   by   determination   to   continue   it   if   necessary   in   open
+struggle or in undercover guerrilla warfare. In general, any such
+struggle will depend on a conviction that success is possible. As
+soon as a besieged fortress under heavy attack by the enemy is
+forced   to   abandon   the   last   hope   of   relief,   for   all   practical
+purposes it gives up the fight, especially when in such a case the
+defender is lured by the certainty of life rather than probable
+death. Rob the garrison of a surrounded fortress of faith in a
+possible liberation, and all the forces of defense will abruptly
+collapse.
+Therefore,   a   passive   resistance   in   the   Ruhr,   in   view   of   the
+ultimate consequences it could and inevitably would produce in
+case it were actually successful, only had meaning if an active
+front were built up behind it. Then, it is true, there is no limit to
+what could have been drawn from our people. If every one of
+these Westphalians had known that the homeland was setting up
+an army of eighty or a hundred divisions, the Frenchmen would
+have found it thorny going. There are always more courageous
+men   willing   to   sacrifice   themselves   for   success   than   for
+something that is obviously futile.
+It was a classical case which forced us National Socialists to take
+the sharpest position against a so­called national slogan. And so
+we did. In these months I was attacked no little by men whose
+whole national attitude was nothing but a mixture of stupidity
+and   outward   sham,   all   of   whom   joined   in   the   shouting   only
+because   they   were   unable   to   resist   the   agreeable   thrill   of
+suddenly being able to put on national airs without any danger. I
+regarded   this  most   lamentable   of   all   united   fronts  as  a   most
+ridiculous phenomenon, and history has proved me right.
+As soon as the unions had filled their treasuries with Cuno's
+funds, and the passive resistance was faced with the decision of
+passing from defense with folded arms to active attack, the Red
+hyenas   immediately   bolted   from   the   national   sheep   herd   and
+became   again   what   they   had   always   been.   Quietly   and
+ingloriously Herr Cuno retreated to his ships, and Germany was
+richer by one experience and poorer by one great hope.
+Down to late midsummer many officers, and they were assuredly
+not the worst, had at heart not believed in such a disgraceful
+development. They had all hoped that, if not openly, in secret at
+least, preparations had  been undertaken to make this insolent
+French assault a turning point in German history. Even in our
+ranks there were many who put their confidence at least in the
+Reichswehr. And this conviction was so alive that it decisively
+determined   the   actions   and   particularly   the   training   of
+innumerable young people.
+But when the disgraceful collapse  occurred and the crushing,
+disgraceful   capitulation   followed,   the   sacrifice   of   billions   of
+marks and thousands of young Germans­who had been stupid
+enough to take the promises of the Reich's leaders seriouslyindignation flared into a blaze against such a betrayal of our
+unfortunate people. In millions of minds the conviction suddenly
+arose bright and clear that only a radical elimination of the whole
+ruling system could save Germany.
+Never was the time riper, never did it cry out more imperiously
+for such a solution than in the moment when, on the one hand,
+naked treason shamelessly revealed itself, while, on the other
+hand, a people was economically delivered to slow starvation.
+Since   the   state   itself   trampled   all   laws   of   loyalty   and   faith
+underfoot, mocked the rights of its citizens, cheated millions of
+its truest sons of their sacrifices and robbed millions of others of
+their last penny, it had no further right to expect anything but
+hatred of its subjects. And in any event, this hatred against the
+spoilers   of   people   and   fatherland   was   pressing   toward   an
+explosion. In this place I can only point to the final sentence of
+my last speech in the great trial of spring, 1924:
+'The judges of this state may go right ahead and convict us for
+our actions at that time, but History, acting as the goddess of a
+higher truth and a higher justice, will one day smilingly tear up
+this verdict, acquitting us of all guilt and blame.'
+And then she will call all those before her judgment seat, who
+today, in possession of power, trample justice and law underfoot,
+who have  led  our  people  into  misery  and ruin and  amid the
+misfortune of the fatherland have valued their own ego above the
+life of the community.
+In this place I shall not continue with an account of those events
+which led to and brought about the 8th of November, 1923. I
+shall not do so because in so doing I see no promise for the
+future, and because above all it is useless to reopen wounds that
+seem scarcely healed; moreover, because it is useless to speak of
+guilt regarding men who in the bottom of their hearts, perhaps,
+were all devoted to their nation with equal love, and who only
+missed or failed to understand the common road.
+In view of the great common misfortune of our fatherland, I
+today no longer wish to wound and thus perhaps alienate those
+who one day in the future will have to form the great united front
+of   those   who   are   really   true   Germans   at   heart   against   the
+common front of the enemies of our people. For I know that
+some day the time will come when even those who then faced us
+with hostility, will think with veneration of those who traveled
+the bitter road of death for their German people.
+I wish at the end of the second volume to remind the supporters
+and champions of our doctrine of those eighteen I heroes, to
+whom I have dedicated the first volume of my work, those heroes
+who   sacrificed   themselves   for   us   all   with   the   clearest
+consciousness. They must forever recall the wavering and the
+weak to the fulfillment of his duty, a duty which they themselves
+in the best faith carried to its final consequence. And among
+them I want also to count that man, one of the best, who devoted
+his life to the awakening of his, our people, in his writings and
+his thoughts and finally in his deeds.
+
+
+
+
+`;
 
 
 const chapter_b = [
@@ -15010,67 +24297,67 @@ const chapter_b = [
     {
         id:3,
         title_cn:" ",
-        title_en:" ",
+        title_en:"Subjects and Citizens",
         content:chapter_b_3
     },{
         id:4,
         title_cn:" ",
-        title_en:" ",
+        title_en:"Personality and the Conception of the Folkish State",
         content:chapter_b_4
     },{
         id:5,
         title_cn:" ",
-        title_en:" ",
+        title_en:"Philosophy and Organization",
         content:chapter_b_5
     },{
         id:6,
         title_cn:" ",
-        title_en:" ",
+        title_en:"The Struggle of the Early Period - The Significance of the Spoken Word",
         content:chapter_b_6
     },{
         id:7,
         title_cn:" ",
-        title_en:" ",
+        title_en:"The Struggle with the Red Front",
         content:chapter_b_7
     },{
         id:8,
         title_cn:" ",
-        title_en:" ",
+        title_en:"The Strong Man Is Mightiest Alone",
         content:chapter_b_8
     },{
         id:9,
         title_cn:" ",
-        title_en:" ",
+        title_en:"The Basic Ideas Regarding the Meaning and Organization of the SA",
         content:chapter_b_9
     },{
         id:10,
         title_cn:" ",
-        title_en:" ",
+        title_en:"Federalism as a Mask",
         content:chapter_b_10
     },{
         id:11,
         title_cn:" ",
-        title_en:" ",
+        title_en:"Propaganda and Organization",
         content:chapter_b_11
     },{
         id:12,
         title_cn:" ",
-        title_en:" ",
+        title_en:"The Trade Union Question",
         content:chapter_b_12
     },{
         id:13,
         title_cn:" ",
-        title_en:" ",
+        title_en:"German Alliance Policy After the War",
         content:chapter_b_13
     },{
         id:14,
         title_cn:" ",
-        title_en:" ",
+        title_en:"Eastern Orientation or Eastern Policy",
         content:chapter_b_14
     },{
         id:15,
         title_cn:" ",
-        title_en:" ",
+        title_en:"The Right of Emergency Defense",
         content:chapter_b_15
     }
 
