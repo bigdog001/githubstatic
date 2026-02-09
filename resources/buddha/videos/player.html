@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <body>
+    <video id="player" controls autoplay muted width="640"></video>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script>
+      const url = 'rtsp://ip/rtsp/stream.m3u8';
+      const video = document.getElementById('player');
+      if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url; // Safari plays HLS natively
+      } else if (Hls.isSupported()) {
+        const hls = new Hls({ lowLatencyMode: true });
+        hls.loadSource(url);
+        hls.attachMedia(video);
+      } else {
+        alert('HLS not supported in this browser');
+      }
+    </script>
+  </body>
+</html>
