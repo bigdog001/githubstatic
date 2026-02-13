@@ -6475,11 +6475,11 @@ The excitement of living in the new environment and meeting Coral
 and Mochow and Mrs. Yao made Mannia almost forget her situation, 
 and Pingya seemed far away. When Mannia and her mother were 
 finally left alone in their room for rest, a maid brought in a bowl of 
-chicken soup cooked with tang\uei especially for the bride. Mannia 
+chicken soup cooked with tangKuei especially for the bride. Mannia 
 had finished it and taken off her ornaments and was in her room when 
 Lotung lifted the screen and announced that Tsiang, the Imperial 
 Physician, had come. Lotung, who had just come back from an errand, 
-had not known that Mannia’s party hq.d arrived and had shown the 
+had not known that Mannia’s party had arrived and had shown the 
 doctor to Mr. Yao’s study. On hearing the name of the Imperial Physi- 
 cian, Mannia came out, and mistaking her for a maidservant, the doctor 
 asked where Mr. Yao was. Mannia replied that he was inside, but it 
