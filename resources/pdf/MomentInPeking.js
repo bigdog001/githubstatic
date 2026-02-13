@@ -1071,7 +1071,7 @@ child picking flowers in the meadow across the river. She saw no
 bridge or ferry and wondered how the child had got across. She left 
 Mochow on the bank, and started to wade the shallow rapids, when a 
 big torrent arose and swept her off her feet, and she woke up to find 
-herself lying on the \\ang in the inn. 
+herself lying on the kang in the inn. 
 
 The story made everyone uncomfortable, although none said a word 
 after she had finished. 
@@ -1109,7 +1109,7 @@ ters over to her cart.
 
 Getting down from a mule cart was a difficult business for Coral 
 with her bound feet, but she did it. When she had alighted on the 
-ground, she stretched her arms toward Mochow and lifted her do\\vn. 
+ground, she stretched her arms toward Mochow and lifted her down. 
 She brought Mochow to her mother’s cart, intending to come back 
 again for Mulan. The interruption had completely stopped thq traffic 
 at the crossroads, blocking the refugees at their rear, and there was a 
@@ -1221,7 +1221,7 @@ for him and he lost hold of his reins, and the horse dashed ahead.
 
 One thing was certain: Mulan was still in the cart. Moreover, it was 
 traveling away from Hochienfu and going back north when the driver 
-last saw it turn and disappear into the \\aoliang fields. He was sure the 
+last saw it turn and disappear into the Kaoliang fields. He was sure the 
 courier horse would find its way back to Hsinchungyi. In his simplicity 
 of heart, he had rushed back to inform the parents. 
 
@@ -1431,7 +1431,7 @@ of “eight lucky characters,” with twin stars shining in her destiny, that
 it was expected she would* meet with some accident in her tenth year, 
 but that her luck would carry her over it and “change the evil into 
 luck.” Moreover, her romantic destiny would begin early and, though 
-she would not be \uei or become wife of a high official, she would be 
+she would not be kuei or become wife of a high official, she would be 
 without worry for food and drink her whole life. Asked whether they 
 would find the child, he said oracularly that “unknown forces were 
 protecting her.” On the whole, it was such a good combination of 
@@ -2612,7 +2612,7 @@ small queue, wore glasses, and was stern and never seemed to like
 children, although his tone always softened when he spoke to the girls. 
 The classes began after breakfast, and the girls finished at about eleven, 
 while the boys continued till lunchtime. The boys and girls studied 
-together The Boo\\ of Poetry and the Five Kinds of Inherited Teach- 
+together The Book of Poetry and the Five Kinds of Inherited Teach- 
 ings, which was a collection of essays on proper living, school disci- 
 pline, children’s duties to parents, and methods of study, and the girls 
 of course beat the boys, except Pingya who could always recite well. 
@@ -2648,7 +2648,7 @@ Mulan seldom had difficulties, so that at night, when the two girls
 lay in the same bed, and Mulan was questioning her on her experiences 
 with her bound feet, Mannia would suddenly ask her what followed 
 a certain line, and they both had the liveliest time discussing passages 
-in the Boo\\ of Poetry that the teacher had refused to explain, passages 
+in the Book of Poetry that the teacher had refused to explain, passages 
 about girls eloping with boys, a gentleman “tossing in bed” for love, 
 and about a widow with seven sons who still wanted to remarry. The 
 teacher had passed over this poetry as sacred text, and demanded 
@@ -3013,7 +3013,7 @@ trick. The lowest branch was seven or eight feet from the ground, but
 Mulan was persuaded to climb up. # 
 
 She had never been up a tree and the suggestion attracted her 
-fancy. Chinya helped her u\\>, led her out on a branch, then climbed 
+fancy. Chinya helped her up, led her out on a branch, then climbed 
 down suddenly, and Mulan was left alone. 
 
 She was thoroughly frightened and helpless. Her feet slipped. She 
@@ -3048,7 +3048,7 @@ ing on her dainty feet, “taking three strides in two,” leaning on walls
 and veranda posts for support. 
 
 Mulan was carried into the mother’s room, where the grandmother 
-was anxiously waiting, and laid on the \\ang, or earthen bed. The boys, 
+was anxiously waiting, and laid on the kang, or earthen bed. The boys, 
 dumb with terror, followed. Mannia was crying. Cassia began to wash 
 the wound. The room was choked full with people. 
 
@@ -3160,7 +3160,7 @@ When they heard their father was gone and everything was over, they
 
 
 came back into their mother’s room to find Mulan and Chinya both 
-stretched on the \\ang, Chinya lying on his side, and Ailien crying, to 
+stretched on the kang, Chinya lying on his side, and Ailien crying, to 
 add to the confusion. Pingya and Sunya came to see their brother and 
 ask how he was, but Mrs. Tseng shouted to them, “Are you still 
 poking around? Go and study!” So they stealthily walked away, not 
@@ -3424,7 +3424,7 @@ as tightly as she could, so that Mulan felt her feet stiff and useless.
 The next day she decided that she would not have her feet bound 
 and wanted all the more to have the feet of a boy. `;
 const chapter_5= `Mr Yao came in  mid-October. The journey back to Hangchow 
-\\f f l was so long that he decided to take Mulan to Peking. 
+ was so long that he decided to take Mulan to Peking. 
 
 The Empress Dowager and the Emperor were still in 
 flight, but Prince Ching and Li Hungchang had been empowered to 
@@ -4049,7 +4049,7 @@ the grandmother’s whole idea was that her nephew’s funeral was to be
 
 
 
-celebrated with a “son-in-law.” On the day of \\aitiao, or receiving 
+celebrated with a “son-in-law.” On the day of Kaitiao, or receiving 
 guests who came to pay respects to the deceased, there would have to 
 be a man to receive the guests, and what was more important, to stand 
 at the side of the coffin and return the low bow when the guests bowed 
@@ -4226,8 +4226,8 @@ as she often did, and about the time the others had finished supper,
 she fell on the floor, and her eyes rolled and then looked straight ahead. 
 After screaming and tearing her hair, she began to talk in the fashion 
 of one possessed of a spirit. Assuming the role and voice of the de- 
-ceased Mr. Sun, she called the grandmother Ta\\u or “Big Aunt” and 
-cried, “Ta\\u, help! help! I am rolling down the Valley of Burning 
+ceased Mr. Sun, she called the grandmother Taku or “Big Aunt” and 
+cried, “Taku, help! help! I am rolling down the Valley of Burning 
 Sands! It is hot. I am suffocating. Help! Help!” Then addressing her- 
 self to the younger Mrs. Tseng, she asked, “Why doesn’t my cousin 
 come to my funeral?” 
@@ -5562,12 +5562,12 @@ asked “Don’t you study Chinese things any more?”
 
 “We are studying Tsochuan ” said Sunya, “but we ihave a teacher 
 who says it is all antiquated and useless. We have not gone on with 
-the Boo\\ of Songs since we left Shantung. Do you remember the 
+the Book of Songs since we left Shantung. Do you remember the 
 mother of seven sons who still wanted to remarry? How we loved 
 them! Now we are not even supposed to read our books aloud in class.” 
 
 It all came back to Mannia, their school days together, the nights 
-she had spent with Mulan, exquisite in memory, the Boo\\ of Songs 
+she had spent with Mulan, exquisite in memory, the Book of Songs 
 that they had chanted together. The very sounds and tones of those 
 verses tingled now in her ears. 
 
@@ -6085,8 +6085,8 @@ into your lap from heaven.”
 
 Mannia’s and Mulan’s hands fell apart. 
 
-“Cassia Nainai,” asked Mulan, “I am* going in to see Pingko by and 
-by, and may Mannia go in \\*dth me ? She has come such a long way 
+“Cassia Nainai,” asked Mulan, “I am going in to see Pingko by and 
+by, and may Mannia go in with me ? She has come such a long way 
 and you ought to let them see each other.” 
 
 Cassia was taken by surprise and then burst into such a laugh that 
@@ -6378,7 +6378,7 @@ to the Tseng house, wouldn’t she?”
 
 Mulan burst into laughter. “There’s a simple and honest girl for you! 
 It was I who was not simple and honest. If you run away, I am sure 
-your little feet will carry you back toc\\, toc\\, toc\\ to the Tseng home 
+your little feet will carry you back tock, tock, tock to the Tseng home 
 even in your dreams!” 
 
 Mannia was at first ready to laugh at Little Joy’s simple remark, 
@@ -7330,7 +7330,7 @@ second triumph over Mulan.
 
 Still, Mulan rather liked and admired Suyun for she liked a pretty 
 girl when she saw one. It was her sister Mochow who was more prac- 
-tical and who saw that this \\yas snobbery and later, at home, told 
+tical and who saw that this was snobbery and later, at home, told 
 Mulan she did not like Suyun a bit. 
 
 
@@ -7440,7 +7440,7 @@ Hao niu pu ta hou yuanti ;
 Hao ma pu ch’ih mench’ien ts'ao. 
 
 Yaoch’ienshu hsia 
-Ch'ih \\o tup’i pao . 
+Ch'ih Ko tup’i pao . 
 
 Good ox won’t trample its own back yard, 
 
@@ -7665,7 +7665,7 @@ next room which was her own.
 There she sat alone beneath the red candle lights, thinking for a long, 
 long while, of all that had gone before and all that was to come. `;
 const chapter_11= `When  Mulan and her family returned home that night about 
-\\J/l J ten o’clock, her father was angry. He had discovered only 
+ten o’clock, her father was angry. He had discovered only 
 at the wedding dinner that his son Tijen had unceremoni- 
 ously slipped away and absented himself from this important family 
 occasion. On their way back, Mrs. Yao had inadvertently remarked 
@@ -8237,7 +8237,7 @@ granate trees and jars of goldfish, no less than the rich man’s mansions
 and gardens; the open-air tea houses where men loll on rattan arm- 
 chairs under cypress trees, spending twenty cents for a whole after- 
 noon in summer; the enclosed teashops where in winter men eat 
-steaming-hot mutton fried with onion and drink peh\\an and where 
+steaming-hot mutton fried with onion and drink pehkan and where 
 the great rub shoulders with the humble; the wonderful theaters, the 
 beautiful restaurants, the bazaars, the lantern streets and the curio 
 streets; the temple fairs which register the days of the month; the 
@@ -10133,7 +10133,7 @@ Besides, those rhyme books are at least seven hundred years old, and
 there is no reason why modern people should not have their own 
 rhyme book to suit the modern pronunciation. There was no rhyme 
 book in Confucius’ times and yet there was much good poetry in the 
-Boo\\ of Songs' 9 
+Book of Songs' 9 
 
 By this time, both sisters had forgotten about his shoes, shabby 
 though they were. 
@@ -10832,7 +10832,7 @@ ing more beneath the surface of classic commentaries and philological
 scholarship than was necessary for passing the imperial examina- 
 tions. There were some reference books, and Lifu had added to the 
 collection his modern textbooks and a bound volume of Liang 
-Chichao’s “Essays of the Drin\\-lce Studio ” which he had thoroughly 
+Chichao’s “Essays of the Drink-lce Studio ” which he had thoroughly 
 devoured, and which represented to the China of that decade all the 
 new thought and new knowledge of the West. 
 
@@ -12149,7 +12149,7 @@ Mulan replied at once, “Doesn’t the poem about the crab in Red
 
     The spring and autumn in its shells are black and yellow in vain.”
 
-\\
+ 
 
 “Oh, you must eat, Mulan. You are talking too much,” said her
     mother.
@@ -14477,7 +14477,7 @@ Tijen was silent. He felt a genuine remorse, and he was afraid
     now too old to be disciplined by force and too independent to listen
     to exhortation, and at the same time too young to know that he was
     a fool. So it was with controlled anger that he saw his son come in
-    sheepishly with Coral pushing him from behind. \\
+    sheepishly with Coral pushing him from behind.  
 
 Tijen, standing before his father, said “Father, I was drunk last
     night. I was wrong.”
@@ -17632,7 +17632,7 @@ Mrs. New refused to pay, not by arguing, but by the simple state-
         word jen as “yen? It was rumored that there was a returned student
         in the provisional government at Nanking, who during conferences
         mixed into his Chinese speech English words like “but,” “so long as,”
-and “democracy,” to the discomfort of others who did not understand
+        and “democracy,” to the discomfort of others who did not understand
         English. Mr. Tseng rather believed it because he had met at dinner a
         young man whose talk sounded to him as follows: " Walla-walla , what
         you say is not true t\\utsh jr\\sbo; ontlalda, his pontoyou shenshualla
@@ -20366,7 +20366,7 @@ cubine have come.”
 coat and foreign shoes. Like the pictures of modern Shanghai ladies.
 Indoors she wears a pale pink jacket with a peony stuck in her left
 shoulder. The funniest thing was, she and Huaiyu came in arm in
-arm, like a modern couple, while his \\vife followed with the children
+arm, like a modern couple, while his wife followed with the children
 behind. And I have something to tell you. She is always like that — she
 made me so angry ”
 
@@ -21559,11 +21559,11 @@ as you keep me out of it.”
 
 Turning to the wife, she said, “Sister, this incident has gone too far.
 
-1 I will not deal with Tingma today and will let it go at that. But we
+I will not deal with Tingma today and will let it go at that. But we
 cannot continue to have bickerings and bawlings in the house. In
 every house there must be respect for a head. If we appoint Tingma to
 be the head, I don’t think she will be able to gain respect and be
-obeyed by all the servants. Wel\\, then, if she expects to stay here, she
+obeyed by all the servants. Well, then, if she expects to stay here, she
 must agree with the others and give the house a little peace. What do
 you say?”
 
@@ -21651,7 +21651,7 @@ desired her more than anything else in the world, and he tried to make
 love'to her. But she turned away and said, “Please don’t.”
 
 “What is the matter?” said Huaiyu, taking her pear away. She curled
-down to his breast and lay there without saying a \\vord, her eyes
+down to his breast and lay there without saying a word, her eyes
 blinking. She had lost her proud independence, and was like a small,
 sweet child, very quiet.
 
@@ -21865,7 +21865,7 @@ and yet he gets scolded, while Sunya does nothing and is looked up to.
 I have thought of dividing the property and going out to live alone in
 a small home like you, but Chinya dares not and says it can’t be done.”
 
-“Can’t you ma\\e them divide the property?”
+“Can’t you make them divide the property?”
 
 “The parents are living. How could I do it?”
 
@@ -24306,7 +24306,7 @@ body to give to Lilien, and Afei helped wrap it over Lilien’s neck and
 shoulders.
 
 “This time we have seen the earth go to sleep and the earth wake,”
-said Mulan with enthusiasm. “It was worth it, wasn’t it?” \\
+said Mulan with enthusiasm. “It was worth it, wasn’t it?”  
 
 “Yes, it was worth it,” replied Sunya. “But I feel like going to bed
 again. My legs are still stiff.”
@@ -26201,7 +26201,7 @@ the black and red gold fish swimming below.
 Now that they were alone, Afei said, “ Mcimei , why did you refuse
 to admit me the other night when I came to see you?”
 
-Redjade shot a glance at him and said merely: “ Yuanchial'\\ meaning
+Redjade shot a glance at him and said merely: “ Yuanchial'  meaning
 “predestined enemy.” After a pause, she said, “You yourself know best
 why.”
 
@@ -33334,7 +33334,7 @@ published.”
 “No,” said Lifu. “There are some points about which I am still
 uncertain and need more light. Some of the most difficult and most
 interesting characters. Do you know that this will upset some texts
-of the classics themselves ? In the first of the Four Boo\\s , the inscrip-
+of the classics themselves ? In the first of the Four Books , the inscrip-
 tion on Emperor Tang’s bathtub was quoted as being: ‘Since daily
 renewed, daily, daily renewed; again daily renewed.' In the light of
 these inscriptions, it should read: ‘Brother’s name Hsin; grandfather’s
@@ -33881,7 +33881,7 @@ him.”
 
 So Mulan went to Soochow, leaving her children at home. She said
 that she wanted a change, and her husband objected to her going, out-
-wardly, but not earnestly. Mochow and Lifu were glad t c\\ have this
+wardly, but not earnestly. Mochow and Lifu were glad to have this
 unexpected visit from Mulan, but they soon saw she was worried, and
 she confided to them the problem on her mind.
 
@@ -35969,7 +35969,7 @@ special arrangements. She was believed to be a criminal guilty of a
 capital offense, and Afei had to give his personal guarantee to the
 bureau for her return, and to have her brought under guard. At his
 office he studied the seized documents, which revealed more addresses
-under her management \\yith the assumed name of “Mrs. Wang of
+under her management with the assumed name of “Mrs. Wang of
 Tientsin.” He also questioned the employees and promised to release
 them on probation, but said he could not do so until the case was over
 and all clues were examined, as a precaution against the news leaking
@@ -36280,8 +36280,8 @@ with Asuan to take him through the Japanese Concession in disguise.
 Lifu’s knowledge of Japanese was an advantage to him in this work.
 
 They saw store after store, housed in modern two-story concrete
-building, called yang hang (“foreign firm”) with Japanese flags prom-
-inently hung over the doors. They went into these houses, called yo\\o
+building, called yang hang (“foreign firm”) with Japanese flags 
+prominently hung over the doors. They went into these houses, called yo\\o
 in Japanese, and found that they carried no other stock except harmful
 drugs. In a single block, on Hashidate Street, they found ten or twelve
 of these yo\\o . Then they walked through other streets where they saw
@@ -36553,7 +36553,7 @@ tion, that would be like a fair battle. ...”
 “If it is to be like this, a war would be better,” said Mannia. “How
 can one ask Asuan to fight the dwarf devils with his bare hands?”
 
-Mulan remembered what her father had said. " You as\\ Mannia. If
+Mulan remembered what her father had said. " You ask Mannia. If
 Mannia says China must fight , China will win . And if Mannia says
 China must not fight, China will lose”
 
@@ -36890,7 +36890,7 @@ then he rushed out, his face red with anger.
 
 His father came out, calm and unperturbed.
 
-“W ang\\uonu!” cried Taiyun, calling him literally a “sell-country
+“Wang\\uonu!” cried Taiyun, calling him literally a “sell-country
 slave.”
 
 “What’s the use of getting excited like that?” said the father. “You
@@ -37498,7 +37498,7 @@ had fought with the soldiers in Tientsin and took out his concealed
 revolver.
 
 “Was your wife fighting by your side, too ? Think of these modern
-\\uniang!”
+Kuniang!”
 
 Taiyun looked at Chen San, slightly embarrassed, and replied, “I
 was working with the anti-traitor group. That revolver is going to shoot
@@ -37535,7 +37535,7 @@ Chen San went out with Taiyun to cut green vegetables, while the
 old woman looked on through the darkness.
 
 Then the old woman showed them into a dark room, where a small
-earthen \\ang was to serve as their bed.
+earthen Kang was to serve as their bed.
 
 “You must sleep here,” said Chen San when the woman had gone
 away. “I will sleep outside on the bench.”
@@ -37838,7 +37838,7 @@ walls being built of boulders from the hills.
 The village aunt gave her niece her own room and moved out to
 live in a back room, profoundly apologizing for the simplicity of the
 place. As there was no extra room for Mannia, Asuan said he would
-sleep out in the sitting room, letting his mother sleep on the same \\ang
+sleep out in the sitting room, letting his mother sleep on the same Kang
 with his wife and child.
 
 
@@ -38011,7 +38011,7 @@ Asuan ran straight to his house. The Japanese had gone. Only a few
 dogs could be seen, prowling the deserted streets.
 
 He went into his house. In the outer room, a table was overturned.
-He went into the bedroom. His wife lay naked on the \\ang t stabbed in
+He went into the bedroom. His wife lay naked on the Kang t stabbed in
 the abdomen, her life already gone. An unearthly shiver ran down his
 spine. He saw his child lying prostrate on the floor. He hurried to
 pick it up. It was a mass of cold, limp flesh. Two diagonal slashes,
@@ -39297,7 +39297,7 @@ Paofen during the day. Mochow’s youngest son was of the same age as
 Paofen’s youngest daughter, both being eleven. Paofen had no son and
 had taken a fancy to Mochow’s youngest, and she suggested a mutual
 adoption. But Mochow said, “There is no need to exchange. They are
-\\upiao cousins. Call it a request from our side for engagement. You
+Kupiao cousins. Call it a request from our side for engagement. You
 give your daughter to # me as a daughter-in-law.”
 
 Paofen consented with a smile. This was said in the hearing of both
