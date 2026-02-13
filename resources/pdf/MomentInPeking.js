@@ -6839,7 +6839,7 @@ little sister were almost crowded out.
 The bridal chair was carried straight to the second court, where it 
 was lowered, and the bamboo poles were taken out and shorter wooden 
 poles were put in. Mrs. Yao, as the go-between, came out first and was 
-served a cup of \ueiyuan tea, while the bride remained hidden in the 
+served a cup of Keiyuan tea, while the bride remained hidden in the 
 dark chair, hot and dizzy and not knowing where she was. Mrs. Yao 
 was informed that the ceremony would take place in the ancestral hall 
 directly in front of Pingya’s court. As it was impossible for the bride- 
@@ -10118,7 +10118,7 @@ meaning “shoes” into the hsieh meaning “crab” which was the name
 of the ninth rhyme in the book. 
 
 Lifu rattled off, Hsieh (crab), chieh (explain), mai (bug), chuei 
-(extinct animal), nai (milk), wei (dwarf), \uai (kidnap), p’ai 
+(extinct animal), nai (milk), wei (dwarf), Kai (kidnap), p’ai 
 (swing), pa (finish), hai (frightened) . . • Let me see. There is h^ai 
 (model) and ai (to lean) and ai (silly).” 
 
@@ -17510,7 +17510,7 @@ Mrs. New refused to pay, not by arguing, but by the simple state-
         father. But she was very active; and talkative and a very devil in the
         house. Mrs. New’s strict vigilance over her husband and forbidding
         him to take a concubine did not entirely prevent him from having an
-“affair.” When she discovered it, she was furious, and compelled him
+        “affair.” When she discovered it, she was furious, and compelled him
         to give up his mistress; and her husband, always submissive and now
         ashamed, obeyed like a truant schoolboy. Taiyun's mother was given
         three thousand dollars and sent to the south and forbidden to put her foot
@@ -17615,13 +17615,13 @@ Mrs. New refused to pay, not by arguing, but by the simple state-
         nosed, satin, white-soled boots, the water tobacco pipe, the cadenced
         laughter, the graceful fingering of beards, the fine, learned literary allu-
         sions that gave charm to conversation, the polite euphemisms, the subtle
-        circumlocutions, the smooth-running, highly rhythmic mandarin ac-
+        circumlocutions, the smooth-running, highly rhythmic mandarin accent.
 
         363
 
 
 
-        cent. In place of the cultivated mandarin had come a raw, uncultivated
+        In place of the cultivated mandarin had come a raw, uncultivated
         younger generation.
 
             A young returned student calling himself an official of some sort
@@ -17635,7 +17635,7 @@ Mrs. New refused to pay, not by arguing, but by the simple state-
         and “democracy,” to the discomfort of others who did not understand
         English. Mr. Tseng rather believed it because he had met at dinner a
         young man whose talk sounded to him as follows: " Walla-walla , what
-        you say is not true t\\utsh jr\\sbo; ontlalda, his pontoyou shenshualla
+        you say is not true tkutsh frksbo; ontlalda, his pontoyou shenshualla
         is the same as yours.” For a foreigner who understood only the English
         parts of it, it would sound as follows: “But, you see, walla-walla-walla-
         walla, but possible. On the other hand, tati point of view essentially
@@ -36890,7 +36890,7 @@ then he rushed out, his face red with anger.
 
 His father came out, calm and unperturbed.
 
-“Wang\\uonu!” cried Taiyun, calling him literally a “sell-country
+“WangKuonu!” cried Taiyun, calling him literally a “sell-country
 slave.”
 
 “What’s the use of getting excited like that?” said the father. “You
