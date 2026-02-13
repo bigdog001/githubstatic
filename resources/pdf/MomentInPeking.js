@@ -40782,22 +40782,22 @@ const chapters = [
     },{
         id:42,
         title_cn:"制毒牟利牛素云被捕 伤时忧国姚思安遗言",
-        title_en:" ",
+        title_en:"制毒牟利牛素云被捕 伤时忧国姚思安遗言",
         content:chapter_42
     },{
         id:43,
         title_cn:"报国洗前愆香消玉殒 除奸生差误李代桃僵",
-        title_en:" ",
+        title_en:"报国洗前愆香消玉殒 除奸生差误李代桃僵",
         content:chapter_43
     },{
         id:44,
         title_cn:"日寇屠杀曼娘自缢 京华沦陷经亚南逃",
-        title_en:" ",
+        title_en:"日寇屠杀曼娘自缢 京华沦陷经亚南逃",
         content:chapter_44
     },{
         id:45,
         title_cn:"追随政府携稚小木兰入蜀 全民抗战汇洪流国力西迁",
-        title_en:" ",
+        title_en:"追随政府携稚小木兰入蜀 全民抗战汇洪流国力西迁",
         content:chapter_45
     },
         
