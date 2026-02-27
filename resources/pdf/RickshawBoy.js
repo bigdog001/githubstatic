@@ -662,7 +662,7 @@ const chapter_2= `BECAUSE of Ills high spirits, Happy Boy lost some of
                   even lift his head. The two rickshaw men kept on calling, ''Are
                   you all dumb? Ch'ing Hual'
 
-                  'Tor two dollars I`ll go, a shaved-head short little youngster
+                  'Tor two dollars I will go, a shaved-head short little youngster
                   answered, as if he were making a joke at the others who had
                   said nothing.
 
