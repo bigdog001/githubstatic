@@ -93144,7 +93144,7 @@ const sutra_2=` BOOK TWO
 
 
 
-                              \12
+                              12
 
 
                               The Flower Ornament Scripture
@@ -99989,7 +99989,7 @@ const sutra_all = [
 }, {
   id:39,
   title_cn:"入法界",
-  title_en:" ",
+  title_en:"入法界",
   content:sutra_39
 }
 ]
