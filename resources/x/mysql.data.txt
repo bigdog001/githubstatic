@@ -4,3 +4,32 @@ mysqldump -u root -p --single-transaction --quick --routines --triggers \
 
   # Restore all
 mysql -u root -p < /backups/mysql/all-dbs_YYYY-MM-DD_HHMM.sql
+
+
+
+
+create database iparkinglot character set utf8mb4 collate utf8mb4_bin;
+DROP TABLE IF EXISTS xxx;
+
+
+
+mysql> CREATE USER 'dnsmanager'@'%' IDENTIFIED BY 'C33';
+alter user 'dnsmanager'@'%' identified with mysql_native_password by 'C333';
+mysql> GRANT ALL PRIVILEGES ON iparkinglot.* TO 'dnsmanager'@'%' WITH GRANT OPTION;
+mysql> FLUSH PRIVILEGES;
+
+
+
+
+
+
+备份一个数据库:mysqldump -h localhost -u root -p123456 database_name > d:/www.sql
+还原一个数据库 a: mysql -h localhost -u root -p123456 database_name < c:/www.sql
+             b: mysql -u username -p bwscoins -e "SOURCE BWS_MNEMONIC_PHRASE.sql"
+直接将MySQL数据库压缩备份 mysqldump -hhostname -uusername -ppassword databasename | gzip > backupfile.sql.gz
+备份MySQL数据库某个(些)表 mysqldump -hhostname -uusername -ppassword databasename specific_table1 specific_table2 > backupfile.sql
+同时备份多个MySQL数据库 mysqldump -hhostname -uusername -ppassword –databases databasename1 databasename2 databasename3 > multibackupfile.sql
+仅仅备份数据库结构 mysqldump –no-data –databases databasename1 databasename2 databasename3 > structurebackupfile.sql
+备份服务器上所有数据库 mysqldump –all-databases > allbackupfile.sql
+
+
