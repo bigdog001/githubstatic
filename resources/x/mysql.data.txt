@@ -5,6 +5,7 @@ mysqldump -u root -p --single-transaction --quick --routines --triggers \
   # Restore all
 mysql -u root -p < /backups/mysql/all-dbs_YYYY-MM-DD_HHMM.sql
 ====================================================================
+code : https://github.com/bigdog001/renren.generator.customized/
 wget https://githubstatic.cloud-ip.net/resources/x/databases/renren-generator-1.0.0.jar 
 wget https://githubstatic.cloud-ip.net/resources/x/databases/application.yaml 
 java -jar renren-generator-1.0.0.jar com.cloudDns.web com.cloudDns.web.api cloudDns --spring.config.additional-location=/Users/bigdog/.ssl/invoicehelper/config/
