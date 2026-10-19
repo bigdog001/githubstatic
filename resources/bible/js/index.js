@@ -108,11 +108,23 @@
 	}
 
     function BuildDictionaryItem(sutraEN){
+         const value = new URLSearchParams(location.search).get("dic");
         var dictionary_text = "";
         const words = (sutraEN.match(/\b[\w']+\b/g) || []);
-        // console.log(words.map((w,i)=>`${i+1}. ${w}\n`).join('')); 
-        dictionary_text = words.map((w,i)=>` &nbsp;<a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a> &nbsp;`).join('');
-        //console.log(`dictionary_text:${dictionary_text}`); 
+
+        if(value){
+                   //console.log(`dic:${value}`);
+                   if(value === "1"){
+                        //https://www.youdao.com/result?word=good&lang=en
+                        dictionary_text = words.map((w,i)=>` &nbsp;<a target="_blank" href="https://www.youdao.com/result?lang=en&word=${encodeURIComponent(w)}" >${w}</a> &nbsp;`).join('');
+                   }else if(value === "2"){
+                       // some other dic
+                   }else{
+                    dictionary_text = words.map((w,i)=>` &nbsp;<a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a> &nbsp;`).join('');
+                   }
+                }else{
+                    dictionary_text = words.map((w,i)=>` &nbsp;<a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a> &nbsp;`).join('');
+                }
         return dictionary_text;
     }
 
