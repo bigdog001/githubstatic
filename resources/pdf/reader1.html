@@ -20,7 +20,7 @@
     <link href="https://getbootstrap.com/docs/5.3/examples/navbar-static/navbar-static.css" rel="stylesheet">
     <link href="https://githubstatic.cloud-ip.net/resources/bible/style/index.css" rel="stylesheet">
     <style>.bd-placeholder-img{font-size:1.125rem;text-anchor:middle;-webkit-user-select:none;-moz-user-select:none;user-select:none}@media (min-width: 768px){.bd-placeholder-img-lg{font-size:3.5rem}}.b-example-divider{width:100%;height:3rem;background-color:#0000001a;border:solid rgba(0,0,0,.15);border-width:1px 0;box-shadow:inset 0 .5em 1.5em #0000001a,inset 0 .125em .5em #00000026}.b-example-vr{flex-shrink:0;width:1.5rem;height:100vh}.bi{vertical-align:-.125em;fill:currentColor}.nav-scroller{position:relative;z-index:2;height:2.75rem;overflow-y:hidden}.nav-scroller .nav{display:flex;flex-wrap:nowrap;padding-bottom:1rem;margin-top:-1px;overflow-x:auto;text-align:center;white-space:nowrap;-webkit-overflow-scrolling:touch}.btn-bd-primary{--bd-violet-bg: #712cf9;--bd-violet-rgb: 112.520718, 44.062154, 249.437846;--bs-btn-font-weight: 600;--bs-btn-color: var(--bs-white);--bs-btn-bg: var(--bd-violet-bg);--bs-btn-border-color: var(--bd-violet-bg);--bs-btn-hover-color: var(--bs-white);--bs-btn-hover-bg: #6528e0;--bs-btn-hover-border-color: #6528e0;--bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);--bs-btn-active-color: var(--bs-btn-hover-color);--bs-btn-active-bg: #5a23c8;--bs-btn-active-border-color: #5a23c8}.bd-mode-toggle{z-index:1500}.bd-mode-toggle .bi{width:1em;height:1em}.bd-mode-toggle .dropdown-menu .active .bi{display:block!important}</style>
-
+    <script src="./dic_source.js"></script>
 
 <!--    <script src="https://githubstatic.cloud-ip.net/resources/pdf/FlowerOrnamentScripture/js/all.js"></script>-->
     <script src="./FlowerOrnamentScripture/js/all.js"></script>
@@ -33,63 +33,6 @@
 </style>
 
 <script type="text/javascript">
-
-    function BuildDictionaryItem(content){
-        var dictionary_text = "";
-        const words = (content.match(/\b[\w']+\b/g) || []);
-        // console.log(words.map((w,i)=>`${i+1}. ${w}\n`).join(''));
-        dictionary_text = words.map((w,i)=>` &nbsp;<a target="_blank" href="https://translate.google.com/?sl=en&tl=zh-CN&text=${encodeURIComponent(w)}&op=translate" >${w}</a> &nbsp;`).join('');
-        //console.log(`dictionary_text:${dictionary_text}`);
-        return dictionary_text;
-    }
-
-    function showDictionary(itemId){
-        console.log(itemId);
-       let x = document.getElementById(itemId+"_dic");
-        console.log(`showCommentById:${x.style.display}`);
-        if(x.style.display === 'block'){
-            x.style.display = 'none';
-        }else{
-            x.style.display = 'block';
-        }
-    }
-
-    function buildContent(content_array ,targetChapter) {
-
-        const selected_chapter_sentences = content_array[targetChapter ].content.split(/\r?\n/);
-        const size_selected_chapter_sentences = selected_chapter_sentences.length;
-        let display_content = "";
-        for (let k = 0; k < size_selected_chapter_sentences; k++) {
-            const item_id =`content_item_${targetChapter}_${k}`;
-            if(selected_chapter_sentences[k].length == 0){
-                display_content+="<br/>";
-            }else {
-                display_content += `<span id="${item_id}" class="content_item" onclick="showDictionary('${item_id}')">${selected_chapter_sentences[k]} </span> <p style="display:none;" id="${item_id}_dic" class="content_item_dictionary">${BuildDictionaryItem(selected_chapter_sentences[k])}</p>`;
-            }
-
-        }
-        document.getElementById("contents").innerHTML = display_content;
-    }
-
-    let targetContentArray ;
-    function selectChapter(){
-        const index = document.getElementById("chapterSelect").value
-        document.getElementById("chapter_title").innerHTML = targetContentArray[index].title_en;
-        buildContent(targetContentArray, index);
-    }
-
-    function buildChapterList(content_array){
-        const subChapterSelect = document.getElementById("chapterSelect");
-        if(!subChapterSelect.value){
-            for(let i = 0; i < content_array.length; i++){
-                const option = document.createElement("option");
-                option.value = i;
-                const title = content_array[i].title_en;
-                option.textContent = `Chapter ${i+1} - ${title}`;
-                subChapterSelect.appendChild(option);
-            }
-        }
-    }
 
     document.addEventListener('DOMContentLoaded', () => {
          targetContentArray = sutra_all;

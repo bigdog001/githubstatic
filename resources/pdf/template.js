@@ -1,3 +1,63 @@
+const chapter_114= ``;
+const chapter_113= ``;
+const chapter_112= ``;
+const chapter_111= ``;
+const chapter_110= ``;
+const chapter_109= ``;
+const chapter_108= ``;
+const chapter_107= ``;
+const chapter_106= ``;
+const chapter_105= ``;
+const chapter_104= ``;
+const chapter_103= ``;
+const chapter_102= ``;
+const chapter_101= ``;
+const chapter_100= ``;
+const chapter_99= ``;
+const chapter_98= ``;
+const chapter_97= ``;
+const chapter_96= ``;
+const chapter_95= ``;
+const chapter_94= ``;
+const chapter_93= ``;
+const chapter_92= ``;
+const chapter_91= ``;
+const chapter_90= ``;
+const chapter_89= ``;
+const chapter_88= ``;
+const chapter_87= ``;
+const chapter_86= ``;
+const chapter_85= ``;
+const chapter_84= ``;
+const chapter_83= ``;
+const chapter_82= ``;
+const chapter_81= ``;
+const chapter_80= ``;
+const chapter_79= ``;
+const chapter_78= ``;
+const chapter_77= ``;
+const chapter_76= ``;
+const chapter_75= ``;
+const chapter_74= ``;
+const chapter_73= ``;
+const chapter_72= ``;
+const chapter_71= ``;
+const chapter_70= ``;
+const chapter_69= ``;
+const chapter_68= ``;
+const chapter_67= ``;
+const chapter_66= ``;
+const chapter_65= ``;
+const chapter_64= ``;
+const chapter_63= ``;
+const chapter_62= ``;
+const chapter_61= ``;
+const chapter_60= ``;
+const chapter_59= ``;
+const chapter_58= ``;
+const chapter_57= ``;
+const chapter_56= ``;
+const chapter_55= ``;
 const chapter_54= ``;
 const chapter_53= ``;
 const chapter_52= ``;
@@ -51,7 +111,8 @@ const chapter_5= ``;
 const chapter_4= ``;
 const chapter_3= ``;
 const chapter_2= ``;
-const chapter_1= ``;
+const chapter_1= `
+`;
 
 const chapters = [
         {
@@ -328,6 +389,311 @@ const chapters = [
         title_cn:"54",
         title_en:"54",
         content:chapter_54
+    },{
+        id:54,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_54
+    },{
+        id:55,
+        title_cn:"55",
+        title_en:"55",
+        content:chapter_55
+    },{
+        id:56,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_56
+    },{
+        id:57,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_57
+    },{
+        id:58,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_58
+    },{
+        id:59,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_59
+    },{
+        id:60,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_60
+    },{
+        id:61,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_61
+    },{
+        id:62,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_62
+    },{
+        id:63,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_63
+    },{
+        id:64,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_64
+    },{
+        id:65,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_65
+    },{
+        id:66,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_66
+    },{
+        id:67,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_67
+    },{
+        id:68,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_68
+    },{
+        id:69,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_69
+    },{
+        id:70,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_70
+    },{
+        id:71,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_71
+    },{
+        id:72,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_72
+    },{
+        id:73,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_73
+    },{
+        id:74,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_74
+    },{
+        id:75,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_75
+    },{
+        id:76,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_76
+    },{
+        id:77,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_77
+    },{
+        id:78,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_78
+    },{
+        id:79,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_79
+    },{
+        id:80,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_80
+    },{
+        id:81,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_81
+    },{
+        id:82,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_82
+    },{
+        id:83,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_83
+    },{
+        id:84,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_84
+    },{
+        id:85,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_85
+    },{
+        id:86,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_86
+    },{
+        id:87,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_87
+    },{
+        id:88,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_88
+    },{
+        id:89,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_89
+    },{
+        id:90,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_90
+    },{
+        id:91,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_91
+    },{
+        id:92,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_92
+    },{
+        id:93,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_93
+    },{
+        id:94,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_94
+    },{
+        id:95,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_95
+    },{
+        id:96,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_96
+    },{
+        id:97,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_97
+    },{
+        id:98,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_98
+    },{
+        id:99,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_99
+    },{
+        id:100,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_100
+    },{
+        id:101,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_101
+    },{
+        id:102,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_102
+    },{
+        id:103,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_103
+    },{
+        id:104,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_104
+    },{
+        id:105,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_105
+    },{
+        id:106,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_106
+    },{
+        id:107,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_107
+    },{
+        id:108,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_108
+    },{
+        id:109,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_109
+    },{
+        id:110,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_110
+    },{
+        id:111,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_111
+    },{
+        id:112,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_112
+    },{
+        id:113,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_113
+    },{
+        id:118,
+        title_cn:"54",
+        title_en:"54",
+        content:chapter_114
     },
 
 ];
