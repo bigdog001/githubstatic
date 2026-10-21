@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>transReader</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+     <script src="./dic_source.js"></script>
+
+
+  </head>
+  <body>
+    <h1>transReader</h1>
+  <div class="col-md-12">
+    <label for="item" class="form-label">原文</label>
+  <textarea class="form-control" id="item" rows="3"></textarea>
+  </div>
+
+  <div class="col-12">
+    <button onclick="buildTrans()" class="btn btn-success">Trans</button>
+  </div>
+
+  <div class="col-12">
+     <span class="form-label" id="targetText"></span>
+  </div>
+
+ <script>
+
+function buildTrans(){
+   var itemValue = document.getElementById('item').value;
+   if(itemValue){
+   const sentences = itemValue.split(/\r?\n/);
+   let display_content = "";
+        for (let k = 0; k < sentences.length; k++) {
+            if(sentences[k].length == 0){
+                display_content+="";
+            }else {
+                display_content += `<p">${BuildDictionaryItem(sentences[k])}</p>`;
+            }
+        }
+        document.getElementById("targetText").innerHTML = display_content;
+   }
+
+}
+</script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
